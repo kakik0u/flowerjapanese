@@ -1,9 +1,9 @@
-# FlowerJapanese
+## FlowerJapanese
 Flowers Blooming at the End of Summerの日本語翻訳パッチです。
 
 現在は機械翻訳のままですが、これから翻訳を改善していきます。
 
-# インストール方法
+## インストール方法
 1.[Releaseページ](https://github.com/kakik0u/flowerjapanese/releases)から最新のzipをダウンロードする
 
 2.zipを解凍し、ゲームフォルダー内のgameフォルダーを開く
@@ -18,5 +18,5 @@ Flowers Blooming at the End of Summerの日本語翻訳パッチです。
 
 5.アプリを起動し、日本語になっているか、設定画面に日本語の項目が出てきていたら成功です。
 
-# 謝辞
+## 謝辞
 [flowernovelzhHans](https://github.com/codeforker654/flowernovelzhHans) さんの機械翻訳を使用させていただきました。ありがとうございます。
