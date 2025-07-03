@@ -5,9 +5,11 @@ UI、映像など現在翻訳可能なほぼすべてを網羅したつもりで
 
 現在は機械翻訳のままですが、これから翻訳を改善していきます。
 
-![Menu](https://media.discordapp.net/attachments/1161677405241479229/1358107201746764158/image.png?ex=684854e5&is=68470365&hm=5e4660f90394776813700163b3ccb04a82e511fa85b0ade54cb5bf6a017e09b8&=&format=webp&quality=lossless&width=2838&height=1592)
+![Menu](https://media.discordapp.net/attachments/1161677405241479229/1358143214602817579/image.png?ex=6866c8ef&is=6865776f&hm=f22bbd9e6de44a68c251513a09c648cbbc081345fdf1e95decb18578751984c3&=&format=webp&quality=lossless&width=2715&height=1485)
 
-![Extra](https://media.discordapp.net/attachments/1161677405241479229/1358105487870136574/image.png?ex=6848534c&is=684701cc&hm=2d95de1c0de7db80fd4fd0f46fb45a137d978313f23000abea7c9a45ac21f1e0&=&format=webp&quality=lossless&width=880&height=478)
+![Extra](https://media.discordapp.net/attachments/1161677405241479229/1358143216347779082/image.png?ex=6866c8ef&is=6865776f&hm=e87d89855e890a4b8ecec4ba8c27ab11715740ff600092752c0c242d989fc3bf&=&format=webp&quality=lossless&width=2715&height=1475)
+
+![Staff](https://media.discordapp.net/attachments/1161677405241479229/1358143215810777422/image.png?ex=6866c8ef&is=6865776f&hm=f2fd71fb749c09724ba8c3cdd38b59270d290a314d1b0e37a546bcf1bcbb904a&=&format=webp&quality=lossless&width=2661&height=1454)
 ## インストール方法
 1.[Releaseページ](https://github.com/kakik0u/flowerjapanese/releases)から最新のzipをダウンロードする
 
