@@ -4,25 +4,25 @@
 translate japanese prologue_466c17b0:
 
     # "흘러가는 시간 속에서, 기억은 조각나 파편이 되기 마련이다. "
-    "流れる時間の中で、記憶は砕けて破片になるものだ。"
+    "流れる時間の中で、記憶は断片化し、破片となってしまうものだ。"
 
 # game/chapter1.rpy:23
 translate japanese prologue_3af24308:
 
     # "그런 조각난 파편들 속에서도, 유난히 눈에 띄는 조각들이 있다. "
-    "そんな砕けた破片の中でも、特に目につく破片がある。"
+    "そんな破片の中でも、特に目につく破片がある。"
 
 # game/chapter1.rpy:26
 translate japanese prologue_255a3efa:
 
     # "흔히 추억이라 불리는, 그런 조각들 말이다. "
-    "よく追憶と呼ばれる、そんな破片のことだ。"
+    "よく追憶と呼ばれる、破片。"
 
 # game/chapter1.rpy:29
 translate japanese prologue_06bfe242:
 
     # "손을 뻗어 붙잡은 추억 두 조각이, 한여름 밤의 별빛처럼 반짝이고 있었다. "
-    "手を伸ばして掴んだ追憶の二つの破片が、真夏の夜の星光のようにきらめいていた。"
+    "手を伸ばして掴んだ追憶の二つの破片が、真夏の夜の星のようにきらめいていた。"
 
 # game/chapter1.rpy:32
 translate japanese prologue_b463473e:
@@ -40,7 +40,7 @@ translate japanese prologue_3149fd0c:
 translate japanese chapter1_747e0d0e:
 
     # "본격적으로 무더위가 시작되려는지, 그날의 하굣길은 유난스럽게도 더웠다."
-    "本格的に暑さが始まろうとするか、その日の下校道は特に暑かった。"
+    "本格的に暑さが始まろうとする中、その日の通学路は特に暑かった。"
 
 # game/chapter1.rpy:75
 translate japanese chapter1_23cbc7b9:
@@ -48,7 +48,7 @@ translate japanese chapter1_23cbc7b9:
     # voice "voices/ya1.ogg"
     # whoyumi "“맛있다아아아~~”"
     voice "voices/ya1.ogg"
-    whoyumi "「おいしいぃぃぃ～」"
+    whoyumi "「おいしいぃ～」"
 
 # game/chapter1.rpy:80
 translate japanese chapter1_053a25a3:
@@ -56,19 +56,19 @@ translate japanese chapter1_053a25a3:
     # voice ""
     # "한 손으로 이마에 맺힌 땀방울을 닦아내려는데, 옆에서는 무더위 따위는 잊은 듯한 달콤한 목소리가 들려왔다."
     voice ""
-    "片手で額に滲む汗を拭おうとすると、隣からは暑さなど忘れたかのような甘い声が聞こえてきた。"
+    "片手で額に滲む汗を拭おうとすると、隣からは暑さなど忘れたかのような甘ったるい声が聞こえてきた。"
 
 # game/chapter1.rpy:83
 translate japanese chapter1_106f18a8:
 
     # "이 순간만큼은 세상 누구보다 행복해 보이는 그 목소리의 주인공은 다름 아닌 내 클래스메이트 유미. "
-    "この瞬間だけは世界の誰よりも幸せそうなその声の主人公は他ならぬ俺のクラスメイトのユミだ。"
+    "この瞬間だけは世界の誰よりも幸せそうな声の主人は他ならぬ俺のクラスメイトのユミだ。"
 
 # game/chapter1.rpy:85
 translate japanese chapter1_a24ff55f:
 
     # "언제나 활기가 가득하다 못해 넘쳐버릴 것 같은 그녀는 날아갈 듯한 얼굴로 방금 산 크레페를 크게 한 입 베어 문 뒤였다. "
-    "いつも元気がいっぱいだというか溢れそうな彼女は飛んでいくような顔でさっき買ったクレープを大きく一口かじった後だった。"
+    "いつも元気いっぱいで、その元気が溢れそうな彼女はまるで飛んでいくかのような顔でさっき買ったクレープを一口、大きくかじった後だった。"
 
 # game/chapter1.rpy:90
 translate japanese chapter1_db5ad915:
@@ -84,7 +84,7 @@ translate japanese chapter1_2bc5057f:
     # voice ""
     # "나에게 긍정을 강요하는 듯한 단정적인 목소리. "
     voice ""
-    "俺に肯定を強要するような断定的な声。"
+    "俺に共感を強要するような強い声。"
 
 # game/chapter1.rpy:99
 translate japanese chapter1_06eb322d:
@@ -108,13 +108,13 @@ translate japanese chapter1_70981df4:
 translate japanese chapter1_837d8d84:
 
     # "너무나도 진짜 같아서 오히려 인공적인 느낌이 물씬 드는 맛. "
-    "あまりにも本物そうでかえって人工的な感じが漂う味。"
+    "あまりにも本物っぽくて、かえって人工的な感じが漂う味。"
 
 # game/chapter1.rpy:107
 translate japanese chapter1_b1e62e10:
 
     # "역시 맛있으니 된 걸까, 라고 생각하며 나는 크레페를 한 입 더 베어 물었다. "
-    "やっぱりおいしければいいのかな、と思いながら俺はクレープをもう一口かじった。"
+    "まあおいしいからいいのかな、と思いながら俺はクレープをもう一口かじった。"
 
 # game/chapter1.rpy:112
 translate japanese chapter1_159c03f6:
@@ -134,7 +134,7 @@ translate japanese chapter1_a24b0652:
     # voice "voices/ya3.ogg"
     # 유미 "“게다가 오랜만에 먹어서 그런가, 더 맛있는 것 같아.” "
     voice "voices/ya3.ogg"
-    유미 "「それに久しぶりに食べるからか、もっと美味しいと思う」"
+    유미 "「それに久しぶりに食べたからか、もっと美味しく感じる。」"
 
 # game/chapter1.rpy:123
 translate japanese chapter1_434bb5aa:
@@ -142,7 +142,7 @@ translate japanese chapter1_434bb5aa:
     # voice "voices/ya4.ogg"
     # 유미 "“하아아…… 크레페라면 안 질리고 매일매일 먹을 수 있는데…….”"
     voice "voices/ya4.ogg"
-    유미 "「はぁあ……クレープなら飽きないで毎日毎日食べられるのに……」"
+    유미 "「はぁ……クレープなら飽きないで毎日食べられるのに……」"
 
 # game/chapter1.rpy:126
 translate japanese chapter1_2b772b5b:
@@ -186,7 +186,7 @@ translate japanese chapter1_49d83cb6:
     # voice "voices/ya6.ogg"
     # 유미 "“있지, 나 요즘 살 조금 찐 거 같지 않아?”"
     voice "voices/ya6.ogg"
-    유미 "「あるよ、私最近ちょっと太ったと思わない？』"
+    유미 "「実はね...私最近ちょっと太ったと思わない？』"
 
 # game/chapter1.rpy:155
 translate japanese chapter1_71ff5baa:
@@ -194,19 +194,19 @@ translate japanese chapter1_71ff5baa:
     # voice ""
     # 나 "“쿠흡, 켁, 쿨럭……. 뭐야, 그런 걸 나한테 갑자기 왜 물어?”"
     voice ""
-    나 "「くふっ、けっ、くるっ……。なんだよ、そんなことを俺に急になんで聞くの？」"
+    나 "「くふっ、げほっ、げほっ……。なんだよ、なんでそんなこと俺に聞くんだよ？」"
 
 # game/chapter1.rpy:164
 translate japanese chapter1_c7016411:
 
     # "하마터면 체할 뻔 했다. "
-    "危うく吐きそうになった。"
+    "危うく吹き出しそうになった。"
 
 # game/chapter1.rpy:165
 translate japanese chapter1_2a40cc6c:
 
     # "요즘들어 디저트 가게에 발이 뜸했던 건, 다이어트 때문이었나. "
-    "最近デザート屋に足が遠のいていたのは、ダイエットのせいだったのか。"
+    "最近デザート屋から足が遠のいていたのは、ダイエットのせいだったのか。"
 
 # game/chapter1.rpy:174
 translate japanese chapter1_9fa40807:
@@ -214,7 +214,7 @@ translate japanese chapter1_9fa40807:
     # voice "voices/ya7.ogg"
     # 유미 "“으응? 그거야 당연히, 지금은 너 말곤 대답해줄 사람이 없잖아?”"
     voice "voices/ya7.ogg"
-    유미 "「うん？それは当然だよ、今はあんた以外に答えてくれる人がいないでしょ？」"
+    유미 "「え？当たり前でしょ、今はあんた以外に答えてくれる人がいないんだから？」"
 
 # game/chapter1.rpy:176
 translate japanese chapter1_99efd78b:
@@ -222,19 +222,19 @@ translate japanese chapter1_99efd78b:
     # voice ""
     # 나 "“아니…… 그게 아니라…….”"
     voice ""
-    나 "「いや……それが違って……」"
+    나 "「いや……そうじゃなくて……」"
 
 # game/chapter1.rpy:183
 translate japanese chapter1_6e4baed8:
 
     # "얼굴에 난감한 티를 잔뜩 묻힌 채, 나는 쭈뼛쭈뼛 유미를 훑어보았다."
-    "顔に困った気配をふんだんにつけながら、俺はぎこちなくユミを見回した。"
+    "顔にものすごく困惑した表情を浮かべながら、俺はぎこちなくユミを見つめた。"
 
 # game/chapter1.rpy:188
 translate japanese chapter1_4131eeff:
 
     # "몇 달 전에도 이런 함정 질문에 걸려서 ‘그러게. 조금 찐 것 같아.’라고 생각 없이 대답했다가 며칠 동안 시달렸었지."
-    "数ヶ月前にもこんな罠質問に引っかかって「そうだね。ちょっと太ったみたいだね」と思わず答えてしまって数日間苦しんだことがあった。"
+    "数ヶ月前にこんな罠に引っかかって、思わず「そうだね。太ったかも」と答えてしまって数日間悩まされたことがあった。"
 
 # game/chapter1.rpy:190
 translate japanese chapter1_66763075:
@@ -246,7 +246,7 @@ translate japanese chapter1_66763075:
 translate japanese chapter1_1cfe1e52:
 
     # "지금이라도 좋으니 이 이야기는 없던 걸로 하지 않을래, 라는 의미였지만."
-    "今からでもいいからこの話はなかったことにしてくれないか、という意味だったが。"
+    "今からでもいいからこの話はなかったことにしてくれないか、という意味を込めたのだが。"
 
 # game/chapter1.rpy:197
 translate japanese chapter1_4e8e27cd:
@@ -264,13 +264,13 @@ translate japanese chapter1_02199567:
 translate japanese chapter1_a594a36b:
 
     # "혀끝을 벗어난 언어의 조각이 나도 모르는 사이에 그녀를 향해 날아간다."
-    "舌先を離れた言葉の彫刻が俺も知らないうちに彼女に向かって飛んでいく。"
+    "舌先を離れた言葉の断片が気付かないうちにに彼女に向かって飛んでいく。"
 
 # game/chapter1.rpy:208
 translate japanese chapter1_2b8112a3:
 
     # 나 "“나, 나는 오히려 살 조금 찐 쪽이 더 예뻐 보이는데.”"
-    나 "「俺、俺はむしろ少し太った方がもっと可愛く見えるけど」"
+    나 "「お、俺はむしろ少し太った方がもっと可愛く見えるけど」"
 
 # game/chapter1.rpy:214
 translate japanese chapter1_9d7d52fa:
@@ -282,7 +282,7 @@ translate japanese chapter1_9d7d52fa:
 translate japanese chapter1_3b2532f8:
 
     # "황급히 고개를 반대편으로 틀려는데, 옆에서 당황스러움의 농도가 한층 더 짙어진 유미의 목소리가 들려왔다."
-    "慌てて頭を反対側に向けようとするが、隣から戸惑いの濃度が一層濃くなったユミの声が聞こえてきた。"
+    "慌てて視線をずらそうとするが、隣から困惑の濃度が一層濃くなったユミの声が聞こえてきた。"
 
 # game/chapter1.rpy:225
 translate japanese chapter1_4599686c:
@@ -290,7 +290,7 @@ translate japanese chapter1_4599686c:
     # voice "voices/ya8.ogg"
     # 유미 "“지, 지금 네 취향 물어본 게 아니잖아?!”"
     voice "voices/ya8.ogg"
-    유미 "「ち、ちょっと今あんたの趣味聞いたんじゃないでしょう？！」"
+    유미 "「ち、ちょっと今あんたの趣味聞いたわけじゃないんだけど！？」"
 
 # game/chapter1.rpy:235
 translate japanese chapter1_a3363289:
@@ -326,13 +326,13 @@ translate japanese chapter1_f897d660:
 translate japanese chapter1_a263940a:
 
     # "뭘 했다고 벌써 여름 방학인 건지는 잘 모르겠지만. "
-    "何をしたのかもうすぐ夏休みなのかはよくわからないけど。"
+    "夏休みまでに何をしたのか覚えないうちに来てしまったが。"
 
 # game/chapter1.rpy:257
 translate japanese chapter1_b102a617:
 
     # "어느 새 1년 하고도 6개월에, 두 번째 여름 방학인가. "
-    "いつの間にか1年と6ヶ月に、二度目の夏休みか。"
+    "いつの間にか1年と6ヶ月が経ち、二度目の夏休みか。"
 
 # game/chapter1.rpy:263
 translate japanese chapter1_287beccc:
@@ -348,13 +348,13 @@ translate japanese chapter1_4ebc3349:
     # voice ""
     # 나 "“글쎄……. 아직 생각해 둔 건 없는데.”"
     voice ""
-    나 "「さあ……まだ考えておいたことはないけど」"
+    나 "「さあ……まだ考えたことないけど」"
 
 # game/chapter1.rpy:276
 translate japanese chapter1_93fb2b34:
 
     # "지난 방학땐 정말 여러모로 바빴었는데. "
-    "前の休みは本当に色々と忙しかったけど。"
+    "前の休みは本当に色々と忙しかった。"
 
 # game/chapter1.rpy:277
 translate japanese chapter1_847de1a6:
@@ -366,7 +366,7 @@ translate japanese chapter1_847de1a6:
 translate japanese chapter1_d3693ffd:
 
     # 나 "“넌 계획해둔 거라도 있어?”"
-    나 "「君は計画しておいたことでもあるの？」"
+    나 "「君は大きな予定でもあるの？」"
 
 # game/chapter1.rpy:292
 translate japanese chapter1_ea44d195:
@@ -374,7 +374,7 @@ translate japanese chapter1_ea44d195:
     # voice "voices/ya11.ogg"
     # 유미 "“난 이번 여름 방학은 후배들 멘토링이나 봉사활동 쪽으로 계획을 잡고 있어. 아 참, 그리고 방학 끝나고 있을 학예제 준비도 해야 하고.”"
     voice "voices/ya11.ogg"
-    유미 "「私は今回の夏休みは後輩たちのメンタリングやボランティア活動とかで計画を立てているよ。あ、そうだ、それと休みが終わってからある学芸祭の準備もしなきゃ」"
+    유미 "「私は今回の夏休みは後輩たちの面倒見たりやボランティア活動とかする予定だよ。あ、そうだ、それと休みが終わってからすぐの学芸祭の準備もしなきゃ」"
 
 # game/chapter1.rpy:294
 translate japanese chapter1_99aebb68:
@@ -396,7 +396,7 @@ translate japanese chapter1_9744524d:
     # voice "voices/ya12.ogg"
     # 유미 "“이번 여름 방학이 아니면 이젠 봉사활동 할 시간도 없을 것 같아서.”"
     voice "voices/ya12.ogg"
-    유미 "「今回の夏休みじゃないともうボランティア活動する時間もなさそうだから」"
+    유미 "「今回の夏休みじゃないともうボランティア活動する時間もないだろうから」"
 
 # game/chapter1.rpy:305
 translate japanese chapter1_7c2e0c12:
@@ -454,7 +454,7 @@ translate japanese chapter1_82b1aea9:
     # voice "voices/ya13.ogg"
     # 유미 "“생각해둔 게 없으면 나랑 같이 봉사활동이라도 가 보는 건 어때?”"
     voice "voices/ya13.ogg"
-    유미 "「考えておいたことがないなら私と一緒にボランティア活動でも行ってみるのはどう？」"
+    유미 "「なんも予定がないなら私と一緒にボランティア活動でも行ってみるのはどう？」"
 
 # game/chapter1.rpy:326
 translate japanese chapter1_acae9415:
@@ -462,7 +462,7 @@ translate japanese chapter1_acae9415:
     # voice ""
     # 나 "“봉사활동……? 그것도 괜찮겠다. 생각 한번 해볼게.”"
     voice ""
-    나 "「ボランティア活動……？それもいいかもしれない。考えてみるよ」"
+    나 "「ボランティア……？それもいいかもしれない。考えてみるよ」"
 
 # game/chapter1.rpy:333
 translate japanese chapter1_94ad441b:
@@ -486,7 +486,7 @@ translate japanese chapter1_152ce618:
     # voice "voices/ya15.ogg"
     # 유미 "“너, 너무 안일하게 생각하는 거 아냐?”"
     voice "voices/ya15.ogg"
-    유미 "「あんた、あまり安易に考えてない？』"
+    유미 "「あんた、あまり安易に考えてない？」"
 
 # game/chapter1.rpy:357
 translate japanese chapter1_c48bef63:
@@ -526,7 +526,7 @@ translate japanese chapter1_0d9c380d:
     # voice "voices/ya16.ogg"
     # 유미 "“아, 참. 주말에 이번 학기 성적표 받지 않았어?”"
     voice "voices/ya16.ogg"
-    유미 "「あ、そうだ。週末に今学期の成績表もらわなかった？』"
+    유미 "「あ、そうだ。今週末に1学期の成績表もらわなかった？」"
 
 # game/chapter1.rpy:372
 translate japanese chapter1_12b8342c:
@@ -534,7 +534,7 @@ translate japanese chapter1_12b8342c:
     # voice ""
     # 나 "“으응, 받았어. 토요일쯤 받았던 거 같은데.”"
     voice ""
-    나 "「うん、もらったよ。土曜日くらいにもらったと思うけど」"
+    나 "「うん、もらったよ。たぶん土曜日にもらったと思うけど」"
 
 # game/chapter1.rpy:378
 translate japanese chapter1_d3942b3d:
@@ -550,7 +550,7 @@ translate japanese chapter1_1edd50e4:
     # voice ""
     # 나 "“50등 정도였나…….”"
     voice ""
-    나 "「50位くらいだったか……」"
+    나 "「50位くらいだったよ……」"
 
 # game/chapter1.rpy:387
 translate japanese chapter1_34b21393:
@@ -574,7 +574,7 @@ translate japanese chapter1_1669d1e6:
     # voice "voices/ya19.ogg"
     # 유미 "“하긴, 그렇지?!”"
     voice "voices/ya19.ogg"
-    유미 "「そうだよね、そうだよね？！」"
+    유미 "「そうよね、そうよね！？」"
 
 # game/chapter1.rpy:402
 translate japanese chapter1_0a2065a4:
@@ -582,7 +582,7 @@ translate japanese chapter1_0a2065a4:
     # voice ""
     # "빈말은 아니었지만, 유미는 내 말에 생각보다도 강한 긍정을 보이며 키득였다. "
     voice ""
-    "空言ではなかったが、ユミは俺の言葉に思ったよりも強い肯定を見せてニコニコしていた。"
+    "別に冗談ではなかったが、ユミは俺の言葉に思ったよりも喜びを見せてニコニコしていた。"
 
 # game/chapter1.rpy:408
 translate japanese chapter1_e1c64bb4:
@@ -590,7 +590,7 @@ translate japanese chapter1_e1c64bb4:
     # voice "voices/ya20.ogg"
     # 유미 "“뿌듯한데? 내가 가르친 학생 성적이 그렇게 올랐다니까.”"
     voice "voices/ya20.ogg"
-    유미 "「嬉しいな。私が教えた生徒の成績がそんなに上がったんだから」"
+    유미 "「嬉しいな。私の生徒の成績がそんなに上がったんだから」"
 
 # game/chapter1.rpy:420
 translate japanese chapter1_4c901531:
@@ -598,19 +598,19 @@ translate japanese chapter1_4c901531:
     # voice ""
     # 나 "“네에, 네. 감사합니다, 유미 선생님.”"
     voice ""
-    나 "「はい、はい。ありがとうございます、ユミ先生」"
+    나 "「はいはい。ありがとうございます、ユミ先生」"
 
 # game/chapter1.rpy:422
 translate japanese chapter1_abcc0485:
 
     # "한껏 기분이 업된 듯한 그녀의 말에 맞장구를 쳐 준다. "
-    "気分が高まったような彼女の言葉に合わせて拍手を打つ。"
+    "上機嫌な彼女の言葉に合わせて相槌を打つ。"
 
 # game/chapter1.rpy:423
 translate japanese chapter1_7829da79:
 
     # "매일같이 유미가 나한테 신경을 써 줘서 성적이 오른 건 분명한 사실이었으니까. "
-    "毎日ユミが俺に気をかけてくれて成績が上がったのは間違いない事実だったから。"
+    "毎日ユミが俺に気をかけてくれて成績が上がったのは間違いなく事実だったから。"
 
 # game/chapter1.rpy:424
 translate japanese chapter1_3cd733ac:
@@ -624,7 +624,7 @@ translate japanese chapter1_4a5570ac:
     # voice "voices/ya21.ogg"
     # 유미 "“캬캬, 그렇지? 그렇지?!”"
     voice "voices/ya21.ogg"
-    유미 "「きゃっきゃ、そうでしょ？そうでしょ？！」"
+    유미 "「ふふ、そうでしょ？そうでしょ？！」"
 
 # game/chapter1.rpy:433
 translate japanese chapter1_344ee484:
@@ -640,7 +640,7 @@ translate japanese chapter1_dfa98841:
     # voice "voices/ya22.ogg"
     # 유미 "“그럼, 다음 학기에도 성적이 올라서 30등 안에 들어가면, 겨울방학 때 나랑 같이 여행이라도 가 보는 건 어떨까?”"
     voice "voices/ya22.ogg"
-    유미 "「じゃあ、次の学期にも成績が上がって30位以内に入れば、冬休みに私と一緒に旅行でも行ってみるのはどう？」"
+    유미 "「じゃあ、次の学期も成績が上がって30位以内に入ったら、冬休みに私と一緒に旅行でも行ってもいいわよ？」"
 
 # game/chapter1.rpy:445
 translate japanese chapter1_70ac949c:
@@ -664,7 +664,7 @@ translate japanese chapter1_b6b3b11e:
     # voice ""
     # 나 "“그것도 좋지…… 잠깐, 너랑 나랑 둘이서……?”"
     voice ""
-    나 "「それもいいけど……ちょっと、君と俺と二人で……？」"
+    나 "「それもいいけど……ちょっと待って、君と二人で……？」"
 
 # game/chapter1.rpy:454
 translate japanese chapter1_ac8936da:
@@ -680,7 +680,7 @@ translate japanese chapter1_9f4bfd36:
     # voice ""
     # 나 "“아, 아니. 싫은 건 아닌데.”"
     voice ""
-    나 "「あ、いや。嫌じゃないけど」"
+    나 "「あ、いや。別に嫌じゃないけど」"
 
 # game/chapter1.rpy:459
 translate japanese chapter1_7d3635d1:
@@ -700,7 +700,7 @@ translate japanese chapter1_ffc6fa52:
     # voice "voices/ya25.ogg"
     # 유미 "“설마 나쁜 생각이라도 한 거야?”"
     voice "voices/ya25.ogg"
-    유미 "「まさか悪い考えでもしたの？」"
+    유미 "「まさか変な考えでもしたの？」"
 
 # game/chapter1.rpy:466
 translate japanese chapter1_6e117ee8:
@@ -724,7 +724,7 @@ translate japanese chapter1_b8b5a193:
     # voice ""
     # "내 눈에 뭐가 쓰여있기라도 한 건지, 유미는 내 눈을 빤히 쳐다보았다. "
     voice ""
-    "俺の目に何か書いてあるのか、ユミは俺の目をじっと見つめた。"
+    "俺の顔に何か書いてあるのか、ユミは俺の目をじっと見つめた。"
 
 # game/chapter1.rpy:482
 translate japanese chapter1_c40df1b8:
@@ -732,7 +732,7 @@ translate japanese chapter1_c40df1b8:
     # voice "voices/ya27.ogg"
     # 유미 "“뭐, 그 이야기는 나중에 성적 나오면 더 하는 걸로 하자~”"
     voice "voices/ya27.ogg"
-    유미 "「まあ、その話は後で成績出てからもっとすることにしよう～」"
+    유미 "「まあ、その話は成績出てからもっとしよう～」"
 
 # game/chapter1.rpy:484
 translate japanese chapter1_c8ed90dc:
@@ -740,19 +740,19 @@ translate japanese chapter1_c8ed90dc:
     # voice ""
     # "유미는 자신의 고조된 기분을 숨길 생각은 없었는지 가벼운 허밍과 함께 사뿐사뿐 발걸음을 옮겼다. "
     voice ""
-    "ユミは自分の高まった気分を隠すつもりはなかったのか軽やかなハミングとともにさっと足取りを動かした。"
+    "ユミは自分の高まった気分を隠すつもりはなかったのか軽やかなハミングとともに軽やかに歩みを進めた。"
 
 # game/chapter1.rpy:491
 translate japanese chapter1_dce2a28e:
 
     # "유미의 손에 들려있던 크레페는 그새 어디로 사라진 건지 자취를 감춘 뒤였다. "
-    "ユミの手に持っていたクレープはいつの間にかどこかに消えてしまって後姿だけが残っていた。"
+    "ユミの手に持っていたクレープはいつの間にかどこかに消えてしまって跡形もなく消えていた。"
 
 # game/chapter1.rpy:492
 translate japanese chapter1_87e85d73:
 
     # "어렴풋이 남은 달콤한 향만이 크레페가 존재했음을 알려줄 뿐. "
-    "ぼんやりと残った甘い香りだけがクレープが存在したことを教えてくれるだけだった。"
+    "ぼんやりと残った甘い香りだけがクレープが存在したことを教えてくれた。"
 
 # game/chapter1.rpy:493
 translate japanese chapter1_7ffa2186:
@@ -818,7 +818,7 @@ translate japanese chapter1_103a28c0:
 translate japanese chapter1_c575854c:
 
     # "현대 과학 기술로는 설명할 수 없는 기현상을 연구하는 동아리…… 라고 일단은 알려져 있다. "
-    "現代科学技術では説明できない奇現象を研究する部活……というのが一応の触れ込みだ。"
+    "現代科学技術では説明できない怪奇現象を研究する部活……というのが一応の触れ込みだ。"
 
 # game/chapter1.rpy:535
 translate japanese chapter1_b9934aca:
@@ -842,7 +842,7 @@ translate japanese chapter1_1ce861bc:
     # voice "voices/ya32.ogg"
     # 유미 "“뭐야, 그 썰렁한 농담은.”"
     voice "voices/ya32.ogg"
-    유미 "「なによ、その冷たい冗談は」"
+    유미 "「なによ、その笑えない冗談は」"
 
 # game/chapter1.rpy:542
 translate japanese chapter1_83b2bf4a:
@@ -850,19 +850,19 @@ translate japanese chapter1_83b2bf4a:
     # voice ""
     # "아까 전의 웃음기 넘치던 목소리는 어디로 가고, 물을 잔뜩 끼얹은 듯한 무거운 목소리가 대답으로 들려왔다. "
     voice ""
-    "さっきまでの笑い声が溢れていた声はどこへ行ってしまったのか、水をたっぷり含んだような重い声が返事として聞こえてきた。"
+    "さっきまでの上機嫌はどこへ行ってしまったのか、ため息混じりな声が返事として聞こえてきた。"
 
 # game/chapter1.rpy:544
 translate japanese chapter1_157bb43c:
 
     # "내가 속한 오컬트부는 부원이 나를 포함해 일곱 명 정도밖에 안 되는 소규모 동아리다. "
-    "俺が所属しているオカルト部は部員が俺を含めて七人ほどしかいない小規模なサークルだ。"
+    "俺が所属しているオカルト部は部員が俺を含めて七人ほどしかいない小規模な部活だ。"
 
 # game/chapter1.rpy:545
 translate japanese chapter1_0b3fb4d1:
 
     # "뭐, 이마저도 두 명을 제외한 나머지 부원이 모두 유령 부원인 허울뿐인 동아리지만 말이다. "
-    "まあ、これも二人を除いた残りの部員がすべて幽霊部員である形だけのサークルだけどな。"
+    "まあ、二人を除いた全ての部員がすべて幽霊部員である形だけのサークルだけど。"
 
 # game/chapter1.rpy:546
 translate japanese chapter1_73636ce4:
@@ -874,67 +874,67 @@ translate japanese chapter1_73636ce4:
 translate japanese chapter1_bc56840b:
 
     # "부회장인 유미가 사람을 구해 유령 부원을 어찌어찌 구해 학생부에 제출해 줬으니까……."
-    "副会長であるユミが人を探して幽霊部員をどうにかこうにか集めて生徒部に提出してくれたから……。"
+    "副会長であるユミが人を探して幽霊部員をどうにかこうにか集めて生徒会に提出してくれたから……。"
 
 # game/chapter1.rpy:549
 translate japanese chapter1_d4238c7f:
 
     # "정말, 유미가 아니었으면 어쩔 뻔 했나 모르겠다. "
-    "本当に、ユミじゃなかったらどうなっていたかわからないよ。"
+    "本当に、ユミがいなかったらどうなっていたかわからないよ。"
 
 # game/chapter1.rpy:551
 translate japanese chapter1_74b6d68a:
 
     # "크레페를 다 먹고는, 나는 버릇처럼 손에 묻어있던 슈가 파우더를 후우 불어 바람에 날려 보냈다. "
-    "クレープを食べ終わって、俺は癖で手についていたシュガーパウダーをフーッと吹いて風に飛ばした。"
+    "クレープを食べ終わって、俺は癖で手についていた粉砂糖をフーッと吹いて風に飛ばした。"
 
 # game/chapter1.rpy:552
 translate japanese chapter1_8885409c:
 
     # "밋밋한 단내가 송진 가루처럼 흩날린다. "
-    "淡白な甘味が松花粉のように舞い散る。"
+    "淡い香りが松の花粉のように舞い散る。"
 
 # game/chapter1.rpy:553
 translate japanese chapter1_0b3b06df:
 
     # "물론 여기서는 소나무는커녕 관목 한 그루조차 볼 수 없지만 말이다. "
-    "もちろんここでは松の木はおろか、低木一本すら見ることができないけどな。"
+    "もちろんここでは松の木はおろか、低木一本すら見ることができないけど。"
 
 # game/chapter1.rpy:566
 translate japanese chapter1_acd5771b:
 
     # "횡단보도 앞에 서자, 주변의 풍경이 눈에 들어왔다."
-    "横断歩道の前に立つと、周囲の風景が目に入ってきた。"
+    "横断歩道の前に立つと、周囲の景色が目に入ってきた。"
 
 # game/chapter1.rpy:567
 translate japanese chapter1_a935bb43:
 
     # "주변에서 흔히 볼 수 있던 관목도, 여름이면 지겹도록 들을 수 있었던 매미들의 울음소리도 이곳에는 존재하지 않는다."
-    "周囲でよく見られた低木も、夏になると飽きるほど聞けた蝉の鳴き声も、ここには存在しない。"
+    "街頭でよく見かける低木も、夏になると飽きるほど聞けた蝉の鳴き声も、ここには存在しない。"
 
 # game/chapter1.rpy:571
 translate japanese chapter1_04c0ec5e:
 
     # "그 빈자리는 도로변에 솟아있는 태양광 패널과, 안내로봇이나 순찰로봇들이 거리를 돌아다니며 내는 삐빅거리는 소리가 대신한다."
-    "その空き場所は道路沿いにそびえ立つ太陽光パネルと、案内ロボットや巡回ロボットが街を歩き回って出すビープ音が代わっている。"
+    "代わりに、道路沿いにそびえ立つ太陽光パネルと、案内ロボットや巡回ロボットが街を歩き回って出す電子音が代わっている。"
 
 # game/chapter1.rpy:572
 translate japanese chapter1_13d0d9aa:
 
     # "크레페에 잔뜩 들어있던 새콤한 딸기도, 달콤한 초콜릿도, 분명 어느 실험실 배양 접시 위에서 만들어진 것이겠지."
-    "クレープにたっぷり入っていた酸っぱいイチゴも、甘いチョコレートも、きっとどこかの実験室培養皿の上で作られたものだろう。"
+    "クレープにたっぷり入っていた酸っぱいイチゴも、甘いチョコレートも、きっとどこかの実験室のシャーレの上で作られたものだろう。"
 
 # game/chapter1.rpy:573
 translate japanese chapter1_7bc8483e:
 
     # "어디를 둘러보든, 내리쬐는 태양을 제외하면 사람의 손길이 닿지 않은 곳이 없었다."
-    "どこを見回しても、照りつける太陽を除いては人の手が触れなかったところはなかった。"
+    "どこを見回しても、照りつける太陽を除いては人の手が触れていないものはなかった。"
 
 # game/chapter1.rpy:577
 translate japanese chapter1_4b465e51:
 
     # "인조미에 물든 세상. 이 세계를 단번에 압축하는 말이다."
-    "人工味に染まった世界。この世界を一言で圧縮する言葉だ。"
+    "人工に染まった世界。この世界を一言でまとめる言葉だ。"
 
 # game/chapter1.rpy:588
 translate japanese chapter1_73335be8:
@@ -950,13 +950,13 @@ translate japanese chapter1_82adbf7b:
     # voice ""
     # "옆에서는 더위에 못 이겨 투정을 부리는 유미의 목소리가 들려왔다."
     voice ""
-    "横からは暑さに耐え切れないでわがままを言うユミの声が聞こえてきた。"
+    "横からは暑さに耐え切れず、わがままを言うユミの声が聞こえてきた。"
 
 # game/chapter1.rpy:592
 translate japanese chapter1_567ad339:
 
     # "유미도 더위를 타는지, 자신의 교복 셔츠를 연거푸 팔랑였다."
-    "ユミも暑さに弱いのか、自分の制服シャツをぱらぱらとはためかせていた。"
+    "ユミも暑さに弱いのか、自分の制服をパタパタとはためかせていた。"
 
 # game/chapter1.rpy:594
 translate japanese chapter1_3179fe56:
@@ -970,7 +970,7 @@ translate japanese chapter1_fabe6aa1:
     # voice "voices/ya34.ogg"
     # 유미 "“이 정도 땀 흘렸으면 살도 빠지지 않았을까?”"
     voice "voices/ya34.ogg"
-    유미 "「このくらい汗かいたら、痩せてもいいと思わない？」"
+    유미 "「このくらい汗かいたら、痩せててもいいと思わない？」"
 
 # game/chapter1.rpy:606
 translate japanese chapter1_1fbf0303:
@@ -984,19 +984,19 @@ translate japanese chapter1_1fbf0303:
 translate japanese chapter1_6069a8b9:
 
     # "과학도 잘한다는 애가 왜 이럴 때만큼은 이성적이지 못한 걸까."
-    "科学も得意な子が、なぜこんなときだけは理性的でないのだろうか。"
+    "科学も得意な子が、なぜ体重に関しては科学的ではないのだろうか。"
 
 # game/chapter1.rpy:616
 translate japanese chapter1_470d851b:
 
     # "신호가 바뀌고, 나와 유미는 건너편 길목을 향해 발걸음을 내딛었다."
-    "信号が変わって、俺とユミは向かい側の路地を目指して足を踏み出した。"
+    "信号が変わって、俺とユミは向かい側の歩道を目指して足を踏み出した。"
 
 # game/chapter1.rpy:617
 translate japanese chapter1_8d402c98:
 
     # "매끄럽게 포장된 횡단보도의 딱딱한 감촉이 발끝에 전해진다."
-    "滑らかに舗装された横断歩道のカチカチとした感触が足先に伝わる。"
+    "滑らかに舗装された横断歩道のコツコツとした感触が足先に伝わる。"
 
 # game/chapter1.rpy:622
 translate japanese chapter1_aa989f24:
@@ -1032,7 +1032,7 @@ translate japanese ecg1_label_29727ecf:
 translate japanese ecg1_label_2391a51b:
 
     # "중학생 정도로 되어 보이는 그 소녀는 땅속에 얼굴을 파묻기라도 한 것처럼 고개를 푹 숙인 채 횡단보도를 건너고 있었다."
-    "中学生ぐらいに見えるその少女は、地面に顔を埋めるかのように頭をぽっくりと垂れたまま横断歩道を渡っていた。"
+    "中学生ぐらいに見えるその少女は、地面に顔を埋めるかのようにうなだれたまま横断歩道を渡っていた。"
 
 # game/chapter1.rpy:652
 translate japanese ecg1_label_f4bf24de:
@@ -1050,7 +1050,7 @@ translate japanese ecg1_label_49643c55:
 translate japanese ecg1_label_2919c6cb:
 
     # "조심스럽다는 말이 부족할 정도로 조심조심 고개를 든 소녀의 눈동자가 나와 마주친다."
-    "慎重という言葉が足りないほど慎重に頭を上げた少女の瞳が俺と見つかった。"
+    "慎重という言葉では足りないほど慎重に頭を上げた少女の瞳が俺と見つかった。"
 
 # game/chapter1.rpy:665
 translate japanese ecg1_label_6eed4824:
@@ -1058,7 +1058,7 @@ translate japanese ecg1_label_6eed4824:
     # voice "voices/ya35.ogg"
     # 유미 "“야, 거기서 혼자 뭐해―”"
     voice "voices/ya35.ogg"
-    유미 "「や、そこで一人で何してるの―」"
+    유미 "「やあ、そこで一人で何してるの―」"
 
 # game/chapter1.rpy:667
 translate japanese ecg1_label_3208f4ee:
@@ -1124,7 +1124,7 @@ translate japanese ecg1_label_b9405802:
 translate japanese ecg1_label_ac7d5de4:
 
     # "나의 손목을 붙잡은 유미는 나를 거의 끌고가다시피하며 반대편 건널목까지 뛰어갔다."
-    "俺の手首を掴んだユミは俺をほとんど引きずるようにして反対側の路地まで走っていった。"
+    "俺の手首を掴んだユミは俺をほとんど引きずるようにして反対側の歩道まで走っていった。"
 
 # game/chapter1.rpy:699
 translate japanese ecg1_label_3f02f406:
@@ -1148,7 +1148,7 @@ translate japanese ecg1_label_15841c89:
 translate japanese ecg1_label_4ad26e07:
 
     # 유미 "“무슨 생각을 그렇게 하고 있던 거야? 갑자기 횡단보도에서 멈춰 서서는…….”"
-    유미 "「どんなことをそんなに考えてたの？急に横断歩道で止まってしまって……」"
+    유미 "「何をそんなに考えてたの？急に横断歩道の途中で止まったりして……」"
 
 # game/chapter1.rpy:713
 translate japanese ecg1_label_93a2726d:
@@ -1186,7 +1186,7 @@ translate japanese ecg1_label_465d4e56:
     # voice "voices/ya39.ogg"
     # 유미 "“혹시 지나가는 길에 네 이상형이라도 본 거야?”"
     voice "voices/ya39.ogg"
-    유미 "「もしかして通りすがりにあなたのタイプでも見たの？」"
+    유미 "「もしかして通りすがりにあなたのタイプの女子でもいたの？」"
 
 # game/chapter1.rpy:727
 translate japanese ecg1_label_d36dbecc:
@@ -1202,7 +1202,7 @@ translate japanese ecg1_label_5c1362cf:
     # voice "voices/ya40.ogg"
     # 유미 "“거짓말. 분명 뭐에 홀린 것 같은 얼굴이었거든?”"
     voice "voices/ya40.ogg"
-    유미 "「嘘。明らかに何かに夢中な顔だったんだから？」"
+    유미 "「ウソね。明らかに何かに夢中な顔だったでしょ？」"
 
 # game/chapter1.rpy:736
 translate japanese ecg1_label_7d5c1464:
@@ -1210,7 +1210,7 @@ translate japanese ecg1_label_7d5c1464:
     # voice ""
     # "유미의 날카로운 눈빛에서 찌릿 하는 소리가 들려오는 것만 같았다."
     voice ""
-    "ユミの鋭い眼光からジリジリという音が聞こえてくるようだった。"
+    "ユミの鋭い眼光からピリピリという音が聞こえてくるようだった。"
 
 # game/chapter1.rpy:738
 translate japanese ecg1_label_72e52618:
@@ -1224,7 +1224,7 @@ translate japanese ecg1_label_fdb6f031:
     # voice "voices/ya41.ogg"
     # 유미 "“…… 어쨌거나, 조심해. 또 호버크라프트에 치이기라도 하면 어쩌려고 그래.”"
     voice "voices/ya41.ogg"
-    유미 "「……とにかく、気をつけて。またホバークラフトにぶつかったりしたらどうするのよ」"
+    유미 "「……とにかく、気をつけて。またホバークラフトに轢かれたりしたらどうするのよ」"
 
 # game/chapter1.rpy:744
 translate japanese ecg1_label_8c867461:
@@ -1232,7 +1232,7 @@ translate japanese ecg1_label_8c867461:
     # voice ""
     # 나 "“알겠어, 알겠어. 앞으론 조심할게.”"
     voice ""
-    나 "「わかったよ、わかったよ。これからは気をつけるよ」"
+    나 "「わかった、わかったよ。ちゃんと気をつけるって」"
 
 # game/chapter1.rpy:747
 translate japanese ecg1_label_31f6c349:
@@ -1252,7 +1252,7 @@ translate japanese ecg1_label_7e3ec92c:
     # voice "voices/ya42.ogg"
     # 유미 "“그러고 보니, 그 일도 벌써 1년 넘게 지났네.”"
     voice "voices/ya42.ogg"
-    유미 "「そういえば、あのことももう1年以上経ったんだよね」"
+    유미 "「そういえば、あれからもう1年以上経ったんだよね」"
 
 # game/chapter1.rpy:754
 translate japanese ecg1_label_232fee8a:
@@ -1358,7 +1358,7 @@ translate japanese ecg2_label_6927452a:
 translate japanese ecg2_label_58d03f05:
 
     # 나 "“…… 뭐가 어떻게 된 거지.”"
-    나 "「……何がどうなったんだよ」"
+    나 "「……何がどうなったんだ」"
 
 # game/chapter1.rpy:794
 translate japanese ecg2_label_2c8f37ee:
@@ -1380,7 +1380,7 @@ translate japanese ecg2_label_0a70e098:
 translate japanese ecg2_label_9c33649d:
 
     # "상냥하게도, 그녀는 혼잣말처럼 내뱉은 내 말에 진지하게 대답을 해주었다."
-    "優しくて、彼女は独り言のように吐き出した俺の言葉に真剣に答えてくれた。"
+    "優しくて、彼女は独り言のつもりで吐き出した俺の言葉に真剣に答えてくれた。"
 
 # game/chapter1.rpy:806
 translate japanese ecg2_label_50b5b54b:
@@ -1396,7 +1396,7 @@ translate japanese ecg2_label_0e994421:
     # voice ""
     # 나 "“아, 아냐. 멀쩡해. 가벼운 타박상인 거 같으니까.”"
     voice ""
-    나 "「あ、違うよ。平気だよ。軽い打撲みたいなもんだから」"
+    나 "「あ、大丈夫だよ。平気だよ。軽い打撲みたいなもんだから」"
 
 # game/chapter1.rpy:811
 translate japanese ecg2_label_5a2280e9:
@@ -1408,7 +1408,7 @@ translate japanese ecg2_label_5a2280e9:
 translate japanese ecg2_label_33c0cb33:
 
     # "주변을 둘러보던 나는 그만 발걸음을 다시 멈춰 세워야만 했다."
-    "周りを見回していた俺はやむを得ず足をまた止めて立たなければならなかった。"
+    "周りを見回していた俺はやむを得ず足を止めるしかなかった。"
 
 # game/chapter1.rpy:819
 translate japanese ecg2_label_396673fa:
@@ -1502,7 +1502,7 @@ translate japanese ecg2_label_4e601241:
     # voice "voices/ya49.ogg"
     # whoyumi "“야, 야아! 어디 가!”"
     voice "voices/ya49.ogg"
-    whoyumi "「や、やあ！どこ行くの！」"
+    whoyumi "「ちょ、ちょっと！どこ行くの！」"
 
 # game/chapter1.rpy:853
 translate japanese ecg2_label_d62e3f72:
@@ -1522,7 +1522,7 @@ translate japanese ecg2_label_9042882a:
 translate japanese ecg2_label_01b346dc:
 
     # "백석시 A구역이라니."
-    "白石市A区域だって。"
+    "白石市A区域。"
 
 # game/chapter1.rpy:870
 translate japanese ecg2_label_cabeeec6:
@@ -1540,13 +1540,13 @@ translate japanese ecg2_label_39498bc9:
 translate japanese ecg2_label_769bd190:
 
     # "그런 도로명이 있었던가?"
-    "そんな道路名があったっけ？"
+    "そんな地域があったっけ？"
 
 # game/chapter1.rpy:873
 translate japanese ecg2_label_03dce24f:
 
     # "난데없는 복잡한 상황에, 버릇처럼 머리카락을 쥐어뜯으려던 나는 순간 한 가지 이상한 점을 더 발견할 수 있었다."
-    "突然の複雑な状況に、癖で髪の毛を引っ張ろうとした俺はそのときもう一つ変な点に気づくことができた。"
+    "突然の複雑な状況に、癖で頭を掻こうとしたとき、もう一つ変な点に気づくことができた。"
 
 # game/chapter1.rpy:875
 translate japanese ecg2_label_e97c6cb3:
