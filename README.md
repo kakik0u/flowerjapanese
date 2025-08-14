@@ -3,7 +3,7 @@ Flowers Blooming at the End of Summerの日本語翻訳パッチです。
 
 UI、映像など現在翻訳可能なほぼすべてを網羅したつもりです。
 
-現在は機械翻訳のままですが、これから翻訳を改善していきます。
+現在は一部機械翻訳のままですが、これから段階的に翻訳を改善していきます。
 
 ![Menu](https://github.com/kakik0u/flowerjapanese/blob/main/menu.png?raw=true)
 
@@ -27,4 +27,5 @@ UI、映像など現在翻訳可能なほぼすべてを網羅したつもりで
 
 ## 謝辞
 [flowernovelzhHans](https://github.com/codeforker654/flowernovelzhHans) さんの機械翻訳を使用させていただきました。ありがとうございます。
+
 
