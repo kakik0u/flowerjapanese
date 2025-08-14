@@ -44,7 +44,7 @@ translate japanese chapter6_e1ff17fc:
 translate japanese chapter6_d2e74970:
 
     # "유미는 나의 옆에 서 있던 현지를 가볍게 스캔하고선 이야기를 이어갔다. "
-    "ユミは俺の横にいたヒョンジをさっとスキャンして話を続けた。"
+    "ユミは俺の横にいたヒョンジをさっと一瞥して話を続けた。"
 
 # game/chapter6.rpy:24
 translate japanese chapter6_900d9eec:
@@ -866,7 +866,7 @@ translate japanese chapter6_ee9d7471:
 translate japanese chapter6_0f10a9d9:
 
     # shnvl_yu "혹시 지금 학교로 와 줄 수 있어?"
-    shnvl_yu "もしかして今学校に来てくれる？"
+    shnvl_yu "できたらでいいんだけど、今学校に来てくれる？"
 
 # game/chapter6.rpy:342
 translate japanese chapter6_23856611:
