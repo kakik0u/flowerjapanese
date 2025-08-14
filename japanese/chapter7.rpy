@@ -4298,7 +4298,7 @@ translate japanese chapter7_3ef24d01:
     # voice "voices/hg9.ogg"
     # 현지 "“지금 바로 오컬트부실로 와 줄 수 있어요?”"
     voice "voices/hg9.ogg"
-    현지 "「今すぐオカルト部室に来てくれる？」"
+    현지 "「今すぐオカルト部室に来てください。」"
 
 # game/chapter7.rpy:1917
 translate japanese chapter7_14c94d95:
@@ -5938,7 +5938,7 @@ translate japanese chapter7_acb6a702:
     # voice "voices/hg44.ogg"
     # 현지 "“이걸로 선배한테서 밥 얻어먹는 것도 끝이라니, 아쉽네요.”"
     voice "voices/hg44.ogg"
-    현지 "「これで先輩からご飯をもらうのも最後だなんて、残念ですね」"
+    현지 "「これで先輩からご飯を奢ってもらうのも最後だなんて、残念ですね」"
 
 # game/chapter7.rpy:2565
 translate japanese chapter7_870ad585:
@@ -6052,7 +6052,7 @@ translate japanese chapter7_5e008c29:
     # voice "voices/hg50.ogg"
     # 현지 "“좋았어요. 오래오래 기억하고 싶은, 기분 좋은 꿈처럼요.”"
     voice "voices/hg50.ogg"
-    현지 "「楽しかったです。ずっとずっと覚えていたい、気持ちいい夢みたいです」"
+    현지 "「楽しかったです。ずっとずっと覚えていたい、楽しい夢みたいです」"
 
 # game/chapter7.rpy:2601
 translate japanese chapter7_d4a01d5e:
