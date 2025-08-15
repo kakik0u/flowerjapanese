@@ -1,4 +1,6 @@
 ## FlowerJapanese
+[한국어](https://github.com/kakik0u/flowerjapanese/blob/main/READMEKR.md)
+
 Flowers Blooming at the End of Summerの日本語翻訳パッチです。
 
 UI、映像など現在翻訳可能なほぼすべてを網羅したつもりです。
@@ -27,10 +29,12 @@ UI、映像など現在翻訳可能なほぼすべてを網羅したつもりで
 
 ## アップデート履歴
 Ver1.0:初期リリース。UIを含めすべての機械翻訳を適応しました。
+
 Ver1.5:3.5アップデートに対応しました。第一章の翻訳を一部機械翻訳から人力の翻訳に変更しました。
 
 ## 謝辞
 [flowernovelzhHans](https://github.com/codeforker654/flowernovelzhHans) さんの機械翻訳を使用させていただきました。ありがとうございます。
+
 
 
 
