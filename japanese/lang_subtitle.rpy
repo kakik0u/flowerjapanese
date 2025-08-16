@@ -12,7 +12,7 @@ init -3:
     $ lastwish_lyrics_japanese_subtitles = {
         'settings': {
             'id': 'lastwish_lyrics', 'language': 'japanese',
-            'style': {'pos': (640, 9), 'anchor': (0.5, 0.0), 'bg': None, 'text_style': 'lastwish_lyrics_text_style', "text_font": None, 'enabled': True},
+            'style': {'pos': (640, 7), 'anchor': (0.5, 0.0), 'bg': None, 'text_style': 'lastwish_lyrics_text_style', "text_font": None, 'enabled': True},
             'alt_style': {'pos': (640, 45), 'anchor': (0.5, 0.0), 'bg': (10, 5), 'text_style': 'lastwish_lyrics_text_alt_style', "text_font": 'language_font', 'enabled': True}
         },
         'subtitles': (
@@ -38,7 +38,7 @@ init -3:
     $ lastwish_japanese_subtitles = {
         'settings': {
             'id': 'lastwish', 'language': 'japanese',
-            'style': {'pos': (640, 714), 'anchor': (0.5, 1.0), 'bg': None, 'text_style': 'lastwish_text_style', "text_font": None, 'enabled': True},
+            'style': {'pos': (640, 717), 'anchor': (0.5, 1.0), 'bg': None, 'text_style': 'lastwish_text_style', "text_font": None, 'enabled': True},
             'alt_style': {'pos': (640, 675), 'anchor': (0.5, 1.0), 'bg': (10, 5), 'text_style': 'lastwish_text_alt_style', "text_font": 'language_font', 'enabled': True}
         },
         'subtitles': (
@@ -71,9 +71,9 @@ init -3:
             {'text': '“そうですね。こんなに美しい光景を、好きな人と一緒に見ることが出きたんですから。”', 'time': (107.3, 115.3), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '気づけば少女がこっちに寄ってきて、私の左手をそっと掴んでいた。', 'time': (115.3, 119.533), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '“実は、絶対叶わない願いだと思っていたんです。”', 'time': (119.533, 124.467), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '“だって、こんなにに美しいものが見えるだなんて、ましてや私を好きになってくれる人がいるなんて思ってもみなかった。”', 'time': (124.467, 135.467), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '{size=*0.8}“だって、こんなにも美しいものが見えるだなんて、ましてや私を好きになってくれる人がいるなんて思ってもみなかった。”{/size}', 'time': (124.467, 135.467), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '“でも、どっちも叶った。”', 'time': (135.467, 138.067), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '“せやね。”', 'time': (138.067, 139.933), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '“そうだね。”', 'time': (138.067, 139.933), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': 'いよいよ花火はクライマックスに入っていた。', 'time': (140.0, 144.733), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '夏の終わりに咲く、数十発の花々。', 'time': (144.733, 149.2), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': 'ただ、一瞬のうちに咲いては散る無数の花びらたち。', 'time': (149.2, 155.4), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
