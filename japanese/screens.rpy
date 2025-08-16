@@ -222,7 +222,7 @@ translate japanese strings:
 
     # game/screens.rpy:2378
     old "'마지막 소원'에서 다시 볼 수 있어요.\n'장면' 탭으로 바로 이동할까요?"
-    new "もう一度“最後の願い”を見れます。\n"シーン"タブに移動しますか？"
+    new "もう一度'最後の願い'を見れます。\n'シーン'タブに移動しますか？"
 
     # game/screens.rpy:2444
     old "폴더에서 보기"
