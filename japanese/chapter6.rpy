@@ -6843,7 +6843,7 @@ translate japanese ecg14_label_b7f9aa3a:
     "何か知っているかのように、少女はつぶやいた。"
 
 # game/chapter6.rpy:2446
-translate japanese ecg14_label_cd9e5589:
+translate japanese ecg14_label_2e62dbc2:
 
     # 나 "“맞아. 너랑 같이 학교 옥상에 올라갔을 때. 그날에서야 그 목소리가 너와 이어지고 있었다는 걸 알게 된 거지.”"
     나 "「そうだよ。お前と一緒に学校の屋上に上がったとき。その日にやっとその声とお前と繋がっていることに気づいたんだ」"
