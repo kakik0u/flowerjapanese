@@ -1,0 +1,39 @@
+name: Release Version
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "バージョン(v1.x.xなど)"
+        required: true
+        type: string
+      changes:
+        description: "リリースノート / 変更点"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure zip is installed
+        run: sudo apt-get update && sudo apt-get install -y zip
+
+      - name: Create japanese.zip (top-level 'japanese/' folder)
+        run: |
+          rm -f japanese.zip
+          zip -r japanese.zip japanese
+
+      - name: Create GitHub Release and upload asset
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ inputs.version }}
+          name: ${{ inputs.version }}
+          body: ${{ inputs.changes }}
+          files: japanese.zip
