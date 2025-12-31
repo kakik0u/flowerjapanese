@@ -1,1 +1,5 @@
 *.rpyc
+.DS_Store
+.vscode/
+.github/*.md
+temp/
