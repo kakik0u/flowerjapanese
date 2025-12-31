@@ -34,6 +34,8 @@ Ver1.5:3.5アップデートに対応しました。第一章の翻訳を一部�
 
 Ver1.51: 一部アプデによって変更された翻訳文などを修正
 
+Ver2.0: Chapter1を完全に人力の翻訳に置き換えました。褒めて...
+
 ## 謝辞
 [flowernovelzhHans](https://github.com/codeforker654/flowernovelzhHans) さんの機械翻訳を使用させていただきました。ありがとうございます。
 
