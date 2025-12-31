@@ -25,7 +25,7 @@ jobs:
       - name: Ensure zip is installed
         run: sudo apt-get update && sudo apt-get install -y zip
 
-      - name: Create japanese.zip (top-level 'japanese/' folder)
+      - name: Create japanese.zip
         run: |
           rm -f japanese.zip
           zip -r japanese.zip japanese
