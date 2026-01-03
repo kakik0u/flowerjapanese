@@ -272,3 +272,15 @@ translate japanese strings:
 
     old "Language Switch Shortcuts"
     new "言語切り替えショートカット"
+
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "このセーブデータは別のデバイスで作成されました。悪意を持って作成されたセーブデータはコンピュータに損害を与える可能性があります。このセーブデータの作成者およびファイルを変更した可能性のあるすべての人物を信頼しますか？"
+
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "このセーブデータが作成されたデバイスを信頼しますか？このパソコンの唯一のユーザーである場合にのみ「はい」を選択してください。"
+
+    old "Lyric Subtitles"
+    new "歌詞の字幕"
+
+    old "Dialogue Subtitles"
+    new "会話の字幕"
