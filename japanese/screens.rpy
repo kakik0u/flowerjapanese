@@ -92,7 +92,6 @@ translate japanese strings:
     old "퀵세이브 목록"
     new "クイックセーブ一覧"
 
-<<<<<<< Updated upstream
     # game/screens.rpy:1247
     old "PAGE{}"
     new "ページ{}"
@@ -104,8 +103,6 @@ translate japanese strings:
     # game/screens.rpy:1247
     old "QUICKSAVE"
     new "クイックセーブ"
-=======
->>>>>>> Stashed changes
 
     # game/screens.rpy:1479
     old "마지막으로 저장됨"
@@ -265,9 +262,6 @@ translate japanese strings:
     new "{alpha=0.5}ヒョンジ{/alpha}"
 
     old "{alpha=0.5}유미{/alpha}"
-<<<<<<< Updated upstream
-    new "{alpha=0.5}ユミ{/alpha}"
-=======
     new "{alpha=0.5}ユミ{/alpha}"
 
     old "Labs"
@@ -278,4 +272,3 @@ translate japanese strings:
 
     old "Language Switch Shortcuts"
     new "言語切り替えショートカット"
->>>>>>> Stashed changes
