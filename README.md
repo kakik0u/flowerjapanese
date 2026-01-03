@@ -36,6 +36,8 @@ Ver1.51: 一部アプデによって変更された翻訳文などを修正
 
 Ver2.0: Chapter1を完全に人力の翻訳に置き換えました。褒めて...
 
+Ver3.0: Chapter2も人力翻訳に書き換えました。うう...
+
 ## 謝辞
 [flowernovelzhHans](https://github.com/codeforker654/flowernovelzhHans) さんの機械翻訳を使用させていただきました。ありがとうございます。
 

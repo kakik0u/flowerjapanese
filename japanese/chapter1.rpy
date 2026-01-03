@@ -3742,7 +3742,7 @@ translate japanese chapter1_2_6666105a:
 translate japanese chapter1_2_3ef17df9:
 
     # "어쩌다 보니 학교에서의 일과가 끝나고, 벌써 하교할 시간이 되어 있었다."
-    "気がつけば学校での日課が終わって、もう下校する時間になっていた。"
+    "気がつけば学校での授業が終わって、もう下校する時間になっていた。"
 
 # game/chapter1.rpy:1716
 translate japanese chapter1_2_e67b91cb:
@@ -5948,7 +5948,7 @@ translate japanese chapter1_2_f63484cb:
 translate japanese chapter1_2_2e87430a:
 
     # "도시 괴담의 조사를 위해서는 사실을 기반으로 한 자료가 꼭 필요하다며, 근 몇 년간 일어났던 사건 사고들을 모두 정리해놓은 거대한 데이터베이스. "
-    "都市伝説の調査のためには事実に基づいた資料が必ず必要だと言って、ここ数年間に起きた事件事故をすべてまとめておいた巨大なデータベース。"
+    "都市伝説の調査のためには事実に基づいた資料が必ず必要だと言って、ここ数年間に起きた事件や事故をすべてまとめておいた巨大なデータベース。"
 
 # game/chapter1.rpy:2637
 translate japanese chapter1_2_510e4a2d:
