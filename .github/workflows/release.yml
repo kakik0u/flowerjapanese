@@ -35,13 +35,5 @@ jobs:
         with:
           tag_name: ${{ inputs.version }}
           name: ${{ inputs.version }}
-          body: |
-  変更点:
-  ${{ inputs.changes }}
-
-  インストール方法:
-  zipを解凍し、Flowers Blooming at the End of Summerのゲームフォルダーのgame/tl　に配置する。tlフォルダーがなければtlフォルダーを作る。
-  Steam版の場合は、
-  "<SteamLibraryのパス>\SteamLibrary\steamapps\common\Flowers Blooming at the End of Summer\game\tl\japanese"となるように配置してください。Steamの場合はローカルファイルを閲覧するで簡単にゲームフォルダーに飛べると思います。
-  詳しくは[Readme](https://github.com/kakik0u/flowerjapanese/blob/main/README.md)をご覧ください。
+          body: ${{ inputs.changes }}
           files: japanese.zip
