@@ -2740,7 +2740,7 @@ translate japanese ecg3_label_c6444f3f:
     # voice "voices/yb19.ogg"
     # 유미 "“상영관은 3층 F관이래. 10분 뒤에 시작한다니까, 천천히 올라가자.”"
     voice "voices/yb19.ogg"
-    유미 "「場所は3階のFだって。10分後に始まるから、ゆっくり行こう」"
+    유미 "「上映は3階Fシアターだって。10分後に始まるから、ゆっくり行こう」"
 
 # game/chapter2.rpy:1219
 translate japanese ecg3_label_0cbc4a9a:
@@ -2772,7 +2772,7 @@ translate japanese ecg3_label_d5d21bd1:
 translate japanese ecg3_label_c11bb4f8:
 
     # "자리에 앉아 상영관 한가운데의 무대를 바라보며, 나는 유미에게 물었다. "
-    "席に座って上映館の中央にあるスクリーンを眺めながら、俺はユミに聞いた。"
+    "席に座ってシアターの中央にあるステージを眺めながら、俺はユミに聞いた。"
 
 # game/chapter2.rpy:1232
 translate japanese ecg3_label_948cde4e:
@@ -2840,7 +2840,7 @@ translate japanese ecg3_label_70efc1a8:
 translate japanese ecg3_label_1c012b8c:
 
     # "하나. "
-    "1人"
+    "一。"
 
 # game/chapter2.rpy:1273
 translate japanese ecg3_label_336eb5fe:
@@ -2852,7 +2852,7 @@ translate japanese ecg3_label_336eb5fe:
 translate japanese ecg3_label_987179b0:
 
     # "둘. "
-    "2人"
+    "二。"
 
 # game/chapter2.rpy:1278
 translate japanese ecg3_label_2f29ea6c:
@@ -2864,7 +2864,7 @@ translate japanese ecg3_label_2f29ea6c:
 translate japanese ecg3_label_89a0d87e:
 
     # "그리고 이번이 마지막, 셋. "
-    "そして今回が最後、3人。"
+    "そして今回が最後、三。"
 
 # game/chapter2.rpy:1283
 translate japanese ecg3_label_1c84efd9:
@@ -2978,7 +2978,7 @@ translate japanese ecg3_label_b894d0e2:
 translate japanese ecg3_label_b641f57a:
 
     # "다시금 옅은 조명이 출입구를 비추고, 사람들이 하나둘 상영관을 빠져 나가기 시작한다. "
-    "再び淡い照明が出入り口を照らし、人々が一人二人と上映館を出て行き始める。"
+    "再び淡い照明が出入り口を照らし、人々が一人二人とシアターを出て行き始める。"
 
 # game/chapter2.rpy:1334
 translate japanese ecg3_label_7a0399f0:
@@ -7456,5 +7456,5 @@ translate japanese ecg3_label_385c8306:
 translate japanese ecg3_label_006ac8fd:
 
     # "곧장 후텁지근한 여름의 열기가 나를 맞이했다."
-    "すぐに蒸し暑い夏の熱気が俺を迎えた。{w=1}{cmt=japanese_TRANSLATE}訳注{/cmt}"
+    "すぐに蒸し暑い夏の熱気が俺を迎えた。"
 
