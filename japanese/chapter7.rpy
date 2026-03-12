@@ -12526,7 +12526,7 @@ translate japanese chapter7_3_6964f663:
     # voice "voices/gh89.ogg"
     # 가연 "“나쁜 사람을 좋아한다니, 나쁜 사람이잖아.”"
     voice "voices/gh89.ogg"
-    가연 "「悪い人を好きになるなんて、悪い人じゃない。」"
+    가연 "「悪い人を好きになるなんて、悪人じゃない。」"
 
 # game/chapter7.rpy:5320
 translate japanese chapter7_3_0eb48703:
@@ -12534,7 +12534,7 @@ translate japanese chapter7_3_0eb48703:
     # voice ""
     # 나 "“그래야 한다면, 몇 번이고 나쁜 사람이 될 수 있어.”"
     voice ""
-    나 "「そうしなきゃいけないなら、何度だって悪い人になれるよ。」"
+    나 "「そうしなきゃいけないなら、何度だって悪人になれるよ。」"
 
 # game/chapter7.rpy:5322
 translate japanese chapter7_3_c121ea44:
