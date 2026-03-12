@@ -11,4 +11,7 @@ init python:
     TooltipComment("japanese_3B","韓国版のカロリーメイトみたいな商品。")
     TooltipComment("japanese_3C","栗という意味。")
     TooltipComment("japanese_3D","韓国のことわざ。日本語で言うと「腹が減っては戦はできぬ」")
+    TooltipComment("japanese_4A","テレイドスコープは望遠鏡（テレスコープ）と万華鏡(カレイドスコープ)を組み合わせた万華鏡の一種。")
+    TooltipComment("japanese_4B","痛いの痛いの飛んでけ〜的な韓国の慣用句。")
+    TooltipCommnet("japanese_4C","遺伝子組み換え野菜のこと。")
     TooltipComment("japanese_TRANSLATE","ここまでは人による翻訳が完了していますが、以降は機械翻訳です。")

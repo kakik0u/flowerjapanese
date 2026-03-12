@@ -752,7 +752,7 @@ translate japanese chapter3_396673fa_1:
 translate japanese chapter3_abbc0548:
 
     # "나를 이상하다는 듯 빤히 쳐다보는 한 여학생."
-    "不思議そうにじっとこちらを見つめる女子生徒がひとり。"
+    "不思議そうにじっとこちらを見つめる女子がひとり。"
 
 # game/chapter3.rpy:309
 translate japanese chapter3_77062e61:
@@ -1132,7 +1132,7 @@ translate japanese chapter3_9637f5a9:
 translate japanese chapter3_32f591c2:
 
     # "나의 새까만 거짓말과는 달리, 방금 그 소녀는 분명 나와 미나라는 여학생이 각별한 사이였다고 착각한 나머지 새하얀 거짓말을 내뱉은 거겠지."
-    "俺の真っ黒な嘘とは違い、さっきの少女はきっと俺とミナという女子生徒が特別な仲だったと勘違いして、真っ白な嘘をついたのだろう。"
+    "俺の真っ黒な嘘とは違い、さっきの少女はきっと俺とミナという女子が特別な仲だったと勘違いして、真っ白な嘘をついたのだろう。"
 
 # game/chapter3.rpy:441
 translate japanese chapter3_bd26c741:
@@ -1168,7 +1168,7 @@ translate japanese chapter3_55fcbfe4:
 translate japanese chapter3_2580b118:
 
     # "나는 잠시 흘러가는 구름을 바라보며 그 미나라는 여학생이 좋은 곳으로 이사 갔길 바라 주었다."
-    "俺はしばし流れゆく雲を眺めながら、そのミナという女子生徒がいいところに引っ越していることを祈った。"
+    "俺はしばし流れゆく雲を眺めながら、そのミナという女子がいいところに引っ越していることを祈った。"
 
 # game/chapter3.rpy:453
 translate japanese chapter3_fb9b6eed:
@@ -1234,7 +1234,7 @@ translate japanese chapter3_81acbf2a:
 translate japanese chapter3_4fab0145:
 
     # 나 "“지나가던 사람한테 들었는데, 우리가 찾던 여학생 집은 저쪽이래.”"
-    나 "「通りがかりの人に聞いたんだけど、俺たちが探してた女子生徒の家はあっちらしいぞ。」"
+    나 "「通りがかりの人に聞いたんだけど、俺たちが探してた女子の家はあっちらしいぞ。」"
 
 # game/chapter3.rpy:478
 translate japanese chapter3_bb03ac15:
@@ -4798,7 +4798,7 @@ translate japanese chapter3_9c39620a:
 translate japanese chapter3_949e3c7a:
 
     # "유미의 취미는 내가 알고 있는 나머지 한 명의 너드 후배와는 달리 여타의 여학생과 비슷하니까, 혹시나 소녀도 이런 걸 내심 좋아하지는 않을까 하는 지극히 개인적인 생각."
-    "ユミの趣味は俺が知っているもうひとりのオタク後輩とは違って他の女子生徒と似ているから、もしかしたら少女もこういうのがひそかに好きなんじゃないかという、極めて個人的な考え。"
+    "ユミの趣味は俺が知っているもうひとりのオタク後輩とは違って他の女子と似ているから、もしかしたら少女もこういうのがひそかに好きなんじゃないかという、極めて個人的な考え。"
 
 # game/chapter3.rpy:1895
 translate japanese chapter3_33eba29c:
@@ -5772,7 +5772,7 @@ translate japanese ecg5_label_6978d54f:
     # voice "voices/gc106.ogg"
     # 소녀 "“이곳에서 떨어진 여학생은 죽기 전까지도 그 이야기를 되새겼나 봐요.”"
     voice "voices/gc106.ogg"
-    소녀 "「ここから落ちた女子生徒は、死ぬ最後まであの言葉を反芻していたみたいです。」"
+    소녀 "「ここから落ちた女子は、死ぬ最後まであの言葉を反芻していたみたいです。」"
 
 # game/chapter3.rpy:2426
 translate japanese ecg5_label_784526b0:
@@ -5816,7 +5816,7 @@ translate japanese ecg5_label_e7680f10:
     # voice "voices/gc108.ogg"
     # 소녀 "“글쎄요. 저도 잘 모르겠어요. 하지만 그 여학생이 내린 결론은, 아무래도 '나는 죽어도 괜찮다'였던가 봐요.”"
     voice "voices/gc108.ogg"
-    소녀 "「さあ。私にもよくわかりません。でもその女子生徒が出した結論は、どうやら『自分は死んでも構わない』だったみたいです。」"
+    소녀 "「さあ。私にもよくわかりません。でもその女子が出した結論は、どうやら『自分は死んでも構わない』だったみたいです。」"
 
 # game/chapter3.rpy:2443
 translate japanese ecg5_label_58a114ae:
