@@ -7,4 +7,8 @@ init python:
     TooltipComment("japanese_2A", "初心者が経験や知識がないにもかかわらず、偶然の幸運で良い結果を出す現象")
     TooltipComment("japanese_2B","韓国語発音はアジッカジヌン")
     TooltipComment("japanese_2C","いわゆる\"含み\"")
+    TooltipComment("japanese_3A","切断されてもそれぞれが再生・生存する性質を持つ生物。")
+    TooltipComment("japanese_3B","韓国版のカロリーメイトみたいな商品。")
+    TooltipComment("japanese_3C","栗という意味。")
+    TooltipComment("japanese_3D","韓国のことわざ。日本語で言うと「腹が減っては戦はできぬ」")
     TooltipComment("japanese_TRANSLATE","ここまでは人による翻訳が完了していますが、以降は機械翻訳です。")

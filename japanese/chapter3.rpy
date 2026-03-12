@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2023-07-21 14:01
+﻿# TODO: Translation updated at 2026-03-11 21:02
 
 # game/chapter3.rpy:11
 translate japanese chapter3_b8f6b81f:
 
     # 나 "“이러다가 지옥 가는 건 아닐까 모르겠네.”"
-    나 "「これじゃあ地獄に行くんじゃないかと思うよ」"
+    나 "「こんなことしてたら地獄に落ちるんじゃないかな。」"
 
 # game/chapter3.rpy:13
 translate japanese chapter3_21c525c2:
 
     # "사그라들 기미가 보이지 않는 열기 속으로 발걸음을 내디디며, 나는 반쯤 농담조로 중얼거렸다."
-    "萎れる気配が見えない熱気の中に足を踏み入れながら、俺は半分冗談めかして呟いた。"
+    "未だ収まる気配のない熱気の中へ足を踏み出しながら、俺は半分冗談めかして呟いた。"
 
 # game/chapter3.rpy:15
 translate japanese chapter3_d838c90f:
@@ -18,7 +18,7 @@ translate japanese chapter3_d838c90f:
     # voice "voices/gc1.ogg"
     # 소녀 "“그럼 전 지옥에서 기다리고 있겠네요.”"
     voice "voices/gc1.ogg"
-    소녀 "「じゃあ私は地獄で待っていますね」"
+    소녀 "「それなら私、地獄で待ってますね。」"
 
 # game/chapter3.rpy:17
 translate japanese chapter3_28018958:
@@ -26,7 +26,7 @@ translate japanese chapter3_28018958:
     # voice ""
     # 나 "“뭐야, 그 반응은.”"
     voice ""
-    나 "「なにさ、その反応は」"
+    나 "「何だよ、その反応。」"
 
 # game/chapter3.rpy:20
 translate japanese chapter3_f35b7b6b:
@@ -34,7 +34,7 @@ translate japanese chapter3_f35b7b6b:
     # voice "voices/gc2.ogg"
     # 소녀 "“저도 공범이니까요.”"
     voice "voices/gc2.ogg"
-    소녀 "「私も共犯ですから」"
+    소녀 "「私も共犯ですから。」"
 
 # game/chapter3.rpy:27
 translate japanese chapter3_e228f1ad:
@@ -42,25 +42,25 @@ translate japanese chapter3_e228f1ad:
     # voice ""
     # "고개를 돌려 옆을 바라보자, 소녀의 미묘한 표정이 눈에 들어왔다."
     voice ""
-    "頭を振って横を見ると、少女の微妙な表情が目に入った。"
+    "振り向いて隣を見ると、少女の微妙な表情が目に入った。"
 
 # game/chapter3.rpy:29
 translate japanese chapter3_f65aa7fe:
 
     # "어떻게 해석해야 하는 걸까."
-    "どう解釈すればいいんだろう。"
+    "どう受け取ればいいんだ。"
 
 # game/chapter3.rpy:30
 translate japanese chapter3_ed1e41b3:
 
     # "소녀의 무뚝뚝한 목소리로 덧붙여진 이야기는 농담과 진담이 정확히 반씩 섞여 있는 것처럼 느껴졌다."
-    "少女のぶっきらぼうな声で付け加えられた話は冗談と真面目がちょうど半分ずつ混ざっているように感じられた。"
+    "少女のそっけない声で付け加えられたその言葉は、冗談と本気がちょうど半分ずつ混ざっているように感じられた。"
 
 # game/chapter3.rpy:33
 translate japanese chapter3_36ceea93:
 
     # 나 "“그나저나, 몰랐어. 저 가게 주인의 손녀가 그 화재 사고의 피해자였을 줄은.”"
-    나 "「ところで、知らなかったよ。あの店の店主の孫娘があの火事事故の被害者だったなんて」"
+    나 "「それにしても、知らなかったな。あの店の主人の孫娘が、あの火災事故の被害者だったとは。」"
 
 # game/chapter3.rpy:35
 translate japanese chapter3_da9881bd:
@@ -68,7 +68,7 @@ translate japanese chapter3_da9881bd:
     # voice "voices/gc3.ogg"
     # 소녀 "“그러게요. 하마터면 난처한 상황에 처할 뻔했어요.”"
     voice "voices/gc3.ogg"
-    소녀 "「そうですね。危うく困った状況に陥るところでした」"
+    소녀 "「そうですよね。危うくまずいことになるところでした。」"
 
 # game/chapter3.rpy:37
 translate japanese chapter3_f8208fad:
@@ -76,7 +76,7 @@ translate japanese chapter3_f8208fad:
     # voice ""
     # 나 "“그것도 그렇지만, 되게 쓸쓸해 보였지. 그 주인 할머니.”"
     voice ""
-    나 "「それもそうだけど、すごく寂しそうだったよ。あの店主のおばあさん」"
+    나 "「それもそうだけど、すごく寂しそうだったよな。あのおばあちゃん。」"
 
 # game/chapter3.rpy:40
 translate japanese chapter3_4071c131:
@@ -84,7 +84,7 @@ translate japanese chapter3_4071c131:
     # voice "voices/gc4.ogg"
     # 소녀 "“…… 좋은 곳에서 만났으면 좋겠네요.”"
     voice "voices/gc4.ogg"
-    소녀 "「……いいところで会えたらいいですね」"
+    소녀 "「……次はいいところで会えるといいですね。」"
 
 # game/chapter3.rpy:47
 translate japanese chapter3_062a32a4:
@@ -92,19 +92,19 @@ translate japanese chapter3_062a32a4:
     # voice ""
     # "좋은 곳이라."
     voice ""
-    "いいところだな。"
+    "いいところ、か。"
 
 # game/chapter3.rpy:49
 translate japanese chapter3_76b36823:
 
     # "그랬으면 좋겠네, 라고 생각하며, 나는 진심으로 그 두 사람을 향해 행운을 빌어 주었다."
-    "そうだったらいいね、と思いながら、俺は心からあの二人に幸運を祈ってあげた。"
+    "そうだといいな、と思いながら、俺は心からあの二人の幸運を祈った。"
 
 # game/chapter3.rpy:50
 translate japanese chapter3_4c316b84:
 
     # "몇 걸음 정도 말없이 발걸음을 내디뎠을까."
-    "何歩か黙って歩いていたろうか。"
+    "何歩ほど黙って歩いただろうか。"
 
 # game/chapter3.rpy:51
 translate japanese chapter3_c73b3f9b:
@@ -118,7 +118,7 @@ translate japanese chapter3_91430c4d:
     # voice "voices/gc5.ogg"
     # 소녀 "“제 가족도 그 할머니처럼 저를 여전히 생각하고 있을까요.”"
     voice "voices/gc5.ogg"
-    소녀 "「私の家族もあのおばあさんみたいに私のことをまだ思っているでしょうか」"
+    소녀 "「私の家族も、あのおばあさんみたいに、まだ私のことを想ってくれてるんでしょうか。」"
 
 # game/chapter3.rpy:60
 translate japanese chapter3_d3ea34bc:
@@ -126,7 +126,7 @@ translate japanese chapter3_d3ea34bc:
     # voice ""
     # 나 "“아마도. 아니, 분명 그렇지 않을까.”"
     voice ""
-    나 "「多分。いや、きっとそうじゃないか」"
+    나 "「たぶんな。いや、きっとそうだろ。」"
 
 # game/chapter3.rpy:63
 translate japanese chapter3_180a373e:
@@ -134,7 +134,7 @@ translate japanese chapter3_180a373e:
     # voice "voices/gc6.ogg"
     # 소녀 "“…… 그렇겠죠.”"
     voice "voices/gc6.ogg"
-    소녀 "「……そうでしょうね」"
+    소녀 "「……そうですよね。」"
 
 # game/chapter3.rpy:66
 translate japanese chapter3_4e4da672:
@@ -142,7 +142,7 @@ translate japanese chapter3_4e4da672:
     # voice ""
     # "고개를 희미하게 끄덕이는 소녀의 표정에서는 진한 쌉싸름함이 묻어났다."
     voice ""
-    "かすかに頷く少女の表情からは、深い苦しさが滲み出ていた。"
+    "力なく頷く少女の顔には、苦く切ない表情がにじんでいた。"
 
 # game/chapter3.rpy:72
 translate japanese chapter3_379b699b:
@@ -150,7 +150,7 @@ translate japanese chapter3_379b699b:
     # voice "voices/gc7.ogg"
     # 소녀 "“하지만, 전혀 기억나지 않네요.”"
     voice "voices/gc7.ogg"
-    소녀 "「でも、全然覚えてないんです」"
+    소녀 "「でも、まったく思い出せないんですよね。」"
 
 # game/chapter3.rpy:74
 translate japanese chapter3_e246405f:
@@ -158,7 +158,7 @@ translate japanese chapter3_e246405f:
     # voice ""
     # 나 "“아, 으응…….”"
     voice ""
-    나 "「あ、うん……」"
+    나 "「あ、うん……。」"
 
 # game/chapter3.rpy:77
 translate japanese chapter3_85cc396b:
@@ -166,7 +166,7 @@ translate japanese chapter3_85cc396b:
     # voice "voices/gc8.ogg"
     # 소녀 "“왠지 쌀쌀한 기분이에요.”"
     voice "voices/gc8.ogg"
-    소녀 "「なんだか寒い気分です」"
+    소녀 "「なんだか肌寒い気分です。」"
 
 # game/chapter3.rpy:80
 translate japanese chapter3_a2f3ddf2:
@@ -174,7 +174,7 @@ translate japanese chapter3_a2f3ddf2:
     # voice ""
     # "한여름의 쌀쌀한 기분이란 어떤 것일지, 좀처럼 감이 잡히지 않았다."
     voice ""
-    "真夏の寒い気分とはどんなものなのか、なかなか感覚が掴めなかった。"
+    "真夏に肌寒い気分とはどんなものか、いまひとつ掴めなかった。"
 
 # game/chapter3.rpy:88
 translate japanese chapter3_09f48090:
@@ -182,7 +182,7 @@ translate japanese chapter3_09f48090:
     # voice "voices/gc9.ogg"
     # 소녀 "“그럼 이제, 어디로 가야 하나요?”"
     voice "voices/gc9.ogg"
-    소녀 "「じゃあ、これからどこに行きましょうか？」"
+    소녀 "「それじゃあ次は、どこに行けばいいですか？」"
 
 # game/chapter3.rpy:93
 translate japanese chapter3_0f854cb1:
@@ -190,19 +190,19 @@ translate japanese chapter3_0f854cb1:
     # voice ""
     # "소녀는 다시 걸음을 한 발짝 내디디고서는, 아주 약간 높아진 톤으로 내게 말을 건넸다."
     voice ""
-    "少女は再び一歩踏み出してから、少し高くなったトーンで私に話しかけた。"
+    "少女は再び一歩踏み出すと、ほんの少し高くなったトーンで俺に話しかけた。"
 
 # game/chapter3.rpy:95
 translate japanese chapter3_1902dc05:
 
     # "어쩌다 보니 제법 무거워져 버린 분위기를 풀고자 하는 소녀 나름대로의 노력이었으리라."
-    "どうやらかなり重くなってしまった雰囲気を和らげようとする少女なりの努力だったのだろう。"
+    "いつの間にかずいぶん重くなってしまった空気を和らげようとする、少女なりの努力だったのだろう。"
 
 # game/chapter3.rpy:97
 translate japanese chapter3_15ba224b:
 
     # 나 "“마지막으로 근처에 있는 주택가 쪽으로 가 보려고. 그쪽에서도 1년 전에 화재가 일어났거든.”"
-    나 "「最後に近くにある住宅街の方に行ってみようと思ってる。あっちでも1年前に火事が起きたんだ」"
+    나 "「最後に近くの住宅街のほうに行ってみようと思う。あっちでも1年前に火災があったんだ。」"
 
 # game/chapter3.rpy:99
 translate japanese chapter3_f497c104:
@@ -210,7 +210,7 @@ translate japanese chapter3_f497c104:
     # voice "voices/gc10.ogg"
     # 소녀 "“여기서 그리 먼 곳은 아닌가 보네요.”"
     voice "voices/gc10.ogg"
-    소녀 "「ここからそんなに遠くないところなんですね」"
+    소녀 "「ここからそんなに遠くなさそうですね。」"
 
 # game/chapter3.rpy:102
 translate japanese chapter3_d28cbfbd:
@@ -218,67 +218,67 @@ translate japanese chapter3_d28cbfbd:
     # voice ""
     # 나 "“으응, 걸어서 30분 정도면 도착할 거야.”"
     voice ""
-    나 "「うん、歩いて30分くらいで着くよ」"
+    나 "「うん、歩いて30分くらいで着くと思う。」"
 
 # game/chapter3.rpy:105
 translate japanese chapter3_f94eb1e4:
 
     # "아마도 오늘의 마지막 경유지가 될 장소로 향하는 길."
-    "今日の最後の寄り道になる場所に向かう道。"
+    "おそらく今日最後の立ち寄り先になるであろう場所へ向かう道。"
 
 # game/chapter3.rpy:106
 translate japanese chapter3_b9551de1:
 
     # "그곳에서 일어날 일이 긍정적인 쪽이었으면 좋겠다고 생각하다 말고, 묘한 딜레마에 빠진다."
-    "そこで起こることが前向きな方だったらいいと思いつつ、妙なジレンマに陥る。"
+    "そこで起きることが前向きなことであればいいと考えた途端、妙なジレンマに陥る。"
 
 # game/chapter3.rpy:110
 translate japanese chapter3_8d678abe:
 
     # "소녀가 이야기했던 것처럼, 왠지 쌀쌀한 기분이었다."
-    "少女が言っていたように、なんだか寒い気分だった。"
+    "少女が言っていたように、なんだか肌寒い気分だった。"
 
 # game/chapter3.rpy:115
 translate japanese chapter3_bcc2caaa:
 
     # "주택가에 도착하자, 늘어져 있는 3층 정도 높이의 맨션과 허름해 보이는 주택들이 눈에 들어왔다."
-    "住宅街に着くと、3階ほどの高さのマンションとぼろぼろに見える住宅が目に入った。"
+    "住宅街に着くと、並んでいる3階建てほどのマンションとくたびれた住宅が目に入った。"
 
 # game/chapter3.rpy:116
 translate japanese chapter3_2dcfa736:
 
     # "듬성듬성 오가는 사람들이 간혹 혼잣말처럼 이야기를 중얼대는 나를 힐긋 바라보긴 했지만, 그뿐이었다."
-    "ちらほら行き交う人々が時々独り言のように話しをぶつぶつ言う私をチラッと見たが、それだけだった。"
+    "まばらに行き交う人々が、たまに独り言のようにぶつぶつ呟く俺をちらりと見ることはあったが、それだけだった。"
 
 # game/chapter3.rpy:117
 translate japanese chapter3_1e55b427:
 
     # "지도에 나타난 대로 세 번째 모퉁이에 접어들자, 좁다란 골목이 나타났다."
-    "地図に表示された通り、3番目の角に曲がると、狭い路地が現れた。"
+    "地図の通りに三つ目の角を曲がると、細い路地が現れた。"
 
 # game/chapter3.rpy:118
 translate japanese chapter3_08746cdd:
 
     # "더 이상의 자세한 정보가 지도에 나타나 있지는 않았지만, 화재가 일어났던 장소를 찾는 건 그리 어려운 일이 아니었다."
-    "これ以上の詳しい情報は地図に表示されていなかったが、火事が起きた場所を探すのはそんなに難しいことではなかった。"
+    "それ以上の詳しい情報は地図に載っていなかったが、火災が起きた場所を見つけるのはそう難しいことではなかった。"
 
 # game/chapter3.rpy:119
 translate japanese chapter3_60821b9a:
 
     # "두어 블록 정도를 더 걸어가서, 나와 소녀는 화재가 일어났던 것으로 추정되는 장소에 다다를 수 있었다."
-    "2、3ブロックほど歩いて行って、俺と少女は火事が起きたと推測される場所に辿り着くことができた。"
+    "もう二、三ブロックほど歩いて、俺と少女は火災が起きたと思われる場所にたどり着いた。"
 
 # game/chapter3.rpy:121
 translate japanese chapter3_dbed4a05:
 
     # 나 "“사람이 사는 것 같아 보이진 않지?”"
-    나 "「人が住んでるようには見えないだろ？」"
+    나 "「人が住んでるようには見えないよな？」"
 
 # game/chapter3.rpy:123
 translate japanese chapter3_3607383b:
 
     # "여전히 불에 그을린 흔적이 남아있는 벽면을 힐긋 바라보며, 나는 소녀에게 물었다."
-    "まだ火に焦げた跡が残っている壁面をチラッと見ながら、俺は少女に尋ねた。"
+    "まだ焼け焦げた跡が残る壁面をちらりと見やりながら、俺は少女に聞いた。"
 
 # game/chapter3.rpy:125
 translate japanese chapter3_e0472636:
@@ -286,7 +286,7 @@ translate japanese chapter3_e0472636:
     # voice "voices/gc11.ogg"
     # 소녀 "“그러게요.”"
     voice "voices/gc11.ogg"
-    소녀 "「そうですね」"
+    소녀 "「そうですね。」"
 
 # game/chapter3.rpy:130
 translate japanese chapter3_ae925b64:
@@ -294,73 +294,73 @@ translate japanese chapter3_ae925b64:
     # voice ""
     # "화재의 흔적은 생각했던 것보다 길게 이어져, 서너 가구의 벽면을 검게 칠해 놓고 있었다."
     voice ""
-    "火事の跡は思ったよりも長く続いて、数軒の壁面を黒く塗りつぶしていた。"
+    "火災の痕跡は思っていたより長く続いて、となり3、4軒の壁面を黒く染めていた。"
 
 # game/chapter3.rpy:132
 translate japanese chapter3_23cd5183:
 
     # "화재가 일어난 곳이 한 군데였던 것만은 아닌 모양이었다."
-    "火事が起きたところが一か所だけだったわけではないようだった。"
+    "火災が起きた場所が一箇所だけではなかったようだ。"
 
 # game/chapter3.rpy:134
 translate japanese chapter3_3e0e9f64:
 
     # 나 "“불이 제법 크게 번졌나 봐.”"
-    나 "「火が結構大きく燃え広がったみたいだな」"
+    나 "「結構大きく燃え広がったみたいだな。」"
 
 # game/chapter3.rpy:136
 translate japanese chapter3_224cf543:
 
     # "불길의 흔적이 이어진 곳을 찬찬히 바라보며, 익숙한 장소를 찾아온 것처럼 발걸음을 옮겼다."
-    "炎の跡が続いたところをじっくり見ながら、慣れ親しんだ場所に来たように足を動かした。"
+    "炎の痕跡が続く場所をじっと見つめながら、馴染みのある場所を訪ねてきたかのように歩みを進めた。"
 
 # game/chapter3.rpy:137
 translate japanese chapter3_16fecc88:
 
     # "실제로는 단 한 번도 와 본 적 없는 낯선 곳임에도 불구하고, 어딘가 정겨운 구석이 느껴지는 모습이었다."
-    "実際には一度も来たことのない見知らぬ場所なのにもかかわらず、どこか懐かしい隅が感じられる様子だった。"
+    "実際には一度も来たことのない見知らぬ場所であるにもかかわらず、どこか懐かしさが感じられた。"
 
 # game/chapter3.rpy:138
 translate japanese chapter3_0666619c:
 
     # "어쩌면 그 정겨운 것처럼 느껴지는 감각을, 나는 그리워하고 있었는지도 모르겠다."
-    "もしかしたらその懐かしいように感じられる感覚を、俺は恋しく思っていたのかもしれない。"
+    "もしかするとその懐しさを、俺は恋しく思っていたのかもしれない。"
 
 # game/chapter3.rpy:142
 translate japanese chapter3_ab561af0:
 
     # 나 "“여기까지 번졌었나 보네.”"
-    나 "「ここまで燃え広がってたんだな」"
+    나 "「ここまで燃え広がったみたいだな。」"
 
 # game/chapter3.rpy:144
 translate japanese chapter3_c63df49a:
 
     # "나와 소녀의 발걸음이 짙은 회색의 상처가 끊어진 지점에서 멈춰 섰다."
-    "俺と少女の足は濃い灰色の傷が途切れたところで止まった。"
+    "俺と少女の足が、濃い灰色の傷跡が途切れた地点で止まった。"
 
 # game/chapter3.rpy:145
 translate japanese chapter3_94435433:
 
     # "건너편 집에서는 주말 오후를 함께 보내는 가족 간의 행복한 이야기 소리가 들려오고 있었다."
-    "向かいの家からは週末の午後を一緒に過ごす家族間の幸せな話し声が聞こえてきた。"
+    "向かいの家からは、週末の午後を一緒に過ごす家族の幸せそうな話し声が聞こえていた。"
 
 # game/chapter3.rpy:147
 translate japanese chapter3_acf31ba4:
 
     # "불에 타 껍데기만 남은 이쪽의 풍경과는 상반된 것처럼 느껴지는 화기애애한 분위기였다."
-    "火に焼け残ったこの方の風景とは対照的に感じられる和やかな雰囲気だった。"
+    "焼けて殻だけになったこちらの風景とは対照的な、和やかな雰囲気だった。"
 
 # game/chapter3.rpy:148
 translate japanese chapter3_495c00e1:
 
     # "나는 다시금 시선을 무채색의 공간 속으로 옮겼다."
-    "俺は再び視線を無彩色の空間の中に移した。"
+    "俺は再び視線を無彩色の空間へと移した。"
 
 # game/chapter3.rpy:150
 translate japanese chapter3_bda82192:
 
     # 나 "“사람이 살고 있는 것 같진 않지만…… 그래도 내가 들어가면 좀 수상해 보이겠지?”"
-    나 "「人が住んでるようには見えないけど……でも俺が入っていったらちょっと怪しいだろ？」"
+    나 "「人が住んでるようには見えないけど……それでも俺が入ったら怪しく見えるよな？」"
 
 # game/chapter3.rpy:152
 translate japanese chapter3_e73f26df:
@@ -368,7 +368,7 @@ translate japanese chapter3_e73f26df:
     # voice "voices/gc12.ogg"
     # 소녀 "“저 혼자서도 괜찮아요.”"
     voice "voices/gc12.ogg"
-    소녀 "「私一人でも大丈夫ですよ」"
+    소녀 "「私一人でも大丈夫ですよ。」"
 
 # game/chapter3.rpy:154
 translate japanese chapter3_c63441d8:
@@ -376,31 +376,31 @@ translate japanese chapter3_c63441d8:
     # voice ""
     # 나 "“그럼, 여기서 기다리고 있을게.”"
     voice ""
-    나 "「じゃあ、ここで待ってるよ」"
+    나 "「じゃあ、ここで待ってるよ。」"
 
 # game/chapter3.rpy:162
 translate japanese chapter3_01a4ea32:
 
     # "나는 소녀가 반쯤 폐가처럼 변한 집으로 들어가는 것을 확인하고는, 슬며시 고개를 돌려 벽에 몸을 기대었다."
-    "俺は少女が半分廃屋になった家に入っていくのを確認してから、そっと頭を振って壁に身を寄せた。"
+    "少女が半ば廃墟のようになった家へ入っていくのを確認してから、俺はそっと振り返って壁にもたれかかった。"
 
 # game/chapter3.rpy:164
 translate japanese chapter3_a6469bee:
 
     # "무채색의 세계를 등진 나의 눈앞에는 온갖 색으로 덧칠된 세계가 펼쳐진다."
-    "無彩色の世界を背にした私の目の前にはあらゆる色で塗りつぶされた世界が広がっている。"
+    "無彩色の世界を背にした俺の目の前には、あらゆる色で塗り重ねられた世界が広がっていた。"
 
 # game/chapter3.rpy:165
 translate japanese chapter3_a610636f:
 
     # "아직 해가 지기엔 조금 이른 시간의 하늘은 물감을 풀어놓은 듯한 푸른색으로 칠해져 있었고, 도란도란 이야기 소리가 들려오는 맞은편의 가정집에서는 살갑기 그지없는 장밋빛 색이 새어 나오고 있었다."
-    "まだ日が沈むには少し早い時間の空は絵の具を溶かしたような青色で塗られていて、どんどん話し声が聞こえてくる向かいの家庭からは優しさが溢れる赤紫色の色が漏れ出ていた。"
+    "まだ日が沈むには少し早い時間の空は絵の具を溶かしたような青に染まっていて、穏やかな話し声が聞こえてくる向かいの家からは、この上なく温かな薔薇色が漏れ出ていた。"
 
 # game/chapter3.rpy:166
 translate japanese chapter3_8b2f33ea:
 
     # "내가 그리워하던 감각이란 이런 것이었을까."
-    "俺が恋しく思っていた感覚というのはこんなものだったのだろうか。"
+    "俺が恋しがっていた感覚とは、こういうものだったのだろうか。"
 
 # game/chapter3.rpy:168
 translate japanese chapter3_26f78543:
@@ -412,13 +412,13 @@ translate japanese chapter3_26f78543:
 translate japanese chapter3_7d31936d:
 
     # "가족이라는 단어가 나의 머릿속을 맴돌기 시작하자, 오래된 고민들이 하나둘씩 기다렸다는 듯 나의 앞에 모습을 드러냈다."
-    "家族という言葉が私の頭の中を巡り始めると、昔からの悩みが一つ二つと待っていたかのように私の前に姿を現した。"
+    "家族という言葉が頭の中を巡り始めると、古い悩みがひとつひとつ待っていたかのように姿を現した。"
 
 # game/chapter3.rpy:171
 translate japanese chapter3_b1cc8f63:
 
     # 나 "‘엄마랑 아빠는 어떻게 됐으려나…….’"
-    나 "「お母さんとお父さんはどうなったんだろう……」"
+    나 "(母さんと父さんはどうなったかな……。)"
 
 # game/chapter3.rpy:173
 translate japanese chapter3_851fcc06:
@@ -430,49 +430,49 @@ translate japanese chapter3_851fcc06:
 translate japanese chapter3_39172550:
 
     # "아니, 어쩌면 ‘잘 지냈을까?’라고 묻는 것이 옳은 것일지도 모르겠다."
-    "いや、もしかしたら「元気にしていただろうか？」と聞くのが正しいのかもしれない。"
+    "いや、もしかすると「元気だっただろうか？」と尋ねるのが正しいのかもしれない。"
 
 # game/chapter3.rpy:175
 translate japanese chapter3_00cf9476:
 
     # "불현듯 가게에서 보았던 노파의 얼굴이 다시 한번 떠올랐다."
-    "ふと店で見た老婆さんの顔がもう一度浮かんだ。"
+    "ふと、店で見た老婆の顔がもう一度思い浮かんだ。"
 
 # game/chapter3.rpy:177
 translate japanese chapter3_f351eaa5:
 
     # 나 "‘…… 잘 지낼 리가 없지.’"
-    나 "「……元気にするわけがないよな」"
+    나 "(……元気なわけないか。)"
 
 # game/chapter3.rpy:183
 translate japanese chapter3_07025c68:
 
     # "마치 꿈속에 들어있기라도 한듯, 나는 손을 펼쳐 손바닥을 빤히 바라보았다."
-    "まるで夢の中に入っているかのように、私は手を広げて手のひらをじっと見た。"
+    "まるで夢の中にいるかのように、俺は手を広げて掌をじっと見つめた。"
 
 # game/chapter3.rpy:184
 translate japanese chapter3_6346637c:
 
     # "나의 몸이 아니지만, 나는 나다."
-    "俺の体ではないけれど、私は俺だ。"
+    "俺の体ではないけれど、俺は俺だ。"
 
 # game/chapter3.rpy:185
 translate japanese chapter3_b0445de2:
 
     # "나라고 자각할 수 있는, 틀림없는 ‘나’이다."
-    "自分だと自覚できる、間違いない「私」だ。"
+    "俺だと自覚できる、紛れもない「俺」だ。"
 
 # game/chapter3.rpy:189
 translate japanese chapter3_4779f5c5:
 
     # "그렇다면 원래의 나는 어떻게 된 걸까?"
-    "それなら元の俺はどうなったんだろう？"
+    "だとすれば、元の俺はどうなったんだろう？"
 
 # game/chapter3.rpy:190
 translate japanese chapter3_837d6f22:
 
     # "정말로 빈 껍데기만 남게 된 걸까?"
-    "本当に空っぽの殻だけになってしまったのだろうか？"
+    "本当に空っぽの抜け殻だけが残ったのだろうか？"
 
 # game/chapter3.rpy:191
 translate japanese chapter3_4b92bd48:
@@ -484,49 +484,49 @@ translate japanese chapter3_4b92bd48:
 translate japanese chapter3_2a70c11b:
 
     # "하지만 나라고 자각하는 존재가 이렇게 멀쩡히 살아있는데?"
-    "でも私だと自覚する存在がこんなにも元気に生きているのに？"
+    "俺だと自覚する存在がこうしてちゃんと生きているのに？"
 
 # game/chapter3.rpy:195
 translate japanese chapter3_1e270fb3:
 
     # 나 "“하아…….”"
-    나 "「はあ……」"
+    나 "「はあ……。」"
 
 # game/chapter3.rpy:197
 translate japanese chapter3_b1090ef5:
 
     # "플라나리아처럼 내 영혼이 두 쪽이 나 갈라진 게 아니라면, 껍데기만 남은 내 몸체는 분명 죽은 것이나 다름없겠지."
-    "プラナリアのように俺の魂が二つに割れたわけではないなら、殻だけになった私の本体はきっと死んだものと変わらないだろう。"
+    "{cmt=japanese_3A}プラナリア{/cmt}のように魂が二つに割れたんじゃないとすれば、抜け殻だけ残った俺の体はきっと死んだも同然だろう。"
 
 # game/chapter3.rpy:198
 translate japanese chapter3_1cb09df5:
 
     # "한숨이 절로 새어 나왔다."
-    "ため息がふつふつとこみ上げてきた。"
+    "ため息が自然と漏れ出た。"
 
 # game/chapter3.rpy:200
 translate japanese chapter3_40c09318:
 
     # "걱정이 안 될래야 안 될 수가 없는 상황이었지만, 걱정한다고 해서 달라질 것도 없는 씁쓸한 상황이기도 했다."
-    "心配しないわけにはいかない状況だったが、心配しても変わることのない苦い状況でもあった。"
+    "心配するなと言われてもできない状況だったが、心配したところで変わるものもない、やるせない状況でもあった。"
 
 # game/chapter3.rpy:201
 translate japanese chapter3_f4b745c6:
 
     # "나는 벽에 기대어 선 채, 오랜만에 가족과 있었던 일들을 어렴풋이 회상했다."
-    "俺は壁にもたれて立ったまま、久しぶりに家族と過ごしたことをぼんやりと回想した。"
+    "俺は壁にもたれたまま、久しぶりに家族との思い出をおぼろげながらに振り返った。"
 
 # game/chapter3.rpy:202
 translate japanese chapter3_150fc2ab:
 
     # "군데군데 기억이 흐릿해진 곳이 있긴 했지만, 전체적으로 가족에 관한 기억은 다른 기억들에 비해 비교적 또렷이 남아있었다."
-    "所々記憶がぼやけているところはあったが、全体的に家族に関する記憶は他の記憶に比べて比較的鮮明に残っていた。"
+    "ところどころ記憶がぼやけている部分はあったものの、全体的に家族に関する記憶は他の記憶に比べて比較的はっきり残っていた。"
 
 # game/chapter3.rpy:206
 translate japanese chapter3_396673fa:
 
     # 나 "“…….”"
-    나 "「……」"
+    나 "「……。」"
 
 # game/chapter3.rpy:208
 translate japanese chapter3_fa82d3f6:
@@ -538,79 +538,79 @@ translate japanese chapter3_fa82d3f6:
 translate japanese chapter3_b27c2dbc:
 
     # "기억 속에서 앵무새처럼 돌아가야 한다고 말하던 무언의 아우성이 흐릿하게 들려왔다."
-    "記憶の中でオウムのように繰り返すべきだと言っていた何かの咆哮がかすかに聞こえてきた。"
+    "記憶の中でオウムのように戻らなきゃと叫んでいた無言の叫びが、かすかに聞こえた。"
 
 # game/chapter3.rpy:210
 translate japanese chapter3_294b3b94:
 
     # "하지만 그 외침이 들려온 곳은 미묘하기 짝이 없게도, 흐릿해진 기억의 틈 사이에서였다."
-    "でもその叫びが聞こえてきたところは微妙にもほどがあって、ぼやけた記憶の隙間の中だった。"
+    "だがその叫びが聞こえてきた場所は、皮肉なことに、ぼやけた記憶の隙間からだった。"
 
 # game/chapter3.rpy:211
 translate japanese chapter3_62158964:
 
     # "내가 기억하지 못하고 있는 내가 나를 부르는 것만 같은, 바보가 된 기분이었다."
-    "自分が覚えていない自分が私を呼んでいるような、馬鹿になった気分だった。"
+    "俺が覚えていない俺が俺を呼んでいるような、馬鹿みたいな気分だった。"
 
 # game/chapter3.rpy:212
 translate japanese chapter3_aab640ff:
 
     # "그리고 그 목소리는, 어째서인지 바로 나의 등 뒤에서 들려오고 있었다."
-    "そしてその声は、なぜかすぐに私の背後から聞こえてきていた。"
+    "そしてその声は、なぜか俺のすぐ背後から聞こえていた。"
 
 # game/chapter3.rpy:214
 translate japanese chapter3_ff7165a9:
 
     # "목소리가 선을 그렸다."
-    "声が線を描いた。"
+    "声が線を引いた。"
 
 # game/chapter3.rpy:215
 translate japanese chapter3_4ff9c27c:
 
     # "여태껏 희미한 점선으로밖에 그려지지 않던 목소리의 흐름이, 웬일인지 오늘따라 또렷한 직선을 이루고 있었다."
-    "今までかすかな点線しか描けなかった声の流れが、何故か今日ばかりは鮮明な直線を成していた。"
+    "これまでかすかな点線でしか描かれなかった声の流れが、今日に限ってはっきりとした直線を成していた。"
 
 # game/chapter3.rpy:219
 translate japanese chapter3_f50c2633:
 
     # "마치, 누군가와 나를 이어주려는 것처럼……."
-    "まるで、誰かと私を繋ごうとするように……。"
+    "まるで、誰かと俺をつなごうとしているかのように……。"
 
 # game/chapter3.rpy:230
 translate japanese chapter3_d5a382cb:
 
     # "기억 속의 나는 불길 속에서 왼손을 뻗어, 누군가의 손을 붙잡았다."
-    "記憶の中の俺は炎の中から左手を伸ばして、誰かの手を掴んだ。"
+    "記憶の中の俺は炎の中で左手を伸ばし、誰かの手を掴んだ。"
 
 # game/chapter3.rpy:231
 translate japanese chapter3_2e8c4425:
 
     # "불길에 그을린 듯한 오래된 기억이, 어렴풋이 나를 스쳐 지나가는 듯했다."
-    "炎に焦げたような古い記憶が、ぼんやりと私を掠めて通り過ぎるようだった。"
+    "焼け焦げたような古い記憶が、おぼろげに俺をかすめていくようだった。"
 
 # game/chapter3.rpy:233
 translate japanese chapter3_af348e35:
 
     # 나 "“괜찮아?! 정신이 들어?!”"
-    나 "「大丈夫か？意識はある？！」"
+    나 "「大丈夫か！？ しっかりしろ！！」"
 
 # game/chapter3.rpy:235
 translate japanese chapter3_fa7a516d:
 
     # "희미해지는 나의 목소리가 기억 속에서 점점 커지는 소방차의 사이렌 소리에 뒤섞인다."
-    "消えゆく私の声が記憶の中でどんどん大きくなる消防車のサイレン音に混ざる。"
+    "薄れゆく俺の声が、記憶の中でどんどん大きくなる消防車のサイレンに混ざっていく。"
 
 # game/chapter3.rpy:237
 translate japanese chapter3_b718546e:
 
     # "그런 일이 있었지."
-    "そんなことがあったんだ。"
+    "そんなことがあったっけ。"
 
 # game/chapter3.rpy:238
 translate japanese chapter3_b2bcdcce:
 
     # "그을린 벽을 바라보며, 나는 난데없이 떠오른 기억 하나를 멍하니 곱씹었다."
-    "焦げた壁を見ながら、俺はふと思い浮かんだ記憶をぼんやりと噛みしめた。"
+    "焦げた壁を見つめながら、俺は突然浮かんできたひとつの記憶をぼんやりと反芻した。"
 
 # game/chapter3.rpy:252
 translate japanese chapter3_923db7fc:
@@ -626,19 +626,19 @@ translate japanese chapter3_42d3ac6b:
     # voice ""
     # "나를 부르는 또렷한 목소리에 고개를 돌린다."
     voice ""
-    "俺を呼ぶはっきりとした声に頭を振る。"
+    "俺を呼ぶはっきりとした声に顔を向ける。"
 
 # game/chapter3.rpy:257
 translate japanese chapter3_d6ccdecf:
 
     # "그곳에는 분명히 그 자리에 존재해 나를 빤히 바라보는 소녀가 있었다."
-    "そこには確かにその場に存在して私をじっと見ている少女がいた。"
+    "そこには、確かにそこに存在して、俺をじっと見つめる少女がいた。"
 
 # game/chapter3.rpy:259
 translate japanese chapter3_2d5cfe60:
 
     # 나 "“아, 아무것도 아냐. 그냥 옛날 생각하고 있었어.”"
-    나 "「あ、なんでもないよ。ただ昔のことを思い出してた」"
+    나 "「あ、なんでもない。ちょっと昔のこと思い出してただけだ。」"
 
 # game/chapter3.rpy:261
 translate japanese chapter3_48d0fb5b:
@@ -646,7 +646,7 @@ translate japanese chapter3_48d0fb5b:
     # voice "voices/gc14.ogg"
     # 소녀 "“그랬군요.”"
     voice "voices/gc14.ogg"
-    소녀 "「そうですか」"
+    소녀 "「そうだったんですね。」"
 
 # game/chapter3.rpy:264
 translate japanese chapter3_1c970703:
@@ -654,13 +654,13 @@ translate japanese chapter3_1c970703:
     # voice ""
     # "나는 벽에 기대어 있던 자세를 고쳐 잡았다."
     voice ""
-    "俺は壁にもたれていた姿勢を直した。"
+    "俺は壁にもたれていた姿勢を正した。"
 
 # game/chapter3.rpy:267
 translate japanese chapter3_2cc636f1:
 
     # 나 "“어때? 기억나는 건 있었어?”"
-    나 "「どうだった？思い出すことはあったか？」"
+    나 "「どうだった？ 思い出したことはあった？」"
 
 # game/chapter3.rpy:271
 translate japanese chapter3_ad0602b2:
@@ -668,7 +668,7 @@ translate japanese chapter3_ad0602b2:
     # voice "voices/gc15.ogg"
     # 소녀 "“아뇨, 저기가 아니었나 봐요. 아무리 둘러봐도 죽음의 색은 보이지 않았어요.”"
     voice "voices/gc15.ogg"
-    소녀 "「いいえ、あそこじゃなかったみたいです。どれだけ見回しても死の色は見えませんでした」"
+    소녀 "「いえ、あそこじゃなかったみたいです。いくら見回しても死の色は見えませんでした。」"
 
 # game/chapter3.rpy:274
 translate japanese chapter3_3e8d3952:
@@ -676,31 +676,31 @@ translate japanese chapter3_3e8d3952:
     # voice ""
     # "그런 이야기와 함께 표정을 감추고 싶기라도 한 듯 뒤를 홱 돌아보는 소녀."
     voice ""
-    "そんな話と共に表情を隠したくてもなさそうに後ろをパッと振り返る少女。"
+    "そう言いながら表情を隠したいとでもいうように、くるりと後ろを振り返る少女。"
 
 # game/chapter3.rpy:276
 translate japanese chapter3_ab7277c8:
 
     # "죽음의 색이라."
-    "死の色だ。"
+    "死の色、か。"
 
 # game/chapter3.rpy:277
 translate japanese chapter3_afa0baf3:
 
     # "주변을 아무리 훑어보아도 나는 발견할 수 없는 색이겠지만, 소녀의 말대로 그녀가 방금 둘러보고 나온 집에서는 아무런 색채도 느껴지지 않았다."
-    "周りをどれだけ見回しても私には見つけられない色だろうが、少女の言うとおり彼女がさっき見てきた家からは何の色も感じられなかった。"
+    "周りをいくら見渡しても俺には見つけられない色だろうが、少女の言う通り、彼女がさっき見て回った家からは何の色彩も感じられなかった。"
 
 # game/chapter3.rpy:278
 translate japanese chapter3_06ddbf1e:
 
     # "실처럼 이어진 목소리가 들려오긴 했지만, 소녀가 느꼈던 그 색채와는 전혀 다른 무언가였겠지."
-    "糸のように続いた声は聞こえてきたが、少女が感じたその色とは全く違う何かだっただろう。"
+    "糸のように続く声は聞こえていたが、少女が感じたあの色彩とはまったく違うものだっただろう。"
 
 # game/chapter3.rpy:279
 translate japanese chapter3_2b717863:
 
     # "소녀가 바라본 그 색채가 궁금하긴 했지만, 애써 알고 싶지는 않았다."
-    "少女が見たその色が気になるのは事実だったが、わざわざ知りたいとは思わなかった。"
+    "少女が見たその色彩が気にはなったが、あえて知りたいとは思わなかった。"
 
 # game/chapter3.rpy:286
 translate japanese chapter3_39f04aae:
@@ -708,7 +708,7 @@ translate japanese chapter3_39f04aae:
     # voice "voices/gc16.ogg"
     # 소녀 "“그럼, 저쪽으로 한 번 갔다 와볼게요.”"
     voice "voices/gc16.ogg"
-    소녀 "「じゃあ、あちらに一回行ってきますね」"
+    소녀 "「じゃあ、あっちに一回行ってきますね。」"
 
 # game/chapter3.rpy:293
 translate japanese chapter3_088d0688:
@@ -716,61 +716,61 @@ translate japanese chapter3_088d0688:
     # voice ""
     # "불길의 흔적이 이어진 옆집으로 몇 걸음 정도 더 걸어가, 이번에도 인기척이 전혀 느껴지지 않는 집 안으로 들어가는 소녀의 뒷모습을 바라보았다."
     voice ""
-    "炎の跡が続いた隣の家にもう少し歩いて、今度も気配が全く感じられない家の中に入っていく少女の後姿を見た。"
+    "炎の跡が続く隣の家へ何歩か歩いて行き、今度も人の気配がまったく感じられない家の中に入っていく少女の後ろ姿を見送った。"
 
 # game/chapter3.rpy:295
 translate japanese chapter3_bf90730d:
 
     # "천천히 무채색의 세계 속으로 사라지는 소녀의 뒷모습에서는, 묘하게 쌀쌀한 기운이 감돌았다."
-    "ゆっくりと無彩色の世界の中に消えていく少女の後姿からは、妙に冷たい気配が漂っていた。"
+    "ゆっくりと無彩色の世界の中に消えていく少女の後ろ姿には、妙に寒々しい気配が漂っていた。"
 
 # game/chapter3.rpy:296
 translate japanese chapter3_a88528b0:
 
     # "반쯤 열려 있는 대문과 작동할 것 같아 보이지 않는 초인종을 위아래로 훑어보며, 나는 잠시 생각에 잠겼다."
-    "半分開いている玄関と動くように見えないチャイムを上下に見ながら、私はしばらく考えにふけった。"
+    "半分開いた門と動きそうにないインターホンを上から下まで眺めながら、俺はしばし考え込んだ。"
 
 # game/chapter3.rpy:297
 translate japanese chapter3_1450b4ae:
 
     # "초인종 옆에는 잔뜩 그을려 글씨를 알아볼 수 없는 명패가 걸려 있었다."
-    "チャイムの横にはずいぶん焦げて文字が読めない名札がかかっていた。"
+    "インターホンの横には、すっかり焼け焦げて字が読めなくなった表札がかかっていた。"
 
 # game/chapter3.rpy:301
 translate japanese chapter3_f99649d4:
 
     # "혹시나 새까맣게 묻어있는 그을음을 손으로 지워내 보면 이름을 확인할 수 있지 않을까 하는 생각과 함께 명패로 손을 뻗으려는데, 옆에서 시선이 느껴졌다."
-    "もしかしたら真っ黒に塗りつぶされた焦げを手でこすり取れば名前を確認できるのではないかと思って名札に手を伸ばそうとしたとき、横から視線を感じた。"
+    "もしかしたらべったりとついている煤を手で拭えば名前が分かるんじゃないかと思い、表札に手を伸ばそうとしたとき、横から視線を感じた。"
 
 # game/chapter3.rpy:303
 translate japanese chapter3_396673fa_1:
 
     # 나 "“…….”"
-    나 "「……」"
+    나 "「……。」"
 
 # game/chapter3.rpy:308
 translate japanese chapter3_abbc0548:
 
     # "나를 이상하다는 듯 빤히 쳐다보는 한 여학생."
-    "俺を変だというようにじっと見ている一人の女子生徒。"
+    "不思議そうにじっとこちらを見つめる女子生徒がひとり。"
 
 # game/chapter3.rpy:309
 translate japanese chapter3_77062e61:
 
     # "교복 차림은 아니었지만, 아마 중학생 정도가 아니었을까 추측되는 키와 외모였다."
-    "制服姿ではなかったが、多分中学生くらいではないかと推測される身長と容姿だった。"
+    "制服姿ではなかったが、おそらく中学生くらいだろうと推測される背丈と見た目だった。"
 
 # game/chapter3.rpy:310
 translate japanese chapter3_a1d8df5a:
 
     # "이번에도 내 주변을 스쳐 지나가는 사람 중 한 명이겠거니 하고 생각하고는, 명패에 가져대려던 손을 내리곤 아무 일도 없었다는 듯 시선을 돌렸다."
-    "今回も俺の周りをすり抜けていく人の中の一人だろうと思って、名札に手を伸ばそうとしていた手を下ろして何事もなかったように視線をそらした。"
+    "今度も俺の周りを通り過ぎる人のひとりだろうと思い、表札に伸ばしかけた手を下ろして何事もなかったかのように視線をそらした。"
 
 # game/chapter3.rpy:311
 translate japanese chapter3_792af692:
 
     # "괜히 수상하게 보일 만한 일은 하지 않는 게 좋을 테니까."
-    "無用に怪しまれるようなことはしない方がいいだろう。"
+    "下手に怪しまれるようなことはしない方がいいだろうから。"
 
 # game/chapter3.rpy:313
 translate japanese chapter3_c1e56ef8:
@@ -792,7 +792,7 @@ translate japanese chapter3_8751f048:
 translate japanese chapter3_ab692cdb:
 
     # 나 "“응? 아무것도…….”"
-    나 "「え？なんでも……」"
+    나 "「ん？ 何も……。」"
 
 # game/chapter3.rpy:324
 translate japanese chapter3_8bd8e14c:
@@ -800,7 +800,7 @@ translate japanese chapter3_8bd8e14c:
     # voice "voices/c2.ogg"
     # who "“거짓말. 아까부터 지켜보고 있었다고요. 계속 혼잣말만 중얼거리고, 여기 무슨 볼일이라도 있어서 온 거예요?”"
     voice "voices/c2.ogg"
-    who "「嘘。さっきから見てたんですよ。ずっと独り言ばかり呟いて、ここに何か用でもあって来たんですか？」"
+    who "「嘘。さっきからずっと見てたんですよ。ずっと独り言ばかりブツブツ言って、ここに何か用事でもあって来たんですか？」"
 
 # game/chapter3.rpy:326
 translate japanese chapter3_97c566de:
@@ -808,37 +808,37 @@ translate japanese chapter3_97c566de:
     # voice ""
     # "그 여자아이의 눈에 나는 이미 이상한 사람으로 낙인찍혀 있었던 모양이었다."
     voice ""
-    "その女の子の目に私はもう変な人として刻印されていたようだった。"
+    "その女の子の目には、俺はすでに不審者の烙印を押されていたようだった。"
 
 # game/chapter3.rpy:329
 translate japanese chapter3_1227fdbc:
 
     # "해가 지지 않은 주택가의 골목길은 여전히 더웠다."
-    "日が沈まない住宅街の路地は相変わらず暑かった。"
+    "日が沈んでいない住宅街の路地裏は、相変わらず暑かった。"
 
 # game/chapter3.rpy:330
 translate japanese chapter3_19f85936:
 
     # "다시 말해, 나의 사고 회로를 날카롭게 만들 수 있는 환경이 아니라는 뜻이었다."
-    "つまり、私の思考回路を鋭くさせることができる環境ではないということだった。"
+    "つまり、俺の思考回路を鋭く研ぎ澄ませるような環境ではないということだった。"
 
 # game/chapter3.rpy:332
 translate japanese chapter3_b501945a:
 
     # 나 "“아…… 그게. 실은, 예전에 여기 살던 여자애랑 같은 반 친구였거든.”"
-    나 "「あ……それがね。実は、昔ここに住んでた女の子と同じクラスの友達だったんだ」"
+    나 "「あ……その。実は、前にここに住んでた女の子と同じクラスの友達だったんだ。」"
 
 # game/chapter3.rpy:334
 translate japanese chapter3_75278cac:
 
     # "무의식적으로 여자아이의 시선을 마주 보는 것을 피하고선, 나는 그렇게 말했다."
-    "無意識に女の子の視線と目が合うのを避けながら、私はそう言った。"
+    "無意識に女の子の視線と目を合わせるのを避けながら、俺はそう言った。"
 
 # game/chapter3.rpy:335
 translate japanese chapter3_d973c175:
 
     # "결국 내가 택한 것은 아까 가게에서 급히 생각해냈던 거짓말을 재활용하는 쪽이었다."
-    "結局私が選んだのはさっき店で急いで考えた嘘を再利用する方だった。"
+    "結局俺が選んだのは、さっき店で急いでひねり出した嘘を使い回すことだった。"
 
 # game/chapter3.rpy:340
 translate japanese chapter3_b8800c1d:
@@ -846,7 +846,7 @@ translate japanese chapter3_b8800c1d:
     # voice "voices/c3.ogg"
     # who "“아하, 저쪽 집에 살던 언니 말하는 거죠?”"
     voice "voices/c3.ogg"
-    who "「ああ、あちらの家に住んでたお姉さんのことですか？」"
+    who "「ああ、あっちの家に住んでたお姉さんのことですね？」"
 
 # game/chapter3.rpy:342
 translate japanese chapter3_ef9d2df5:
@@ -854,19 +854,19 @@ translate japanese chapter3_ef9d2df5:
     # voice ""
     # "의외로 그 여자아이의 얼굴에 서려 있던 ‘당신, 수상해요’라고 말하는 듯한 표정은 금세 반쯤 사그라들었다."
     voice ""
-    "意外にもその女の子の顔にかかっていた「あなた、怪しいですよ」と言っているような表情はすぐに半分ほど消えた。"
+    "意外にも、その女の子の顔に漂っていた『お前、怪しいですよ』とでも言いたげな表情は、すぐに半分ほど薄れた。"
 
 # game/chapter3.rpy:344
 translate japanese chapter3_56781845:
 
     # "다만, 그녀가 가리킨 곳은 내가 서 있던 집 앞이 아닌, 한 칸 떨어진 곳에 위치한 2층짜리 주택이었다."
-    "ただ、彼女が指したところは私が立っていた家の前ではなく、一つ離れたところに位置する2階建ての住宅だった。"
+    "ただし、彼女が指し示した場所は俺が立っていた家の前ではなく、一軒隣にある二階建ての住宅だった。"
 
 # game/chapter3.rpy:346
 translate japanese chapter3_3fd3451b:
 
     # 나 "“으, 으응. 맞아.”"
-    나 "「え、ええ。そうだよ」"
+    나 "「う、うん。そうだよ。」"
 
 # game/chapter3.rpy:350
 translate japanese chapter3_0138c967:
@@ -874,7 +874,7 @@ translate japanese chapter3_0138c967:
     # voice "voices/c4.ogg"
     # who "“그런데 왜 그쪽 주변을 서성이고 있던 거예요?”"
     voice "voices/c4.ogg"
-    who "「でもなんであちらの辺りをウロウロしてたんですか？」"
+    who "「それで、なんでその辺をうろうろしてたんですか？」"
 
 # game/chapter3.rpy:352
 translate japanese chapter3_33ea8265:
@@ -882,7 +882,7 @@ translate japanese chapter3_33ea8265:
     # voice ""
     # 나 "“여기 들르는 건 오랜만이라서. 예전에 먼 학교로 전학을 간 바람에, 옛날 생각이 나서 둘러보고 있었어.”"
     voice ""
-    나 "「ここに来るのは久しぶりだからさ。昔遠い学校に転校してしまって、昔のことを思い出して見回してたんだ」"
+    나 "「ここに来るのは久しぶりでさ。前に遠い学校に転校しちゃったから、昔のこと思い出して見て回ってたんだ。」"
 
 # game/chapter3.rpy:354
 translate japanese chapter3_34ca4ea4:
@@ -890,7 +890,7 @@ translate japanese chapter3_34ca4ea4:
     # voice "voices/c5.ogg"
     # who "“하긴…… 생각해보니까 여기에 수상한 사람이 올 리는 없겠네요.”"
     voice "voices/c5.ogg"
-    who "「そうですか……考えてみればここに怪しい人が来るわけないですよね」"
+    who "「まあ……考えてみたら、ここに怪しい人が来るわけないですよね。」"
 
 # game/chapter3.rpy:357
 translate japanese chapter3_67f82946:
@@ -898,7 +898,7 @@ translate japanese chapter3_67f82946:
     # voice ""
     # "여자아이는 나에게서 의심의 눈초리를 완전히 거둔 것처럼 보였다."
     voice ""
-    "女の子は私から疑いの目を完全に引き上げたようだった。"
+    "女の子は俺に対する疑いの目をすっかり収めたようだった。"
 
 # game/chapter3.rpy:362
 translate japanese chapter3_8aa860f2:
@@ -914,7 +914,7 @@ translate japanese chapter3_f77e82e2:
     # voice ""
     # 나 "“A구역에서 왔어.”"
     voice ""
-    나 "「A区から来たよ」"
+    나 "「A地区から来たんだ。」"
 
 # game/chapter3.rpy:369
 translate japanese chapter3_19ccc8e7:
@@ -922,7 +922,7 @@ translate japanese chapter3_19ccc8e7:
     # voice "voices/c7.ogg"
     # who "“그렇게나 멀리요?”"
     voice "voices/c7.ogg"
-    who "「そんなに遠いんですか？」"
+    who "「そんなに遠くからですか？」"
 
 # game/chapter3.rpy:372
 translate japanese chapter3_faa4802d:
@@ -930,25 +930,25 @@ translate japanese chapter3_faa4802d:
     # voice ""
     # 나 "“뭐…… 어쩌다 보니.”"
     voice ""
-    나 "「まあ……どういうわけかね」"
+    나 "「まあ……成り行きで。」"
 
 # game/chapter3.rpy:375
 translate japanese chapter3_14f6a07b:
 
     # "A구역에서 왔다는 나의 말에, 나를 보는 소녀의 감상이 수상하다는 쪽에서 신기하다는 쪽으로 바뀐 듯했다."
-    "A区から来たという私の言葉に、私を見る少女の感想が怪しいという方から不思議という方に変わったようだった。"
+    "A地区から来たという俺の言葉に、少女の印象が「怪しい」から「珍しい」へと変わったようだった。"
 
 # game/chapter3.rpy:376
 translate japanese chapter3_37fbc7b9:
 
     # "휘둥그레진 그녀의 눈동자가 나를 향했다."
-    "ほころんだ彼女の瞳が私に向けられた。"
+    "まん丸に見開かれた彼女の瞳が俺に向けられた。"
 
 # game/chapter3.rpy:378
 translate japanese chapter3_ec227bc2:
 
     # 나 "“그 여자애랑은 서로 아는 사이였어?”"
-    나 "「あの女の子とは知り合いだったの？」"
+    나 "「その子とは知り合いだったの？」"
 
 # game/chapter3.rpy:379
 translate japanese chapter3_dcd0fa94:
@@ -956,7 +956,7 @@ translate japanese chapter3_dcd0fa94:
     # voice "voices/c8.ogg"
     # who "“조금은요. 그냥 알고 지내던 언니였어요. 그쪽은요?”"
     voice "voices/c8.ogg"
-    who "「少しですよ。ただ知っているお姉さんでした。あちらはどうですか？」"
+    who "「少しだけ。ただの知り合いのお姉さんでした。そっちは？」"
 
 # game/chapter3.rpy:381
 translate japanese chapter3_909b251c:
@@ -964,7 +964,7 @@ translate japanese chapter3_909b251c:
     # voice ""
     # 나 "“나도 조금. 알고만 지내던 클래스메이트였어.”"
     voice ""
-    나 "「俺も少し。知ってるだけのクラスメイトだったよ」"
+    나 "「俺もちょっとだけ。顔見知り程度のクラスメイトだったよ。」"
 
 # game/chapter3.rpy:383
 translate japanese chapter3_3fb14a58:
@@ -972,7 +972,7 @@ translate japanese chapter3_3fb14a58:
     # voice "voices/c9.ogg"
     # who "“흐음…… 그래요?”"
     voice "voices/c9.ogg"
-    who "「ふーん……そうなんですか？」"
+    who "「ふーん……そうですか？」"
 
 # game/chapter3.rpy:385
 translate japanese chapter3_e9333b68:
@@ -980,31 +980,31 @@ translate japanese chapter3_e9333b68:
     # voice ""
     # "어딘가 믿기지 않는다는 표정을 지어 보이며, 소녀는 고개를 갸웃거렸다."
     voice ""
-    "どこか信じられないという表情を浮かべて、少女は首をかしげた。"
+    "どこか信じられないといった表情を浮かべながら、少女は首をかしげた。"
 
 # game/chapter3.rpy:387
 translate japanese chapter3_a440479a:
 
     # "약간은 부담스럽게 느껴지기도 하는 소녀의 눈빛에, 나는 살짝 시선을 틀어 마른침을 꿀꺽 삼켰다."
-    "少しは気まずく感じる少女の視線に、私はさりげなく視線をそらして唾をごくりと飲み込んだ。"
+    "少し居心地の悪ささえ感じる少女の眼差しに、俺はそっと視線をそらして生唾を飲み込んだ。"
 
 # game/chapter3.rpy:388
 translate japanese chapter3_f436e0bf:
 
     # "잠깐 침묵이 감돌았다."
-    "しばらく沈黙が巡った。"
+    "しばし沈黙が漂った。"
 
 # game/chapter3.rpy:389
 translate japanese chapter3_eddfc08c:
 
     # "옆을 힐긋 바라보았지만, 이 여자아이는 갈 생각도 없는지 여전히 나를 빤히 바라볼 뿐이었다."
-    "横をチラッと見たが、この女の子は帰る気もないのか相変わらず私をじっと見ているだけだった。"
+    "横目でちらりと見たが、この女の子は帰る気もないのか、相変わらず俺をじっと見つめるばかりだった。"
 
 # game/chapter3.rpy:391
 translate japanese chapter3_9200edd0:
 
     # 나 "“…… 그래서 말인데, 혹시 무슨 일이 있었는지 알 수 있을까?”"
-    나 "「……それでなんだけど、何かあったのか知れるかな？」"
+    나 "「……それで聞きたいんだけど、何があったのか教えてもらえるかな？」"
 
 # game/chapter3.rpy:393
 translate japanese chapter3_3e125ede:
@@ -1012,7 +1012,7 @@ translate japanese chapter3_3e125ede:
     # voice "voices/c10.ogg"
     # who "“보다시피요. 큰불이 났었거든요.”"
     voice "voices/c10.ogg"
-    who "「見ての通りですよ。大火事があったんですよ」"
+    who "「見ての通りですよ。大きな火事があったんです。」"
 
 # game/chapter3.rpy:396
 translate japanese chapter3_8743b885:
@@ -1020,19 +1020,19 @@ translate japanese chapter3_8743b885:
     # voice ""
     # 나 "“역시 그랬구나.”"
     voice ""
-    나 "「やっぱりそうだったか」"
+    나 "「やっぱりそうだったんだ。」"
 
 # game/chapter3.rpy:399
 translate japanese chapter3_9229a4bc:
 
     # "최대한 어색하지 않은 연기톤으로, 나는 혼잣말을 하듯 여자아이의 말에 대답했다."
-    "できるだけ気まずくない演技トーンで、私は独り言のように女の子の言葉に答えた。"
+    "できるだけ不自然にならない演技のトーンで、俺は独り言のように女の子の言葉に答えた。"
 
 # game/chapter3.rpy:403
 translate japanese chapter3_a5b237e2:
 
     # 나 "“그 여자애는 어떻게 됐는지 알고 있어?”"
-    나 "「あの女の子はどうなったか知ってる？」"
+    나 "「その子がどうなったか、知ってる？」"
 
 # game/chapter3.rpy:404
 translate japanese chapter3_e95d6bc6:
@@ -1040,7 +1040,7 @@ translate japanese chapter3_e95d6bc6:
     # voice "voices/c11.ogg"
     # who "“…… 미나 언니요?”"
     voice "voices/c11.ogg"
-    who "「……ミナお姉さんですか？」"
+    who "「……ミナお姉さんのことですか？」"
 
 # game/chapter3.rpy:409
 translate japanese chapter3_b8b1f1ac:
@@ -1048,7 +1048,7 @@ translate japanese chapter3_b8b1f1ac:
     # voice ""
     # 나 "“으응, 이제 여긴 안 사는 거 같아서.”"
     voice ""
-    나 "「うん、もうここには住んでないみたいだから」"
+    나 "「うん、もうここには住んでないみたいだったから。」"
 
 # game/chapter3.rpy:412
 translate japanese chapter3_091b24ab:
@@ -1056,27 +1056,27 @@ translate japanese chapter3_091b24ab:
     # voice "voices/c12.ogg"
     # who "“그 언니, 다른 곳으로 이사 갔어요.”"
     voice "voices/c12.ogg"
-    who "「あのお姉さん、他のところに引っ越しましたよ」"
+    who "「あのお姉さん、別のところに引っ越しましたよ。」"
 
 # game/chapter3.rpy:414
 translate japanese chapter3_9e44daa6:
 
-    # voice "" 
+    # voice ""
     # 나 "“…{w=1.3} 그렇구나.”"
-    voice "" 
-    나 "「…{w=1.3}そうなんだ」"
+    voice ""
+    나 "「…{w=1.3}そっか。」"
 
 # game/chapter3.rpy:417
 translate japanese chapter3_058670a5:
 
     # "잠깐의 텀을 두고, 나는 그렇게 대답했다."
-    "少しの間を置いて、私はそう答えた。"
+    "少しの間を置いて、俺はそう答えた。"
 
 # game/chapter3.rpy:419
 translate japanese chapter3_3841445f:
 
     # 나 "“그럼, 어디로 이사 갔는지도 혹시 알고 있어?”"
-    나 "「じゃあ、どこに引っ越したかもたまたま知ってる？」"
+    나 "「じゃあ、どこに引っ越したかも知ってたりする？」"
 
 # game/chapter3.rpy:420
 translate japanese chapter3_83de1e2d:
@@ -1084,7 +1084,7 @@ translate japanese chapter3_83de1e2d:
     # voice "voices/c13.ogg"
     # who "“알고 있지만, 비밀이에요.”"
     voice "voices/c13.ogg"
-    who "「知ってますけど、秘密です」"
+    who "「知ってるけど、秘密です。」"
 
 # game/chapter3.rpy:423
 translate japanese chapter3_573041e1:
@@ -1092,7 +1092,7 @@ translate japanese chapter3_573041e1:
     # voice ""
     # "소녀는 거기까지 이야기하고선, 뒤로 한 발짝 발걸음을 물렸다."
     voice ""
-    "少女はそこまで話して、後ろに一歩下がった。"
+    "少女はそこまで話すと、一歩後ろに下がった。"
 
 # game/chapter3.rpy:426
 translate japanese chapter3_47749bdc:
@@ -1100,7 +1100,7 @@ translate japanese chapter3_47749bdc:
     # voice "voices/c14.ogg"
     # who "“전 바빠서 이만 가볼래요.”"
     voice "voices/c14.ogg"
-    who "「私は忙しいのでこれで行きますね」"
+    who "「私、忙しいのでもう行きますね。」"
 
 # game/chapter3.rpy:429
 translate japanese chapter3_e4d12475:
@@ -1108,103 +1108,103 @@ translate japanese chapter3_e4d12475:
     # voice ""
     # "길 건너편으로 총총걸음을 하며 사라지는 여자아이에게, 나는 손을 흔들어 주었다."
     voice ""
-    "道の向こう側にちょこちょこ歩いて消えていく女の子に、私は手を振ってあげた。"
+    "通りの向こう側へ小走りで去っていく女の子に、俺は手を振ってやった。"
 
 # game/chapter3.rpy:431
 translate japanese chapter3_281dfb33:
 
     # "그러곤 벽에 기대어, 저만치에서 모습을 감춘 소녀가 내게 마지막으로 건넸던 거짓말들을 곱씹어 보았다."
-    "そして壁にもたれて、遠くから姿を隠した少女が私に最後に渡した嘘を味わってみた。"
+    "そして壁にもたれかかり、遠くに姿を消した少女が最後に俺に寄越した嘘を反芻した。"
 
 # game/chapter3.rpy:437
 translate japanese chapter3_2471d2bc:
 
     # "여자아이와 내가 주고받은 몇 마디의 거짓말."
-    "女の子と私が交わした数言の嘘。"
+    "女の子と俺が交わした、いくつかの嘘。"
 
 # game/chapter3.rpy:438
 translate japanese chapter3_9637f5a9:
 
     # "하지만 그 거짓말들의 색은 완벽히 상반되어 있었다."
-    "でもその嘘の色は完全に反対だった。"
+    "だがその嘘の色は、まったく正反対のものだった。"
 
 # game/chapter3.rpy:440
 translate japanese chapter3_32f591c2:
 
     # "나의 새까만 거짓말과는 달리, 방금 그 소녀는 분명 나와 미나라는 여학생이 각별한 사이였다고 착각한 나머지 새하얀 거짓말을 내뱉은 거겠지."
-    "私の真っ黒な嘘とは違って、さっきの少女はきっと私とミナという女子生徒が特別な関係だと勘違いしたせいで真っ白な嘘を吐いたんだろう。"
+    "俺の真っ黒な嘘とは違い、さっきの少女はきっと俺とミナという女子生徒が特別な仲だったと勘違いして、真っ白な嘘をついたのだろう。"
 
 # game/chapter3.rpy:441
 translate japanese chapter3_bd26c741:
 
     # "그게 아니고서야 굳이 A구역이라는 먼 곳에서 와서는 이런 주택가를 기웃거리고 있을 리가 없을 테니까 말이다."
-    "そうでなければわざわざA区という遠いところから来てこんな住宅街をうろついているはずがないからだ。"
+    "そうでなければ、わざわざA地区という遠い場所から来てこんな住宅街をうろついているはずがないのだから。"
 
 # game/chapter3.rpy:443
 translate japanese chapter3_63d53343:
 
     # 나 "‘…… 다른 핑곗거리를 지어내야 하려나.’"
-    나 "「……別の言い訳を考えなきゃな」"
+    나 "「……別の言い訳を考えなきゃいけないかな。」"
 
 # game/chapter3.rpy:448
 translate japanese chapter3_ef6240c0:
 
     # "아무래도 나를 죽은 사람과 알고 지냈던 사람이라고 얼버무리는 건, 나쁜 임시방편이었던 것 같다."
-    "どうやら私を死んだ人と知り合いだった人だとごまかすのは、悪い仮の策だったようだ。"
+    "やはり、死んだ人と知り合いだったとごまかすのは、悪い応急処置だったようだ。"
 
 # game/chapter3.rpy:450
 translate japanese chapter3_0f800cdf:
 
     # "문득 그런 생각이 들었다."
-    "ふとそんな考えが浮かんだ。"
+    "ふとそんなことを思った。"
 
 # game/chapter3.rpy:451
 translate japanese chapter3_55fcbfe4:
 
     # "어쩌면 거짓말을 했던 건, 나 혼자뿐이었던 건 아닐까."
-    "もしかしたら嘘をついたのは、私一人だけじゃなかったのかもしれない。"
+    "もしかしたら嘘をついていたのは、俺だけではなかったのかもしれない。"
 
 # game/chapter3.rpy:452
 translate japanese chapter3_2580b118:
 
     # "나는 잠시 흘러가는 구름을 바라보며 그 미나라는 여학생이 좋은 곳으로 이사 갔길 바라 주었다."
-    "私はしばらく流れる雲を見ながら、そのミナという女子生徒がいいところに引っ越していったことを祈ってあげた。"
+    "俺はしばし流れゆく雲を眺めながら、そのミナという女子生徒がいいところに引っ越していることを祈った。"
 
 # game/chapter3.rpy:453
 translate japanese chapter3_fb9b6eed:
 
     # "짤막한 묵념이 끝나고, 마땅히 할 생각이 없어진 나는 유령 소녀가 돌아오기만을 기다렸다."
-    "短い黙祷が終わって、することがなくなった私は幽霊少女が戻ってくるのを待った。"
+    "短い黙祷が終わり、特にやることもなくなった俺は、幽霊の少女が戻ってくるのをただ待った。"
 
 # game/chapter3.rpy:460
 translate japanese chapter3_b61e6454:
 
     # "시간은 어느새 20여 분을 훌쩍 넘겨, 혹시 안에서 무슨 일이 일어난 건 아닐까 하는 걱정이 들기 시작하는 참이었다."
-    "時間は気づけば20分以上経って、もしかして中で何かあったのではないかと心配になり始める頃だった。"
+    "時間はいつの間にか二十分を大きく過ぎ、中で何かあったのではないかと心配になり始めた頃だった。"
 
 # game/chapter3.rpy:461
 translate japanese chapter3_28cc9051:
 
     # "그 여자애의 말대로라면 유령 소녀가 이곳에서 얻을 수 있는 기억은 딱히 없을 텐데."
-    "あの女の子の言うとおりなら幽霊少女がここで得られる記憶はほとんどないはずだ。"
+    "あの女の子の話が本当なら、幽霊の少女がこの場所で得られる記憶は特にないはずなのに。"
 
 # game/chapter3.rpy:462
 translate japanese chapter3_a86f4579:
 
     # "누가 봐도 수상쩍은 거동으로 근처에 지나가는 사람들을 살피며 집 안으로 들어가 봐야 하나 말아야 하나 고민하던 찰나."
-    "誰が見ても怪しい動きで近くに通り過ぎる人々を見張りながら家の中に入ってみるかどうか迷っているとき。"
+    "誰が見ても怪しい挙動で近くを通る人の様子を窺いながら、家の中に入ってみるべきか迷っていたところだった。"
 
 # game/chapter3.rpy:464
 translate japanese chapter3_9b4228e2:
 
     # "반쯤 열려 있던 문틈 사이로, 말 그대로 유령처럼 소녀가 소리 없이 모습을 드러냈다."
-    "半分開いていた隙間から、まさに幽霊のように少女が音もなく姿を現した。"
+    "半開きになっていた扉の隙間から、文字通り幽霊のように少女が音もなく姿を現した。"
 
 # game/chapter3.rpy:468
 translate japanese chapter3_902ffb09:
 
     # 나 "“생각보다 오래 걸렸네.”"
-    나 "「思ったより時間かかったね」"
+    나 "「思ったより時間かかったな。」"
 
 # game/chapter3.rpy:470
 translate japanese chapter3_6b5e5cb9:
@@ -1216,31 +1216,31 @@ translate japanese chapter3_6b5e5cb9:
 translate japanese chapter3_ac1f6911:
 
     # "언뜻 보기엔 들어갔을 때와 별다른 점이 없어 보이는 소녀의 모습이었지만, 어째서인지 그런 소녀의 일면에서는 어렴풋이 공허함이라는 것이 느껴졌다."
-    "一見すると入ったときと変わらないように見える少女の姿だったが、なぜかそんな少女の一面からはかすかに虚無感というものが感じられた。"
+    "一見すると入っていった時と変わらない少女の様子だったが、どういうわけかその姿のどこかに、うっすらと虚しさのようなものが感じられた。"
 
 # game/chapter3.rpy:473
 translate japanese chapter3_820d25ec:
 
     # "기분 탓일까?"
-    "気のせいだろうか？"
+    "気のせいだろうか。"
 
 # game/chapter3.rpy:474
 translate japanese chapter3_81acbf2a:
 
     # "나는 건너편에 있는 집을 가리키며, 소녀에게 말했다."
-    "私は向こう側にある家を指差しながら、少女に言った。"
+    "俺は向かいにある家を指差しながら、少女に言った。"
 
 # game/chapter3.rpy:476
 translate japanese chapter3_4fab0145:
 
     # 나 "“지나가던 사람한테 들었는데, 우리가 찾던 여학생 집은 저쪽이래.”"
-    나 "「通りすがりの人に聞いたんだけど、僕たちが探してた女子生徒の家はあっちらしいよ」"
+    나 "「通りがかりの人に聞いたんだけど、俺たちが探してた女子生徒の家はあっちらしいぞ。」"
 
 # game/chapter3.rpy:478
 translate japanese chapter3_bb03ac15:
 
     # "그러고는 그쪽을 향해 걸어가려는 나를, 옆에서 들려오는 소녀의 목소리가 붙잡았다."
-    "そう言ってあちらに歩いて行こうとした私を、横から聞こえてくる少女の声が止めた。"
+    "そう言ってそちらへ歩き出そうとした俺を、横から聞こえてきた少女の声が引き留めた。"
 
 # game/chapter3.rpy:480
 translate japanese chapter3_3dd70a79:
@@ -1248,7 +1248,7 @@ translate japanese chapter3_3dd70a79:
     # voice "voices/gc17.ogg"
     # 소녀 "“괜찮아요. 더 확인해 볼 거 없어요.”"
     voice "voices/gc17.ogg"
-    소녀 "「大丈夫です。もう確認することはありません」"
+    소녀 "「大丈夫です。もう確認することはありません。」"
 
 # game/chapter3.rpy:483
 translate japanese chapter3_65446774:
@@ -1256,7 +1256,7 @@ translate japanese chapter3_65446774:
     # voice ""
     # 나 "“어라, 정말? 그래도 돼?”"
     voice ""
-    나 "「えっ、本当？それでいいの？」"
+    나 "「あれ、本当に？ いいのか？」"
 
 # game/chapter3.rpy:486
 translate japanese chapter3_7a9686f3:
@@ -1264,7 +1264,7 @@ translate japanese chapter3_7a9686f3:
     # voice "voices/gc18.ogg"
     # 소녀 "“네. 기억났어요. 무슨 일이 있었는지, 제가 왜 그런 기억을 갖고 있었는지.”"
     voice "voices/gc18.ogg"
-    소녀 "「はい。思い出しました。何があったのか、私がなぜそんな記憶を持っていたのか」"
+    소녀 "「はい。思い出しました。何があったのか、私がなぜあんな記憶を持っていたのか。」"
 
 # game/chapter3.rpy:489
 translate japanese chapter3_2eeb0fcd:
@@ -1272,7 +1272,7 @@ translate japanese chapter3_2eeb0fcd:
     # voice ""
     # "어리둥절한 얼굴을 하고 있던 내게 소녀가 담담한 목소리로 말했다."
     voice ""
-    "ぼんやりした顔をしていた私に少女が淡々とした声で言った。"
+    "きょとんとした顔をしている俺に、少女が淡々とした声で言った。"
 
 # game/chapter3.rpy:492
 translate japanese chapter3_3673c8f9:
@@ -1280,25 +1280,25 @@ translate japanese chapter3_3673c8f9:
     # voice "voices/gc19.ogg"
     # 소녀 "“전 화재 때문에 죽은 게 아니었어요.”"
     voice "voices/gc19.ogg"
-    소녀 "「私は火事で死んだんじゃなかったんです」"
+    소녀 "「私は火事で死んだわけじゃなかったんです。」"
 
 # game/chapter3.rpy:499
 translate japanese chapter3_2d2e3056:
 
     # "소녀의 말을 문자 그대로는 이해할 수 있었지만, 이야기의 맥락을 이해하기란 당연히 쉬운 일은 아니었다."
-    "少女の言葉は文字通りには理解できたが、話の流れを理解するのは当然簡単なことではなかった。"
+    "少女の言葉を字面通りに理解することはできたが、話の文脈を理解するのは当然簡単なことではなかった。"
 
 # game/chapter3.rpy:500
 translate japanese chapter3_f5a0740b:
 
     # "분명 아까까지만 해도 소녀는 자신의 죽음이 화재와 관련되었을 거라 이야기하지 않았는가."
-    "確かさっきまで少女は自分の死が火事と関係しているだろうと話していなかったか。"
+    "つい先ほどまで少女は、自分の死が火災に関係していると話していたではないか。"
 
 # game/chapter3.rpy:501
 translate japanese chapter3_1a2b7d48:
 
     # "어떻게 된 거냐는 말을 꺼내기도 전에 나의 손에 차가운 감촉이 닿는다."
-    "どうなったんだと言い出す前に私の手に冷たい感触が触れる。"
+    "どういうことだと聞く前に、俺の手に冷たい感触が触れた。"
 
 # game/chapter3.rpy:503
 translate japanese chapter3_9b3cf6fd:
@@ -1306,7 +1306,7 @@ translate japanese chapter3_9b3cf6fd:
     # voice "voices/gc20.ogg"
     # 소녀 "“일단은 돌아가요. 가면서 이야기할 테니까요.”"
     voice "voices/gc20.ogg"
-    소녀 "「とりあえず帰りましょう。行きながら話しますから」"
+    소녀 "「とりあえず帰りましょう。歩きながら話しますから。」"
 
 # game/chapter3.rpy:505
 translate japanese chapter3_e246405f_1:
@@ -1314,19 +1314,19 @@ translate japanese chapter3_e246405f_1:
     # voice ""
     # 나 "“아, 으응…….”"
     voice ""
-    나 "「あ、うん……」"
+    나 "「あ、うん……。」"
 
 # game/chapter3.rpy:515
 translate japanese chapter3_409a45ff:
 
     # "20여 분 동안 무슨 일이 있었는지, 소녀가 무엇을 기억해냈는지는 나로선 짐작조차 할 수 없었지만."
-    "20分ほどの間に何があったのか、少女が何を思い出したのかは私には想像もできなかったが。"
+    "二十分ほどの間に何があったのか、少女が何を思い出したのか、俺には見当もつかなかったが。"
 
 # game/chapter3.rpy:516
 translate japanese chapter3_dcf8ab11:
 
     # "소녀의 바람대로 일단은 역으로 향하기로 했다."
-    "少女の望み通りとりあえず駅に向かうことにした。"
+    "少女の望み通り、ひとまず駅へ向かうことにした。"
 
 # game/chapter3.rpy:517
 translate japanese chapter3_3066f10b:
@@ -1338,43 +1338,43 @@ translate japanese chapter3_3066f10b:
 translate japanese chapter3_2503d856:
 
     # "그렇다고 묵비권을 행사하는 건 아닌 것 같아 보였고, 아무래도 소녀에게는 생각을 정리할 시간이 필요한 모양이었다."
-    "それでも沈黙権を行使するわけではないように見えて、どうやら少女には考えを整理する時間が必要なようだった。"
+    "かといって黙秘権を行使しているわけでもなさそうで、どうやら少女には考えを整理する時間が必要なようだった。"
 
 # game/chapter3.rpy:519
 translate japanese chapter3_2e1e7069:
 
     # "정면을 바라보고 걸었다."
-    "正面を見て歩いた。"
+    "ただ正面を見て歩いた。"
 
 # game/chapter3.rpy:520
 translate japanese chapter3_221ff0de:
 
     # "목소리도, 발걸음 소리도, 어떤 소리도 들려오지 않는 바람에 홀로 낯선 길을 걷는 것만 같은 기분이 들곤 했다."
-    "声も、足音も、何の音も聞こえてこないせいで一人で見知らぬ道を歩いているような気分になってしまった。"
+    "声も、足音も、何の音も聞こえてこないせいで、ひとりで見知らぬ道を歩いているような気分になることがあった。"
 
 # game/chapter3.rpy:521
 translate japanese chapter3_601abe8c:
 
     # "물론 그럴 때마다 손바닥에 느껴지는 서늘한 감촉이 소녀의 존재를 이야기해주었지만 말이다."
-    "もちろんそのたびに手のひらに感じる冷たい感触が少女の存在を教えてくれたが。"
+    "もちろん、そのたびに手のひらに感じるひんやりとした感触が、少女の存在を教えてくれたのだが。"
 
 # game/chapter3.rpy:525
 translate japanese chapter3_88a1dfbf:
 
     # "역에 도착할 때까지도 소녀는 생각에 잠겨있는 듯해 보였다."
-    "駅に着くまでも少女は考えにふけっているように見えた。"
+    "駅に着くまでも、少女は物思いに沈んでいるようだった。"
 
 # game/chapter3.rpy:526
 translate japanese chapter3_388841a8:
 
     # "소녀가 생각에 잠겨있을 때 입술을 깨무는 버릇이 있다는 걸 알게 된 것도 그때의 일이었다."
-    "少女が考えにふけっているときに唇を噛む癖があることを知ったのもそのときのことだった。"
+    "少女が考え込んでいるとき唇を噛む癖があることを知ったのも、その時のことだった。"
 
 # game/chapter3.rpy:532
 translate japanese chapter3_4035e1d1:
 
     # "역내 의자에 앉아 전철을 기다리고 있는데, 소녀의 목소리가 들려왔다."
-    "駅の中の椅子に座って電車を待っていると、少女の声が聞こえてきた。"
+    "駅の椅子に座って電車を待っていると、少女の声が聞こえてきた。"
 
 # game/chapter3.rpy:534
 translate japanese chapter3_57c54074:
@@ -1382,7 +1382,7 @@ translate japanese chapter3_57c54074:
     # voice "voices/gc21.ogg"
     # 소녀 "“죽음의 색이라는 거, 궁금하진 않아요?”"
     voice "voices/gc21.ogg"
-    소녀 "「死の色っていうの、気にならないんですか？」"
+    소녀 "「死の色っていうの、気になりませんか？」"
 
 # game/chapter3.rpy:536
 translate japanese chapter3_9c02c5ea:
@@ -1390,7 +1390,7 @@ translate japanese chapter3_9c02c5ea:
     # voice ""
     # 나 "“궁금하긴 한데, 굳이 애써서까지 알고 싶은 건 아냐.”"
     voice ""
-    나 "「気になるけど、わざわざ知りたいと思うほどじゃないな」"
+    나 "「気にはなるけど、わざわざ知りたいってほどじゃないかな。」"
 
 # game/chapter3.rpy:539
 translate japanese chapter3_b919d47b:
@@ -1398,7 +1398,7 @@ translate japanese chapter3_b919d47b:
     # voice "voices/gc22.ogg"
     # 소녀 "“그런가요.”"
     voice "voices/gc22.ogg"
-    소녀 "「そうなの」"
+    소녀 "「そうですか。」"
 
 # game/chapter3.rpy:542
 translate japanese chapter3_41443c66:
@@ -1412,25 +1412,25 @@ translate japanese chapter3_41443c66:
 translate japanese chapter3_72831887:
 
     # "소녀도 그런 반응을 원했던 건지 가볍게 고개를 끄덕였다."
-    "少女もそんな反応を望んでいたのか軽く頷いた。"
+    "少女もそういう反応を望んでいたのか、軽く頷いた。"
 
 # game/chapter3.rpy:545
 translate japanese chapter3_db5d3a4f:
 
     # "소녀는 고개를 슬며시 들어 주변을 둘러보더니, 이내 시선을 자신의 무릎 쪽으로 떨구었다."
-    "少女は頭をそっと上げて周りを見回した後、すぐに視線を自分の膝の方に落とした。"
+    "少女はそっと顔を上げて周りを見回すと、やがて視線を自分の膝のあたりに落とした。"
 
 # game/chapter3.rpy:546
 translate japanese chapter3_15550665:
 
     # "이 시간대의 대합실에는 구역을 불문하고 오가는 사람들이 제법 많은 듯했다."
-    "この時間帯の大合室には区域を問わず行き来する人々が結構多いようだった。"
+    "この時間帯の待合室には、地区を問わず行き来する人がかなり多いようだった。"
 
 # game/chapter3.rpy:547
 translate japanese chapter3_a450e9d4:
 
     # "그리고 소녀는 그런 시선을 피하고자 하는 쪽이었다."
-    "そして少女はそんな視線を避けたがる方だった。"
+    "そして少女は、そうした視線を避けたい側だった。"
 
 # game/chapter3.rpy:549
 translate japanese chapter3_c3332eef:
@@ -1438,7 +1438,7 @@ translate japanese chapter3_c3332eef:
     # voice "voices/gc23.ogg"
     # 소녀 "“그나저나, 사람이 많네요.”"
     voice "voices/gc23.ogg"
-    소녀 "「ところで、人が多いですね」"
+    소녀 "「それにしても、人が多いですね。」"
 
 # game/chapter3.rpy:551
 translate japanese chapter3_b0fe6813:
@@ -1446,7 +1446,7 @@ translate japanese chapter3_b0fe6813:
     # voice ""
     # 나 "“저녁 시간대니까.”"
     voice ""
-    나 "「夕方の時間帯だからさ」"
+    나 "「夕方の時間帯だからな。」"
 
 # game/chapter3.rpy:554
 translate japanese chapter3_bcb39c9a:
@@ -1458,31 +1458,31 @@ translate japanese chapter3_bcb39c9a:
 translate japanese chapter3_81318a3e:
 
     # "다만 아까의 대답과 다른 점이라면, ‘그러게’라고 대답해도 충분할 만한 이야기에 굳이 사족을 덧붙였다는 것 정도."
-    "たださっきの答えと違う点は、「そうだね」と答えても十分な話にわざわざ余談を付け加えたことくらいだ。"
+    "ただ、さっきの答えと違う点があるとすれば、「そうだな」と答えれば十分な話にわざわざ余計な一言を付け足したということくらいか。"
 
 # game/chapter3.rpy:561
 translate japanese chapter3_a73d94f3:
 
     # "소녀가 내 쪽으로 고개를 돌렸다."
-    "少女が私の方に頭を向けた。"
+    "少女が俺の方へ顔を向けた。"
 
 # game/chapter3.rpy:562
 translate japanese chapter3_d91f84ec:
 
     # "소녀의 눈동자에 내가 투영된다."
-    "少女の瞳に私が映る。"
+    "少女の瞳に俺が映っている。"
 
 # game/chapter3.rpy:563
 translate japanese chapter3_03cf3c22:
 
     # "나의 눈동자에도 그녀가 투영됐겠지."
-    "私の瞳にも彼女が映っていたのだろう。"
+    "俺の瞳にも彼女が映っているのだろう。"
 
 # game/chapter3.rpy:568
 translate japanese chapter3_5101aad5:
 
     # "눈동자에 죽음이 투영된다는 건, 상상하기 힘든 그림이다."
-    "瞳に死が映るというのは、想像しにくい絵だ。"
+    "瞳に死が映るというのは、想像しがたい光景だ。"
 
 # game/chapter3.rpy:572
 translate japanese chapter3_649af7de:
@@ -1490,7 +1490,7 @@ translate japanese chapter3_649af7de:
     # voice "voices/gc24.ogg"
     # 소녀 "“여기서 저랑 이야기하다간 정말 이상한 사람으로 보이지 않을까요?”"
     voice "voices/gc24.ogg"
-    소녀 "「ここで私と話してたら本当に変な人に見えないですか？」"
+    소녀 "「ここで私と話してたら、本当に変な人だと思われませんか？」"
 
 # game/chapter3.rpy:574
 translate japanese chapter3_75e35eb3:
@@ -1498,31 +1498,31 @@ translate japanese chapter3_75e35eb3:
     # voice ""
     # 나 "“괜찮아. 전화하는 척하면 돼.”"
     voice ""
-    나 "「大丈夫だよ。電話してるふりすればいいんだ」"
+    나 "「大丈夫だよ。電話してるふりすればいい。」"
 
 # game/chapter3.rpy:577
 translate japanese chapter3_42840289:
 
     # "나는 휴대용 태블릿을 꺼내 들고선 귓가에 갖다 대고는, “자, 됐지?”라며 소녀를 바라보았다."
-    "私は携帯用タブレットを取り出して耳に当てて、「さ、できたよ？」と少女を見た。"
+    "俺は携帯タブレットを取り出して耳にあてがい、「ほら、これでいいだろ？」と少女を見た。"
 
 # game/chapter3.rpy:578
 translate japanese chapter3_23c0ef6a:
 
     # "굳이 그럴 필요까진 없었지만, 소녀에게 정말 괜찮다는 것을 어필하고 싶었던 게 아니었을까 한다."
-    "わざわざそうする必要はなかったが、少女に本当に大丈夫だということをアピールしたかったのではないかと思う。"
+    "別にそこまでする必要はなかったが、少女に本当に大丈夫だとアピールしたかったのではないかと思う。"
 
 # game/chapter3.rpy:582
 translate japanese chapter3_76c4a930:
 
     # "소녀는 그런 나를 바라보며 잠깐이지만 가벼운 웃음을 지어 보였다."
-    "少女はそんな私を見てしばらく軽い笑みを浮かべた。"
+    "少女はそんな俺を見て、一瞬だが軽い笑みを浮かべた。"
 
 # game/chapter3.rpy:584
 translate japanese chapter3_1729816d:
 
     # "그녀의 평상시 얼굴을 알고 있는 사람만이 간신히 눈치챌 수 있을 정도의 희미한 웃음기를 얼굴에 띤 채, 소녀는 끊겼던 이야기를 다시 이어나갔다."
-    "彼女の普段の顔を知っている人だけがかろうじて気づける程度の微かな笑みを顔に浮かべたまま、少女は切れていた話をまた続けた。"
+    "彼女の普段の顔を知っている人だけがかろうじて気づける程度のかすかな笑みを浮かべたまま、少女は途切れていた話を再び続けた。"
 
 # game/chapter3.rpy:588
 translate japanese chapter3_310ed904:
@@ -1530,7 +1530,7 @@ translate japanese chapter3_310ed904:
     # voice "voices/gc25.ogg"
     # 소녀 "“무서운 색이었어요. 불길 속에서 덮쳐오는 죽음의 색은.”"
     voice "voices/gc25.ogg"
-    소녀 "「怖い色でした。炎の中から襲ってくる死の色は」"
+    소녀 "「恐ろしい色でした。炎の中から襲いかかってくる死の色は。」"
 
 # game/chapter3.rpy:591
 translate japanese chapter3_e246405f_2:
@@ -1538,7 +1538,7 @@ translate japanese chapter3_e246405f_2:
     # voice ""
     # 나 "“아, 으응…….”"
     voice ""
-    나 "「あ、うん……」"
+    나 "「あ、うん……。」"
 
 # game/chapter3.rpy:597
 translate japanese chapter3_7e403c40:
@@ -1546,7 +1546,7 @@ translate japanese chapter3_7e403c40:
     # voice "voices/gc26.ogg"
     # 소녀 "“제가 이렇게 이야기해도, 감 안 잡히겠죠?”"
     voice "voices/gc26.ogg"
-    소녀 "「私がこうやって話しても、感じないでしょう？」"
+    소녀 "「私がこう話しても、ピンと来ませんよね？」"
 
 # game/chapter3.rpy:599
 translate japanese chapter3_0c92bf83:
@@ -1554,7 +1554,7 @@ translate japanese chapter3_0c92bf83:
     # voice ""
     # 나 "“그렇긴 하지.”"
     voice ""
-    나 "「そうだね」"
+    나 "「まあ、そうだな。」"
 
 # game/chapter3.rpy:601
 translate japanese chapter3_29c1d205:
@@ -1562,7 +1562,7 @@ translate japanese chapter3_29c1d205:
     # voice "voices/gc27.ogg"
     # 소녀 "“불길 속에서 죽음을 기다리는 거, 되게 끔찍한 일이었나 봐요.”"
     voice "voices/gc27.ogg"
-    소녀 "「炎の中で死を待つの、すごくひどいことだったみたいです」"
+    소녀 "「炎の中で死を待つのは、すごく恐ろしいことだったみたいです。」"
 
 # game/chapter3.rpy:603
 translate japanese chapter3_cf2a54d8:
@@ -1570,13 +1570,13 @@ translate japanese chapter3_cf2a54d8:
     # voice ""
     # 나 "“…… 그렇겠지.”"
     voice ""
-    나 "「……そうだろうね」"
+    나 "「……だろうな。」"
 
 # game/chapter3.rpy:606
 translate japanese chapter3_cdf97d2b:
 
     # "소녀는 무릎을 위아래로 두어 번 정도 까닥이고는, 이야기를 계속했다."
-    "少女は膝を上下に数回ほど叩いてから、話を続けた。"
+    "少女は膝を上下に二、三度揺らしてから、話を続けた。"
 
 # game/chapter3.rpy:608
 translate japanese chapter3_b79b7516:
@@ -1584,7 +1584,7 @@ translate japanese chapter3_b79b7516:
     # voice "voices/gc28.ogg"
     # 소녀 "“30대 정도로 보이는 아저씨와 아주머니였어요. 품에는 아이를 안고 있었던 것 같은데, 그 아이는 살아서 구조가 된 모양이에요.”"
     voice "voices/gc28.ogg"
-    소녀 "「30代くらいに見えるおじさんとおばさんでした。抱っこしていたのは子供だったと思うんですけど、その子は生きて救助されたみたいです」"
+    소녀 "「三十代くらいに見えるおじさんとおばさんでした。腕には子供を抱いていたみたいで、その子は生きて救助されたようです。」"
 
 # game/chapter3.rpy:610
 translate japanese chapter3_c64fcbfe:
@@ -1592,7 +1592,7 @@ translate japanese chapter3_c64fcbfe:
     # voice ""
     # 나 "“부모님이었나 보네. 그나저나 그 무서운 순간에 아이를 살릴 생각을 하다니, 나였으면…… 으음. 모르겠다.”"
     voice ""
-    나 "「親だったんだろうね。ところであんな怖い瞬間に子供を助けると思うなんて、俺だったら……うーん。わからないな」"
+    나 "「親だったんだろうな。それにしても、あの恐ろしい瞬間に子供を助けようとするなんて、俺だったら……うーん。わからないな。」"
 
 # game/chapter3.rpy:612
 translate japanese chapter3_b985b2e3:
@@ -1600,7 +1600,7 @@ translate japanese chapter3_b985b2e3:
     # voice "voices/gc29.ogg"
     # 소녀 "“흔히들 말하는 모성애나 부성애라는 걸까요.”"
     voice "voices/gc29.ogg"
-    소녀 "「よく言う母性愛や父性愛というやつでしょうか」"
+    소녀 "「よく言う母性愛とか父性愛っていうものでしょうか。」"
 
 # game/chapter3.rpy:614
 translate japanese chapter3_b9889549:
@@ -1608,67 +1608,67 @@ translate japanese chapter3_b9889549:
     # voice ""
     # 나 "“아마도. 스토르게(storge)라고 하던가.”"
     voice ""
-    나 "「多分そうだよ。ストルゲ(storge)って言ったっけ」"
+    나 "「たぶんな。ストルゲー（storge）って言うんだっけ。」"
 
 # game/chapter3.rpy:619
 translate japanese chapter3_936a8efd:
 
     # "언젠가 사랑에는 네 가지 종류가 있다는 이야기를 들어본 적이 있었다."
-    "私はいつか愛には四種類あるという話を聞いたことがあった。"
+    "いつだったか、愛には四つの種類があるという話を聞いたことがあった。"
 
 # game/chapter3.rpy:620
 translate japanese chapter3_bb211468:
 
     # "그중에서도 가족애는 이성을 뛰어넘는 힘을 가지고 있다고, 그 이야기를 꺼낸 선생님이 힘주어 말했었지."
-    "その中でも家族愛は理性を超える力を持っていると、その話を出した先生が力説していた。"
+    "中でも家族愛は理性を超える力を持っていると、その話を始めた先生が力を込めて語っていたっけ。"
 
 # game/chapter3.rpy:621
 translate japanese chapter3_096c4367:
 
     # "고개를 돌려 옆에 앉아있는 소녀를 바라보자, 그녀도 모성애나 부성애와 같은 단어를 마음속으로 곱씹고 있는 듯해 보였다."
-    "頭を振って隣に座っている少女を見ると、彼女も母性愛や父性愛という言葉を心の中で味わっているように見えた。"
+    "首を巡らせて隣に座っている少女を見ると、彼女も母性愛や父性愛といった言葉を心の中で反芻しているように見えた。"
 
 # game/chapter3.rpy:626
 translate japanese chapter3_773300db:
 
     # "생각보다 이른 타이밍에 열차가 역에 도착한다는 안내방송이 흘러나왔다."
-    "思ったより早いタイミングで電車が駅に到着するというアナウンスが流れてきた。"
+    "思ったより早いタイミングで、列車が駅に到着するというアナウンスが流れた。"
 
 # game/chapter3.rpy:627
 translate japanese chapter3_01145525:
 
     # "내가 먼저 의자에서 몸을 일으켰고, 소녀가 뒤따랐다."
-    "私が先に椅子から身を起こし、少女が後に続いた。"
+    "俺が先に椅子から立ち上がり、少女がそれに続いた。"
 
 # game/chapter3.rpy:628
 translate japanese chapter3_e558db51:
 
     # "열차 안에는 좌석에 앉기는 무리 같아 보일 정도의 사람들이 들어차 있었다."
-    "電車の中には座席に座るのは無理そうなほどの人々が詰め込まれていた。"
+    "列車の中は、座席に座るのは無理そうなほど人が詰まっていた。"
 
 # game/chapter3.rpy:630
 translate japanese chapter3_6d99bc9a:
 
     # "열차가 선로에 멈춰 서고, 나와 소녀는 함께 안으로 발걸음을 내디뎠다."
-    "電車が線路に止まり、私と少女は一緒に中に足を踏み入れた。"
+    "列車が線路に停まり、俺と少女は一緒に中へ足を踏み入れた。"
 
 # game/chapter3.rpy:631
 translate japanese chapter3_c4a9021a:
 
     # "오는 길에는 좌석이 많이 남았었는데, 돌아가는 길은 입석이었다."
-    "行きには座席がたくさん空いていたのに、帰りは立ち席だった。"
+    "来るときは席がたくさん空いていたのに、帰りは立ちっぱなしだった。"
 
 # game/chapter3.rpy:632
 translate japanese chapter3_15f95b67:
 
     # "반대로 됐으면 좋았을걸, 하고 생각하며 차창 너머를 바라보았다."
-    "逆だったらよかったのに、と思いながら車窓の向こうを見た。"
+    "逆だったらよかったのに、と思いながら車窓の向こうを眺めた。"
 
 # game/chapter3.rpy:633
 translate japanese chapter3_6c45eb2f:
 
     # "아직은 푸르름을 잃지 않은 여름의 하늘이 슬슬 퇴장할 준비를 하고 있었다."
-    "まだ青みを失っていない夏の空がそろそろ退場する準備をしていた。"
+    "まだ青さを失っていない夏の空が、そろそろ帰る準備をしていた。"
 
 # game/chapter3.rpy:637
 translate japanese chapter3_14c11ce3:
@@ -1676,7 +1676,7 @@ translate japanese chapter3_14c11ce3:
     # voice "voices/gc30.ogg"
     # 소녀 "“어쨌거나, 하던 이야기를 마저 하자면.”"
     voice "voices/gc30.ogg"
-    소녀 "「とにかく、話を続けると」"
+    소녀 "「とにかく、さっきの話の続きをすると。」"
 
 # game/chapter3.rpy:640
 translate japanese chapter3_c6188928:
@@ -1684,13 +1684,13 @@ translate japanese chapter3_c6188928:
     # voice ""
     # "소녀가 가볍게 심호흡을 했다."
     voice ""
-    "少女が軽く深呼吸した。"
+    "少女が軽く深呼吸をした。"
 
 # game/chapter3.rpy:642
 translate japanese chapter3_ba127d6e:
 
     # "내쉬는 숨이 들이쉬는 숨보다 길게 들려서인지, 소녀의 호흡은 한숨처럼 들리기도 했다."
-    "吐く息が吸う息より長く聞こえるせいか、少女の呼吸はため息のように聞こえた。"
+    "吐く息が吸う息より長く聞こえたせいか、少女の呼吸はため息のようにも聞こえた。"
 
 # game/chapter3.rpy:644
 translate japanese chapter3_7c14a19c:
@@ -1698,7 +1698,7 @@ translate japanese chapter3_7c14a19c:
     # voice "voices/gc31.ogg"
     # 소녀 "“그곳에서 죽음의 색을 보고 난 뒤로 기억이 조금씩 되돌아왔어요. 제가 화재 현장에서 죽지 못했다는 것도, 맨 처음 우리가 갔던 건물에서 떠올렸던 죽음의 색이 제 것이 아니라는 것도.”"
     voice "voices/gc31.ogg"
-    소녀 "「あそこで死の色を見てから記憶が少しずつ戻ってきました。私が火事現場で死ななかったことも、最初に行った建物で思い出した死の色が私のものじゃなかったことも」"
+    소녀 "「あそこで死の色を見てから、少しずつ記憶が戻ってきたんです。私が火災現場で死ねなかったことも、最初に私たちが行った建物で思い浮かべた死の色が私のものではなかったことも。」"
 
 # game/chapter3.rpy:647
 translate japanese chapter3_3f617317:
@@ -1706,25 +1706,25 @@ translate japanese chapter3_3f617317:
     # voice ""
     # "죽지 못했다니."
     voice ""
-    "死ななかったというのか。"
+    "死ねなかった、だなんて。"
 
 # game/chapter3.rpy:649
 translate japanese chapter3_ffce3416:
 
     # "의도된 건지, 의도되지 않은 건지는 잘 모르겠지만."
-    "意図したのか、意図しなかったのかはよくわからないが。"
+    "意図してのことなのか、そうでないのかはよくわからないが。"
 
 # game/chapter3.rpy:650
 translate japanese chapter3_b2885dd7:
 
     # "여하튼 괴상한 단어 선택이라는 생각이 들지 않을 수가 없었다."
-    "とにかく奇妙な言葉選びだと思わないわけにはいかなかった。"
+    "いずれにしても奇妙な言葉の選び方だと思わずにはいられなかった。"
 
 # game/chapter3.rpy:652
 translate japanese chapter3_38f6f733:
 
     # 나 "“어떻게 된 일인 건지도 기억나?”"
-    나 "「どういうことだったのかも覚えてるの？」"
+    나 "「何があったのかも覚えてる？」"
 
 # game/chapter3.rpy:656
 translate japanese chapter3_09e5d5fe:
@@ -1732,7 +1732,7 @@ translate japanese chapter3_09e5d5fe:
     # voice "voices/gc32_1.ogg"
     # 소녀 "“초등학교를 졸업하고 막 중학교에 들어갔을 때쯤이었을 거예요. 꽤 늦은 밤이었던 걸로 기억해요. 어쩌면 새벽이었을지도 모르겠고요.”"
     voice "voices/gc32_1.ogg"
-    소녀 "「小学校を卒業してまだ中学校に入ったころだったと思います。結構遅い夜だったと記憶しています。もしかしたら未明だったかもしれないし」"
+    소녀 "「小学校を卒業して、中学に上がったばかりの頃だったと思います。かなり遅い夜だった記憶があります。もしかしたら明け方だったかもしれませんけど。」"
 
 # game/chapter3.rpy:658
 translate japanese chapter3_df5219de:
@@ -1740,7 +1740,7 @@ translate japanese chapter3_df5219de:
     # voice "voices/gc32_2.ogg"
     # 소녀 "“여하튼, 시간은 정확하게 기억나지 않지만. 그날 집에 불이 났었어요.”"
     voice "voices/gc32_2.ogg"
-    소녀 "「とにかく、時間は正確に覚えていないんですけど。その日家に火がついたんです」"
+    소녀 "「とにかく、時間は正確には覚えていませんけど。その日、家が火事になったんです。」"
 
 # game/chapter3.rpy:660
 translate japanese chapter3_81895913:
@@ -1748,7 +1748,7 @@ translate japanese chapter3_81895913:
     # voice "voices/gc32_3.ogg"
     # 소녀 "“눈을 떴을 땐 이미 불이 제법 번져서, 숨을 쉴 때마다 기침만 연거푸 해댔던 것 같아요.”"
     voice "voices/gc32_3.ogg"
-    소녀 "「目を覚ましたらもう火がかなり広がってて、息をするたびに咳ばかりしてたと思います」"
+    소녀 "「目を開けたときにはもう火がかなり広がっていて、息をするたびに咳が止まらなかったような気がします。」"
 
 # game/chapter3.rpy:662
 translate japanese chapter3_7132d07e:
@@ -1756,7 +1756,7 @@ translate japanese chapter3_7132d07e:
     # voice ""
     # 나 "“무서웠겠네.”"
     voice ""
-    나 "「怖かっただろうね」"
+    나 "「怖かっただろうな。」"
 
 # game/chapter3.rpy:664
 translate japanese chapter3_3e328bae:
@@ -1764,7 +1764,7 @@ translate japanese chapter3_3e328bae:
     # voice "voices/gc33.ogg"
     # 소녀 "“…… 잘 모르겠어요. 어쩌면 너무 무서워서 그대로 다시 눈을 감았는지도 모르겠고요.”"
     voice "voices/gc33.ogg"
-    소녀 "「……わからないです。あまりに怖くてそのまままた目を閉じたのかもしれないし」"
+    소녀 "「……よくわかりません。もしかしたら怖すぎてそのままもう一度目を閉じたのかもしれませんし。」"
 
 # game/chapter3.rpy:667
 translate japanese chapter3_500dbe52:
@@ -1778,7 +1778,7 @@ translate japanese chapter3_500dbe52:
 translate japanese chapter3_da26474e:
 
     # "나는 소녀의 이야기를 가만히 듣고 있기만 할 뿐이었다."
-    "私は少女の話をじっと聞いているだけだった。"
+    "俺は少女の話をただ黙って聞いているだけだった。"
 
 # game/chapter3.rpy:673
 translate japanese chapter3_f5114451:
@@ -1786,7 +1786,7 @@ translate japanese chapter3_f5114451:
     # voice "voices/gc34.ogg"
     # 소녀 "“기억은 잘 나지 않지만, 누군가가 저를 구해줬던 것 같아요.”"
     voice "voices/gc34.ogg"
-    소녀 "「記憶はよくないんですけど、誰かが私を助けてくれたみたいです」"
+    소녀 "「記憶はあまりないんですけど、誰かが助けてくれたみたいです。」"
 
 # game/chapter3.rpy:675
 translate japanese chapter3_1255c6ee:
@@ -1794,7 +1794,7 @@ translate japanese chapter3_1255c6ee:
     # voice ""
     # 나 "“다행히 소방관이 일찍 도착한 모양이네.”"
     voice ""
-    나 "「幸いにも消防士が早く到着したようだね」"
+    나 "「幸い消防士が早く到着したみたいだな。」"
 
 # game/chapter3.rpy:677
 translate japanese chapter3_45620e53:
@@ -1802,7 +1802,7 @@ translate japanese chapter3_45620e53:
     # voice "voices/gc35.ogg"
     # 소녀 "“안타깝게도 다른 가족들은 그렇지 못했지만요.”"
     voice "voices/gc35.ogg"
-    소녀 "「残念ながら他の家族はそうはならなかったんですけどね」"
+    소녀 "「残念ながら、家族はそうはいかなかったんですけどね。」"
 
 # game/chapter3.rpy:680
 translate japanese chapter3_4957d899:
@@ -1810,19 +1810,19 @@ translate japanese chapter3_4957d899:
     # voice ""
     # "소녀가 말한 ‘안타깝게도’라는 단어가 감정을 싣지 못한 채 흩어져 사라진다."
     voice ""
-    "少女が言った「残念ながら」という言葉が感情を乗せられないまま散って消える。"
+    "少女が口にした「残念ながら」という言葉が、感情を乗せきれないまま散って消える。"
 
 # game/chapter3.rpy:682
 translate japanese chapter3_29c0c950:
 
     # "무의식중에도 감정이 실린 나의 ‘다행히’라는 단어와는 상반된 느낌이었다."
-    "無意識のうちにも感情がこもった私の「幸いにも」という言葉とは反した感じだった。"
+    "無意識のうちにも感情がこもった俺の「幸い」という言葉とは、対照的な響きだった。"
 
 # game/chapter3.rpy:683
 translate japanese chapter3_ef38c78e:
 
     # "무표정한 얼굴로 그런 이야기를 또박또박 건네는 소녀의 모습은, 마치 자신과는 아무런 상관없는 남의 이야기를 하는 것처럼 보이기도 했다."
-    "無表情な顔でそんな話を淡々と話す少女の姿は、まるで自分とは何の関係もない他人の話をしているように見えた。"
+    "無表情な顔でそんな話を淡々と語る少女の姿は、まるで自分とは何の関係もない他人の話をしているようにも見えた。"
 
 # game/chapter3.rpy:685
 translate japanese chapter3_ab4cfb13:
@@ -1830,7 +1830,7 @@ translate japanese chapter3_ab4cfb13:
     # voice "voices/gc36.ogg"
     # 소녀 "“화재로 죽은 건, 제가 아닌 제 가족이었어요. 제가 기억해 낸 죽음의 흔적은 제가 아닌 제 가족의 것이었던 거죠.”"
     voice "voices/gc36.ogg"
-    소녀 "「火事で死んだのは、私じゃなくて私の家族でした。私が思い出した死の痕跡は私じゃなくて私の家族のものだったんです」"
+    소녀 "「火事で死んだのは、私じゃなくて私の家族だったんです。私が思い出した死の痕跡は、私のものではなく家族のものだったんです。」"
 
 # game/chapter3.rpy:687
 translate japanese chapter3_8096c2d3:
@@ -1838,7 +1838,7 @@ translate japanese chapter3_8096c2d3:
     # voice ""
     # 나 "“그랬구나.”"
     voice ""
-    나 "「そうだったんだ」"
+    나 "「そうだったのか。」"
 
 # game/chapter3.rpy:689
 translate japanese chapter3_54d092ee:
@@ -1846,7 +1846,7 @@ translate japanese chapter3_54d092ee:
     # voice "voices/gc37.ogg"
     # 소녀 "“제가 기억하는 건 여기까지예요.”"
     voice "voices/gc37.ogg"
-    소녀 "「私が覚えているのはここまでです」"
+    소녀 "「私が覚えているのはここまでです。」"
 
 # game/chapter3.rpy:692
 translate japanese chapter3_238634ed:
@@ -1854,19 +1854,19 @@ translate japanese chapter3_238634ed:
     # voice ""
     # "죽음을 이야기하는 것이 원래 이렇게나 무감각한 일이었을까."
     voice ""
-    "死を話すことが本来こんなに無感覚なことだったのだろうか。"
+    "死を語ることは、もともとこんなにも無感覚なものだっただろうか。"
 
 # game/chapter3.rpy:694
 translate japanese chapter3_78f8dd8b:
 
     # "소녀와의 대화는 낮에 보았던 두 사람과 나누었던 대화와 완벽히 상반된 감정선을 이루고 있었다."
-    "少女との会話は昼に見た二人と交わした会話と完全に反した感情線を描いていた。"
+    "少女との会話は、昼間に会ったふたりと交わした会話とは正反対の感情を喚起させていた。"
 
 # game/chapter3.rpy:695
 translate japanese chapter3_20cb8123:
 
     # "소녀는 차창 너머를 우두커니 바라보았다."
-    "少女は車窓の向こうをぼんやり見ていた。"
+    "少女は車窓の向こうをぼんやりと見つめていた。"
 
 # game/chapter3.rpy:699
 translate japanese chapter3_69282bb3:
@@ -1874,7 +1874,7 @@ translate japanese chapter3_69282bb3:
     # voice "voices/gc38.ogg"
     # 소녀 "“다시 원점이네요.”"
     voice "voices/gc38.ogg"
-    소녀 "「また元に戻っちゃいましたね」"
+    소녀 "「また振り出しですね。」"
 
 # game/chapter3.rpy:701
 translate japanese chapter3_6db7d93e:
@@ -1882,43 +1882,43 @@ translate japanese chapter3_6db7d93e:
     # voice ""
     # 나 "“꼭 그런 건 아냐. 확실히 아닌 곳을 네 군데씩이나 확인했잖아.”"
     voice ""
-    나 "「そうとも言えないよ。確実に違うところを四箇所も確認したじゃないか」"
+    나 "「必ずしもそうじゃない。間違いなく違う場所を四か所も確認したじゃないか。」"
 
 # game/chapter3.rpy:704
 translate japanese chapter3_b1619eb4:
 
     # "애초에 이렇게나 쉽게 일이 끝날 거라고 생각하지는 않았다."
-    "そもそもこんなに簡単に事が終わると思っていなかった。"
+    "そもそも、こんなに簡単に事が済むとは思っていなかった。"
 
 # game/chapter3.rpy:705
 translate japanese chapter3_93f2d504:
 
     # "일단 하루 정도 쉬고 난 뒤에, 다음에 찾아볼 곳을 찾아보자."
-    "とりあえず一日くらい休んでから、次に探すところを探そう。"
+    "とりあえず一日くらい休んでから、次に調べる場所を探そう。"
 
 # game/chapter3.rpy:706
 translate japanese chapter3_28634a6d:
 
     # "서두를 필요는 없을 거라 생각했다."
-    "急ぐ必要はないと思った。"
+    "急ぐ必要はないだろうと思った。"
 
 # game/chapter3.rpy:707
 translate japanese chapter3_90134969:
 
     # "신경 쓰이는 건 오히려 다른 쪽의 문제였다."
-    "気になるのはむしろ他の方の問題だった。"
+    "気になっていたのは、むしろ別の問題だった。"
 
 # game/chapter3.rpy:708
 translate japanese chapter3_6b04be4a:
 
     # "어색하게 고개를 돌려, 내 옆에 멍하니 서 있는 소녀를 힐긋힐긋 바라본다."
-    "ぎこちなく頭を振って、私の横にぼんやり立っている少女をじろじろ見る。"
+    "ぎこちなく顔を向けて、俺の隣でぼんやり立っている少女をちらちらと見る。"
 
 # game/chapter3.rpy:709
 translate japanese chapter3_a2ebe616:
 
     # "누가 이 모습을 유심히 보게 된다면, 분명 이상하게 생각하겠지."
-    "誰かがこの姿を注意深く見れば、きっと変だと思うだろう。"
+    "誰かがこの様子をじっと見ていたら、きっと変に思うだろうな。"
 
 # game/chapter3.rpy:711
 translate japanese chapter3_f4fa6b41:
@@ -1926,7 +1926,7 @@ translate japanese chapter3_f4fa6b41:
     # voice "voices/gc39.ogg"
     # 소녀 "“화재로 가족이 죽었다는 이야기를 이렇게 아무렇지도 않게 하다니. 저, 진짜 이상하죠?”"
     voice "voices/gc39.ogg"
-    소녀 "「火事で家族が死んだという話をこんなに何でもないようにするなんて。私、本当に変ですよね？」"
+    소녀 "「火事で家族が死んだという話をこんなに平気でするなんて。私、本当におかしいですよね？」"
 
 # game/chapter3.rpy:714
 translate japanese chapter3_03ef37ee:
@@ -1934,13 +1934,13 @@ translate japanese chapter3_03ef37ee:
     # voice ""
     # "나의 생각을 읽기라도 한듯, 소녀가 먼저 말을 꺼냈다."
     voice ""
-    "私の考えを読んだかのように、少女が先に言葉を切り出した。"
+    "俺の考えを読んだかのように、少女が先に口を開いた。"
 
 # game/chapter3.rpy:717
 translate japanese chapter3_1e9b9f9c:
 
     # 나 "“아니, 그런 건 아닌데.”"
-    나 "「いや、そんなことないけど」"
+    나 "「いや、そういうわけじゃないんだけど。」"
 
 # game/chapter3.rpy:719
 translate japanese chapter3_19d15f66:
@@ -1952,7 +1952,7 @@ translate japanese chapter3_19d15f66:
 translate japanese chapter3_37678b6c:
 
     # "그렇다고 말투에 솔직하지 못한 티가 묻어있던 것은 아니었다."
-    "とは言っても話し方に正直でない気配がついていたわけではなかった。"
+    "だからといって、口調に正直でない素振りがにじみ出ていたわけではなかった。"
 
 # game/chapter3.rpy:722
 translate japanese chapter3_c17155ce:
@@ -1960,7 +1960,7 @@ translate japanese chapter3_c17155ce:
     # voice "voices/gc40.ogg"
     # 소녀 "“분명 죽음의 색에는 그 당시의 감정도 묻어있을 텐데 말이죠.”"
     voice "voices/gc40.ogg"
-    소녀 "「きっと死の色にはそのときの感情もついているはずなんですけどね」"
+    소녀 "「きっと死の色には、あの時の感情も染みついているはずなのに。」"
 
 # game/chapter3.rpy:724
 translate japanese chapter3_1fbf0303:
@@ -1968,7 +1968,7 @@ translate japanese chapter3_1fbf0303:
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……」"
+    나 "「……。」"
 
 # game/chapter3.rpy:727
 translate japanese chapter3_04c638bc:
@@ -1976,7 +1976,7 @@ translate japanese chapter3_04c638bc:
     # voice "voices/gc41.ogg"
     # 소녀 "“하지만, 정말 아무것도 기억 안 나는걸요.”"
     voice "voices/gc41.ogg"
-    소녀 "「でも、本当に何も覚えてないんです」"
+    소녀 "「でも、本当に何も思い出せないんです。」"
 
 # game/chapter3.rpy:730
 translate japanese chapter3_b3121501:
@@ -1984,25 +1984,25 @@ translate japanese chapter3_b3121501:
     # voice ""
     # "나만이 들을 수 있는 소녀의 목소리가 티 나게 떨렸다."
     voice ""
-    "私だけが聞ける少女の声が露骨に震えた。"
+    "俺にしか聞こえない少女の声が、あからさまに震えていた。"
 
 # game/chapter3.rpy:732
 translate japanese chapter3_d0a35f47:
 
     # "두려워하는 걸까?"
-    "怖がっているのだろうか？"
+    "怖がっているのだろうか。"
 
 # game/chapter3.rpy:733
 translate japanese chapter3_abd85583:
 
     # "기억하지 못하는 현실을?"
-    "覚えていない現実を？"
+    "思い出せない現実を？"
 
 # game/chapter3.rpy:734
 translate japanese chapter3_85fc73ce:
 
     # "그게 아니라면 그 현실을 기억하지 못하는 소녀 자신을?"
-    "それともその現実を覚えていない少女自身を？"
+    "それとも、その現実を思い出せない自分自身を？"
 
 # game/chapter3.rpy:736
 translate japanese chapter3_fa6e7f69:
@@ -2010,7 +2010,7 @@ translate japanese chapter3_fa6e7f69:
     # voice "voices/gc42.ogg"
     # 소녀 "“이거 완전, 사람이 아니라 괴물이네요.”"
     voice "voices/gc42.ogg"
-    소녀 "「これじゃあ完全に、人間じゃなくて怪物ですね」"
+    소녀 "「これじゃまるで、人間じゃなくて化物ですね。」"
 
 # game/chapter3.rpy:739
 translate japanese chapter3_82130915:
@@ -2018,163 +2018,163 @@ translate japanese chapter3_82130915:
     # voice ""
     # "‘사라져야 할 이유가 하나 더 생긴 것 같아요’라고 말하는 듯한 얼굴로, 소녀가 나를 빤히 바라보았다."
     voice ""
-    "「消えなきゃいけない理由がもう一つ増えたみたいです」と言うような顔で、少女が私をじっと見た。"
+    "「消えるべき理由がひとつ増えたみたいです」とでも言いたげな顔で、少女は俺をじっと見つめていた。"
 
 # game/chapter3.rpy:741
 translate japanese chapter3_83c034a6:
 
     # "그런 소녀의 얼굴을 마주 보고 있을 자신은 없어, 나는 어색하게 반대편으로 고개를 돌렸다."
-    "そんな少女の顔を見つめる自信はなくて、私はぎこちなく反対側に頭を向けた。"
+    "そんな少女の顔を見つめ返す自信がなくて、俺はぎこちなく反対側へ顔をそむけた。"
 
 # game/chapter3.rpy:742
 translate japanese chapter3_15772b53:
 
     # "하늘에는 조금씩 붉은색 물감이 흩뿌려지고 있었다."
-    "空には少しずつ赤い色の絵の具がまき散らされていた。"
+    "空には少しずつ赤い絵の具が振りまかれていた。"
 
 # game/chapter3.rpy:743
 translate japanese chapter3_9b04741b:
 
     # "조용히 차창 너머의 풍경만을 바라보고 있자니, 여태껏 무뎌져 있던 감각이 조금씩 원래대로 되돌아오기 시작했다."
-    "静かに車窓の向こうの風景だけを見ていると、今まで鈍っていた感覚が少しずつ元に戻り始めた。"
+    "静かに車窓の向こうの景色だけを眺めていると、ずっと鈍っていた感覚が少しずつ元に戻り始めた。"
 
 # game/chapter3.rpy:744
 translate japanese chapter3_9fd374f6:
 
     # "꼬박 몇 시간을 걸어서 그런가, 가장 먼저 다리 뒤쪽 근육이 욱신거렸다."
-    "ずっと歩いてきたせいか、最初に足の裏の筋肉がぴくぴくした。"
+    "まる何時間も歩き通したせいか、真っ先にふくらはぎの筋肉がずきずきと痛んだ。"
 
 # game/chapter3.rpy:748
 translate japanese chapter3_5185b2c6:
 
     # "그 뒤로는 이것저것 찝찝한 감각들이 밀려 들어왔다."
-    "その後はいろいろと気になる感覚が押し寄せてきた。"
+    "そのあとは色々と不快な感覚が押し寄せてきた。"
 
 # game/chapter3.rpy:749
 translate japanese chapter3_5250a1a2:
 
     # "등어리에 흘러내렸던 땀 자국이라든가, 신발에 들어온 모래 먼지라든가."
-    "背中に流れた汗の跡だとか、靴に入った砂埃だとか。"
+    "背中を流れた汗の跡とか、靴に入り込んだ砂埃とか。"
 
 # game/chapter3.rpy:750
 translate japanese chapter3_e63ff173:
 
     # "얼른 집에 도착해 씻고 이부자리에 눕고 싶다는 생각만이 머릿속을 가득 채웠다."
-    "早く家に着いて洗って寝床に横になりたいという思いだけが頭を埋め尽くした。"
+    "早く家に着いてシャワーを浴びて布団に横になりたい——その思いだけが頭の中を占めた。"
 
 # game/chapter3.rpy:757
 translate japanese chapter3_1072a77c:
 
     # "집에 도착했을 땐 예상했던 대로 새까만 하늘을 볼 수 있었다."
-    "家に着いたときは予想通り真っ暗な空が見えた。"
+    "家に着いた頃には、予想通り真っ暗な空が広がっていた。"
 
 # game/chapter3.rpy:758
 translate japanese chapter3_04c5e013:
 
     # "저녁 8시."
-    "夜の8時。"
+    "夜8時。"
 
 # game/chapter3.rpy:759
 translate japanese chapter3_7e141a6e:
 
     # "평소 같았다면 그대로 씻고 잠들기엔 이른 시간이겠지만, 오늘이라면 충분히 그럴 수 있을 것 같았다."
-    "普段ならそのまま洗って寝るには早い時間だろうが、今日なら十分にできると思った。"
+    "普段なら、そのまま風呂に入って寝るには早い時間だろうが、今日なら十分ありだと思った。"
 
 # game/chapter3.rpy:761
 translate japanese chapter3_97913dfb:
 
     # "옆을 슬쩍 돌아보니, 소녀도 티는 내지 않으려 하고 있었지만 분명 얼굴에는 피곤한 기색이 역력해 보였다."
-    "横をちらりと見ると、少女も気を出さないようにしているが、はっきりと顔に疲れが出ていた。"
+    "横をそっと振り返ると、少女も表には出すまいとしていたが、明らかに顔には疲れの色がにじんでいた。"
 
 # game/chapter3.rpy:771
 translate japanese chapter3_510ec741:
 
     # "방에 들어가자마자 에어컨을 켰다."
-    "部屋に入るとすぐにエアコンをつけた。"
+    "部屋に入るなりエアコンをつけた。"
 
 # game/chapter3.rpy:772
 translate japanese chapter3_d0be17d1:
 
     # "얼마 지나지 않아 거리에선 느낄 수 없었던 인공적인 찬 바람이 침실을 메웠다."
-    "しばらくすると道では感じられなかった人工的な冷たい風が寝室を満たした。"
+    "ほどなくして、外では感じられなかった人工的な冷風が寝室を満たした。"
 
 # game/chapter3.rpy:773
 translate japanese chapter3_1f176bc6:
 
     # "침대에 앉아있는 소녀는 아까보다는 한층 편안해 보이는 얼굴을 하고 있었다."
-    "ベッドに座っている少女はさっきよりもずっと楽そうな顔をしていた。"
+    "ベッドに座っている少女は、さっきよりは一段楽そうな顔をしていた。"
 
 # game/chapter3.rpy:775
 translate japanese chapter3_9db12631:
 
     # 나 "“그럼, 난 씻을게.”"
-    나 "「じゃあ、俺は風呂に入るよ」"
+    나 "「じゃあ、俺シャワー浴びてくるわ。」"
 
 # game/chapter3.rpy:777
 translate japanese chapter3_a8fcab72:
 
     # "가볍게 기지개를 켜며, 나는 욕실로 발걸음을 옮겼다."
-    "軽く伸びをしながら、私は浴室に足を運んだ。"
+    "軽く伸びをしながら、俺は浴室へ向かった。"
 
 # game/chapter3.rpy:778
 translate japanese chapter3_af903fea:
 
     # "욕실을 먼저 소녀에게 양보하려는 생각을 하지 않은 건 아니었다."
-    "浴室を先に少女に譲ろうという考えがなかったわけではなかった。"
+    "先に少女に浴室を譲ろうという考えがなかったわけではなかった。"
 
 # game/chapter3.rpy:780
 translate japanese chapter3_a53f94c0:
 
     # "하지만 그래봤자 소녀로부터는 ‘그럴 필요 없어요’라는 짤막한 대답만이 돌아올 것이 뻔했기에, 빨리 샤워를 끝내는 편이 더 나을 거라는 결론을 내릴 수밖에 없었다."
-    "でもそうしても少女からは「そんなことしなくていいです」という短い返事しか返ってこないだろうと分かっていたので、早くシャワーを済ませる方がいいという結論に達せざるを得なかった。"
+    "だが、そうしたところで少女から返ってくるのは「そんな必要ありません」という素っ気ない答えだけだろうから、さっさとシャワーを終わらせた方がいいという結論に至るしかなかった。"
 
 # game/chapter3.rpy:781
 translate japanese chapter3_60035b9c:
 
     # "따뜻한 물에 하루종일 혹사된 몸을 맡기고 있자니, 이대로 몇 시간이고 따뜻한 물을 뒤집어쓰고 있고 싶다는 생각이 나를 방해하긴 했지만."
-    "温かい水に一日中酷使された体を委ねていると、このまま何時間も温かい水を浴び続けたいという思いが私を邪魔したが。"
+    "温かいお湯に一日中酷使された体を委ねていると、このまま何時間でもお湯を浴び続けていたいという思いが邪魔をしたが。"
 
 # game/chapter3.rpy:783
 translate japanese chapter3_4df9208f:
 
     # "나는 평소보다 조금 이른 타이밍에 샤워기를 끄고는 욕실 밖으로 나왔다."
-    "私は普段より少し早めにシャワーを止めて浴室の外に出た。"
+    "俺はいつもより少し早めにシャワーを止めて浴室を出た。"
 
 # game/chapter3.rpy:785
 translate japanese chapter3_605ff73a:
 
     # "샤워를 끝내고 방으로 돌아오자, 소녀는 내가 욕실에 들어가기 전과 다름없는 자세로 허공을 응시하고 있었다."
-    "シャワーを終えて部屋に戻ると、少女は私が浴室に入る前と変わらない姿勢で空中を見つめていた。"
+    "シャワーを終えて部屋に戻ると、少女は俺が浴室に入る前と同じ姿勢で宙を見つめていた。"
 
 # game/chapter3.rpy:789
 translate japanese chapter3_9dde6206:
 
     # "‘안 씻어?’라고 묻는 대신, 나는 이부자리에 누워 잠을 청하기로 했다."
-    "「風呂に入らないの？」と聞く代わりに、私は寝床に横になって眠りにつこうとした。"
+    "「シャワー浴びないの？」と聞く代わりに、俺は布団に潜り込んで眠ることにした。"
 
 # game/chapter3.rpy:790
 translate japanese chapter3_09dd50fe:
 
     # "내가 잠에 들면 소녀도 나를 조금은 덜 신경 쓰지 않을까 하는 생각에서였다."
-    "私が眠れば少女も私を少しは気にしなくて済むのではないかという思いからだった。"
+    "俺が眠れば少女も少しは気を遣わなくて済むんじゃないかと思ったからだった。"
 
 # game/chapter3.rpy:796
 translate japanese chapter3_0863965c:
 
     # "소녀에게 등을 보인 채 잠들려 하는데, 어째서인지 잠이 잘 오지 않았다."
-    "少女に背中を向けて眠ろうとするが、どういうわけか眠りが遠ざかった。"
+    "少女に背を向けて眠ろうとしたが、なぜか寝つけなかった。"
 
 # game/chapter3.rpy:797
 translate japanese chapter3_b434a094:
 
     # "피곤함에 못 이겨 금세 꿈나라 행 열차를 탈 줄 알았는데."
-    "疲れきってすぐに夢の世界へ行けると思ったのに。"
+    "疲労に負けてすぐに夢の国行きの列車に乗れると思っていたのに。"
 
 # game/chapter3.rpy:798
 translate japanese chapter3_f90a65e2:
 
     # "하다못해 나는 억지로라도 잠에 들기 위해 양을 세기 시작했다."
-    "仕方なく私は無理やりでも眠りにつくために羊を数え始めた。"
+    "仕方なく俺は無理やりにでも眠るために羊を数え始めた。"
 
 # game/chapter3.rpy:799
 translate japanese chapter3_6ceaf897:
@@ -2186,7 +2186,7 @@ translate japanese chapter3_6ceaf897:
 translate japanese chapter3_6a19e466:
 
     # "오늘따라 유난히 머릿속을 뛰노는 양들이 활기차 보였다."
-    "今日はとりわけ頭の中を走る羊たちが元気に見えた。"
+    "今日に限ってやたらと頭の中を跳ね回る羊たちが元気に見えた。"
 
 # game/chapter3.rpy:804
 translate japanese chapter3_65ae6f01:
@@ -2194,7 +2194,7 @@ translate japanese chapter3_65ae6f01:
     # voice "voices/gc43.ogg"
     # 소녀 "“…… 자요?”"
     voice "voices/gc43.ogg"
-    소녀 "「……寝てる？」"
+    소녀 "「……寝ましたか？」"
 
 # game/chapter3.rpy:807
 translate japanese chapter3_3a14071c:
@@ -2202,7 +2202,7 @@ translate japanese chapter3_3a14071c:
     # voice ""
     # "머릿속에서 302번째 양을 세었을 때쯤, 소녀의 목소리가 들려왔다."
     voice ""
-    "頭の中で302番目の羊を数えたころ、少女の声が聞こえた。"
+    "頭の中で302匹目の羊を数えた頃、少女の声が聞こえてきた。"
 
 # game/chapter3.rpy:810
 translate japanese chapter3_8907214d:
@@ -2218,43 +2218,43 @@ translate japanese chapter3_b9d9877e:
     # voice ""
     # "적당한 크기의 목소리가 기분 좋게 귓가를 간질였다."
     voice ""
-    "適度な大きさの声が気持ちよく耳元をくすぐった。"
+    "ちょうどいい大きさの声が、心地よく耳元をくすぐった。"
 
 # game/chapter3.rpy:815
 translate japanese chapter3_5d269880:
 
     # "곧이어 나의 얼굴 위로 희미한 손길이 느껴졌다."
-    "すぐに私の顔の上にかすかな手触りが感じられた。"
+    "続いて俺の顔の上にかすかな手つきが感じられた。"
 
 # game/chapter3.rpy:816
 translate japanese chapter3_ec52915c:
 
     # "아마도 소녀가 나의 얼굴 위로 손을 흔들어 보이고 있는 모양이었다."
-    "おそらく少女が私の顔の上に手を振って見せているのだろう。"
+    "おそらく少女が俺の顔の前で手を振っているのだろう。"
 
 # game/chapter3.rpy:817
 translate japanese chapter3_1710dfb7:
 
     # "하마터면 미간을 움츠릴 뻔했지만, 다행히 그런 일은 없었다."
-    "思わず眉間をひそめそうになったが、幸いにもそんなことはなかった。"
+    "危うく眉間にしわを寄せそうになったが、幸いそれは避けられた。"
 
 # game/chapter3.rpy:819
 translate japanese chapter3_12a3bce1:
 
     # "스르륵 소녀가 몸을 일으키는 소리가 들렸다."
-    "スルスルと少女が体を起こす音が聞こえた。"
+    "するりと少女が身を起こす気配がした。"
 
 # game/chapter3.rpy:820
 translate japanese chapter3_2b91c39f:
 
     # "눈을 감고 있었지만, 나로부터 조금 떨어진 곳에서 희미한 웃음소리를 찾을 수 있었다."
-    "目を閉じていたが、私から少し離れたところでかすかな笑い声を探すことができた。"
+    "目を閉じていたが、俺から少し離れたところにかすかな笑い声を見つけることができた。"
 
 # game/chapter3.rpy:821
 translate japanese chapter3_347c44d4:
 
     # "살짝 굵은 숨소리 같은 소녀의 웃음소리를, 나는 어느새 정확히 집어낼 수 있는 모양이었다."
-    "少し荒い息のような少女の笑い声を、私はいつの間にか正確に拾えるようになっていた。"
+    "ちょっと太い息のような少女の笑い声を、俺はいつの間にか正確に聞き分けられるようになっていたらしい。"
 
 # game/chapter3.rpy:823
 translate japanese chapter3_e75fbffa:
@@ -2262,7 +2262,7 @@ translate japanese chapter3_e75fbffa:
     # voice "voices/gc45.ogg"
     # 소녀 "“자는 척하는 거라면, 고마워요.”"
     voice "voices/gc45.ogg"
-    소녀 "「寝たふりしてくれるなら、ありがとう」"
+    소녀 "「もし寝たふりだったら、ありがとうございます。」"
 
 # game/chapter3.rpy:826
 translate japanese chapter3_f49db346:
@@ -2270,31 +2270,31 @@ translate japanese chapter3_f49db346:
     # voice ""
     # "그런 이야기가 내 귀에 닿은 뒤, 욕실 문이 여닫히는 소리가 들렸다."
     voice ""
-    "そんな話が私の耳に届いた後、浴室のドアが開け閉めされる音が聞こえた。"
+    "そんな言葉が耳に届いたあと、浴室のドアが開閉する音が聞こえた。"
 
 # game/chapter3.rpy:828
 translate japanese chapter3_6a502220:
 
     # "그리고 얼마 지나지 않아 샤워기에서 물줄기가 떨어지는 소리가 희미하게 들렸다."
-    "そしてすぐにシャワーから水しぶきが落ちる音がかすかに聞こえた。"
+    "そしてほどなくして、シャワーから水の落ちる音がかすかに聞こえてきた。"
 
 # game/chapter3.rpy:830
 translate japanese chapter3_232b2125:
 
     # "늦은 밤, 빗방울이 창문을 두드리는 것만 같은 익숙한 음색이었다."
-    "遅い夜、雨粒が窓を叩くような慣れた音色だった。"
+    "遅い夜、雨粒が窓を叩くかのような馴染みのある音色だった。"
 
 # game/chapter3.rpy:832
 translate japanese chapter3_d1b86ab7:
 
     # "300마리 언저리에서, 나는 양을 세는 것을 그만둘 수 있었다."
-    "300匹ぐらいで、私は羊を数えるのをやめることができた。"
+    "300匹あたりで、俺は羊を数えるのをやめることができた。"
 
 # game/chapter3.rpy:833
 translate japanese chapter3_368b3bd3:
 
     # "여지껏 양을 세고 있던 나는 우습게도 그 소리를 신호로 천천히 잠에 들었다."
-    "ずっと羊を数えていた私はばかげてもその音を合図にゆっくりと眠りについた。"
+    "それまで羊を数えていた俺は、おかしなことにその音を合図にゆっくりと眠りに落ちた。"
 
 # game/chapter3.rpy:840
 translate japanese chapter3_c15647c6:
@@ -2306,31 +2306,31 @@ translate japanese chapter3_c15647c6:
 translate japanese chapter3_6232bbef:
 
     # "전에도 여러 번 꾼 적 있는, 익숙한 꿈이었다."
-    "前にも何度も見たことのある、慣れた夢だった。"
+    "前にも何度も見たことのある、馴染みの夢だった。"
 
 # game/chapter3.rpy:845
 translate japanese chapter3_1ec81d5e:
 
     # "거리를 걸었다."
-    "道を歩いた。"
+    "通りを歩いた。"
 
 # game/chapter3.rpy:846
 translate japanese chapter3_89b24d53:
 
     # "사람이 없는 거리를, 혼자 걷고 있었다."
-    "人がいない通りを、一人で歩いていた。"
+    "人のいない通りを、ひとりで歩いていた。"
 
 # game/chapter3.rpy:847
 translate japanese chapter3_616216d7:
 
     # "이상하다는 생각은 전혀 들지 않았다."
-    "変だという思いは全く浮かばなかった。"
+    "おかしいとは少しも思わなかった。"
 
 # game/chapter3.rpy:848
 translate japanese chapter3_09db1222:
 
     # "오히려 발걸음 소리가 들려올 때마다 느껴지는 고요함이, 더할 나위 없이 어울린다는 생각만이 들 뿐이었다."
-    "むしろ足音が聞こえてくるたびに感じる静けさが、もう何もいらないほど似合っていると思うばかりだった。"
+    "むしろ、足音が聞こえるたびに感じる静けさが、この上なく似合っているとしか思えなかった。"
 
 # game/chapter3.rpy:851
 translate japanese chapter3_7cc141b6:
@@ -2342,169 +2342,169 @@ translate japanese chapter3_7cc141b6:
 translate japanese chapter3_0fd9e78a:
 
     # "당연히 그래야 한다는 것처럼, 유미도, 현지도, 그리고 이름 모를 소녀도……."
-    "当然そうであるべきだというように、ユミも、ヒョンジも、そして名前も知らない少女も……。"
+    "当然そうあるべきだというように、ユミも、ヒョンジも、そして名も知らぬ少女も……。"
 
 # game/chapter3.rpy:854
 translate japanese chapter3_81340f99:
 
     # "나는 이유 모를 쓴웃음을 지었다."
-    "俺は理由もわからない苦笑を浮かべた。"
+    "俺は理由のわからない苦笑を浮かべた。"
 
 # game/chapter3.rpy:860
 translate japanese chapter3_231f240f:
 
     # "꿈에서 깬 나를 반긴 건 밝아오는 여명이 아닌 한밤중의 어둠이었다."
-    "夢から覚めた俺を迎えたのは明るくなる夜明けではなく真夜中の闇だった。"
+    "夢から覚めた俺を迎えたのは、明けゆく夜明けではなく真夜中の闇だった。"
 
 # game/chapter3.rpy:861
 translate japanese chapter3_bdcbc6b7:
 
     # "새벽 세 시."
-    "未明三時。"
+    "午前三時。"
 
 # game/chapter3.rpy:862
 translate japanese chapter3_31c59f74:
 
     # "아직 해가 뜨기엔 한참이 남은 시각이었다."
-    "まだ太陽が昇るにはずっと時間がかかる時間帯だった。"
+    "まだ日が昇るには程遠い時刻だった。"
 
 # game/chapter3.rpy:863
 translate japanese chapter3_50223bc4:
 
     # "목이 텁텁했다."
-    "喉が渇いていた。"
+    "喉が渇いた。"
 
 # game/chapter3.rpy:867
 translate japanese chapter3_c656a3cf:
 
     # "요즘 들어 목이 말라 깨는 경우가 잦아진 것 같은데."
-    "最近は喉が乾いて起きることが多くなったようだ。"
+    "最近、喉が渇いて目が覚めることが多くなった気がする。"
 
 # game/chapter3.rpy:868
 translate japanese chapter3_eb26d528:
 
     # "나는 조용히 몸을 일으켜 침대를 힐긋 바라보았다."
-    "俺は静かに身体を起こしてベッドをぼんやり見つめた。"
+    "俺は静かに身を起こして、ベッドをちらりと見た。"
 
 # game/chapter3.rpy:870
 translate japanese chapter3_396673fa_2:
 
     # 나 "“…….”"
-    나 "「……」"
+    나 "「……。」"
 
 # game/chapter3.rpy:872
 translate japanese chapter3_4a7a7f13:
 
     # "이불을 뒤집어 쓰고 있는 소녀로부터는 희미한 숨소리만이 들려오고 있었다."
-    "布団をひっくり返している少女からはかすかな息づかいしか聞こえてこなかった。"
+    "布団をかぶっている少女からは、かすかな寝息だけが聞こえていた。"
 
 # game/chapter3.rpy:874
 translate japanese chapter3_95831f07:
 
     # 나 "‘자고 있는 건가?’"
-    나 "「寝ているのか？」"
+    나 "「寝てるのか？」"
 
 # game/chapter3.rpy:876
 translate japanese chapter3_114d27af:
 
     # "목은 말라붙어 있고, 소녀는 이불을 푹 뒤집어쓰고 있고."
-    "喉は乾ききっていて、少女は布団をふかりと被っていて。"
+    "俺の喉はカラカラで、少女は布団をすっぽりかぶっている。"
 
 # game/chapter3.rpy:877
 translate japanese chapter3_8b9cd3c2:
 
     # "아무래도 에어컨 온도가 너무 낮았던 걸까."
-    "どうやらエアコンの温度が低すぎたのだろうか。"
+    "どうやらエアコンの温度が低すぎたのかもしれない。"
 
 # game/chapter3.rpy:878
 translate japanese chapter3_57ce9119:
 
     # "종종 목이 말라 밤중에 깼던 게 에어컨 때문일지도 모르겠다는 생각이 들었다."
-    "時々喉が乾いて夜中に起きたのがエアコンのせいかもしれないと思った。"
+    "時々喉が渇いて夜中に目が覚めていたのは、エアコンのせいだったのかもしれないと思った。"
 
 # game/chapter3.rpy:879
 translate japanese chapter3_656d2c17:
 
     # "실내 희망 온도를 살짝 올리고선 냉장고에서 물을 꺼내 마셨다."
-    "室内の希望温度を少し上げてから冷蔵庫から水を取り出して飲んだ。"
+    "室温設定を少し上げてから、冷蔵庫から水を出して飲んだ。"
 
 # game/chapter3.rpy:880
 translate japanese chapter3_5e6dbb37:
 
     # "다시 이부자리로 돌아와 잠을 청하려는데, 침대에서 들려오던 소녀의 숨소리가 미묘하게나마 거칠게 느껴졌다."
-    "再び寝床に戻って眠ろうとすると、ベッドから聞こえてくる少女の息づかいが微妙に荒く感じられた。"
+    "再び布団に戻って眠ろうとしたとき、ベッドから聞こえていた少女の寝息がわずかに荒く感じられた。"
 
 # game/chapter3.rpy:881
 translate japanese chapter3_f0cab02d:
 
     # "나는 그대로 몸을 누이려다 말고, 침대 위에서 잠들어 있을 소녀에게 조심스레 다가가 보았다."
-    "俺はそのまま身体を横にしようとしたが、ベッドの上で眠っているであろう少女にそっと近づいて見た。"
+    "俺はそのまま横になろうとして、やめた。ベッドの上で眠っているはずの少女にそっと近づいてみた。"
 
 # game/chapter3.rpy:883
 translate japanese chapter3_96d9c3c9:
 
     # 나 "‘…… 어디 아픈가?’"
-    나 "「……どこか痛いのか？」"
+    나 "「……どこか具合悪いのか？」"
 
 # game/chapter3.rpy:885
 translate japanese chapter3_cc10809e:
 
     # "소녀의 가녀린 양손이 얇은 여름 이불을 꽉 붙든 채 떨리고 있었다."
-    "少女の細い両手が薄い夏の布団をぎゅっと掴んで震えていた。"
+    "少女の細い両手が、薄い布団をぎゅっと掴んだまま震えていた。"
 
 # game/chapter3.rpy:886
 translate japanese chapter3_7effe37f:
 
     # "기분 탓일 거라 생각했던 거친 숨소리도, 확실히 불안정한 주기로 소녀의 입에서 새어나오고 있었다."
-    "気のせいだと思っていた荒い息づかいも、確かに不安定な周期で少女の口から漏れていた。"
+    "気のせいだと思っていた荒い寝息も、明らかに不安定な周期で少女の口から漏れていた。"
 
 # game/chapter3.rpy:887
 translate japanese chapter3_7cee1373:
 
     # "너무 오랫동안 걸어 다녀서 몸살에 걸리기라도 한 걸까?"
-    "あまりに長く歩き回って風邪や体調不良になったのだろうか？"
+    "歩きすぎて体調を崩したのだろうか。"
 
 # game/chapter3.rpy:888
 translate japanese chapter3_7a558066:
 
     # "하지만 유령이 감기나 몸살에 걸린다니, 그런 이야기는 들어 본 적이 없는 것 같았다."
-    "でも幽霊が風邪や体調不良になるなんて、そんな話は聞いたことがないような気がした。"
+    "だが、幽霊が風邪や体調不良になるなんて、聞いたこともない気がする。"
 
 # game/chapter3.rpy:889
 translate japanese chapter3_c9ae4e81:
 
     # "그러다 문득, 지금의 상황이 언젠가 겪어 본 듯한 기분이 들었다."
-    "するとふと、今の状況がどこかで経験したような気がした。"
+    "そうしているうちにふと、今の状況がいつか経験したことがあるような気がした。"
 
 # game/chapter3.rpy:891
 translate japanese chapter3_5b04aee4:
 
     # 나 "“아, 맞다.”"
-    나 "「あ、そうだ」"
+    나 "「あ、そうだ。」"
 
 # game/chapter3.rpy:893
 translate japanese chapter3_bec54a86:
 
     # "어딘가 익숙하다 했더니, 소녀가 이곳에 온 첫날 밤과 똑같은 상황이었다."
-    "どこかで見覚えがあると思ったら、少女がここに来た初日の夜とまったく同じ状況だった。"
+    "どこか見覚えがあると思ったら、少女がここに来た最初の夜とまったく同じ状況だった。"
 
 # game/chapter3.rpy:894
 translate japanese chapter3_ba99cfdf:
 
     # "그렇다면 소녀는 지금도 악몽을 꾸고 있는 건가?"
-    "それなら少女は今も悪夢を見ているのか？"
+    "だとしたら、少女は今も悪夢を見ているのだろうか。"
 
 # game/chapter3.rpy:895
 translate japanese chapter3_8f060db6:
 
     # "이불을 살짝 내려 확인해 본 소녀의 안색은 어둠 속에서도 눈에 띌 정도로 창백해 보였다."
-    "布団を少し下げて確認した少女の顔色は暗闇の中でも目につくほど青白く見えた。"
+    "布団を少しめくって確かめた少女の顔色は、闇の中でも目立つほど蒼白に見えた。"
 
 # game/chapter3.rpy:896
 translate japanese chapter3_2a308ef2:
 
     # "나는 냉장고에서 한 컵의 물을 더 따라와서는 소녀를 조심스럽게 깨워 보았다."
-    "俺は冷蔵庫からもう一杯の水を注いでから、少女をそっと起こしてみた。"
+    "俺は冷蔵庫からもう一杯水を汲んできて、少女をそっと起こそうとした。"
 
 # game/chapter3.rpy:900
 translate japanese chapter3_7ff543aa:
@@ -2518,7 +2518,7 @@ translate japanese chapter3_380b443f:
     # voice "voices/gc46.ogg"
     # 소녀 "“아…… 으으…… 우으으…….”"
     voice "voices/gc46.ogg"
-    소녀 "「あ……うう……ううう……」"
+    소녀 "「あ……うぅ……ううう……。」"
 
 # game/chapter3.rpy:904
 translate japanese chapter3_cf2e513e:
@@ -2526,55 +2526,55 @@ translate japanese chapter3_cf2e513e:
     # voice ""
     # "소녀는 나의 조심스러운 부름에도 여전히 잠에서 깨어나지 못하고는 악몽 속을 헤맸다."
     voice ""
-    "少女は俺のそっとした呼びかけにも相変わらず夢から覚めることができずに悪夢の中を彷徨っていた。"
+    "少女は俺の控えめな呼びかけにも目を覚ますことなく、悪夢の中をさまよい続けていた。"
 
 # game/chapter3.rpy:906
 translate japanese chapter3_7b52ffee:
 
     # "왜 진작 괜찮냐는 말을 건네지 못했던 걸까."
-    "なぜもっと早く大丈夫かと言ってやれなかったのだろうか。"
+    "どうしてもっと早く大丈夫かと声をかけてやれなかったのだろう。"
 
 # game/chapter3.rpy:910
 translate japanese chapter3_437ede44:
 
     # "죽음의 색을 마주할 때마다 소녀로부터 느껴지던 흐릿한 위화감."
-    "死の色に直面するたびに少女から感じていたぼんやりした違和感。"
+    "死の色と向き合うたびに少女から感じていた、ぼんやりとした違和感。"
 
 # game/chapter3.rpy:914
 translate japanese chapter3_de311fb7:
 
     # "여러 색이 뒤섞이면 새까매지는 것과는 달리, 감정이란 뒤섞이면 뒤섞일수록 빛처럼 새하얘져 버리는 걸까."
-    "色々な色が混ざれば真っ黒になるのとは違って、感情というのは混ざれば混ざるほど光のように真っ白くなってしまうのだろうか。"
+    "色が混ざり合えば真っ黒になるのとは違い、感情は混ざれば混ざるほど光のように真っ白になってしまうのだろうか。"
 
 # game/chapter3.rpy:915
 translate japanese chapter3_5b34c986:
 
     # "다른 사람과 눈을 마주치지 않기 위해 항상 고개를 푹 숙인 채 길을 걸어 다니던 소녀가 애써 바라본 죽음의 색은 분명 내가 상상하기 힘든 감각들로 물들어 있었을 것이다."
-    "他人と目を合わせないようにいつも頭をぽつんと垂れて歩いていた少女が必死に見つめた死の色はきっと俺が想像するよりも辛い感覚で染まっていたに違いない。"
+    "他人と目を合わせないために、いつもうつむいたまま道を歩いていた少女が懸命に見た死の色は、きっと俺には想像もつかない感覚で染まっていたに違いない。"
 
 # game/chapter3.rpy:918
 translate japanese chapter3_7302e05f:
 
     # "금세 잠에서 깨어났던 그 날과는 달리, 피곤해서인지 소녀는 깊은 잠에 빠진 듯해 보였다."
-    "すぐに夢から覚めていたあの日とは違って、疲れているのか少女は深い眠りに落ちているようだった。"
+    "すぐに目を覚ましたあの日とは違い、疲れているのか少女は深い眠りに沈んでいるようだった。"
 
 # game/chapter3.rpy:919
 translate japanese chapter3_88f5dd49:
 
     # "소녀를 흔들어 깨워야 하나, 아니면 그냥 이부자리로 돌아가는 수밖에 없으려나."
-    "少女を揺り起こしてみるべきか、それともそのまま寝床に戻るしかないのだろうか。"
+    "少女を揺り起こすべきか、それともおとなしく布団に戻るしかないのか。"
 
 # game/chapter3.rpy:920
 translate japanese chapter3_c57885cb:
 
     # "슬슬 몰려드는 새벽녘의 수면욕이 나의 선택을 재촉하고 있었다."
-    "そろそろ押し寄せる夜明け前の睡魔が俺の選択をせかしていた。"
+    "じわじわと押し寄せてくる明け方の眠気が、俺の選択を急かしていた。"
 
 # game/chapter3.rpy:921
 translate japanese chapter3_467f1b86:
 
     # "소녀를 깨운다 해도, 다시 잠에 든 소녀가 악몽에 도로 빠져들지 말라는 법은 없을 테고."
-    "少女を起こしたとしても、また眠りについた少女が悪夢に再び陥らないという保証はないだろうし。"
+    "少女を起こしたとしても、再び眠りについた少女が悪夢に引き戻されない保証はないだろうし。"
 
 # game/chapter3.rpy:922
 translate japanese chapter3_bdeb58ba:
@@ -2586,91 +2586,91 @@ translate japanese chapter3_bdeb58ba:
 translate japanese chapter3_b0bc3ef2:
 
     # "어떻게 해야 할까?"
-    "どうすればいいのだろうか。"
+    "どうすればいいんだ。"
 
 # game/chapter3.rpy:925
 translate japanese chapter3_d589787f:
 
     # "그 뒤로, 내가 어떤 의식의 흐름에서 그런 선택을 하게 된 건지는 잘 모르겠다."
-    "その後、俺がどんな意識の流れでそんな選択をしたのかはよくわからなかった。"
+    "その後、どんな意識の流れでそういう選択をしたのか、自分でもよくわからない。"
 
 # game/chapter3.rpy:926
 translate japanese chapter3_a13a4c66:
 
     # "그저 그랬던 것 같다는 생각이 들었다."
-    "ただそうしたかったという気がした。"
+    "ただ、そうなったのだと思った。"
 
 # game/chapter3.rpy:928
 translate japanese chapter3_f8f0e923:
 
     # "소녀의 옆에 잠시 앉아, 그녀의 머리를 쓰다듬으며."
-    "少女の隣にしばらく座って、彼女の頭を撫でながら。"
+    "少女の隣にしばらく座り、彼女の頭を撫でながら。"
 
 # game/chapter3.rpy:929
 translate japanese chapter3_0a01f6bf:
 
     # "나는 {color=#00ccff}지금은 존재하지 않을 오래된 팝송 하나{/color}를 조용히 흥얼댔다."
-    "俺は{color=#00ccff}今は存在しない古いポップソング一つ{/color}を静かに口ずさんだ。"
+    "俺は{color=#00ccff}今はもう存在しないであろう古いポップスをひとつ{/color}、静かに口ずさんだ。"
 
 # game/chapter3.rpy:931
 translate japanese chapter3_045b3827:
 
     # "모든 것이 다 괜찮아질 거라는 멜로디가 소녀의 귓가에 연주되고, 나의 손은 샴푸 향이 여전히 남아있는 그녀의 머리카락을 천천히 쓰다듬는다."
-    "すべてが大丈夫になるというメロディーが少女の耳元で奏でられ、俺の手はシャンプーの香りがまだ残っている彼女の髪をゆっくりと撫でた。"
+    "すべてうまくいくというメロディが少女の耳元に奏でられ、俺の手はシャンプーの香りがまだ残る彼女の髪をゆっくりと撫でる。"
 
 # game/chapter3.rpy:932
 translate japanese chapter3_e8264a51:
 
     # "기억에 남아있는 멜로디가 다 연주 되었을 때쯤, 소녀는 오컬트부실에서 보았던 그 편안한 얼굴을 한 채 새근새근 잠에 들어 있었다."
-    "記憶に残っているメロディーがすべて演奏されたころ、少女はオカルト部室で見たあの安らかな顔でぐっすり眠っていた。"
+    "記憶に残っているメロディを歌い終えた頃、少女はオカルト部の部室で見たあの穏やかな顔で、すやすやと眠りについていた。"
 
 # game/chapter3.rpy:939
 translate japanese chapter3_d6cf2ea2:
 
     # "눈을 떴을 땐 평소같지 않은 빛이 주위를 감싸고 있었다."
-    "目を開けたら普段と違う光が周りを包んでいた。"
+    "目を開けたとき、いつもとは違う光が周りを包んでいた。"
 
 # game/chapter3.rpy:940
 translate japanese chapter3_8e713878:
 
     # "화들짝 놀라 잠에서 깨어난 뒤에야 오늘은 일요일에다가 방학식을 한 뒤라는 것을 깨닫고는 안도했다."
-    "びっくりして夢から覚めた後に今日は日曜日でしかも休業式をした後だということに気づいて安心した。"
+    "驚いて飛び起きてから、今日は日曜日でしかも終業式のあとだということに気づいてほっとした。"
 
 # game/chapter3.rpy:942
 translate japanese chapter3_b8906a5f:
 
     # "더 볼 것도 없이, 해는 중천에 떠 있었다."
-    "見るまでもなく、太陽は真上に昇っていた。"
+    "見るまでもなく、太陽は真上にあった。"
 
 # game/chapter3.rpy:943
 translate japanese chapter3_582d0263:
 
     # "새벽에 잠시 깨버려서 그런가, 팔자 좋게 늦잠을 자 버린 모양이었다."
-    "夜明けに少し起きてしまったせいか、調子よく二度寝をしてしまったようだった。"
+    "明け方に一度目が覚めてしまったせいか、のんきに寝過ごしてしまったようだった。"
 
 # game/chapter3.rpy:944
 translate japanese chapter3_307bc818:
 
     # "확실히 침대가 아닌 바닥에서 자는 건 익숙하지 않은지, 목을 돌리자 평소엔 느낄 수 없었던 뻐근함이 느껴졌다."
-    "確かにベッドではなく床で寝るのは慣れないのか、首を回すと普段は感じられなかったこわばりが感じられた。"
+    "確かにベッドではなく床で寝るのは慣れないらしく、首を回すと普段は感じない凝りが走った。"
 
 # game/chapter3.rpy:946
 translate japanese chapter3_c3ad0764:
 
     # "옆을 바라보자 소녀는 지난 새벽에 있었던 일은 아무것도 알아채지 못한 듯 잠에서 막 깨어난 나를 빤히 들여다보고 있을 뿐이었다."
-    "横を見ると少女は昨夜のことは何も気づかなかったようで、夢からさっき起きた俺をじっと見つめているだけだった。"
+    "横を見ると、少女はあの明け方の出来事には何も気づいていないようで、目覚めたばかりの俺をじっと見つめているだけだった。"
 
 # game/chapter3.rpy:948
 translate japanese chapter3_afe00b26:
 
     # "왠지 소녀에게 게으름뱅이 같은 모습을 보여준 것 같아 괜히 머쓱했다."
-    "なぜか少女に怠け者みたいな姿を見せてしまったようで、なんだか恥ずかしかった。"
+    "なんとなく少女に怠け者みたいな姿を見せてしまった気がして、無性にばつが悪かった。"
 
 # game/chapter3.rpy:950
 translate japanese chapter3_71a90b14:
 
     # 나 "“어, 언제 일어났어?”"
-    나 "「あ、いつ起きたの？」"
+    나 "「お、いつ起きたんだ？」"
 
 # game/chapter3.rpy:952
 translate japanese chapter3_f4f4b105:
@@ -2678,7 +2678,7 @@ translate japanese chapter3_f4f4b105:
     # voice "voices/gc47.ogg"
     # 소녀 "“방금요.”"
     voice "voices/gc47.ogg"
-    소녀 "「さっきです」"
+    소녀 "「さっきです。」"
 
 # game/chapter3.rpy:955
 translate japanese chapter3_22291bb4:
@@ -2686,31 +2686,31 @@ translate japanese chapter3_22291bb4:
     # voice ""
     # "소녀의 말투가 나를 관찰하는 것처럼 느껴진 건 분명 나만의 착각일 것이다."
     voice ""
-    "少女の口調が俺を観察しているように感じたのはきっと俺だけの錯覚だろう。"
+    "少女の口調がまるで俺を観察しているみたいに感じたのは、きっと俺の思い過ごしだろう。"
 
 # game/chapter3.rpy:957
 translate japanese chapter3_d31997db:
 
     # "소녀는 자신을 없는 존재 취급하라고 했지만, 현지의 말이 맞았다."
-    "少女は自分を存在しないもの扱いしろと言っていたが、ヒョンジの言う通りだった。"
+    "少女は自分をいない存在として扱えと言ったが、ヒョンジの言葉は正しかった。"
 
 # game/chapter3.rpy:958
 translate japanese chapter3_56573a16:
 
     # "어떻게 바로 앞에 있는 사람을 없는 존재 취급할 수 있다는 것인가?"
-    "どうやって目の前にいる人を存在しないもの扱いできるというのだろうか。"
+    "目の前にいる人間をいない存在として扱えるわけがないだろう。"
 
 # game/chapter3.rpy:959
 translate japanese chapter3_9f46c112:
 
     # "게다가 나보다 아무리 많아도 한두 살 정도밖에 차이 나지 않는 또래 여학생의 시선을……."
-    "しかも俺よりせいぜい一、二歳ぐらいしか違わない同年代の女子生徒の視線を……。"
+    "しかも俺とせいぜい一つ二つしか年の違わない同年代の女子の視線を……。"
 
 # game/chapter3.rpy:964
 translate japanese chapter3_c58986e7:
 
     # 나 "“배는 안 고파?”"
-    나 "「お腹は空いてない？」"
+    나 "「腹、空いてないか？」"
 
 # game/chapter3.rpy:965
 translate japanese chapter3_f5a60c01:
@@ -2718,7 +2718,7 @@ translate japanese chapter3_f5a60c01:
     # voice "voices/gc48.ogg"
     # 소녀 "“조금요.”"
     voice "voices/gc48.ogg"
-    소녀 "「少しです」"
+    소녀 "「少しだけ。」"
 
 # game/chapter3.rpy:967
 translate japanese chapter3_bc392a98:
@@ -2726,157 +2726,157 @@ translate japanese chapter3_bc392a98:
     # voice ""
     # 나 "“아, 음…… 그럼 아침 준비를…….”"
     voice ""
-    나 "「あ、えと……それじゃあ朝食の準備を……」"
+    나 "「あ、えっと……じゃあ朝飯の支度を……。」"
 
 # game/chapter3.rpy:970
 translate japanese chapter3_16e9aa2f:
 
     # "아니, 점심인가."
-    "いや、昼食か。"
+    "いや、昼か。"
 
 # game/chapter3.rpy:971
 translate japanese chapter3_89c24615:
 
     # "시계를 보니 이미 정오가 코앞이었다."
-    "時計を見るともう正午が目前だった。"
+    "時計を見ると、すでに正午が目前だった。"
 
 # game/chapter3.rpy:973
 translate japanese chapter3_90f35c7c:
 
     # "부엌으로 향하다 보니 배가 꼬르륵거리는 소리가 들려왔다."
-    "台所に向かうとお腹がぐーっと鳴る音が聞こえてきた。"
+    "台所に向かうと、腹がぐうと鳴る音が聞こえた。"
 
 # game/chapter3.rpy:974
 translate japanese chapter3_8fed0871:
 
     # "늦게나마 내가 잠에서 깬 것도 배가 고파서였던 걸지도 모르겠다."
-    "遅くなって俺が夢から覚めたのもお腹が空いていたからだったのかもしれない。"
+    "遅ればせながら俺が目を覚ましたのも、空腹のせいだったのかもしれない。"
 
 # game/chapter3.rpy:975
 translate japanese chapter3_069c0269:
 
     # "어제는 저녁을 좀 일찍 먹기도 했고."
-    "昨日は夕食をちょっと早めに食べたし。"
+    "昨日は夕飯を少し早めに食べたし。"
 
 # game/chapter3.rpy:979
 translate japanese chapter3_2b508a67:
 
     # "어쩌면 소녀가 ‘조금요’라고 자신의 의견을 조금이나마 내비친 것도 무척이나 배가 고파서 그런 건 아닌가 하는 생각이 들었다."
-    "もしかしたら少女が「少しです」と自分の意見を少しばかり表したのもすごくお腹が空いていたからなのではないかと思った。"
+    "もしかしたら少女が「少しだけ」と自分の意見を少しでも口にしたのも、よほど腹が減っていたからではないかという気がした。"
 
 # game/chapter3.rpy:980
 translate japanese chapter3_f6dea031:
 
     # "아무 생각 없이 냉장고를 열었다가 잊고 있었던 것이 떠올랐다."
-    "何も考えずに冷蔵庫を開けたら忘れていたことを思い出した。"
+    "何も考えずに冷蔵庫を開けて、忘れていたことを思い出した。"
 
 # game/chapter3.rpy:984
 translate japanese chapter3_c4f897ca:
 
     # "아 맞다."
-    "あそうだ。"
+    "あ、そうだ。"
 
 # game/chapter3.rpy:985
 translate japanese chapter3_bcf8445f:
 
     # "냉장고에 아무것도 안 남아 있었지."
-    "冷蔵庫には何も残っていなかったんだ。"
+    "冷蔵庫に何も残っていなかったんだった。"
 
 # game/chapter3.rpy:990
 translate japanese chapter3_e76bedc2:
 
     # "빈손으로 방으로 돌아오자 소녀의 시선이 그런 나의 뒤를 말없이 따라붙었다."
-    "手ぶらで部屋に戻ると少女の視線がそんな俺の後ろを黙って追ってきた。"
+    "手ぶらで部屋に戻ると、少女の視線が無言でそんな俺のあとをついてきた。"
 
 # game/chapter3.rpy:992
 translate japanese chapter3_06f6ff8a:
 
     # 나 "“생각해보니 냉장고에 남아있는 게 아무것도 없어서. 마트 금방 갔다 올게.”"
-    나 "「考えてみたら冷蔵庫に残っているものが何もなくて。スーパーにちょっと行ってくるよ」"
+    나 "「考えてみたら冷蔵庫に何も残ってなくて。ちょっとスーパーに行ってくるわ。」"
 
 # game/chapter3.rpy:994
 translate japanese chapter3_9a64440e:
 
     # "대충 외출복으로 갈아입은 나는 얼른 마트로 향했다."
-    "適当に外出着に着替えた俺は急いでスーパーに向かった。"
+    "適当に着替えた俺は、さっさとスーパーへ向かった。"
 
 # game/chapter3.rpy:995
 translate japanese chapter3_e79b106c:
 
     # "현관을 나선 뒤에야 뒤늦게 소녀에게 점심으로는 뭘 먹고 싶은지 물어볼걸, 하는 생각이 들었지만, 돌아올 대답은 ‘뭐든지 괜찮아요’ 같은 세상에서 가장 간단하면서도 난해한 문장일 게 뻔했다."
-    "玄関を出た後になってやっと少女に昼食には何が食べたいか聞いておけばよかったと思ったが、帰ってくる答えは「何でもいいです」みたいな世界で一番簡単でありながら難解な文だろうというのは目に見えていた。"
+    "玄関を出てから遅れて、少女に昼は何が食べたいか聞けばよかったと思ったが、返ってくる答えは「なんでもいいです」みたいな、世界で最もシンプルにして最も難解なリクエストに決まっていた。"
 
 # game/chapter3.rpy:1003
 translate japanese chapter3_87192e40:
 
     # "어제보다 한층 더 더워진 건지, 잠깐 걸었을 뿐인데 이마가 땀에 젖었다."
-    "昨日よりも一段と暑くなったのか、ちょっと歩いただけで額に汗が滲んだ。"
+    "昨日よりさらに暑くなったのか、少し歩いただけで額が汗に濡れた。"
 
 # game/chapter3.rpy:1004
 translate japanese chapter3_4425b179:
 
     # "15분 정도를 걸어 항상 식재료를 사러 들리는 집 근처의 작은 마트에 도착했다."
-    "15分ほど歩いていつも食材を買いに行く家の近くの小さなスーパーに着いた。"
+    "十五分ほど歩いて、いつも食材を買いに寄る家の近くの小さなスーパーに着いた。"
 
 # game/chapter3.rpy:1013
 translate japanese chapter3_c48edea8:
 
     # "붉은색 카트를 몰고 식료품 코너 주변을 맴돌기 시작했다."
-    "赤色のカートを押して食料品コーナーの周りをうろつき始めた。"
+    "赤いカートを押して食料品コーナーの周りをうろつき始めた。"
 
 # game/chapter3.rpy:1014
 translate japanese chapter3_58d8d422:
 
     # "말은 작은 쇼핑몰이라 했지만 그건 어디까지나 A구역 중심부에 위치한 대형 쇼핑몰과 비교했을 때의 이야기다."
-    "言葉は小さなショッピングモールと言ったが、それはどこまでもA区中心部に位置する大型ショッピングモールと比べたときの話だ。"
+    "小さなショッピングモールとは言ったが、それはあくまでA地区の中心部にある大型ショッピングモールと比べた場合の話だ。"
 
 # game/chapter3.rpy:1015
 translate japanese chapter3_3b5dace2:
 
     # "비교하자면 이곳은 있을 건 다 있을 곳이고, 대형 쇼핑몰은 없어도 될 것까지 다 있는 곳이라고나 할까."
-    "比べるならここはあるものは全部あるところで、大型ショッピングモールはなくてもいいものまで全部あるところとでも言おうか。"
+    "言うなれば、ここは必要なものは一通り揃っている場所で、大型モールはなくてもいいものまで全部ある場所、というところか。"
 
 # game/chapter3.rpy:1016
 translate japanese chapter3_4b77ce83:
 
     # "나는 익숙한 리듬에 맞추어 식료품 코너를 배회했다."
-    "俺は慣れたリズムに合わせて食料品コーナーを彷徨った。"
+    "俺はいつものリズムに合わせて食料品コーナーを巡った。"
 
 # game/chapter3.rpy:1023
 translate japanese chapter3_3cf0ce3f:
 
     # "식료품 코너를 맴돌며 먹을거리들을 쇼핑 카트에 이것저것 담고 난 뒤에서야, 카트에 담긴 것들이라고는 하나같이 냉동식품이나 영양가 없는 즉석식품이라는 것을 절감할 수 있었다."
-    "食料品コーナーをうろつきながら食べ物をカートに色々と入れてから、カートに入っているものは全部冷凍食品や栄養価のない即席食品だということに気づいた。"
+    "食料品コーナーを回りながらあれこれカートに放り込んだ後で、入っているものが冷凍食品や栄養のないインスタント食品ばかりだと痛感した。"
 
 # game/chapter3.rpy:1024
 translate japanese chapter3_195a65fe:
 
     # "여태껏 익숙해져 있던 몸의 궤적에 나도 모르게 기대어 있던 것이겠지."
-    "今まで慣れていた身体の軌道に俺も知らず知らず頼っていたのだろう。"
+    "これまで染みついていたルーティーンに、知らず知らず頼っていたのだろう。"
 
 # game/chapter3.rpy:1025
 translate japanese chapter3_3543b49a:
 
     # "잠깐 시야를 의식적으로 넓혀 유령 소녀가 좋아할 만한 것들을 찾아 주변을 둘러보았다."
-    "しばらく視野を意識的に広げて幽霊少女が好きそうなものを探して周りを見回した。"
+    "少し意識的に視野を広げて、幽霊の少女が喜びそうなものを探して周りを見回した。"
 
 # game/chapter3.rpy:1027
 translate japanese chapter3_611751c8:
 
     # "소녀는 ‘뭐든지 괜찮아요’라는 말을 항상 반복하겠지만, 그렇게 선택의 폭을 한없이 늘려주는 것이 매번 달갑지만은 않은 법이다."
-    "少女は「何でもいいです」という言葉をいつも繰り返すだろうが、そうやって選択の幅を無限に広げてくれるのが毎回嬉しいというわけではないのだ。"
+    "少女はいつも「なんでもいいです」と繰り返すだろうが、そうやって選択の幅を限りなく広げてくれるのが、毎回喜ばしいものとは限らない。"
 
 # game/chapter3.rpy:1029
 translate japanese chapter3_5e993214:
 
     # "익숙해져 있던 몸의 궤적을 잠시 비틀어볼까 하고 다른 쪽으로 카트를 돌리려는 순간."
-    "慣れていた身体の軌道を少し変えてみようとして別の方向にカートを回そうとした瞬間。"
+    "染みついたルーティーンをちょっとずらしてみようと、カートを別の方向に向けようとした瞬間。"
 
 # game/chapter3.rpy:1030
 translate japanese chapter3_584ace0c:
 
     # "나는 다른 쪽 쇼핑 코너에서 걸어오던 누군가와 우연히 눈이 마주친다."
-    "俺は別の方のショッピングコーナーから歩いてくる誰かと偶然目が合った。"
+    "俺は別のコーナーから歩いてきた誰かと、偶然目が合った。"
 
 # game/chapter3.rpy:1039
 translate japanese chapter3_da995e78:
@@ -2892,7 +2892,7 @@ translate japanese chapter3_8f777877:
     # voice ""
     # "예상하지 못한 곳에서 만나 그런지, 유미는 내게 평소보다 더 환한 얼굴로 손을 흔들었다."
     voice ""
-    "予想していなかったところで会ったせいか、ユミは俺にいつもよりももっと明るい顔で手を振った。"
+    "思いがけない場所で会ったからか、ユミは俺にいつもより一段と明るい顔で手を振った。"
 
 # game/chapter3.rpy:1048
 translate japanese chapter3_c2f3a341:
@@ -2900,7 +2900,7 @@ translate japanese chapter3_c2f3a341:
     # voice "voices/yc2.ogg"
     # 유미 "“언제 다시 만나나 했는데, 생각보다 금방 다시 보게 됐네?”"
     voice "voices/yc2.ogg"
-    유미 "「あれ？また会えるかなって思ってたけど、思ったより早くまた会えたね？」"
+    유미 "「いつまた会えるかと思ってたけど、思ったより早く再会したね？」"
 
 # game/chapter3.rpy:1051
 translate japanese chapter3_84487b04:
@@ -2908,19 +2908,19 @@ translate japanese chapter3_84487b04:
     # voice ""
     # "나 역시 웃는 얼굴로 그녀에게 인사를 건네지 않을 이유가 없었다."
     voice ""
-    "俺も笑顔で彼女に挨拶をしない理由はなかった。"
+    "俺もまた笑顔で彼女に挨拶しない理由はなかった。"
 
 # game/chapter3.rpy:1054
 translate japanese chapter3_9e8f0a4c:
 
     # "“그러게.”라며 유미에게 인사를 건넨 나는 그녀의 오른손에 들려있는 쇼핑 바구니를 힐긋 살폈다."
-    "「そうだね」とユミに挨拶をした俺は彼女の右手に持っているショッピングバスケットをちらっと見た。"
+    "「ほんとだな」とユミに挨拶しながら、俺は彼女の右手に持たれた買い物カゴをちらりと見た。"
 
 # game/chapter3.rpy:1055
 translate japanese chapter3_39097420:
 
     # "쇼핑 바구니에는 샐러드용 채소, 칼로리밸런스, 탄산수, 그리고 무지방 우유 같은 것들이 들어있었다."
-    "ショッピングバスケットにはサラダ用野菜、カロリーバランス、炭酸水、そして無脂肪牛乳などが入っていた。"
+    "買い物カゴにはサラダ用の野菜、{cmt=japanese_3B}カロリーバランス{/cmt}、炭酸水、そして無脂肪牛乳のようなものが入っていた。"
 
 # game/chapter3.rpy:1056
 translate japanese chapter3_e3f0ad7e:
@@ -2932,7 +2932,7 @@ translate japanese chapter3_e3f0ad7e:
 translate japanese chapter3_eae50114:
 
     # 나 "“어디 갔다 오는 거야?”"
-    나 "「どこ行ってたの？」"
+    나 "「どこか行ってきたのか？」"
 
 # game/chapter3.rpy:1064
 translate japanese chapter3_c8a20380:
@@ -2940,7 +2940,7 @@ translate japanese chapter3_c8a20380:
     # voice "voices/yc3.ogg"
     # 유미 "“응, 오늘 첫 멘토링 날이었거든. 아침에 애들 만나고 오는 길이었어.”"
     voice "voices/yc3.ogg"
-    유미 "「うん、今日は初めてのメンタリングの日だったんだ。朝に子どもたちに会って帰ってきたところなの」"
+    유미 "「うん、今日が初めてのメンタリングの日だったの。朝、後輩たちに会って帰る途中だったんだ。」"
 
 # game/chapter3.rpy:1068
 translate japanese chapter3_0530e6d9:
@@ -2954,13 +2954,13 @@ translate japanese chapter3_0530e6d9:
 translate japanese chapter3_69bb16ca:
 
     # "방금 막 일어난 터라 나의 시간 감각을 기준으로 말을 꺼냈었는데, 유미와 나는 하루의 출발점이 다르다는 것을 잊고 있었던 것이다."
-    "さっき起きたばかりだから俺の時間感覚で話を出したけど、ユミと俺は一日の始まりが違うということを忘れていたのだ。"
+    "起きたばかりで俺の時間感覚を基準に話を切り出してしまったが、ユミと俺では一日の出発点が違うということを忘れていたのだ。"
 
 # game/chapter3.rpy:1071
 translate japanese chapter3_d91c141c:
 
     # "잠시 우물쭈물하는 티를 보이던 나의 얼굴을 유미가 살핀다."
-    "しばらくぼんやりした顔を見せていた俺の顔をユミが覗き込んだ。"
+    "少しもじもじしている俺の顔をユミが覗き込む。"
 
 # game/chapter3.rpy:1073
 translate japanese chapter3_54802167:
@@ -2968,7 +2968,7 @@ translate japanese chapter3_54802167:
     # voice "voices/yc4.ogg"
     # 유미 "“피곤해 보이네?”"
     voice "voices/yc4.ogg"
-    유미 "「疲れてるみたいだね？」"
+    유미 "「疲れてるみたいだけど？」"
 
 # game/chapter3.rpy:1076
 translate japanese chapter3_9b075366:
@@ -2976,13 +2976,13 @@ translate japanese chapter3_9b075366:
     # voice ""
     # "나의 안색을 확인한 유미는 금세 내 상태를 진단했다."
     voice ""
-    "俺の顔色を確認したユミはすぐに俺の状態を診断した。"
+    "俺の顔色を確認したユミは、すぐに俺の状態を診断した。"
 
 # game/chapter3.rpy:1079
 translate japanese chapter3_c48eae16:
 
     # 나 "“어, 그래 보여?”"
-    나 "「あ、そう見える？」"
+    나 "「え、そう見えるか？」"
 
 # game/chapter3.rpy:1086
 translate japanese chapter3_9175d96a:
@@ -2990,7 +2990,7 @@ translate japanese chapter3_9175d96a:
     # voice "voices/yc5.ogg"
     # 유미 "“혹시 방금 막 일어나서 마트 온 건 아니지?”"
     voice "voices/yc5.ogg"
-    유미 "「もしかして、さっき起きてスーパーに来たとか？」"
+    유미 "「もしかして今起きたばっかりでスーパー来たんじゃないでしょうね？」"
 
 # game/chapter3.rpy:1089
 translate japanese chapter3_7b1ddf2c:
@@ -2998,37 +2998,37 @@ translate japanese chapter3_7b1ddf2c:
     # voice ""
     # "너무 정확한 진단이라 뜨끔 하는 소리가 절로 마음속에서 들려오는 것 같았다."
     voice ""
-    "あまりに正確な診断にびくっとする音が勝手に心の中で聞こえてきそうだった。"
+    "あまりに正確な診断すぎて、ドキリという音が思わず心の中で聞こえた気がした。"
 
 # game/chapter3.rpy:1100
 translate japanese chapter3_6bb812e0:
 
     # "나 혼자뿐이라면 어제의 일 때문에 피곤해서 그런 거라고 변명하고 스스로 납득할 수 있었겠지만, 유미에게 그런 변명은 통하지 않을 게 뻔했다."
-    "俺一人なら昨日のことで疲れてるんだと言い訳して自分で納得できたかもしれないが、ユミにはそんな言い訳は通用しないだろうというのは目に見えていた。"
+    "俺ひとりなら昨日の件で疲れてるからだと言い訳して自分を納得させられただろうが、ユミにそんな言い訳が通じるはずもなかった。"
 
 # game/chapter3.rpy:1101
 translate japanese chapter3_81a0b0c8:
 
     # "나의 침묵이 대답을 대신하는 동안, 유미는 다 알겠다는 표정으로 나를 바라보았다."
-    "俺の沈黙が答えを代わっている間、ユミはわかったよという表情で俺を見た。"
+    "俺の沈黙が答えの代わりを務める間、ユミはすべてお見通しだという表情で俺を見ていた。"
 
 # game/chapter3.rpy:1102
 translate japanese chapter3_d97b14c4:
 
     # "나는 딴청을 피우며 계산대 쪽으로 카트를 밀었다."
-    "俺はごまかしながらレジの方にカートを押した。"
+    "俺はそ知らぬふりをしながらレジの方にカートを押した。"
 
 # game/chapter3.rpy:1103
 translate japanese chapter3_feac6bd1:
 
     # "유미가 뒤따라왔다."
-    "ユミが後に続いてきた。"
+    "ユミがついてきた。"
 
 # game/chapter3.rpy:1104
 translate japanese chapter3_3d85cbbc:
 
     # "아무래도 유미 역시 마찬가지로 장을 다 본 모양이었다."
-    "どうやらユミも同じように買い物を済ませたようだった。"
+    "どうやらユミも同じく買い物を済ませたようだった。"
 
 # game/chapter3.rpy:1105
 translate japanese chapter3_43dd57c2:
@@ -3040,19 +3040,19 @@ translate japanese chapter3_43dd57c2:
 translate japanese chapter3_0bd48a1b:
 
     # "마트에서 집으로 향하는 방향도 같은 쪽이었기에, 집으로 가는 길도 유미와 함께였다."
-    "家に向かう方向も同じ方だったので、家に帰る道もユミと一緒だった。"
+    "スーパーから家への方向も同じだったので、帰り道もユミと一緒だった。"
 
 # game/chapter3.rpy:1113
 translate japanese chapter3_95bf447a:
 
     # "다행히 마트에서 빠져나온 뒤로 더 이상의 잔소리는 이어지지 않았다."
-    "幸いにもスーパーから出てからはもう小言は続かなかった。"
+    "幸い、スーパーを出てからはそれ以上の小言は続かなかった。"
 
 # game/chapter3.rpy:1114
 translate japanese chapter3_e75c3470:
 
     # "나는 유미와 사거리에서 나란히 서서는 신호가 바뀌기를 기다리고 있었다."
-    "俺はユミと交差点で並んで信号が変わるのを待っていた。"
+    "俺はユミと交差点で並んで立ち、信号が変わるのを待っていた。"
 
 # game/chapter3.rpy:1116
 translate japanese chapter3_adb25c4a:
@@ -3064,7 +3064,7 @@ translate japanese chapter3_adb25c4a:
 translate japanese chapter3_7088613c:
 
     # "신호를 기다리다 말고, 나는 유미에게 먼저 말을 걸었다."
-    "信号を待ちながら、俺はユミに先に話しかけた。"
+    "信号を待ちながら、俺はユミに話しかけた。"
 
 # game/chapter3.rpy:1120
 translate japanese chapter3_3d7b11a7:
@@ -3072,7 +3072,7 @@ translate japanese chapter3_3d7b11a7:
     # voice "voices/yc6.ogg"
     # 유미 "“히, 나 가르치는 데 소질 있나 봐. 그냥 선생님이나 할까?”"
     voice "voices/yc6.ogg"
-    유미 "「ふふ、私教えるのに才能あるみたい。先生でもするかな？」"
+    유미 "「ふふ、私って教えるの向いてるみたい。いっそ先生にでもなろうかな？」"
 
 # game/chapter3.rpy:1123
 translate japanese chapter3_229a88fd:
@@ -3080,7 +3080,7 @@ translate japanese chapter3_229a88fd:
     # voice ""
     # 나 "“며칠 전엔 장래희망으로 연구원이라고 써내지 않았어?”"
     voice ""
-    나 "「数日前には将来の夢として研究員って書いてなかったっけ？」"
+    나 "「何日か前に将来の夢に研究員って書いて出さなかったか？」"
 
 # game/chapter3.rpy:1126
 translate japanese chapter3_575e73c6:
@@ -3088,7 +3088,7 @@ translate japanese chapter3_575e73c6:
     # voice "voices/yc7.ogg"
     # 유미 "“그러게. 아무래도 부모님은 그런 쪽으로 전공을 정하길 바라는 것 같아서. 요즘 교사한다고 하면 다들 뜯어말리잖아.”"
     voice "voices/yc7.ogg"
-    유미 "「そうだね。どうやら両親はそっちの方向に専攻を決めてほしいみたいで。最近教師だと言ったらみんなけなすじゃない」"
+    유미 "「そうなんだけどね。やっぱり両親はそっち方面の専攻を選んでほしいみたいで。最近教師になるって言ったらみんな止めるじゃない。」"
 
 # game/chapter3.rpy:1128
 translate japanese chapter3_b7cce17b:
@@ -3096,31 +3096,31 @@ translate japanese chapter3_b7cce17b:
     # voice ""
     # 나 "“하긴, 그렇긴 하지.”"
     voice ""
-    나 "「まあ、そうだね」"
+    나 "「まあ、確かにそうだな。」"
 
 # game/chapter3.rpy:1131
 translate japanese chapter3_80e17a3f:
 
     # "횡단보도로 발을 내디디는 유미로부터 들려오는 심장박동을 느낀다."
-    "横断歩道に足を踏み出すユミから聞こえてくる心臓の鼓動を感じた。"
+    "横断歩道に足を踏み出すユミから伝わる心臓の鼓動を感じる。"
 
 # game/chapter3.rpy:1132
 translate japanese chapter3_7e62c75d:
 
     # "항상 꿈을 이야기할 때면 묻어나오는 기분 좋은 두근거림은 마치 내게 딱 맞는 주파수처럼 들렸다."
-    "いつも夢を話すときには溢れ出る嬉しいドキドキはまるで俺にぴったり合う周波数のように聞こえた。"
+    "いつも夢を語るときに滲み出る心地よい高揚感は、まるで俺にぴったり合った周波数のように聞こえた。"
 
 # game/chapter3.rpy:1133
 translate japanese chapter3_24f12c9e:
 
     # "오늘따라 조금, 잡음이 섞인 것 같긴 했지만."
-    "今日は少し、ノイズが混じっているような気もしたけど。"
+    "今日に限って少し、雑音が混じっている気はしたが。"
 
 # game/chapter3.rpy:1137
 translate japanese chapter3_0a701202:
 
     # 나 "“부모님 권유였구나.”"
-    나 "「両親の勧めだったんだ」"
+    나 "「親の勧めだったんだな。」"
 
 # game/chapter3.rpy:1138
 translate japanese chapter3_42c9793c:
@@ -3128,7 +3128,7 @@ translate japanese chapter3_42c9793c:
     # voice "voices/yc8.ogg"
     # 유미 "“그렇지만 가르치는 게 재밌기도 하고, 어떻게 해야 할지 모르겠어.”"
     voice "voices/yc8.ogg"
-    유미 "「でも教えるのも楽しいし、どうしたらいいかわからないんだ」"
+    유미 "「だけど教えるのも楽しいし、どうしたらいいかわからなくて。」"
 
 # game/chapter3.rpy:1141
 translate japanese chapter3_efd196f3:
@@ -3136,7 +3136,7 @@ translate japanese chapter3_efd196f3:
     # voice ""
     # "가볍게 한숨을 내쉰 유미가, 나를 바라보았다."
     voice ""
-    "軽くため息をついたユミが、俺を見た。"
+    "軽くため息をついたユミが、俺を見つめた。"
 
 # game/chapter3.rpy:1146
 translate japanese chapter3_08442755:
@@ -3144,7 +3144,7 @@ translate japanese chapter3_08442755:
     # voice "voices/yc9.ogg"
     # 유미 "“너라면 어땠을 것 같아?”"
     voice "voices/yc9.ogg"
-    유미 "「君ならどうしたと思う？」"
+    유미 "「あなただったらどうしてたと思う？」"
 
 # game/chapter3.rpy:1148
 translate japanese chapter3_84d705b4:
@@ -3152,7 +3152,7 @@ translate japanese chapter3_84d705b4:
     # voice ""
     # 나 "“그런 질문 해도, 나는 네가 아니잖아…….”"
     voice ""
-    나 "「そんな質問しても、俺は君じゃないんだよ……」"
+    나 "「そんなこと聞かれても、俺はお前じゃないし……。」"
 
 # game/chapter3.rpy:1151
 translate japanese chapter3_3f6faf24:
@@ -3160,7 +3160,7 @@ translate japanese chapter3_3f6faf24:
     # voice "voices/yc10.ogg"
     # 유미 "“에헤헷, 그런가.”"
     voice "voices/yc10.ogg"
-    유미 "「えへへ、そうかな」"
+    유미 "「えへへっ、そっか。」"
 
 # game/chapter3.rpy:1153
 translate japanese chapter3_f1683dd5:
@@ -3168,7 +3168,7 @@ translate japanese chapter3_f1683dd5:
     # voice ""
     # 나 "“뻔한 대답이지만, 네가 행복할 수 있는 선택을 했으면 좋겠네.”"
     voice ""
-    나 "「ありきたりな答えだけど、君が幸せになれる選択をしたらいいと思うよ」"
+    나 "「ありきたりな答えだけど、お前が幸せになれる選択をしてほしいな。」"
 
 # game/chapter3.rpy:1156
 translate japanese chapter3_40d586c5:
@@ -3176,7 +3176,7 @@ translate japanese chapter3_40d586c5:
     # voice "voices/yc11.ogg"
     # 유미 "“흐음, 뻔한 대답이라…….”"
     voice "voices/yc11.ogg"
-    유미 "「うーん、ありきたりな答えだって……」"
+    유미 "「ふーん、ありきたりな答え、ね……。」"
 
 # game/chapter3.rpy:1159
 translate japanese chapter3_24d38efd:
@@ -3184,49 +3184,49 @@ translate japanese chapter3_24d38efd:
     # voice ""
     # 나 "“그리고 무언가를 좋아한다는 건, 그 사람에게 있어 엄청 특별한 거니까.”"
     voice ""
-    나 "「それに何かを好きだというのは、その人にとってすごく特別なことだから」"
+    나 "「それに、何かを好きだっていうのは、その人にとってすごく特別なことだから。」"
 
 # game/chapter3.rpy:1162
 translate japanese chapter3_d7b2c48b:
 
     # "뻔한 대답이라고는 했지만, 평소와 다르게 제법 진지한 나의 목소리에 놀라기라도 한 걸까."
-    "ありきたりな答えだとは言ったけど、いつもと違って結構真面目な俺の声に驚いたのかな。"
+    "ありきたりな答えだとは言ったものの、いつもと違って妙に真剣な俺の声に驚いたのだろうか。"
 
 # game/chapter3.rpy:1163
 translate japanese chapter3_fa61b688:
 
     # "눈을 천천히 깜빡이며 가볍게 생각에 잠기는 유미."
-    "ゆっくりと目を瞬きしながら軽く考えにふけるユミ。"
+    "ゆっくりとまばたきしながら、軽く物思いに沈むユミ。"
 
 # game/chapter3.rpy:1164
 translate japanese chapter3_e5931229:
 
     # "유미는 마치 내가 볼 수 없는 것을 보는 듯, 새파란 하늘 어딘가에 시선을 고정하고선 집으로 발걸음을 옮겼다."
-    "ユミはまるで俺には見えないものを見るように、青空のどこかに視線を固定してから家に足を運んだ。"
+    "ユミはまるで俺には見えないものを見るかのように、真っ青な空のどこかに視線を止めてから、家へ歩き出した。"
 
 # game/chapter3.rpy:1174
 translate japanese chapter3_59e7d35d:
 
     # "집으로 돌아온 나는 소녀와 함께 간단히 점심을 해결하고는 의자에 앉아 멍하니 생각에 빠졌다."
-    "家に帰った俺は幽霊少女と一緒に簡単に昼食を済ませてから椅子に座ってぼんやり考えにふけった。"
+    "家に帰った俺は少女と一緒に簡単に昼食を済ませ、椅子に座ってぼんやり考え込んだ。"
 
 # game/chapter3.rpy:1175
 translate japanese chapter3_e7d65c18:
 
     # "생각해야 할 것이 많았다."
-    "考えなければならないことが多かった。"
+    "考えるべきことは多かった。"
 
 # game/chapter3.rpy:1176
 translate japanese chapter3_8903e403:
 
     # "유미와의 일, 현지와의 일, 그리고 유령 소녀와의 일."
-    "ユミとのこと、ヒョンジとのこと、そして幽霊少女とのこと。"
+    "ユミのこと、ヒョンジのこと、そして幽霊の少女のこと。"
 
 # game/chapter3.rpy:1177
 translate japanese chapter3_f66fb640:
 
     # "무엇 하나 명료한 해답을 내리기 어려운 고민이었기에, 내가 할 수 있는 일은 고작해야 우선순위를 매기는 정도였다."
-    "どれも明確な答えを出すのが難しい悩みだったから、俺ができることはせいぜい優先順位をつけるくらいだった。"
+    "どれひとつ明確な答えを出しにくい悩みばかりだったから、俺にできることはせいぜい優先順位をつけることくらいだった。"
 
 # game/chapter3.rpy:1178
 translate japanese chapter3_e51fa985:
@@ -3238,187 +3238,187 @@ translate japanese chapter3_e51fa985:
 translate japanese chapter3_2db63445:
 
     # "아직 몸에 남아있던 어제의 피로가 내게 하품을 강요했지만, 나는 애써 이를 억누르며 데스크탑을 켰다."
-    "まだ体に残っていた昨日の疲労が私にあくびを強いたが、俺は必死にそれを抑えてデスクトップをつけた。"
+    "まだ体に残っている昨日の疲労があくびを強いてきたが、俺はなんとかそれを抑えてデスクトップの電源を入れた。"
 
 # game/chapter3.rpy:1180
 translate japanese chapter3_73158667:
 
     # "고개를 돌려 침대 쪽을 힐긋 바라보자, 아까 전부터 크게 바뀌지 않은 자세로 나를 지켜보고 있던 소녀가 눈에 들어왔다."
-    "頭を振ってベッドの方をチラッと見ると、さっきからあまり変わらない姿勢で俺を見守っていた少女が目に入った。"
+    "首を巡らせてベッドの方をちらりと見ると、さっきからほとんど姿勢を変えずに俺を見守っていた少女が目に入った。"
 
 # game/chapter3.rpy:1181
 translate japanese chapter3_1d939385:
 
     # "두 명이 함께 있는 방치고는 너무 고요한 분위기가 아까 전부터 이어지고 있었다."
-    "二人でいる部屋としてはあまりにも静かな雰囲気がさっきから続いていた。"
+    "ふたりでいる部屋にしてはあまりに静かな雰囲気が、さっきからずっと続いていた。"
 
 # game/chapter3.rpy:1187
 translate japanese chapter3_d8abfaa6:
 
     # "어제의 일 때문인 걸까."
-    "昨日のことのせいだろうか。"
+    "昨日のことが原因だろうか。"
 
 # game/chapter3.rpy:1188
 translate japanese chapter3_2af167d1:
 
     # "소녀는 아침부터 피곤한 건지, 기운이 없는 건지, 집안일을 할 때를 제외하면 자신의 두 배보다 조금 더 큰 크기의 침대에서 대부분의 시간을 보내고 있었다."
-    "少女は朝から疲れているのか、元気がないのか、家事をするときを除いては自分の二倍ほどちょっと大きいサイズのベッドでほとんどの時間を過ごしていた。"
+    "少女は朝から疲れているのか、元気がないのか、家事をするとき以外は自分の倍よりやや大きいベッドで大半の時間を過ごしていた。"
 
 # game/chapter3.rpy:1189
 translate japanese chapter3_ab23ce95:
 
     # "마치 그곳에서 벗어날 수 없는 것처럼 말이다."
-    "まるでそこから出られないようにと言うか。"
+    "まるでそこから離れられないかのように。"
 
 # game/chapter3.rpy:1193
 translate japanese chapter3_dd1e66b7:
 
     # 나 "“으음…….”"
-    나 "「うーん……」"
+    나 "「うーん……。」"
 
 # game/chapter3.rpy:1195
 translate japanese chapter3_18c9e52f:
 
     # "소녀의 기운 없는 모습을 보고 있자니 새벽에 있었던 일이 자꾸만 떠올랐다."
-    "少女の元気のない姿を見ていると、夜中にあったことがしきりに思い出された。"
+    "少女の元気のない様子を見ていると、明け方の出来事がしきりに蘇ってくる。"
 
 # game/chapter3.rpy:1196
 translate japanese chapter3_52836fcf:
 
     # "소녀에게 뭔가 말을 걸어보려 했지만, 마땅한 문장이 떠오르지 않았다."
-    "少女に何か話しかけてみようとしたが、適切な文が浮かばなかった。"
+    "少女に何か声をかけようとしたが、適当な言葉が浮かばなかった。"
 
 # game/chapter3.rpy:1197
 translate japanese chapter3_9aa83802:
 
     # "할 수 없이 나는 우선순위 맨 윗부분에 올려두었던 일을 시작했다."
-    "仕方なく俺は優先順位一番上に置いていたことを始めた。"
+    "仕方なく俺は、優先順位の一番上に置いていた作業に取りかかった。"
 
 # game/chapter3.rpy:1198
 translate japanese chapter3_a2da0bfa:
 
     # "침묵은 그대로 이어져, 방에는 마우스를 딸깍이는 소리와 키보드를 두드리는 소리만이 이따금 들려올 뿐이었다."
-    "沈黙はそのまま続いて、部屋にはマウスをカチカチという音とキーボードを叩く音だけが時々聞こえてくるだけだった。"
+    "沈黙はそのまま続き、部屋にはマウスのクリック音とキーボードを叩く音だけが時折聞こえるだけだった。"
 
 # game/chapter3.rpy:1203
 translate japanese chapter3_105ecd63:
 
     # "막상 두 번째로 찾아갈 장소를 정하자니 생각할 것들이 꽤나 많았다."
-    "いざ二番目に訪れる場所を決めようとすると、考えることが結構多かった。"
+    "いざ次に訪ねる場所を決めようとすると、考えるべきことがかなり多かった。"
 
 # game/chapter3.rpy:1204
 translate japanese chapter3_c54daa4f:
 
     # "정확히 이야기하자면, 마음에 걸리는 것들이 많았다고 해야겠지."
-    "正確に言うと、気になることが多かったと言った方がいいだろう。"
+    "正確に言えば、気がかりなことが多かったというべきだろう。"
 
 # game/chapter3.rpy:1206
 translate japanese chapter3_a1dfe709:
 
     # "그런 것들 중 소녀의 힘없어 보이는 모습이 없었다고 한다면 그건 거짓말일 것이다."
-    "そんなことの中に少女の力ないように見える姿がなかったとしたら、それは嘘になるだろう。"
+    "その中に少女の力のない姿がなかったと言えば、それは嘘になるだろう。"
 
 # game/chapter3.rpy:1207
 translate japanese chapter3_114a4a14:
 
     # "그렇기에, 장소를 정하기 이전에 찾아볼 장소의 범위를 줄일 필요가 있었다."
-    "だから、場所を決める前に訪ねる場所の範囲を狭める必要があった。"
+    "だからこそ、場所を決める前に、探す範囲を絞る必要があった。"
 
 # game/chapter3.rpy:1211
 translate japanese chapter3_5c6a64ca:
 
     # "그리고 그러기 위해선 힌트가 조금 더 필요했다."
-    "そしてそれのためにはヒントがもう少し必要だった。"
+    "そしてそのためには、もう少しヒントが必要だった。"
 
 # game/chapter3.rpy:1215
 translate japanese chapter3_98b7a76a:
 
     # "의자를 살짝 뒤로 밀고선, 기지개를 켜며 등 뒤의 소녀를 향해 시선을 슬쩍 옮겼다."
-    "椅子を少し後ろに押して、伸びをしながら背後の少女に向かって視線をチラッと移した。"
+    "椅子を少し後ろに引き、伸びをしながら背後の少女へさりげなく視線を移した。"
 
 # game/chapter3.rpy:1216
 translate japanese chapter3_3a9bd2d4:
 
     # "이름도, 나이도, 자신이 누구였는지 아무것도 기억하지 못하는 소녀가 자신을 증명할 수 있는 증거란 단 하나뿐이었다."
-    "名前も、年齢も、自分が誰だったのか何も覚えていない少女が自分を証明できる証拠というのはたった一つだけだった。"
+    "名前も、年齢も、自分が誰だったのかも何も覚えていない少女が、自分を証明できる手がかりはたったひとつだけだった。"
 
 # game/chapter3.rpy:1220
 translate japanese chapter3_c4fd792f:
 
     # 나 "‘분명 어디서 본 기억이 있는데.’"
-    나 "「確かどこかで見た記憶があるのに」"
+    나 "「確かにどこかで見た記憶があるんだが」"
 
 # game/chapter3.rpy:1221
 translate japanese chapter3_8083dd9d:
 
     # "꿈에서 본 것이 아니라면, 분명 언젠가, 어디선가 본 적이 있었던 교복이었다."
-    "夢で見たのではなくて、確かいつか、どこかで見たことがあった制服だった。"
+    "夢の中で見たのでなければ、確かにいつか、どこかで見たことのある制服だった。"
 
 # game/chapter3.rpy:1222
 translate japanese chapter3_4dfbe845:
 
     # "다만 문제라면 그 언젠가가 언제인지도, 어디선가가 어디에서인지도 명확하게 기억나지 않는다는 것."
-    "ただ問題というのは、そのいつかがいつなのかも、どこかがどこなのかもはっきりと覚えていないということ。"
+    "ただ問題は、そのいつかがいつなのか、どこかがどこなのかも、はっきり思い出せないということ。"
 
 # game/chapter3.rpy:1224
 translate japanese chapter3_8d936c55:
 
     # "소녀의 출신 중학교를 알게 된다면 의외로 쉽게 문제 해결의 핵심에 다가갈 수 있을지도 모르겠다고 생각했지만, 소녀가 입고 있는 교복이 어느 중학교의 것인지를 알아내는 건 쉬운 일이 아니었다."
-    "少女の出身中学校を知れば意外と簡単に問題解決の核心に近づけるかもしれないと思ったが、少女が着ている制服がどの中学校のものなのかを知るのは簡単なことではなかった。"
+    "少女の出身中学校がわかれば意外と簡単に問題解決の核心に近づけるかもしれないと思ったが、少女の着ている制服がどの中学校のものかを突き止めるのは容易なことではなかった。"
 
 # game/chapter3.rpy:1226
 translate japanese chapter3_c475737e:
 
     # "엠블럼도, 이름표도, 아무것도 남아있지 않은 평범한 디자인의 교복."
-    "エンブレムも、名札も、何も残っていない平凡なデザインの制服。"
+    "校章も、名札も、何も残っていない平凡なデザインの制服。"
 
 # game/chapter3.rpy:1227
 translate japanese chapter3_5e3361bd:
 
     # "오랫동안 주변 중학교의 웹 페이지를 찾아보았지만, 소녀가 입고 있는 것과 같은 디자인의 교복은 보이지 않았다."
-    "長い間周辺中学校のウェブページを探してみたが、少女が着ているものと同じデザインの制服は見えなかった。"
+    "片っ端から近隣の中学校のウェブページを調べたが、少女が着ているのと同じデザインの制服は見つからなかった。"
 
 # game/chapter3.rpy:1228
 translate japanese chapter3_daafcc03:
 
     # "교복 디자인이 웹 페이지에 나와 있지 않은 곳도 있었고, 최근에 교복 디자인이 바뀌어 사진과 다른 곳도 더러 있는 것 같았다."
-    "制服デザインがウェブページに載っていないところもあったし、最近に制服デザインが変わって写真と違うところもいくつかあるようだった。"
+    "制服のデザインがウェブページに載っていない学校もあったし、最近制服のデザインが変わって写真と異なる学校もいくつかあるようだった。"
 
 # game/chapter3.rpy:1229
 translate japanese chapter3_1f4d55dd:
 
     # "그렇다고 근처 중학교의 교복 디자인을 모아둔 자료가 있을 리도 없고."
-    "そうだとしても近く中学校の制服デザインを集めた資料があるわけでもなく。"
+    "かといって、近くの中学校の制服デザインをまとめた資料があるはずもない。"
 
 # game/chapter3.rpy:1231
 translate japanese chapter3_99f94837:
 
     # "결국 그래왔던 것처럼 사망 사고가 일어난 곳을 하나하나 찾아보는 수밖엔 없나."
-    "結局これまで通り死亡事故が起きたところを一つ一つ探すしかないのか。"
+    "結局、これまでそうしてきたように、死亡事故が起きた場所をひとつひとつ探っていくしかないのか。"
 
 # game/chapter3.rpy:1238
 translate japanese chapter3_a8fedba6:
 
     # "한참 제자리걸음을 한 것 같다며 얼빠진 얼굴로 다시 기지개를 켜려다 말고, 나는 문득 고개를 돌려 다시금 소녀를 바라보았다."
-    "しばらくその場足踏みをしたような気がして落ち込んだ顔でまた伸びをしようとしたところでやめて、俺はふと頭を振って再び少女を見た。"
+    "だいぶ足踏みしてしまったな、とぼんやりした顔でもう一度伸びをしようとして、俺はふと首を回して再び少女を見た。"
 
 # game/chapter3.rpy:1240
 translate japanese chapter3_7530018e:
 
     # 나 "“저기, 있잖아.”"
-    나 "「ねえ、あのさ」"
+    나 "「あのさ、ちょっと。」"
 
 # game/chapter3.rpy:1242
 translate japanese chapter3_77ea9c51:
 
     # "나의 부름에 소녀가 고개를 들었다."
-    "俺の呼びかけに少女が頭を上げた。"
+    "俺の呼びかけに少女が顔を上げた。"
 
 # game/chapter3.rpy:1244
 translate japanese chapter3_4c70a666:
 
     # 나 "“혹시 사진 찍어본 적 있어?”"
-    나 "「写真撮ったことある？」"
+    나 "「もしかして写真に撮られたことってある？」"
 
 # game/chapter3.rpy:1251
 translate japanese chapter3_8fdcce36:
@@ -3426,7 +3426,7 @@ translate japanese chapter3_8fdcce36:
     # voice "voices/gc49.ogg"
     # 소녀 "“…… 사진 말인가요?”"
     voice "voices/gc49.ogg"
-    소녀 "「……写真って言うのかな？」"
+    소녀 "「……写真、ですか？」"
 
 # game/chapter3.rpy:1254
 translate japanese chapter3_e5900e14:
@@ -3434,7 +3434,7 @@ translate japanese chapter3_e5900e14:
     # voice ""
     # "나의 질문을 들은 소녀는 ‘으음’하는 소리를 내며 고민을 하더니, 이내 평범한 대답을 내놓았다."
     voice ""
-    "俺の質問を聞いた少女は「うーん」という音を出しながら悩んだ後、すぐに平凡な答えを出した。"
+    "俺の質問を聞いた少女は「うーん」と唸りながら考えた末、ありきたりな答えを返した。"
 
 # game/chapter3.rpy:1257
 translate japanese chapter3_b9ec36d4:
@@ -3442,7 +3442,7 @@ translate japanese chapter3_b9ec36d4:
     # voice "voices/gc50.ogg"
     # 소녀 "“글쎄요. 찍어본 적이 한 번도 없는 것 같진 않지만…… 기억이 안 나네요.”"
     voice "voices/gc50.ogg"
-    소녀 "「さあね。撮ったことが一度もないというわけではないけど……思い出せないなあ」"
+    소녀 "「さあ……一度も撮ったことがないわけではないと思いますけど……覚えてないですね。」"
 
 # game/chapter3.rpy:1259
 translate japanese chapter3_28c19c5e:
@@ -3450,7 +3450,7 @@ translate japanese chapter3_28c19c5e:
     # voice ""
     # 나 "“아니, 살아있을 때 말고. 유령이 되고 난 뒤에 말이야.”"
     voice ""
-    나 "「いや、生きているときじゃなくて。幽霊になってからの話だよ」"
+    나 "「いや、生きてた頃じゃなくて。幽霊になってからの話。」"
 
 # game/chapter3.rpy:1267
 translate japanese chapter3_e06c0c2a:
@@ -3458,7 +3458,7 @@ translate japanese chapter3_e06c0c2a:
     # voice "voices/gc51.ogg"
     # 소녀 "“네……?”"
     voice "voices/gc51.ogg"
-    소녀 "「はい……？」"
+    소녀 "「え……？」"
 
 # game/chapter3.rpy:1274
 translate japanese chapter3_e8ad2ecf:
@@ -3466,19 +3466,19 @@ translate japanese chapter3_e8ad2ecf:
     # voice ""
     # "당혹스러움이 섞인 시선이 나를 향한다."
     voice ""
-    "戸惑いが混じった視線が俺に向けられる。"
+    "困惑の混じった視線が俺に向けられる。"
 
 # game/chapter3.rpy:1276
 translate japanese chapter3_3f9a6731:
 
     # "소녀는 내 질문이 가진 의도를 도저히 모르겠다는 듯 나를 빤히 바라보았다."
-    "少女は俺の質問が持つ意図を全く分からないように俺をじっと見つめていた。"
+    "少女は俺の質問の意図がさっぱりわからないといった様子で、俺をじっと見つめた。"
 
 # game/chapter3.rpy:1278
 translate japanese chapter3_8b80ad57:
 
     # 나 "“왜, 간혹 유령이 사진에 찍히는 경우가 있잖아. 심령사진이라든가. 그런 것처럼 네 모습이 다른 사람의 눈에는 안 보이더라도 사진에는 찍힐 수도 있지 않을까 해서.”"
-    나 "「だって、たまに幽霊が写真に写ることがあるでしょ。心霊写真とか。そういうふうに君の姿が他の人の目には見えなくても写真には写るかもしれないと思ってさ」"
+    나 "「ほら、たまに幽霊が写真に写るってことがあるだろ。心霊写真的な。そんな感じで、お前の姿が他の人の目には見えなくても、写真には写るかもしれないと思ってさ。」"
 
 # game/chapter3.rpy:1285
 translate japanese chapter3_8a4f2161:
@@ -3486,7 +3486,7 @@ translate japanese chapter3_8a4f2161:
     # voice "voices/gc52.ogg"
     # 소녀 "“심령사진이라…… 그럴 수도 있겠네요. 그런데 갑자기 사진이라니, 제 사진이 필요한 일이라도 생긴 건가요?”"
     voice "voices/gc52.ogg"
-    소녀 "「心霊写真って……そうかもしれませんね。でも急に写真って、私の写真が必要なことでもあったんですか？」"
+    소녀 "「心霊写真……たしかにあり得ますね。でも急に写真だなんて、私の写真が必要なことでもあったんですか？」"
 
 # game/chapter3.rpy:1287
 translate japanese chapter3_bf92388e:
@@ -3494,31 +3494,31 @@ translate japanese chapter3_bf92388e:
     # voice ""
     # 나 "“맞아.”"
     voice ""
-    나 "「そうだよ」"
+    나 "「そうなんだ。」"
 
 # game/chapter3.rpy:1290
 translate japanese chapter3_59c75483:
 
     # "아주 잠깐, 여태껏 느꼈던 침묵과는 다른 느낌의 정적이 감돈다."
-    "ほんの一瞬、今まで感じていた沈黙とは違う感じの静寂が漂う。"
+    "ほんの一瞬、今まで感じていた沈黙とは異なる質の静けさが漂う。"
 
 # game/chapter3.rpy:1291
 translate japanese chapter3_77f4e68d:
 
     # "곡해될 여지가 있는 발언이었던 걸까?"
-    "誤解される余地がある発言だったのだろうか？"
+    "誤解を招く発言だっただろうか。"
 
 # game/chapter3.rpy:1293
 translate japanese chapter3_9b0560df:
 
     # 나 "“으음…… 네 사진이 필요한 건 아니고. 정확하게 말하자면 네 교복 사진이 필요한 거지.”"
-    나 "「うーん……君の写真が必要なわけじゃなくて。正確に言うと君の制服の写真が必要なんだ」"
+    나 "「うーん……お前の写真が必要ってわけじゃなくて。正確に言うと、お前の制服の写真が欲しいんだ。」"
 
 # game/chapter3.rpy:1295
 translate japanese chapter3_c84f80cf:
 
     # "소녀는 그제야 내 의도를 파악했는지 고개를 끄덕였다."
-    "少女はやっと俺の意図を理解したのか頷いた。"
+    "少女はようやく俺の意図を理解したのか、頷いた。"
 
 # game/chapter3.rpy:1302
 translate japanese chapter3_71af218c:
@@ -3526,7 +3526,7 @@ translate japanese chapter3_71af218c:
     # voice "voices/gc53.ogg"
     # 소녀 "“찾아보려는 거죠?”"
     voice "voices/gc53.ogg"
-    소녀 "「探そうとしてるんですね？」"
+    소녀 "「調べようとしてるんですね？」"
 
 # game/chapter3.rpy:1304
 translate japanese chapter3_c8bd2bf4:
@@ -3534,55 +3534,55 @@ translate japanese chapter3_c8bd2bf4:
     # voice ""
     # 나 "“응. 인터넷의 힘을 빌리려고.”"
     voice ""
-    나 "「うん。インターネットの力を借りようと思って」"
+    나 "「ああ。インターネットの力を借りようと思って。」"
 
 # game/chapter3.rpy:1307
 translate japanese chapter3_382c3ef3:
 
     # "충전기 위에 올려져 있던 휴대용 태블릿을 꺼내 들고는 카메라 기능을 켰다."
-    "充電器の上に置いてあった携帯用タブレットを取り出してカメラ機能をつけた。"
+    "充電器の上に置いてあった携帯タブレットを手に取り、カメラ機能を起動した。"
 
 # game/chapter3.rpy:1309
 translate japanese chapter3_913ac499:
 
     # "그러고는 침대 위에 앉아있는 소녀의 모습을 카메라 렌즈를 통해 바라보았다."
-    "そしてベッドの上に座っている少女の姿をカメラレンズを通して見た。"
+    "そしてベッドの上に座っている少女の姿を、カメラのレンズ越しに見た。"
 
 # game/chapter3.rpy:1310
 translate japanese chapter3_3e5477ca:
 
     # "화면에 보이는 건 텅 빈 침대의 모습뿐이었다."
-    "画面に映るのは空っぽのベッドの姿だけだった。"
+    "画面に映っているのは、がらんとしたベッドだけだった。"
 
 # game/chapter3.rpy:1314
 translate japanese chapter3_f295f25c:
 
     # "태블릿의 화면을 한 번, 그리고 태블릿 너머의 현실을 한 번 번갈아 바라보았다."
-    "タブレットの画面を一度、そしてタブレット向こうの現実を一度交互に見た。"
+    "タブレットの画面を一度、そしてタブレットの向こうの現実を一度、交互に見比べた。"
 
 # game/chapter3.rpy:1316
 translate japanese chapter3_ee90e49f:
 
     # "누가 거짓을 말하는 것이고, 누가 진실을 말하는 것일까."
-    "誰が嘘を言っているのか、誰が真実を言っているのか。"
+    "どちらが嘘で、どちらが真実なんだろう。"
 
 # game/chapter3.rpy:1317
 translate japanese chapter3_d83a4050:
 
     # "고작 태블릿 하나를 사이에 두고 비추어진 두 세상이 각기 다른 주장을 하고 있었다."
-    "ほんのタブレット一つを間に置いて映し出された二つの世界がそれぞれ違う主張をしていた。"
+    "たかがタブレット一枚を挟んで映し出されたふたつの世界が、それぞれ異なる主張をしていた。"
 
 # game/chapter3.rpy:1321
 translate japanese chapter3_6e4bff9a:
 
     # "셔터 버튼을 누르자 찰칵하는 소리가 제법 날카롭게 들려왔다."
-    "シャッターボタンを押すとカチッという音が結構鋭く聞こえてきた。"
+    "シャッターボタンを押すと、カシャという音がやけに鋭く響いた。"
 
 # game/chapter3.rpy:1322
 translate japanese chapter3_e51a5450:
 
     # "소녀를 향하고 있던 카메라 렌즈가 거둬지자마자 소녀는 곧장 침대에서 일어나 나를 향해 다가왔다."
-    "カメラレンズが少女に向けられていたのが引っ込められるとすぐに、少女はすぐにベッドから起き上がって俺に近づいてきた。"
+    "少女に向けていたカメラがしまわれるなり、少女はすぐにベッドから立ち上がって俺の方へ近づいてきた。"
 
 # game/chapter3.rpy:1326
 translate japanese chapter3_47967e28:
@@ -3590,7 +3590,7 @@ translate japanese chapter3_47967e28:
     # voice "voices/gc54.ogg"
     # 소녀 "“어떻게 됐나요?”"
     voice "voices/gc54.ogg"
-    소녀 "「どうなりましたか？」"
+    소녀 "「どうでしたか？」"
 
 # game/chapter3.rpy:1329
 translate japanese chapter3_96698bed:
@@ -3604,13 +3604,13 @@ translate japanese chapter3_96698bed:
 translate japanese chapter3_f56956c5:
 
     # "자신이 존재한다는 사실이 사진이라는 현상을 통해 증명될 것인지가 말이다."
-    "自分が存在するという事実が写真という現象を通して証明されるのかどうかということだ。"
+    "自分が存在するという事実が、写真という現象を通じて証明されるのかどうかが。"
 
 # game/chapter3.rpy:1333
 translate japanese chapter3_afa4321d:
 
     # 나 "“…… 역시 안 찍히네.”"
-    나 "「……やっぱり写らないな」"
+    나 "「……やっぱり写らないな。」"
 
 # game/chapter3.rpy:1334
 translate japanese chapter3_fce3216e:
@@ -3618,7 +3618,7 @@ translate japanese chapter3_fce3216e:
     # voice "voices/gc55.ogg"
     # 소녀 "“그러게요.”"
     voice "voices/gc55.ogg"
-    소녀 "「そうですね」"
+    소녀 "「そうですね。」"
 
 # game/chapter3.rpy:1337
 translate japanese chapter3_f5b12d2f:
@@ -3626,109 +3626,109 @@ translate japanese chapter3_f5b12d2f:
     # voice ""
     # "갤러리에 저장된 사진에서 소녀의 모습은 찾을 수 없었다."
     voice ""
-    "ギャラリーに保存された写真から少女の姿は見つけることができなかった。"
+    "アルバムに保存された写真に少女の姿は見つけられなかった。"
 
 # game/chapter3.rpy:1339
 translate japanese chapter3_d895edab:
 
     # "그저 텅 빈 침대만이 사진 속의 피사체로 덩그러니 놓여있을 뿐."
-    "ただ空っぽのベッドだけが写真の中の被写体としてぽつんと置かれているだけだった。"
+    "ただがらんとしたベッドだけが、写真の中の被写体としてぽつんと置かれているだけ。"
 
 # game/chapter3.rpy:1340
 translate japanese chapter3_06a1b387:
 
     # "소녀는 뭔가 허무한 듯 다시 침대로 돌아가 풀썩 몸을 누였다."
-    "少女は何か虚しいようにまたベッドに戻ってふすっと体を横たえた。"
+    "少女は何か虚しそうに再びベッドに戻り、どさりと体を横たえた。"
 
 # game/chapter3.rpy:1342
 translate japanese chapter3_c499ab0e:
 
     # "시계를 보니 벌써 여섯 시가 다되어 가는 중이었다."
-    "時計を見るともう六時が近くなっていた。"
+    "時計を見ると、もう六時になろうとしていた。"
 
 # game/chapter3.rpy:1347
 translate japanese chapter3_e99f316c:
 
     # "평소 같았다면 지금 침대에 누워 무기력하게 시간을 보내고 있는 사람은 소녀가 아닌 나였을 텐데."
-    "普段ならば今ベッドに横になって無気力に時間を過ごしている人は少女ではなく俺だったはずだが。"
+    "普段なら、今ベッドに寝転がって無気力に時間を過ごしているのは少女ではなく俺だっただろうに。"
 
 # game/chapter3.rpy:1348
 translate japanese chapter3_c821d386:
 
     # "유령 소녀 덕분에 나는 지금 책상 앞에서 성실한 척을 하고 있었다."
-    "幽霊少女のおかげで俺は今机の前で真面目なふりをしていた。"
+    "幽霊の少女のおかげで、俺は今こうして机の前で真面目なふりをしていたわけだ。"
 
 # game/chapter3.rpy:1349
 translate japanese chapter3_525f32cf:
 
     # "유미도 그렇고, 소녀도 그렇고, 어쩌면 현지도 그렇고."
-    "ユミもそうだし、少女もそうだし、もしかしたらヒョンジもそうだし。"
+    "ユミにしても、少女にしても、もしかしたらヒョンジにしても。"
 
 # game/chapter3.rpy:1350
 translate japanese chapter3_c9c83709:
 
     # "내 주변에 나를 타의적으로나마 성실한 사람을 연기하게 하는 사람이 있어서 다행이라고 해야 할까."
-    "俺の周りに俺を他意的にでも真面目な人を演じさせる人がいてくれて幸せだと言わなきゃいけないかな。"
+    "俺の周りに、否応なしに真面目な人間を演じさせてくれる人がいることを、幸運と言うべきだろうか。"
 
 # game/chapter3.rpy:1351
 translate japanese chapter3_33c1b929:
 
     # "연기라."
-    "演じると。"
+    "演じる、か。"
 
 # game/chapter3.rpy:1355
 translate japanese chapter3_4cfa3913:
 
     # "생각해보니 나는 이미 다른 사람을 연기하고 있는 중이었지."
-    "考えてみれば俺はすでに他の人を演じている最中だったな。"
+    "考えてみれば、俺はすでに別の人間を演じている最中だったな。"
 
 # game/chapter3.rpy:1357
 translate japanese chapter3_95df357e:
 
     # shnvl "어쩌면 이 말도 안 되는 세상이 거짓을 말하고 있었다 해도, 나는 그리 놀라지 않을지도 모른다."
-    shnvl "もしかしたらこの筋の通らない世界が嘘を言っていたとしても、俺はあまり驚かないかもしれないと思った。"
+    shnvl "たとえこのとんでもない世界が嘘をついていたとしても、俺はそれほど驚かないかもしれない。"
 
 # game/chapter3.rpy:1358
 translate japanese chapter3_87b8f573:
 
     # shnvl "다시 한번 갤러리에 저장된 사진을 바라보며, 그렇게 생각했다."
-    shnvl "もう一度ギャラリーに保存された写真を見ながら、そう思った。"
+    shnvl "もう一度アルバムに保存された写真を見つめながら、そう思った。"
 
 # game/chapter3.rpy:1362
 translate japanese chapter3_f0b3bbaf:
 
     # "한 시간 정도를 더 컴퓨터 앞에 앉은 채 보냈다."
-    "一時間ほどをもっとコンピューターの前に座ったまま過ごした。"
+    "さらに一時間ほどパソコンの前で過ごした。"
 
 # game/chapter3.rpy:1363
 translate japanese chapter3_bfbf3a86:
 
     # "이렇게 오랫동안 한 가지 일에 집중을 한 적이 언제였나 싶을 정도로 오랜 시간을 보낸 듯하다."
-    "こんなに長い間一つのことに集中したことがいつだったかと思うほど長い時間を過ごしたようだ。"
+    "こんなに長い間ひとつのことに集中したのはいつ以来だろうと思うほど、長い時間を費やした気がする。"
 
 # game/chapter3.rpy:1364
 translate japanese chapter3_45625a9c:
 
     # "학교 웹 페이지와 사망 사고가 일어났던 장소들을 교차해가며 살펴보던 내가 문득 떠올린 것은, 모 학교에서 일어났던 자살 사고에 대해 좀 더 자세히 알아보자는 거였다."
-    "学校のウェブページと死亡事故が起きたところを交差しながら調べていた俺がふと思いついたのは、ある学校で起きた自殺事故についてもっと詳しく調べてみようということだった。"
+    "学校のウェブページと死亡事故の起きた場所を照らし合わせながら調べていた俺がふと思いついたのは、ある学校で起きた自殺事故についてもう少し詳しく調べてみようということだった。"
 
 # game/chapter3.rpy:1365
 translate japanese chapter3_67214bf3:
 
     # "확신은 없었지만, 나의 못 미더운 감이 그쪽을 향하고 있었다."
-    "確信はなかったが、俺の悪くない勘がそちらに向かっていた。"
+    "確信はなかったが、俺の頼りない勘はそちらを指していた。"
 
 # game/chapter3.rpy:1366
 translate japanese chapter3_c05fd9a2:
 
     # "생각이 거기까지 닿자, 나는 바로 소녀를 불렀다."
-    "考えがそこまで行くと、俺はすぐに少女を呼んだ。"
+    "考えがそこに至ると、俺はすぐに少女を呼んだ。"
 
 # game/chapter3.rpy:1368
 translate japanese chapter3_70c0b8e2:
 
     # 나 "“내일 나가보려고 하는데. 어때?”"
-    나 "「明日出かけてみようと思うんだけど。どうだ？」"
+    나 "「明日出かけようと思うんだけど。どう？」"
 
 # game/chapter3.rpy:1370
 translate japanese chapter3_8ca7281f:
@@ -3736,7 +3736,7 @@ translate japanese chapter3_8ca7281f:
     # voice "voices/gc56.ogg"
     # 소녀 "“네. 아무 곳이나 상관없어요.”"
     voice "voices/gc56.ogg"
-    소녀 "「はい。どこでも構わないです」"
+    소녀 "「はい。どこでも構いません。」"
 
 # game/chapter3.rpy:1372
 translate japanese chapter3_cc22aa52:
@@ -3744,7 +3744,7 @@ translate japanese chapter3_cc22aa52:
     # voice ""
     # 나 "“아니, 그게 아니라. 몸은 좀 괜찮나 해서 물어본 거야.”"
     voice ""
-    나 "「いや、それじゃなくて。体は大丈夫かって聞いたんだよ」"
+    나 "「いや、そういうことじゃなくて。体の調子は大丈夫かなと思って聞いたんだよ。」"
 
 # game/chapter3.rpy:1375
 translate japanese chapter3_3bc0d75d:
@@ -3752,7 +3752,7 @@ translate japanese chapter3_3bc0d75d:
     # voice "voices/gc57.ogg"
     # 소녀 "“몸이요?”"
     voice "voices/gc57.ogg"
-    소녀 "「体ですか？」"
+    소녀 "「体、ですか？」"
 
 # game/chapter3.rpy:1377
 translate japanese chapter3_8bf1cd33:
@@ -3760,7 +3760,7 @@ translate japanese chapter3_8bf1cd33:
     # voice ""
     # 나 "“으응. 어제 너무 많이 걸어서 피곤한 건 아닌가 해서.”"
     voice ""
-    나 "「うん。昨日あまりにも歩きすぎて疲れてないかって」"
+    나 "「うん。昨日歩きすぎて疲れてないかなと思って。」"
 
 # game/chapter3.rpy:1380
 translate japanese chapter3_1243a5ac:
@@ -3768,7 +3768,7 @@ translate japanese chapter3_1243a5ac:
     # voice "voices/gc58.ogg"
     # 소녀 "“괜찮아요. 움직일 만은 하니까.”"
     voice "voices/gc58.ogg"
-    소녀 "「大丈夫です。動けるくらいはしますから」"
+    소녀 "「大丈夫です。動ける程度にはなりましたから。」"
 
 # game/chapter3.rpy:1382
 translate japanese chapter3_17105d3f:
@@ -3776,7 +3776,7 @@ translate japanese chapter3_17105d3f:
     # voice ""
     # "침대에 걸터앉아있던 소녀는 다리를 아래위로 두어 번 까닥대더니, 자리에서 폴짝 일어나 내 뒤로 다가왔다."
     voice ""
-    "ベッドに腰掛けていた少女は足を上下に数回動かした後、席から飛び起きて俺の後ろに近づいた。"
+    "ベッドに腰かけていた少女は足を二、三度上下に揺らしてから、ひょいと立ち上がって俺の後ろに近づいてきた。"
 
 # game/chapter3.rpy:1387
 translate japanese chapter3_01dc7670:
@@ -3784,7 +3784,7 @@ translate japanese chapter3_01dc7670:
     # voice "voices/gc59.ogg"
     # 소녀 "“내일 갈 곳은 어디로 정했나요?”"
     voice "voices/gc59.ogg"
-    소녀 "「明日行くところはどこに決めましたか？」"
+    소녀 "「明日行く場所はどこに決めたんですか？」"
 
 # game/chapter3.rpy:1389
 translate japanese chapter3_53f41758:
@@ -3792,19 +3792,19 @@ translate japanese chapter3_53f41758:
     # voice ""
     # 나 "“여기. B구역에 있는 중학교에 가보려고.”"
     voice ""
-    나 "「ここだよ。B区域にある中学校に行ってみようと思って」"
+    나 "「ここ。B地区にある中学校に行ってみようと思う。」"
 
 # game/chapter3.rpy:1394
 translate japanese chapter3_63228fd8:
 
     # "나는 의자를 살짝 옆으로 틀어 소녀에게 모니터 화면을 보여주었다."
-    "俺は椅子を少し横にひねって少女にモニター画面を見せた。"
+    "俺は椅子を少し横にずらして、少女にモニターの画面を見せた。"
 
 # game/chapter3.rpy:1395
 translate japanese chapter3_0e4c1f08:
 
     # "소녀는 모니터를 들여다보더니, ‘흐음’하고는 짤막한 소리를 내었다."
-    "少女はモニターを覗き込んだ後、「うーん」と短い音を出した。"
+    "少女はモニターを覗き込むと、「ふーん」と短い声を漏らした。"
 
 # game/chapter3.rpy:1402
 translate japanese chapter3_e45fb0a4:
@@ -3812,7 +3812,7 @@ translate japanese chapter3_e45fb0a4:
     # voice "voices/gc60.ogg"
     # 소녀 "“다른 곳은 아직 생각 안 해뒀나요?”"
     voice "voices/gc60.ogg"
-    소녀 "「他のところはまだ考えてないんですか？」"
+    소녀 "「他の場所はまだ考えてないんですか？」"
 
 # game/chapter3.rpy:1404
 translate japanese chapter3_2b4617c8:
@@ -3820,7 +3820,7 @@ translate japanese chapter3_2b4617c8:
     # voice ""
     # 나 "“내일은 저기 한 곳만 가볼 거야.”"
     voice ""
-    나 "「明日はあそこ一つだけ行ってみるよ」"
+    나 "「明日はあそこ一か所だけ行くつもりだ。」"
 
 # game/chapter3.rpy:1407
 translate japanese chapter3_10351f1e:
@@ -3828,7 +3828,7 @@ translate japanese chapter3_10351f1e:
     # voice "voices/gc61.ogg"
     # 소녀 "“한 군데만요?”"
     voice "voices/gc61.ogg"
-    소녀 "「一つだけですか？」"
+    소녀 "「一か所だけですか？」"
 
 # game/chapter3.rpy:1409
 translate japanese chapter3_9de4cbef:
@@ -3836,13 +3836,13 @@ translate japanese chapter3_9de4cbef:
     # voice ""
     # 나 "“어제 너무 많이 걸었더니 피곤해서…….”"
     voice ""
-    나 "「昨日あまりにも歩きすぎて疲れたから……」"
+    나 "「昨日歩きすぎて疲れたから……。」"
 
 # game/chapter3.rpy:1414
 translate japanese chapter3_32ab15ad:
 
     # "실은 다른 이유에서였지만."
-    "実は別の理由だったが。"
+    "本当は別の理由だったが。"
 
 # game/chapter3.rpy:1419
 translate japanese chapter3_b77db8b8:
@@ -3850,7 +3850,7 @@ translate japanese chapter3_b77db8b8:
     # voice "voices/gc62.ogg"
     # 소녀 "“좋아요. 그렇게 해요.”"
     voice "voices/gc62.ogg"
-    소녀 "「いいですよ。そうしましょう」"
+    소녀 "「わかりました。そうしましょう。」"
 
 # game/chapter3.rpy:1422
 translate japanese chapter3_c799ee0f:
@@ -3858,73 +3858,73 @@ translate japanese chapter3_c799ee0f:
     # voice ""
     # "소녀는 언제나 그랬듯 고개를 끄덕였다."
     voice ""
-    "少女はいつものように頷いた。"
+    "少女はいつもそうするように頷いた。"
 
 # game/chapter3.rpy:1424
 translate japanese chapter3_339a71a3:
 
     # "자리에서 일어나 시각을 확인하고, 살짝 늦은 감이 없잖아 있는 저녁을 소녀와 함께 먹었다."
-    "席から立ち上がって時間を確認して、ちょっと遅い感じがないわけではない夕食を少女と一緒に食べた。"
+    "席を立って時間を確認し、少し遅い感は否めない夕食を少女と一緒に食べた。"
 
 # game/chapter3.rpy:1425
 translate japanese chapter3_0f21e579:
 
     # "여전히 2인분 치를 요리하는 건 익숙지 않은지 식탁에 올려진 요리는 지난번보단 나았지만, 여전히 엉성한 건 그대로였다."
-    "まだ二人分の料理を作るのに慣れていないのか、食卓に並べられた料理は前回よりはましになったが、やはり雑なのは変わらなかった。"
+    "相変わらず二人前を作るのには慣れないのか、テーブルに並べた料理は前回よりはましだったものの、やはり不格好なままだった。"
 
 # game/chapter3.rpy:1432
 translate japanese chapter3_58b3e127:
 
     # "방학이 시작한 뒤 첫 번째 주말이 그렇게 지나갔다."
-    "休みが始まった後の初めての週末がそうして過ぎていった。"
+    "休みが始まってから最初の週末が、そうして過ぎていった。"
 
 # game/chapter3.rpy:1434
 translate japanese chapter3_3064f5ab:
 
     # "이런 신기한 주말을, 나는 몇 번 정도 더 맞이할 수 있을까."
-    "こんな不思議な週末を、俺は何回くらいもう迎えられるだろうか。"
+    "こんな不思議な週末を、俺はあと何回迎えることができるだろう。"
 
 # game/chapter3.rpy:1435
 translate japanese chapter3_f708bb38:
 
     # "그리고 이런 주말이 끝나고 난 뒤엔, 나는 조금은 달라져 있을까."
-    "そしてこんな週末が終わった後は、俺は少しは変わっているだろうか。"
+    "そしてこんな週末が終わったあと、俺は少しは変わっているだろうか。"
 
 # game/chapter3.rpy:1442
 translate japanese chapter3_370c6d33:
 
     # "어제보다는 조금 이른, 그제와 비교하자면 조금 늦은 시각에 잠에서 깬 우리는 간단히 뱃속을 채우고는 열차를 탔다."
-    "昨日よりは少し早く、一昨日と比べれば少し遅い時間に目覚めた僕たちは簡単にお腹を満たしてから電車に乗った。"
+    "昨日よりは少し早く、一昨日と比べれば少し遅い時刻に目を覚ました俺たちは、簡単に腹ごしらえをして電車に乗った。"
 
 # game/chapter3.rpy:1443
 translate japanese chapter3_47b74ca7:
 
     # "목적지는 어제 이야기했던 대로 B구역에 있는 한 중학교였다."
-    "目的地は昨日話した通りB区域にある一つの中学校だった。"
+    "目的地は昨日話した通り、B地区にある中学校だった。"
 
 # game/chapter3.rpy:1451
 translate japanese chapter3_d92cf4c2:
 
     # "B구역 터미널에 도착해 밖으로 나오자 어제 잠에서 막 깨어났을 때 봤음직한 높이에서 태양이 우리를 비추고 있었다."
-    "B区域のターミナルに到着して外に出ると、昨日寝から起きたばかりの時に見たような高さから太陽が僕たちを照らしていた。"
+    "B地区のターミナルに着いて外に出ると、昨日目が覚めたときに見たくらいの高さで太陽が俺たちを照らしていた。"
 
 # game/chapter3.rpy:1453
 translate japanese chapter3_19756f52:
 
     # "소녀와 함께 목적지를 향해 걸었다."
-    "少女と一緒に目的地に向かって歩いた。"
+    "少女と一緒に目的地へ向かって歩いた。"
 
 # game/chapter3.rpy:1455
 translate japanese chapter3_a1352160:
 
     # "보도블럭 위로는 새까만 그림자가 드리운다."
-    "歩道ブロックの上には真っ黒な影が落ちている。"
+    "歩道の上には真っ黒な影が落ちている。"
 
 # game/chapter3.rpy:1457
 translate japanese chapter3_1b2ad93b:
 
     # "홀로 보도블럭 위를 떠다니는 새까만 그림자는 아무래도 소녀의 존재를 인정하지 않는 모양이었다."
-    "一人で歩道ブロックの上を浮かんでいる真っ黒な影はどうやら少女の存在を認めないようだった。"
+    "歩道の上をひとりで漂う真っ黒な影は、どうやら少女の存在を認めていないようだった。"
 
 # game/chapter3.rpy:1469
 translate japanese chapter3_62c83d65:
@@ -3932,7 +3932,7 @@ translate japanese chapter3_62c83d65:
     # voice "voices/gc63.ogg"
     # 소녀 "“중학교라고 했죠? 거기선 어쩌다 사람이 죽은 건가요?”"
     voice "voices/gc63.ogg"
-    소녀 "「中学校だって言いましたよね？そこではどうして人が死んだんですか？」"
+    소녀 "「中学校って言ってましたよね？ そこではどうして人が死んだんですか？」"
 
 # game/chapter3.rpy:1472
 translate japanese chapter3_21fd5384:
@@ -3940,7 +3940,7 @@ translate japanese chapter3_21fd5384:
     # voice ""
     # 나 "“자살이래. 옥상에서 뛰어내렸다나.”"
     voice ""
-    나 "「自殺だってさ。屋上から飛び降りたんだって」"
+    나 "「自殺だって。屋上から飛び降りたらしい。」"
 
 # game/chapter3.rpy:1481
 translate japanese chapter3_a882ffda:
@@ -3948,7 +3948,7 @@ translate japanese chapter3_a882ffda:
     # voice "voices/gc64.ogg"
     # 소녀 "“그런가요.”"
     voice "voices/gc64.ogg"
-    소녀 "「そうなの」"
+    소녀 "「そうなんですか。」"
 
 # game/chapter3.rpy:1483
 translate japanese chapter3_85c24c7b:
@@ -3956,13 +3956,13 @@ translate japanese chapter3_85c24c7b:
     # voice ""
     # "예상대로 무덤덤한 반응이었다."
     voice ""
-    "予想通り無感動な反応だった。"
+    "予想通り、淡泊な反応だった。"
 
 # game/chapter3.rpy:1486
 translate japanese chapter3_90e3366d:
 
     # "일면식도 없는 생판 남의 이야기를 들은 것처럼 말이다."
-    "面識もない生きている人の話を聞いたようなものだ。"
+    "面識もない赤の他人の話を聞いたかのようだった。"
 
 # game/chapter3.rpy:1487
 translate japanese chapter3_4c9ac73c:
@@ -3974,25 +3974,25 @@ translate japanese chapter3_4c9ac73c:
 translate japanese chapter3_5e2850c5:
 
     # 나 "“자살이라는 것에 대해서는, 어떻게 생각해?”"
-    나 "「自殺ということについては、どう思う？」"
+    나 "「自殺っていうことについて、どう思う？」"
 
 # game/chapter3.rpy:1496
 translate japanese chapter3_130939c1:
 
     # "소녀가 조금이나마 이야기 속에 자신을 대입시키길 바랐던 걸까."
-    "少女に少しでも話の中に自分を重ねてほしかったのだろうか。"
+    "少女に少しでも話の中に自分を重ね合わせてほしかったのだろうか。"
 
 # game/chapter3.rpy:1497
 translate japanese chapter3_ce539bd6:
 
     # "속으로 주저하긴 했지만, 이미 그런 질문을 건넨 뒤였다."
-    "心の中でためらったが、もうそんな質問を投げかけた後だった。"
+    "内心躊躇いはあったが、すでにそんな質問を投げかけた後だった。"
 
 # game/chapter3.rpy:1499
 translate japanese chapter3_2737f2be:
 
     # "소녀는 입술을 슬며시 깨물더니, 이내 입을 열었다."
-    "少女は唇をそっと噛んだ後、すぐに口を開いた。"
+    "少女はそっと唇を噛んでから、やがて口を開いた。"
 
 # game/chapter3.rpy:1501
 translate japanese chapter3_3eca5b3b:
@@ -4000,7 +4000,7 @@ translate japanese chapter3_3eca5b3b:
     # voice "voices/gc65.ogg"
     # 소녀 "“글쎄요. 살아 있었을 적의 제가 어떻게 생각했을지는 잘 모르겠지만, 왠지 그리 멀리 있지는 않은 느낌이에요.”"
     voice "voices/gc65.ogg"
-    소녀 "「さあ、生きていた頃の私がどう思っていたかはよくわかりませんが、なんとなくあまり遠くない感じがします」"
+    소녀 "「さあ……。生きていた頃の私がどう思っていたかはよくわかりませんけど、なんだかそう遠くないところにある気がします。」"
 
 # game/chapter3.rpy:1506
 translate japanese chapter3_b16e1f70:
@@ -4008,31 +4008,31 @@ translate japanese chapter3_b16e1f70:
     # voice ""
     # 나 "“음…… 그렇구나.”"
     voice ""
-    나 "「うん……そうなんだ」"
+    나 "「うーん……そっか。」"
 
 # game/chapter3.rpy:1511
 translate japanese chapter3_349edf68:
 
     # "나의 입과 눈이 서로 상반된 반응을 보이고 있었다."
-    "俺の口と目がそれぞれ相反する反応を見せていた。"
+    "俺の口と目が正反対の反応を示していた。"
 
 # game/chapter3.rpy:1513
 translate japanese chapter3_9342943e:
 
     # "미묘하게 떨리는 나의 동공이 이해하지 못했다는 이야기를 소녀에게 건넨다."
-    "微妙に震える俺の瞳が理解できなかったという話を少女に伝える。"
+    "微かに揺れる俺の瞳が、理解できなかったという話を少女に伝える。"
 
 # game/chapter3.rpy:1515
 translate japanese chapter3_dfeff0f8:
 
     # "소녀는 나의 눈동자에 쓰인 메시지를 금방 포착한다."
-    "少女は俺の瞳に書かれたメッセージをすぐに捕らえる。"
+    "少女は俺の瞳に書かれたメッセージをすぐに察知する。"
 
 # game/chapter3.rpy:1519
 translate japanese chapter3_29306022:
 
     # "마치 눈동자에 쓰여진 건 뭐든 읽어낼 수 있다는 듯 말이다."
-    "まるで瞳に書かれたものは何でも読み取れるかのようだ。"
+    "まるで瞳に書かれたものなら何でも読み取れるかのように。"
 
 # game/chapter3.rpy:1520
 translate japanese chapter3_160cc29f:
@@ -4046,7 +4046,7 @@ translate japanese chapter3_14ce3807:
     # voice "voices/gc66.ogg"
     # 소녀 "“잘 모르겠어요. 그냥 그런 기분이 들어요.”"
     voice "voices/gc66.ogg"
-    소녀 "「よくわかりません。ただそんな気分がするんです」"
+    소녀 "「よくわからないんです。ただそんな気がするだけで。」"
 
 # game/chapter3.rpy:1528
 translate japanese chapter3_15743e65:
@@ -4054,79 +4054,79 @@ translate japanese chapter3_15743e65:
     # voice ""
     # "그런 이야기를 소녀는 아무렇지도 않게 읊조렸다."
     voice ""
-    "そんな話を少女は何気なく口にした。"
+    "そんな話を少女は何でもないことのように呟いた。"
 
 # game/chapter3.rpy:1535
 translate japanese chapter3_9cbbb4ef:
 
     # "아무렇지도 않았던 건 아니었는지도 모르겠다."
-    "何気なかったのではなかったのかもしれない。"
+    "何でもなくはなかったのかもしれないが。"
 
 # game/chapter3.rpy:1537
 translate japanese chapter3_751b5dfe:
 
     # "소녀의 눈동자에서 느껴지던 공허함이 오늘따라 더욱 싸늘하게 다가왔으니까."
-    "少女の瞳から感じられた虚無感が今日は特に冷たく迫ってきたからだ。"
+    "少女の瞳から感じられる空虚さが、今日はいっそう冷たく迫ってきたから。"
 
 # game/chapter3.rpy:1543
 translate japanese chapter3_f7209602:
 
     # "화창한 날씨를 머금은 학교 운동장의 분위기는 아까의 이야기가 무색할 정도로 밝았다."
-    "晴れやかな天気を含んだ学校の運動場の雰囲気はさっきの話が色あせるほど明るかった。"
+    "晴れやかな天気を帯びた学校のグラウンドの雰囲気は、さっきの話が霞むほど明るかった。"
 
 # game/chapter3.rpy:1544
 translate japanese chapter3_483b2427:
 
     # "운동장에서는 마침 학교 간의 친선 야구 경기가 열리고 있었던 모양인지, 응원하는 학생들이 가득 들어차 있었다."
-    "運動場ではちょうど学校間の親善野球試合が行われていたらしく、応援する生徒たちがいっぱい詰めかけていた。"
+    "グラウンドではちょうど学校間の親善野球の試合が行われていたらしく、応援する生徒たちでいっぱいだった。"
 
 # game/chapter3.rpy:1545
 translate japanese chapter3_f00c7a97:
 
     # "교문을 사이에 두고 나는 잠시 발걸음을 멈춰 세운 채 운동장을 바라보았다."
-    "校門を挟んで俺はしばらく足を止めて運動場を見た。"
+    "校門を挟んで俺はしばし足を止め、グラウンドを眺めた。"
 
 # game/chapter3.rpy:1549
 translate japanese chapter3_d6995602:
 
     # "사실 예상하지 못했던 장면이었다."
-    "実は予想していなかった光景だった。"
+    "正直、想定外の光景だった。"
 
 # game/chapter3.rpy:1550
 translate japanese chapter3_42b8c228:
 
     # "어제까지만 해도 분명 지금 이 시각의 중학교에는 사람이 없을 거라고 생각했었는데."
-    "昨日までなら確かに今の時間の中学校には人がいないだろうと思っていたのに。"
+    "昨日まではこの時間帯の中学校には人がいないだろうと思っていたのに。"
 
 # game/chapter3.rpy:1551
 translate japanese chapter3_471d57aa:
 
     # "아무래도 중학교는 아직 방학이 시작되지 않았는지, 평소의 모습 그대로였다."
-    "どうやら中学校はまだ休みが始まっていなかったらしく、平常の姿そのままだった。"
+    "どうやら中学校はまだ夏休みが始まっていなかったようで、いつも通りの様子だった。"
 
 # game/chapter3.rpy:1552
 translate japanese chapter3_7ec435ce:
 
     # "이래서야 학교 안으로 들어가는 건 아무래도 무리가 있어 보였다."
-    "こうなると学校の中に入るのはどう考えても無理があるように見えた。"
+    "これでは校内に入るのはどう見ても無理がありそうだった。"
 
 # game/chapter3.rpy:1555
 translate japanese chapter3_df1400f3:
 
     # 나 "“미처 생각 못했네. 아직 중학교는 방학이 아니었을 줄은.”"
-    나 "「考えが足りなかったな。まだ中学校は休みじゃなかったとは」"
+    나 "「想定外だったな。まだ中学は休みじゃなかったとは。」"
 
 # game/chapter3.rpy:1559
 translate japanese chapter3_0a5d6e0c:
 
     # "나는 머쓱한 얼굴로 마운드에서 공을 던지는 학생의 모습을 바라보았다."
-    "俺は恥ずかしい顔でマウンドからボールを投げる生徒の姿を見た。"
+    "俺はばつの悪い顔で、マウンドからボールを投げる生徒の姿を眺めた。"
 
 # game/chapter3.rpy:1560
 translate japanese chapter3_50388a61:
 
     # "{color=#00ccff}익숙한 느낌의 운동장과 그 전경이었다.{/color}"
-    "{color=#00ccff}慣れ親しんだ感じの運動場とその前景だった。{/color}"
+    "{color=#00ccff}見覚えのあるグラウンドとその景色だった。{/color}"
 
 # game/chapter3.rpy:1561
 translate japanese chapter3_c1d70984:
@@ -4134,7 +4134,7 @@ translate japanese chapter3_c1d70984:
     # voice "voices/gc67.ogg"
     # 소녀 "“다들 열심이네요.”"
     voice "voices/gc67.ogg"
-    소녀 "「みんな一生懸命ですね」"
+    소녀 "「みんな一生懸命ですね。」"
 
 # game/chapter3.rpy:1563
 translate japanese chapter3_085c8575:
@@ -4142,43 +4142,43 @@ translate japanese chapter3_085c8575:
     # voice ""
     # 나 "“그러게.”"
     voice ""
-    나 "「そうだね」"
+    나 "「そうだな。」"
 
 # game/chapter3.rpy:1568
 translate japanese chapter3_7635b886:
 
     # "걸음을 멈춘 채 운동장을 바라보고 있는 것이 비단 우리뿐만은 아니었는지, 동적인 운동장의 전경과 대비되는 한여름날의 새털구름이 나의 시야를 스쳤다."
-    "足を止めて運動場を見ているのは僕たちだけではなかったのか、動的な運動場の前景と対照的に真夏の日の羽毛雲が僕の視界を掠めた。"
+    "足を止めてグラウンドを眺めているのは俺たちだけではなかったようで、活気あるグラウンドの光景と対照的な真夏の巻雲が視界をかすめた。"
 
 # game/chapter3.rpy:1569
 translate japanese chapter3_2db5f3a9:
 
     # "옆으로 힐긋 시선을 돌리자, 운동장의 학생들을 빤히 바라보는 소녀가 보였다."
-    "横にチラッと目を向けると、運動場の生徒たちをじっと見つめる少女が見えた。"
+    "横目でちらりと視線をやると、グラウンドの生徒たちをじっと見つめる少女がいた。"
 
 # game/chapter3.rpy:1572
 translate japanese chapter3_8be549ee:
 
     # "그녀의 눈동자에는 추억도, 기억도, 아무것도 담겨있지 않았다."
-    "彼女の瞳には追憶も、記憶も、何もかも入っていなかった。"
+    "彼女の瞳には思い出も、記憶も、何も宿っていなかった。"
 
 # game/chapter3.rpy:1573
 translate japanese chapter3_b0280374:
 
     # "흘러가는 지금만이 눈동자에 곧이곧대로 새겨질 뿐."
-    "流れていく今だけが瞳にそのまま刻まれるだけ。"
+    "流れゆく今だけが、瞳にありのまま刻まれるだけ。"
 
 # game/chapter3.rpy:1575
 translate japanese chapter3_396673fa_3:
 
     # 나 "“…….”"
-    나 "「……」"
+    나 "「……。」"
 
 # game/chapter3.rpy:1578
 translate japanese chapter3_891b39fc:
 
     # "무심한 듯 운동장을 바라보는 소녀의 모습에서 떠올린 건, 또다시 그곳에서의 기억이었다."
-    "無心に運動場を見つめる少女の姿から思い浮かんだのは、またあの場所での記憶だった。"
+    "何気なくグラウンドを眺める少女の姿から思い起こしたのは、またしてもあの場所での記憶だった。"
 
 # game/chapter3.rpy:1579
 translate japanese chapter3_8a00f9c5:
@@ -4190,37 +4190,37 @@ translate japanese chapter3_8a00f9c5:
 translate japanese chapter3_0d85d1e6:
 
     # "여느 때 보다 치열했고, 누구보다 간절했던 그 순간이었으련만, 어째서인지 그 기억은 흐릿하게 남아 막연한 감정만을 남겨 두고 있었다."
-    "他の時よりも激しかったし、誰よりも切なかったはずのその瞬間なのに、どうしてかその記憶はぼやけて残って曖昧な感情だけを残していた。"
+    "いつにも増して激しく、誰よりも切実だったあの瞬間のはずなのに、なぜかその記憶はぼんやりと残り、漠然とした感情だけを残していた。"
 
 # game/chapter3.rpy:1582
 translate japanese chapter3_2e46540c:
 
     # "망각의 마법에라도 걸린 것처럼 흐릿해져 가는 2년 전의 기억을 움켜잡았다."
-    "忘却の魔法にでもかかったようにぼやけていく2年前の記憶をしっかりと掴んだ。"
+    "忘却の魔法にでもかけられたように霞んでいく二年前の記憶を掴み取った。"
 
 # game/chapter3.rpy:1584
 translate japanese chapter3_1abdb23c:
 
     # "마치 수천 년 전의 기억 같은 그 여름의 일들이 어렴풋이 떠올랐다."
-    "まるで数千年前の記憶のようなあの夏の出来事がぼんやりと浮かんだ。"
+    "まるで数千年前の記憶のようなあの夏の出来事が、おぼろげに浮かんだ。"
 
 # game/chapter3.rpy:1586
 translate japanese chapter3_6ed0611f:
 
     # "마운드 위에서 공을 던지던 내 모습."
-    "マウンドの上でボールを投げていた俺の姿。"
+    "マウンドの上からボールを投げていた俺の姿。"
 
 # game/chapter3.rpy:1587
 translate japanese chapter3_dc1f1b61:
 
     # "그런 나를 진심으로 응원해주던 한 사람."
-    "そんな俺を心から応援してくれた一人。"
+    "そんな俺を心から応援してくれていたひとり。"
 
 # game/chapter3.rpy:1589
 translate japanese chapter3_09df0610:
 
     # "하지만 불완전하게 재구성된 흐릿한 추억은 말 그대로 흐릿한 감상만을 남길 뿐이었다."
-    "しかし不完全に再構成されたぼやけた追憶は言葉通りぼやけた感想しか残さなかった。"
+    "だが、不完全に再構成されたぼんやりとした思い出は、文字通りぼんやりとした感慨しか残さなかった。"
 
 # game/chapter3.rpy:1597
 translate japanese chapter3_fbaf4f85:
@@ -4228,7 +4228,7 @@ translate japanese chapter3_fbaf4f85:
     # voice "voices/gc68.ogg"
     # 소녀 "“뭘 그렇게 골똘히 생각하는 건가요?”"
     voice "voices/gc68.ogg"
-    소녀 "「何をそんなに真剣に考えてるんですか？」"
+    소녀 "「何をそんなに考え込んでるんですか？」"
 
 # game/chapter3.rpy:1599
 translate japanese chapter3_8a327af7:
@@ -4236,13 +4236,13 @@ translate japanese chapter3_8a327af7:
     # voice ""
     # "운동장을 바라보고 있던 소녀가 불쑥 말을 꺼냈다."
     voice ""
-    "運動場を見ていた少女がぶっきらぼうに言葉を切り出した。"
+    "グラウンドを眺めていた少女が、不意に声をかけてきた。"
 
 # game/chapter3.rpy:1602
 translate japanese chapter3_72bff69a:
 
     # 나 "“저기서 공 던지는 학생, 멋있어 보이지 않아?”"
-    나 "「あそこでボールを投げてる生徒、かっこいいと思わない？」"
+    나 "「あそこでボール投げてる生徒、かっこよく見えないか？」"
 
 # game/chapter3.rpy:1611
 translate japanese chapter3_34708149:
@@ -4250,7 +4250,7 @@ translate japanese chapter3_34708149:
     # voice "voices/gc69.ogg"
     # 소녀 "“…… 그건 갑자기 왜요?”"
     voice "voices/gc69.ogg"
-    소녀 "「……それは急にどうしてですか？」"
+    소녀 "「……それは急にどうしたんですか？」"
 
 # game/chapter3.rpy:1613
 translate japanese chapter3_9463d26f:
@@ -4258,19 +4258,19 @@ translate japanese chapter3_9463d26f:
     # voice ""
     # 나 "“그냥, 갑자기 물어보고 싶었어.”"
     voice ""
-    나 "「ただ、急に聞きたくなっただけだよ」"
+    나 "「いや、ふと聞いてみたくなっただけ。」"
 
 # game/chapter3.rpy:1616
 translate japanese chapter3_72c82bd2:
 
     # "뭐라 대답을 해야 할지 모르겠다는 어색한 표정을, 소녀는 지어 보였다."
-    "どう答えればいいのかわからないという気まずい表情を、少女は作ってみた。"
+    "何と答えたらいいかわからないという気まずい表情を、少女は浮かべた。"
 
 # game/chapter3.rpy:1618
 translate japanese chapter3_64adebde:
 
     # 나 "“실은, 옛날 생각이 문득 나서 물어본 거야.”"
-    나 "「実は、昔のことがふと思い出して聞いたんだ」"
+    나 "「実は、昔のこと急に思い出して聞いてみたんだ。」"
 
 # game/chapter3.rpy:1619
 translate japanese chapter3_19aa6cf7:
@@ -4278,7 +4278,7 @@ translate japanese chapter3_19aa6cf7:
     # voice "voices/gc70.ogg"
     # 소녀 "“옛날 생각이요?”"
     voice "voices/gc70.ogg"
-    소녀 "「昔のことですか？」"
+    소녀 "「昔のこと、ですか？」"
 
 # game/chapter3.rpy:1622
 translate japanese chapter3_84d9a685:
@@ -4286,7 +4286,7 @@ translate japanese chapter3_84d9a685:
     # voice ""
     # 나 "“야구, 좋아했거든. 잘하기도 했고.”"
     voice ""
-    나 "「野球、好きだったんだ。上手くもあったし」"
+    나 "「野球、好きだったんだ。上手かったし。」"
 
 # game/chapter3.rpy:1624
 translate japanese chapter3_6dec7e6c:
@@ -4294,7 +4294,7 @@ translate japanese chapter3_6dec7e6c:
     # voice "voices/gc71.ogg"
     # 소녀 "“그런가요.”"
     voice "voices/gc71.ogg"
-    소녀 "「そうなの」"
+    소녀 "「そうなんですか。」"
 
 # game/chapter3.rpy:1630
 translate japanese chapter3_c92b1bb2:
@@ -4302,13 +4302,13 @@ translate japanese chapter3_c92b1bb2:
     # voice ""
     # "흥미를 보인다고도, 그렇다고 흥미가 아예 없다고도 할 수 없는 애매한 목소리가 대답으로 돌아왔다."
     voice ""
-    "興味があるとも、そうでもないとも言えない曖昧な声が返事として返ってきた。"
+    "興味があるとも、まったく興味がないとも言えない、曖昧な声が返ってきた。"
 
 # game/chapter3.rpy:1632
 translate japanese chapter3_bfe4547a:
 
     # "소녀는 다시금 운동장 안쪽을 기웃대며 물었다."
-    "少女は再び運動場の中を覗き込んで聞いた。"
+    "少女は再びグラウンドの中を覗き込みながら聞いた。"
 
 # game/chapter3.rpy:1639
 translate japanese chapter3_49283b00:
@@ -4316,7 +4316,7 @@ translate japanese chapter3_49283b00:
     # voice "voices/gc72.ogg"
     # 소녀 "“역시 지금 같이 들어가 보는 건 무리려나요?”"
     voice "voices/gc72.ogg"
-    소녀 "「やっぱり今みたいに入ってみるのは無理でしょうか？」"
+    소녀 "「やっぱり今一緒に入ってみるのは無理ですかね？」"
 
 # game/chapter3.rpy:1641
 translate japanese chapter3_5fc86f3c:
@@ -4324,7 +4324,7 @@ translate japanese chapter3_5fc86f3c:
     # voice ""
     # 나 "“으응, 그렇겠다.”"
     voice ""
-    나 "「うーん、そうだね」"
+    나 "「うん、そうだろうな。」"
 
 # game/chapter3.rpy:1643
 translate japanese chapter3_42e342d9:
@@ -4332,7 +4332,7 @@ translate japanese chapter3_42e342d9:
     # voice "voices/gc73.ogg"
     # 소녀 "“그럼 저 혼자만이라도 들어갔다 와 볼까요?”"
     voice "voices/gc73.ogg"
-    소녀 "「じゃあ私だけでも入ってきてみようかな？」"
+    소녀 "「じゃあ私だけでも入ってきましょうか？」"
 
 # game/chapter3.rpy:1647
 translate japanese chapter3_374a9683:
@@ -4340,7 +4340,7 @@ translate japanese chapter3_374a9683:
     # voice ""
     # 나 "“아냐, 나중에 나랑 같이 들어가자. 어차피 여기만 와보려 했으니까 시간도 충분하고. 수업이 끝난 뒤에 슬쩍 들어가면 될 것 같아.”"
     voice ""
-    나 "「いや、後で俺と一緒に入ろうよ。とにかくここだけ見に来たんだから時間も十分だし。授業が終わった後にさっと入ればいいと思うよ」"
+    나 "「いや、あとで俺と一緒に入ろう。どうせここだけ来るつもりだったから時間はたっぷりあるし。授業が終わったあとにこっそり入ればいいと思う。」"
 
 # game/chapter3.rpy:1656
 translate japanese chapter3_00329dbb:
@@ -4348,7 +4348,7 @@ translate japanese chapter3_00329dbb:
     # voice "voices/gc74.ogg"
     # 소녀 "“그렇지만 수업이 끝난 뒤에도 경비 아저씨라든가, 여전히 남아있지 않을까요.”"
     voice "voices/gc74.ogg"
-    소녀 "「でも授業が終わった後でも警備のおじさんとか、まだ残っていないでしょうか」"
+    소녀 "「でも授業が終わったあとでも、警備のおじさんとか、まだ残ってるんじゃないですか？」"
 
 # game/chapter3.rpy:1662
 translate japanese chapter3_65b668b4:
@@ -4356,7 +4356,7 @@ translate japanese chapter3_65b668b4:
     # voice ""
     # 나 "“실수로 두고 간 물건이 있어서 돌아왔다고 하면 괜찮지 않을까?”"
     voice ""
-    나 "「忘れ物があって戻ってきたって言えば大丈夫じゃないかな？」"
+    나 "「忘れ物を取りに戻ってきたって言えば大丈夫じゃないか？」"
 
 # game/chapter3.rpy:1664
 translate japanese chapter3_c3b45cc9:
@@ -4364,7 +4364,7 @@ translate japanese chapter3_c3b45cc9:
     # voice "voices/gc75.ogg"
     # 소녀 "“그거야 그렇다 쳐도…….”"
     voice "voices/gc75.ogg"
-    소녀 "「それはそれでいいとしても……」"
+    소녀 "「そうだとしても……。」"
 
 # game/chapter3.rpy:1668
 translate japanese chapter3_911744df:
@@ -4372,19 +4372,19 @@ translate japanese chapter3_911744df:
     # voice ""
     # "소녀의 시선이 아래위로 나를 훑었다."
     voice ""
-    "少女の視線が上下に俺をなぞった。"
+    "少女の視線が上から下へと俺を見渡した。"
 
 # game/chapter3.rpy:1670
 translate japanese chapter3_38efd398:
 
     # "머뭇대며 바로 말을 꺼내지 못하는 소녀였지만, 무슨 말을 하고 싶은지는 충분히 알 것 같았다."
-    "躊躇しながらすぐに言葉を出さない少女だったが、何を言いたいのかは十分にわかったようだった。"
+    "ためらって言葉をすぐに出せない少女だったが、何を言いたいのかは十分にわかる気がした。"
 
 # game/chapter3.rpy:1680
 translate japanese chapter3_d018688f:
 
     # 나 "“나 정도면 중학생으로 보일 만하지 않아?”"
-    나 "「俺くらいなら中学生に見えるだろ？」"
+    나 "「俺なら中学生に見えるんじゃないか？」"
 
 # game/chapter3.rpy:1690
 translate japanese chapter3_715d030a:
@@ -4392,7 +4392,7 @@ translate japanese chapter3_715d030a:
     # voice "voices/gc76.ogg"
     # 소녀 "“음…… 의심 받을 거라 생각해요.”"
     voice "voices/gc76.ogg"
-    소녀 "「ええと……疑われると思いますよ」"
+    소녀 "「うーん……怪しまれると思います。」"
 
 # game/chapter3.rpy:1694
 translate japanese chapter3_e070edaf:
@@ -4400,31 +4400,31 @@ translate japanese chapter3_e070edaf:
     # voice ""
     # 나 "“생각보다 단호하네.”"
     voice ""
-    나 "「思ったより断固としてるね」"
+    나 "「容赦ないな。」"
 
 # game/chapter3.rpy:1696
 translate japanese chapter3_0f549984:
 
     # "맛없는 요리를 먹으면서도, 불편한 시간을 보내면서도 항상 선의의 거짓말을 해주었던 소녀라도 이것까지는 무리인 모양이었다."
-    "まずい料理を食べながらも、不快な時間を過ごしながらもいつも善意の嘘を言ってくれた少女でもこれ以上は無理なようだった。"
+    "まずい料理を食べても、居心地の悪い時間を過ごしても、いつも優しい嘘をついてくれた少女でさえ、これだけは無理だったらしい。"
 
 # game/chapter3.rpy:1701
 translate japanese chapter3_9454b870:
 
     # "그나저나, 내 몸이 내 몸 같지 않아서일까."
-    "ところで、俺の体が俺の体じゃないからかな。"
+    "そういえば、自分の体が自分のものではないような感覚のせいだろうか。"
 
 # game/chapter3.rpy:1702
 translate japanese chapter3_edbabde3:
 
     # "소녀로부터 그런 말을 들었어도 특별한 대미지는 없었다."
-    "少女からそんな言葉を聞いても特別なダメージはなかった。"
+    "少女からそんなことを言われても、特にダメージはなかった。"
 
 # game/chapter3.rpy:1707
 translate japanese chapter3_2f06201f:
 
     # 나 "“괜찮아. 잡아떼면 별문제 없겠지. 여차하면 도망치면 되고, 나쁜 짓 하려는 것도 아니잖아?”"
-    나 "「大丈夫だよ。ごまかせば問題ないだろう。まあ、どうせ逃げればいいし、悪いことしようとしてるわけじゃないだろ？」"
+    나 "「大丈夫。しらばっくれれば問題ないだろ。いざとなったら逃げればいいし、悪いことしようってわけじゃないんだから。」"
 
 # game/chapter3.rpy:1709
 translate japanese chapter3_b3a0c5e1:
@@ -4432,7 +4432,7 @@ translate japanese chapter3_b3a0c5e1:
     # voice "voices/gc77.ogg"
     # 소녀 "“알겠어요.”"
     voice "voices/gc77.ogg"
-    소녀 "「わかりました」"
+    소녀 "「わかりました。」"
 
 # game/chapter3.rpy:1719
 translate japanese chapter3_8fa75f9a:
@@ -4440,19 +4440,19 @@ translate japanese chapter3_8fa75f9a:
     # voice ""
     # "태블릿을 꺼내 시각을 확인했다."
     voice ""
-    "タブレットを出して時間を確認した。"
+    "タブレットを取り出して時刻を確認した。"
 
 # game/chapter3.rpy:1721
 translate japanese chapter3_aecf1baa:
 
     # "적어도 네 시는 되어야 하교 시간이려나."
-    "せめて4時には下校時間だろうか。"
+    "少なくとも四時にならないと放課後にはならないだろうか。"
 
 # game/chapter3.rpy:1724
 translate japanese chapter3_be754df0:
 
     # "졸지에 세 시간 넘게 계획의 공백이 생겨버렸기에, 나는 즉흥적으로 소녀에게 주변을 돌아다녀 볼까 하는 제안을 건넸다."
-    "仕方なく3時間以上も計画の空白ができてしまったので、俺は即興的に少女に周りを散策してみるかという提案をした。"
+    "突然三時間以上も予定に空白ができてしまったので、俺は即興で少女に周辺を散歩してみないかと提案した。"
 
 # game/chapter3.rpy:1731
 translate japanese chapter3_fdda13be:
@@ -4460,7 +4460,7 @@ translate japanese chapter3_fdda13be:
     # voice "voices/gc78.ogg"
     # 소녀 "“그렇게 할까요.”"
     voice "voices/gc78.ogg"
-    소녀 "「そうしましょう」"
+    소녀 "「そうしましょうか。」"
 
 # game/chapter3.rpy:1738
 translate japanese chapter3_490c3a89:
@@ -4468,37 +4468,37 @@ translate japanese chapter3_490c3a89:
     # voice ""
     # "항상 군말 없이 내 제안을 받아들이는 소녀였다."
     voice ""
-    "いつも言葉少なに俺の提案を受け入れる少女だった。"
+    "いつも二つ返事で俺の提案を受け入れてくれる少女だった。"
 
 # game/chapter3.rpy:1747
 translate japanese chapter3_c098270c:
 
     # "무작정 길을 걷다 보면 어딘가에 필연적으로 도착하기 마련이다."
-    "無作為に道を歩けばどこかに必然的に到着するものだ。"
+    "あてもなく道を歩いていれば、どこかには必ずたどり着くものだ。"
 
 # game/chapter3.rpy:1749
 translate japanese chapter3_786cea01:
 
     # "집으로 돌아가는 길을 찾아 외딴 산속을 헤매던 헨젤과 그레텔이 그랬듯 말이다."
-    "家に帰る道を探してひっそりとした山中をさまよっていたヘンゼルとグレーテルがそうだったように。"
+    "家に帰る道を探して人里離れた山の中をさまよったヘンゼルとグレーテルがそうだったように。"
 
 # game/chapter3.rpy:1754
 translate japanese chapter3_befb4457:
 
     # "그렇다. 어쨌거나 최후에 발걸음이 닿는 곳은 달콤한 향이 풍겨오는 곳이라는 거다."
-    "そうだ。どうせ最後に足が着くところは甘い香りが漂ってくるところだということだ。"
+    "そう。結局、最後に足が向かう先は甘い香りが漂ってくる場所というわけだ。"
 
 # game/chapter3.rpy:1755
 translate japanese chapter3_807a28ad:
 
     # "나는 목적지 없이 아무렇게나 내딛던 발걸음을, 한 디저트 카페 앞에서 멈춰 세웠다."
-    "俺は目的地もなく適当に踏み出した足を、あるデザートカフェの前で止めた。"
+    "俺は目的地もなく気ままに歩いていた足を、あるカフェの前で止めた。"
 
 # game/chapter3.rpy:1761
 translate japanese chapter3_f3c55c12:
 
     # 나 "“여기 잠깐 들러서 시간이나 때우다 가는 건 어때?”"
-    나 "「ここでちょっと寄って時間でも潰して行くのはどうだ？」"
+    나 "「ここにちょっと寄って時間つぶしてかないか？」"
 
 # game/chapter3.rpy:1762
 translate japanese chapter3_831ef1ed:
@@ -4506,7 +4506,7 @@ translate japanese chapter3_831ef1ed:
     # voice "voices/gc79.ogg"
     # 소녀 "“디저트 카페인가요.”"
     voice "voices/gc79.ogg"
-    소녀 "「デザートカフェですか」"
+    소녀 "「カフェですか。」"
 
 # game/chapter3.rpy:1764
 translate japanese chapter3_2cd48ea1:
@@ -4514,19 +4514,19 @@ translate japanese chapter3_2cd48ea1:
     # voice ""
     # "소녀는 고개를 들어 ‘체스트넛’이라 쓰여있는 간판을 올려다보았다."
     voice ""
-    "少女は頭を上げて「チェスナッツ」と書かれた看板を見上げた。"
+    "少女は顔を上げて、「{cmt=japanese_3C}チェスナット{/cmt}」と書かれた看板を見上げた。"
 
 # game/chapter3.rpy:1769
 translate japanese chapter3_3137c01d:
 
     # "왠지 달콤함이 묻어있는 것 같은 네이밍이었다."
-    "なんとなく甘さがついているようなネーミングだった。"
+    "どことなく甘さの漂うネーミングだった。"
 
 # game/chapter3.rpy:1770
 translate japanese chapter3_797831b1:
 
     # "잠시 생각에 잠기더니, 소녀는 이내 나를 향해 말했다."
-    "しばらく考え込んだ後、少女はすぐに俺に向かって言った。"
+    "少し考え込んでから、少女はやがて俺に向かって言った。"
 
 # game/chapter3.rpy:1773
 translate japanese chapter3_5213af76:
@@ -4534,7 +4534,7 @@ translate japanese chapter3_5213af76:
     # voice "voices/gc80.ogg"
     # 소녀 "“어울리지 않는 장소긴 하지만, 사람만 없다면 나쁘진 않을 것 같아요.”"
     voice "voices/gc80.ogg"
-    소녀 "「似合わない場所ですけど、人さえいなければ悪くはないと思いますよ」"
+    소녀 "「似合わない場所ではありますけど、人さえいなければ悪くないかもしれません。」"
 
 # game/chapter3.rpy:1776
 translate japanese chapter3_696cb77f:
@@ -4542,37 +4542,37 @@ translate japanese chapter3_696cb77f:
     # voice ""
     # "어울리지 않는다는 건 나를 이야기하는 걸까, 소녀 자신을 이야기하는 걸까."
     voice ""
-    "似合わないというのは俺のことを言ってるのか、少女自身のことを言ってるのか。"
+    "似合わないというのは俺のことを言っているのか、少女自身を言っているのか。"
 
 # game/chapter3.rpy:1779
 translate japanese chapter3_00772145:
 
     # "나는 반투명에 가까운 유리벽을 통해 카페 내부를 들여다보았다."
-    "俺は半透明に近いガラス壁を通してカフェの中を覗いた。"
+    "俺は半透明に近いガラスの壁越しにカフェの中を覗き込んだ。"
 
 # game/chapter3.rpy:1781
 translate japanese chapter3_336397a9:
 
     # "마치 과자집 안을 몰래 훔쳐보던 헨젤과 그레텔처럼 말이다."
-    "まるでお菓子の家の中をこっそり覗いていたヘンゼルとグレーテルみたいに。"
+    "まるでお菓子の家の中をこっそり覗いていたヘンゼルとグレーテルのように。"
 
 # game/chapter3.rpy:1783
 translate japanese chapter3_eab00c65:
 
     # 나 "“손님은 별로 없는 것 같아.”"
-    나 "「お客さんはあまりいないみたいだね」"
+    나 "「客はあんまりいないみたいだな。」"
 
 # game/chapter3.rpy:1785
 translate japanese chapter3_65dbde55:
 
     # "애초에 평일 낮의 디저트 카페이니, 하교 시간이 다 될 때까지는 사람도 없을 것이다."
-    "そもそも平日昼間のデザートカフェだし、下校時間になるまでは人もいないだろう。"
+    "そもそも平日昼のカフェだから、放課後になるまでは人もいないだろう。"
 
 # game/chapter3.rpy:1786
 translate japanese chapter3_d472c964:
 
     # "카페에 손님이 들어오기 시작하면 그때에 맞춰 학교로 향하면 되겠지."
-    "カフェにお客さんが入ってくるようになったらその時に合わせて学校に向かえばいいだろう。"
+    "カフェに客が入り始めたら、その頃合いに合わせて学校へ向かえばいい。"
 
 # game/chapter3.rpy:1788
 translate japanese chapter3_73944a58:
@@ -4580,7 +4580,7 @@ translate japanese chapter3_73944a58:
     # voice "voices/gc81.ogg"
     # 소녀 "“그럼, 들어가요.”"
     voice "voices/gc81.ogg"
-    소녀 "「じゃあ、入りましょう」"
+    소녀 "「じゃあ、入りましょう。」"
 
 # game/chapter3.rpy:1799
 translate japanese chapter3_a719a476:
@@ -4588,13 +4588,13 @@ translate japanese chapter3_a719a476:
     # voice ""
     # "문을 열자 차임벨 소리가 들렸다."
     voice ""
-    "ドアを開けるとチャイムベルの音が聞こえた。"
+    "ドアを開けるとチャイムの音が鳴った。"
 
 # game/chapter3.rpy:1801
 translate japanese chapter3_7782f5ff:
 
     # "달콤한 향기가 코끝을 간질이고, 나이를 가늠하기 어렵게 만드는 복장과 함께 금발의 점원이 나를 맞이한다."
-    "甘い香りが鼻先をくすぐり、年齢を見極めるのが難しくなるような服装とともに金髪の店員が俺を迎えた。"
+    "甘い香りが鼻先をくすぐり、年齢の判別しにくい服装の金髪の店員が俺を迎える。"
 
 # game/chapter3.rpy:1802
 translate japanese chapter3_c13dc4a3:
@@ -4602,7 +4602,7 @@ translate japanese chapter3_c13dc4a3:
     # voice "voices/b1.ogg"
     # who "“어서오세요~”"
     voice "voices/b1.ogg"
-    who "「いらっしゃいませ～」"
+    who "「いらっしゃいませ〜」"
 
 # game/chapter3.rpy:1805
 translate japanese chapter3_dddaa754:
@@ -4610,7 +4610,7 @@ translate japanese chapter3_dddaa754:
     # voice ""
     # "소녀는 그런 환대가 자신을 향하는 것이 아니라는 걸 누구보다 잘 알고 있는 듯 점원의 눈길을 피했다."
     voice ""
-    "少女はそんな歓迎が自分に向けられているのではないということを誰よりもよく知っているようで、店員の視線を避けた。"
+    "少女はそんな歓迎が自分に向けられたものではないことを、誰よりもよく知っているかのように店員の視線を避けた。"
 
 # game/chapter3.rpy:1809
 translate japanese chapter3_c49b753b:
@@ -4626,13 +4626,13 @@ translate japanese chapter3_ef366adf:
     # voice ""
     # 나 "“어…… 한 명이요.”"
     voice ""
-    나 "「あ……一人です」"
+    나 "「え……ひとりです。」"
 
 # game/chapter3.rpy:1814
 translate japanese chapter3_76493257:
 
     # "두 명 같은 한 명이란 바로 지금 같은 상황을 두고 말하는 거였나 싶었다."
-    "二人で一人というのはまさに今のような状況を言うのだろうかと思った。"
+    "ふたりのようなひとりとは、まさに今のような状況を言うのだろうかと思った。"
 
 # game/chapter3.rpy:1818
 translate japanese chapter3_38804ee8:
@@ -4640,7 +4640,7 @@ translate japanese chapter3_38804ee8:
     # voice "voices/b3.ogg"
     # who "“한 명, 맞으신가요?”"
     voice "voices/b3.ogg"
-    who "「一人、お間違いないですか？」"
+    who "「お一人様でよろしいですか？」"
 
 # game/chapter3.rpy:1820
 translate japanese chapter3_6522bee4:
@@ -4648,55 +4648,55 @@ translate japanese chapter3_6522bee4:
     # voice ""
     # "일행도 없이 혼자서 디저트 카페에 오는 것은 아무래도 드문 일이었는지, 점원은 마치 내 옆에 서 있던 소녀의 존재를 인정해 주기라도 하려는 것처럼 내게 재차 질문을 건넸다."
     voice ""
-    "一行もなく一人でデザートカフェに来るのはどうやら珍しいことだったのか、店員はまるで俺の隣にいた少女の存在を認めてやろうとでもするように俺に再び質問をした。"
+    "連れもなくひとりでカフェに来るのはやはり珍しいようで、店員はまるで俺の隣に立つ少女の存在を認めてやろうとするかのように、再度確認してきた。"
 
 # game/chapter3.rpy:1823
 translate japanese chapter3_241e4b21:
 
     # "‘네’라며 고개를 끄덕이고선, 나는 자리를 안내해주려는 점원의 말보다 한발 앞서 인적 드문 구석 자리를 선점했다."
-    "「はい」と頷いてから、俺は店員の案内よりも一歩先に人気のない隅の席を確保した。"
+    "「はい」と頷いてから、俺は席を案内しようとする店員の言葉より一歩先に、人気のない隅の席を確保した。"
 
 # game/chapter3.rpy:1830
 translate japanese chapter3_6d4e883a:
 
     # "다른 손님이 거의 없는 카페는 꽤나 조용했다."
-    "他のお客さんがほとんどいないカフェはかなり静かだった。"
+    "他の客がほとんどいないカフェはかなり静かだった。"
 
 # game/chapter3.rpy:1832
 translate japanese chapter3_58ef90fb:
 
     # "항상 유미와 함께 왔던 시끌벅적한 디저트 카페와는 확실히 다른 분위기였다."
-    "いつもユミと一緒に来ていた賑やかなデザートカフェとは明らかに違う雰囲気だった。"
+    "いつもユミと一緒に来ていた賑やかなカフェとは確かに違う雰囲気だった。"
 
 # game/chapter3.rpy:1837
 translate japanese chapter3_d59cddb0:
 
     # "카페의 미묘한 고요함이 전혀 어울리지 않을 것 같던 소녀와도 묘하게 어우러지는 것 같았으니까."
-    "カフェの微妙な静けさが全く似合わないような少女とも不思議と調和しているようだったから。"
+    "カフェの微妙な静けさが、まるで似合わなそうだった少女ともどこか不思議にマッチしている気がした。"
 
 # game/chapter3.rpy:1838
 translate japanese chapter3_54668a4a:
 
     # "아무래도 소녀가 말한 디저트 카페와 어울리지 않는 쪽은 나였던 모양이다."
-    "どうやら少女が言ったデザートカフェと似合わない方は俺だったようだ。"
+    "どうやら少女が言っていたカフェに似合わない方は、俺だったようだ。"
 
 # game/chapter3.rpy:1840
 translate japanese chapter3_88ddfda6:
 
     # "곧바로 점원이 내게 메뉴판을 건넸다."
-    "すぐに店員が俺にメニューを渡した。"
+    "すぐに店員がメニューを渡してきた。"
 
 # game/chapter3.rpy:1844
 translate japanese chapter3_ae821140:
 
     # "메뉴판을 받아들고는 소녀에게 눈길을 건네자, 나의 맞은편에 앉아있던 소녀가 스르륵 나의 옆에 붙었다."
-    "メニューを受け取って少女に目配せをすると、俺の向かいに座っていた少女がするりと俺の隣に寄った。"
+    "メニューを受け取って少女に目配せすると、向かいに座っていた少女がするりと俺の隣に移った。"
 
 # game/chapter3.rpy:1845
 translate japanese chapter3_7bb59350:
 
     # "나는 소녀에게 네가 골라 보라는 무언의 신호를 보냈다."
-    "俺は少女に君が選んでみろという無言の合図を送った。"
+    "俺は少女に、お前が選んでみろという無言のサインを送った。"
 
 # game/chapter3.rpy:1847
 translate japanese chapter3_d500ef67:
@@ -4704,7 +4704,7 @@ translate japanese chapter3_d500ef67:
     # voice "voices/gc82.ogg"
     # 소녀 "“이거…… 그리고 요거요.”"
     voice "voices/gc82.ogg"
-    소녀 "「これ……それからこれです」"
+    소녀 "「これ……あと、これです。」"
 
 # game/chapter3.rpy:1849
 translate japanese chapter3_5846a7ad:
@@ -4718,31 +4718,31 @@ translate japanese chapter3_5846a7ad:
 translate japanese chapter3_494a5ecd:
 
     # "분명 하나만 고르려다 예쁘장한 모양의 쇼트케이크가 건네는 유혹에 결국 넘어가버린 것이리라."
-    "きっと一つだけ選ぼうとしたが、かわいらしい形のショートケーキが与える誘惑に結局負けてしまったのだろう。"
+    "きっとひとつだけにしようとして、可愛らしいショートケーキの誘惑に結局負けてしまったのだろう。"
 
 # game/chapter3.rpy:1856
 translate japanese chapter3_932be8e7:
 
     # "점원에게 소녀가 고른 것에 더해 소프트드링크 두 잔을 주문하고는 고개를 돌려 옆을 바라보았다."
-    "店員に少女が選んだものに加えてソフトドリンク二杯を注文してから、頭を回して横を見た。"
+    "店員に少女の選んだものに加えてソフトドリンクを二杯注文してから、首を回して隣を見た。"
 
 # game/chapter3.rpy:1860
 translate japanese chapter3_837aa0f0:
 
     # "소녀는 맞은편 자리로 돌아가지 않고 나의 옆에 가만히 앉아있었다."
-    "少女は向かいの席に戻らずに俺の隣にじっと座っていた。"
+    "少女は向かいの席に戻らず、俺の隣にそのまま座っていた。"
 
 # game/chapter3.rpy:1861
 translate japanese chapter3_2c5067db:
 
     # "점원이 주문을 받아들고 다른 곳으로 향하자, 나는 그제야 조그마한 목소리로 말을 꺼냈다."
-    "店員が注文を受けて他のところに向かうと、俺はやっと小さな声で言葉を出した。"
+    "店員が注文を受けて去ると、俺はようやく小さな声で話し始めた。"
 
 # game/chapter3.rpy:1865
 translate japanese chapter3_67eac37e:
 
     # 나 "“몽블랑 말이야, 먹어 본 기억 있어?”"
-    나 "「モンブランってさ、食べたことある記憶ある？」"
+    나 "「モンブラン、食べたことあるの？」"
 
 # game/chapter3.rpy:1871
 translate japanese chapter3_49b089c3:
@@ -4750,7 +4750,7 @@ translate japanese chapter3_49b089c3:
     # voice "voices/gc83.ogg"
     # 소녀 "“아뇨, 그런 기억은 없지만. 이름이 예뻐서 골라 봤어요.”"
     voice "voices/gc83.ogg"
-    소녀 "「いいえ、そんな記憶はないけど。名前がきれいだから選んでみました」"
+    소녀 "「いえ、そういう記憶はありませんけど。名前がきれいだったので選んでみました。」"
 
 # game/chapter3.rpy:1874
 translate japanese chapter3_ef27f720:
@@ -4758,19 +4758,19 @@ translate japanese chapter3_ef27f720:
     # voice ""
     # "하긴, 보고 싶은 영화를 고를 때도, 읽고 싶은 책을 고를 때도 늘 그런 이유에서이기는 하지."
     voice ""
-    "そうだな、見たい映画を選ぶときも、読みたい本を選ぶときもいつもそんな理由だったものな。"
+    "たしかに、観たい映画を選ぶときも、読みたい本を選ぶときも、いつもそんな理由だよな。"
 
 # game/chapter3.rpy:1878
 translate japanese chapter3_167b1592:
 
     # "소녀는 고개를 돌려 주변을 바라보았다."
-    "少女は頭を回して周りを見回した。"
+    "少女は首を巡らせて周りを見回した。"
 
 # game/chapter3.rpy:1879
 translate japanese chapter3_f9c4220f:
 
     # "달콤한 분위기가 인테리어에서도 물씬 느껴지는 것 같은, 아늑한 디자인이라는 생각이 들었다."
-    "甘い雰囲気がインテリアからもひしひしと感じられるような、居心地のいいデザインだと思った。"
+    "甘い雰囲気がインテリアからも伝わってくるような、居心地のいいデザインだと思った。"
 
 # game/chapter3.rpy:1885
 translate japanese chapter3_775600c2:
@@ -4778,7 +4778,7 @@ translate japanese chapter3_775600c2:
     # voice "voices/gc84.ogg"
     # 소녀 "“이런 곳에 자주 왔었나요?”"
     voice "voices/gc84.ogg"
-    소녀 "「こんなところによく来ていたんですか？」"
+    소녀 "「こういう場所にはよく来てたんですか？」"
 
 # game/chapter3.rpy:1888
 translate japanese chapter3_bd9471db:
@@ -4786,31 +4786,31 @@ translate japanese chapter3_bd9471db:
     # voice ""
     # 나 "“자주까지는 아니지만, 친한 애가 이런 곳에 종종 같이 가자고 해서. 덕분에 몇 번 따라가 본 적은 있어.”"
     voice ""
-    나 "「よくまではないけど、仲のいい子がこういうところによく一緒に行こうと言ってくれて。おかげで何回かついて行ったことはあるよ」"
+    나 "「しょっちゅうってほどじゃないけど、仲のいいやつがこういう場所に一緒に行こうってよく誘うからさ。おかげで何回かついて行ったことはあるよ。」"
 
 # game/chapter3.rpy:1891
 translate japanese chapter3_9c39620a:
 
     # "나의 발걸음이 굳이 디저트 카페 앞에서 멈춰 선 것도, 유미가 디저트 카페를 좋아해서라는 이유를 포함하고 있었다."
-    "俺の足がわざわざデザートカフェの前で止まったのも、ユミがデザートカフェが好きだからという理由を含んでいた。"
+    "俺の足がわざわざカフェの前で止まったのも、ユミがカフェ好きだからという理由を含んでいた。"
 
 # game/chapter3.rpy:1893
 translate japanese chapter3_949e3c7a:
 
     # "유미의 취미는 내가 알고 있는 나머지 한 명의 너드 후배와는 달리 여타의 여학생과 비슷하니까, 혹시나 소녀도 이런 걸 내심 좋아하지는 않을까 하는 지극히 개인적인 생각."
-    "ユミの趣味は俺が知っているもう一人のヲタク後輩とは違って他の女子生徒と似ているから、もしかしたら少女もこういうのを内心好きじゃないかという極めて個人的な考え。"
+    "ユミの趣味は俺が知っているもうひとりのオタク後輩とは違って他の女子生徒と似ているから、もしかしたら少女もこういうのがひそかに好きなんじゃないかという、極めて個人的な考え。"
 
 # game/chapter3.rpy:1895
 translate japanese chapter3_33eba29c:
 
     # "그리고 지금, 그 지극히 개인적인 생각은 검증의 시간을 얼마 남겨놓지 않고 있었다."
-    "そして今、その極めて個人的な考えは検証の時間をあまり残していなかった。"
+    "そして今、その極めて個人的な考えは検証の時を間近に控えていた。"
 
 # game/chapter3.rpy:1896
 translate japanese chapter3_474806ea:
 
     # "십여 분 정도가 흐르고, 테이블에는 주문했던 간식들이 놓여진다."
-    "十数分が流れ、テーブルには注文したおやつが置かれた。"
+    "十分ほどが過ぎ、テーブルに注文したお菓子が並べられた。"
 
 # game/chapter3.rpy:1898
 translate japanese chapter3_e4bef7c4:
@@ -4822,25 +4822,25 @@ translate japanese chapter3_e4bef7c4:
 translate japanese chapter3_ff2cc1e5:
 
     # 나 "“먹어보고 나서 무슨 맛인지 나한테도 알려줘.”"
-    나 "「食べてみてどんな味か俺にも教えてくれ」"
+    나 "「食べてみてどんな味か俺にも教えてくれ。」"
 
 # game/chapter3.rpy:1907
 translate japanese chapter3_ec6a790b:
 
     # "접시 위에 놓인 몽블랑을 빤히 바라보고 있던 소녀에게 그런 이야기를 건네고 난 뒤에서야, 소녀는 몽블랑 하나를 집어 들었다."
-    "皿の上に置かれたモンブランをじっと見つめていた少女にそんな話をした後でやっと、少女はモンブランを一つ手に取った。"
+    "皿の上に置かれたモンブランをじっと見つめていた少女にそう言ってから、ようやく少女はモンブランをひとつ手に取った。"
 
 # game/chapter3.rpy:1909
 translate japanese chapter3_5a19d105:
 
     # "나는 레몬티를 빨대로 한 모금 마시며, 소녀의 식후감을 기다렸다."
-    "俺はレモンティーをストローで一口飲んで、少女の食後感を待った。"
+    "俺はレモンティーをストローでひと口飲みながら、少女の感想を待った。"
 
 # game/chapter3.rpy:1911
 translate japanese chapter3_9686ff83:
 
     # 나 "“어때?”"
-    나 "「どう？」"
+    나 "「どうだ？」"
 
 # game/chapter3.rpy:1914
 translate japanese chapter3_d4ae888d:
@@ -4848,7 +4848,7 @@ translate japanese chapter3_d4ae888d:
     # voice "voices/gc85.ogg"
     # 소녀 "“…… 알고 싶지 않았던 맛이네요.”"
     voice "voices/gc85.ogg"
-    소녀 "「……知りたくなかった味です」"
+    소녀 "「……知りたくなかった味ですね。」"
 
 # game/chapter3.rpy:1916
 translate japanese chapter3_04f388ff:
@@ -4856,31 +4856,31 @@ translate japanese chapter3_04f388ff:
     # voice ""
     # 나 "“으응……?”"
     voice ""
-    나 "「うぅん……？」"
+    나 "「うん……？」"
 
 # game/chapter3.rpy:1922
 translate japanese chapter3_c4716e2a:
 
     # "몽블랑을 한 입 베어 문 소녀로부터 마치 반어법은 아닐까 하는 생각이 절로 들만한 감상이 들려왔다."
-    "モンブランを一口かじった少女からまるで皮肉ではないかと思わせるような感想が聞こえてきた。"
+    "モンブランをひと口かじった少女から、まるで反語ではないかと思わず考えてしまうような感想が聞こえてきた。"
 
 # game/chapter3.rpy:1923
 translate japanese chapter3_23d32262:
 
     # "하지만 소녀의 진지한 어투는 자신의 이야기가 반어법이 아님을 또렷이 알려주고 있었다."
-    "でも少女の真剣な口調は自分の話が皮肉ではないことをはっきりと教えてくれていた。"
+    "だが少女の真剣な口調は、自分の言葉が反語ではないことをはっきりと告げていた。"
 
 # game/chapter3.rpy:1924
 translate japanese chapter3_33a6b573:
 
     # "소녀는 자신의 감상을 진심으로 이야기한 것이었다."
-    "少女は自分の感想を本心で話したのだった。"
+    "少女は本心から感想を語ったのだ。"
 
 # game/chapter3.rpy:1925
 translate japanese chapter3_afda5393:
 
     # "소녀답다고 할 수 있는 표현으로 말이다."
-    "少女らしいと言える表現でだ。"
+    "少女らしいと言える表現で。"
 
 # game/chapter3.rpy:1932
 translate japanese chapter3_31aa80d5:
@@ -4888,7 +4888,7 @@ translate japanese chapter3_31aa80d5:
     # voice "voices/gc86.ogg"
     # 소녀 "“왠지 모르게 제가 살아있다고 착각하게끔 하는 맛이에요.”"
     voice "voices/gc86.ogg"
-    소녀 "「なんとなく私が生きていると錯覚させてくれるような味です」"
+    소녀 "「なんだか、自分が生きてるって錯覚させるような味です。」"
 
 # game/chapter3.rpy:1936
 translate japanese chapter3_faaf9731:
@@ -4896,7 +4896,7 @@ translate japanese chapter3_faaf9731:
     # voice ""
     # 나 "“여태껏 내가 만들어 줬던 음식은 죽어있다고 확신하게끔 하는 맛이었겠구만.”"
     voice ""
-    나 "「今まで俺が作ってやった食べ物は死んでいると確信させてくれるような味だったんだろうな」"
+    나 "「今まで俺が作ってやった飯は、死んでると確信させる味だったわけか。」"
 
 # game/chapter3.rpy:1947
 translate japanese chapter3_1142c5dc:
@@ -4904,7 +4904,7 @@ translate japanese chapter3_1142c5dc:
     # voice "voices/gc87.ogg"
     # 소녀 "“아, 아뇨. 그런 의미는 아니었…….”"
     voice "voices/gc87.ogg"
-    소녀 "「あ、いいえ。そんな意味ではなくて……」"
+    소녀 "「あ、いえ。そういう意味では……。」"
 
 # game/chapter3.rpy:1949
 translate japanese chapter3_c4319e92:
@@ -4912,43 +4912,43 @@ translate japanese chapter3_c4319e92:
     # voice ""
     # "당혹스러운 기색을 보이는 소녀."
     voice ""
-    "戸惑う様子を見せる少女。"
+    "戸惑いを見せる少女。"
 
 # game/chapter3.rpy:1956
 translate japanese chapter3_1f823ed7:
 
     # "평소에 보기 힘들었던 소녀의 당황하는 모습에, 나는 가벼운 웃음을 터뜨렸다."
-    "普段は見るのが難しかった少女の戸惑う姿に、俺は軽い笑いをこぼした。"
+    "普段はめったに見られない少女の慌てた様子に、俺は軽く吹き出した。"
 
 # game/chapter3.rpy:1958
 translate japanese chapter3_0eb888a4:
 
     # "누군가가 그런 내 모습을 보았다면, 나는 분명 혼자서 갑자기 웃어대는 이상한 사람이라 여겼겠지."
-    "誰かがそんな俺の姿を見たら、俺はきっと一人で突然笑っている変な人だと思われただろう。"
+    "誰かがそんな俺の姿を見ていたら、きっとひとりで突然笑い出すおかしな人だと思っただろう。"
 
 # game/chapter3.rpy:1959
 translate japanese chapter3_d435b2ba:
 
     # "소녀도 자신의 반응이 조금 우습게 느껴졌던 건지, 나를 따라 쿡쿡대며 웃음을 지었다."
-    "少女も自分の反応が少し滑稽に感じられたのか、俺につられてクッククと笑った。"
+    "少女も自分のリアクションが少し可笑しく思えたのか、俺につられてくすくすと笑った。"
 
 # game/chapter3.rpy:1962
 translate japanese chapter3_f91471ac:
 
     # "몽블랑의 단내가 덮인 소녀의 웃음소리는 덧없이 느껴질 정도로 달콤했다."
-    "モンブランの甘みがかぶさった少女の笑い声は儚く感じられるほど甘かった。"
+    "モンブランの甘い香りに包まれた少女の笑い声は、儚く感じるほど甘かった。"
 
 # game/chapter3.rpy:1965
 translate japanese chapter3_f228b222:
 
     # "얼마 지나지 않아 간식이 담겨있던 접시가 바닥을 보였다."
-    "しばらくするとおやつが入っていた皿が底を見せた。"
+    "ほどなくしてお菓子の載っていた皿が空になった。"
 
 # game/chapter3.rpy:1970
 translate japanese chapter3_5837b4c1:
 
     # 나 "“더 먹고 싶은 게 있으면 저기서 골라보는 게 어때?”"
-    나 "「もっと食べたいものがあったらあそこで選んでみるのはどうだ？」"
+    나 "「もっと食べたいものがあったら、あそこから選んでみたらどうだ？」"
 
 # game/chapter3.rpy:1972
 translate japanese chapter3_c6e6db3f:
@@ -4956,7 +4956,7 @@ translate japanese chapter3_c6e6db3f:
     # voice "voices/gc88.ogg"
     # 소녀 "“네……? 아, 아뇨. 그럴 필요까진…….”"
     voice "voices/gc88.ogg"
-    소녀 "「え……？あ、いいえ。そんな必要までは……」"
+    소녀 "「え……？ あ、いえ。そこまでは……。」"
 
 # game/chapter3.rpy:1975
 translate japanese chapter3_76b9cfed:
@@ -4964,13 +4964,13 @@ translate japanese chapter3_76b9cfed:
     # voice ""
     # 나 "“왜, 먹고 죽은 귀신이 때깔도 곱다잖아.”"
     voice ""
-    나 "「なんで、食べて死んだ鬼神も風格があるじゃないか」"
+    나 "「ほら、{cmt=japanese_3D}食べて死んだ幽霊は色つやがいい{/cmt}って言うだろ。」"
 
 # game/chapter3.rpy:1980
 translate japanese chapter3_c0dcbcb1:
 
     # "지금 쓰는 게 맞는 말인지는 잘 모르겠지만."
-    "今使っているのが正しい言葉なのかはよくわからないけど。"
+    "今使うのが正しいかどうかはよくわからないが。"
 
 # game/chapter3.rpy:1981
 translate japanese chapter3_ebdf1afc:
@@ -4982,7 +4982,7 @@ translate japanese chapter3_ebdf1afc:
 translate japanese chapter3_fc5851ac:
 
     # "나와 카운터 쪽을 번갈아 바라보며 머뭇대던 소녀가 몸을 일으켰다."
-    "俺とカウンターの方を交互に見て躊躇していた少女が体を起こした。"
+    "俺とカウンターの方を交互に見ながらためらっていた少女が、身を起こした。"
 
 # game/chapter3.rpy:1984
 translate japanese chapter3_385021c0:
@@ -4990,7 +4990,7 @@ translate japanese chapter3_385021c0:
     # voice "voices/gc89.ogg"
     # 소녀 "“그런가요? 그럼 딱 하나만 더…….”"
     voice "voices/gc89.ogg"
-    소녀 "「そうですか？じゃあちょっとだけもう一つ……」"
+    소녀 "「そうですか？ じゃあ、もうひとつだけ……。」"
 
 # game/chapter3.rpy:1987
 translate japanese chapter3_8c741b6a:
@@ -4998,373 +4998,373 @@ translate japanese chapter3_8c741b6a:
     # voice ""
     # "여태껏 가끔씩 볼 수 있었던 소녀의 머뭇거림과는 조금 다른 느낌의 표현이었다."
     voice ""
-    "今まで時々見ることができた少女のためらいとは少し違う感じの表情だった。"
+    "これまでたまに見かけた少女のためらいとは、少し違う印象の表現だった。"
 
 # game/chapter3.rpy:1990
 translate japanese chapter3_74ae1d93:
 
     # "여러가지 감정이 조합되어 만들어진 수많은 머뭇거림들 중, 행복에 가까운 감정들이 뒤섞여 만들어진 지금의 표현."
-    "いろいろな感情が組み合わさって作られたたくさんのためらいの中で、幸せに近い感情が混ざって作られた今の表情。"
+    "さまざまな感情が組み合わさって生まれた数多くのためらいの中で、幸せに近い感情が混ざり合って作り上げた今のこの表情。"
 
 # game/chapter3.rpy:1991
 translate japanese chapter3_fe9d82cd:
 
     # "소녀도 내심 그런 감정을 싫어하지는 않는 것 같아 보였다."
-    "少女も心の中ではそんな感情を嫌ってはいないように見えた。"
+    "少女も内心、そんな感情を嫌ってはいないようだった。"
 
-# game/chapter3.rpy:2019
+# game/chapter3.rpy:2020
 translate japanese chapter3_e99fa4aa:
 
     # "시간이 흘러 카페에 한 명씩 사람이 들어차기 시작하자, 우리는 예정했던 대로 자리에서 일어나 밖으로 향했다."
-    "時間が経ってカフェに一人ずつ人が入ってき始めると、私たちは予定通り席から立って外に向かった。"
+    "時間が経ちカフェに客がひとりまたひとりと増え始めると、俺たちは予定通り席を立って外へ向かった。"
 
-# game/chapter3.rpy:2020
+# game/chapter3.rpy:2021
 translate japanese chapter3_6a89e092:
 
     # "카페를 나서는 나의 등 뒤로 점원의 따가운 시선이 느껴졌다."
-    "カフェを出る俺の背中に店員の鋭い視線が感じられた。"
+    "カフェを出る俺の背中に、店員の痛い視線が感じられた。"
 
-# game/chapter3.rpy:2021
+# game/chapter3.rpy:2022
 translate japanese chapter3_47ee891f:
 
     # "분명 소녀와 이야기를 나누는 나의 모습이 중얼중얼 혼잣말을 늘어놓는 이상한 사람처럼 보였던 거겠지."
-    "きっと少女と話を交わす俺の姿がブツブツ独り言を言っている変な人みたいに見えたんだろう。"
+    "少女と話している俺の姿が、ぶつぶつ独り言を並べ立てるおかしな人に見えていたに違いない。"
 
-# game/chapter3.rpy:2025
+# game/chapter3.rpy:2026
 translate japanese chapter3_cb2eb22b:
 
     # 나 "“하굣길이라 그런지 사람이 많네.”"
-    나 "「下校時間だからか人が多いな」"
+    나 "「放課後だからか、人が多いな。」"
 
-# game/chapter3.rpy:2029
+# game/chapter3.rpy:2030
 translate japanese chapter3_bed6176c:
 
     # "사람을 피해 카페 밖으로 나온 거라고 하기엔, 거리에도 제법 많은 사람들이 걸어다니고 있었다."
-    "人を避けてカフェの外に出たと言っても、道にも結構な人々が歩いていた。"
+    "人を避けてカフェの外に出たとは言い難いほど、通りにもかなり多くの人が歩いていた。"
 
-# game/chapter3.rpy:2030
+# game/chapter3.rpy:2031
 translate japanese chapter3_48718c50:
 
     # "인파에 섞여 길을 걸으며, 소녀는 이리저리 고개를 돌려 자신을 스쳐 지나가는 시선을 피했다."
-    "人混みに紛れて道を歩きながら、少女はあちこち頭を回して自分に触れて通り過ぎる視線を避けた。"
+    "人波に紛れて道を歩きながら、少女はあちこちに首を巡らせ、自分をかすめていく視線を避けた。"
 
-# game/chapter3.rpy:2035
+# game/chapter3.rpy:2036
 translate japanese chapter3_f1909ea3:
 
     # "그러다 잠시, 이곳저곳 타인의 시선이 닿지 않는 장소를 향하던 소녀의 눈길이 어느 한 자리에 머무른다."
-    "そうしてしばらく、あちこち他人の視線が届かない場所に向かっていた少女の目線がどこか一つの場所に止まる。"
+    "するとふと、あちこちの他人の視線が届かない場所を求めていた少女の目が、ある一点に留まる。"
 
-# game/chapter3.rpy:2036
+# game/chapter3.rpy:2037
 translate japanese chapter3_09ef7d5a:
 
     # "잠시 다른 쪽으로 시선이 향하곤 했지만, 네댓 발걸음을 떼는 동안 소녀의 시선은 대부분 한 곳에 머물러 있었다."
-    "しばらく他の方に目線が向いていたが、歩きながら少女の目線はほとんど一つの場所に留まっていた。"
+    "一瞬別の方を向いたりもしたが、四、五歩の間に少女の視線はほとんどそこに留まっていた。"
 
-# game/chapter3.rpy:2040
+# game/chapter3.rpy:2041
 translate japanese chapter3_2d037781:
 
     # "소녀를 따라 그곳을 바라보았다."
-    "少女についてその場所を見た。"
+    "少女に倣って、そこを見た。"
 
-# game/chapter3.rpy:2050
+# game/chapter3.rpy:2051
 translate japanese chapter3_a8119b2c:
 
     # "골목길로 접어드는 자리에 위치한 자그마한 게임 센터."
-    "路地裏に入るところにある小さなゲームセンター。"
+    "路地に入る角に位置する小さなゲームセンター。"
 
-# game/chapter3.rpy:2051
+# game/chapter3.rpy:2052
 translate japanese chapter3_88711c89:
 
     # "소녀에게 이런 취미가 있다는 생각은 들지 않았다."
-    "少女にこんな趣味があるとは思わなかった。"
+    "少女にこんな趣味があるとは思えなかった。"
 
-# game/chapter3.rpy:2060
+# game/chapter3.rpy:2061
 translate japanese chapter3_bdd8624a:
 
     # "몇 걸음 더 게임 센터 쪽으로 가까워지자, 나는 그제야 소녀가 바라보고 있던 것이 무엇이었는지 알아챌 수 있었다."
-    "もう少しゲームセンターの方に近づくと、俺はやっと少女が見ていたものが何だったのかわかった。"
+    "数歩ゲームセンターの方に近づくと、俺はようやく少女が見ていたものが何だったのかに気づいた。"
 
-# game/chapter3.rpy:2065
+# game/chapter3.rpy:2066
 translate japanese chapter3_7ca8c9d9:
 
     # "나는 소녀의 눈길이 닿은 그곳에 발걸음을 우뚝 멈춰 세웠다."
-    "俺は少女の目線が届いたところに足をぴたりと止めた。"
+    "俺は少女の視線の先にあるその場所で、足をぴたりと止めた。"
 
-# game/chapter3.rpy:2066
+# game/chapter3.rpy:2067
 translate japanese chapter3_b1fe70a2:
 
     # 나 "“저 인형, 갖고 싶은 거야?”"
-    나 "「あの人形、欲しいのか？」"
+    나 "「あのぬいぐるみ、欲しいのか？」"
 
-# game/chapter3.rpy:2072
+# game/chapter3.rpy:2073
 translate japanese chapter3_ce768069:
 
     # voice "voices/gc90.ogg"
     # 소녀 "“아, 아뇨. 딱히 그런 건…….”"
     voice "voices/gc90.ogg"
-    소녀 "「あ、いいえ。別にそんなの……」"
+    소녀 "「あ、いえ。別にそういうわけじゃ……。」"
 
-# game/chapter3.rpy:2081
+# game/chapter3.rpy:2082
 translate japanese chapter3_4615b173:
 
     # voice ""
     # "나의 물음에 소녀는 머쓱한 티를 잔뜩 내며 대답을 건넸다."
     voice ""
-    "俺の問いに少女は気まずそうな様子で答えた。"
+    "俺の問いに少女はいかにもばつの悪そうな様子で答えた。"
 
-# game/chapter3.rpy:2083
+# game/chapter3.rpy:2084
 translate japanese chapter3_88183743:
 
     # "소녀에게 있어 타인의 눈동자란 운명의 창이듯, 내게 있어 소녀의 눈동자는 감정의 창이다."
-    "少女にとって他人の瞳は運命の窓のようで、俺にとって少女の瞳は感情の窓だ。"
+    "少女にとって他人の瞳が運命の窓であるように、俺にとって少女の瞳は感情の窓だ。"
 
-# game/chapter3.rpy:2084
+# game/chapter3.rpy:2085
 translate japanese chapter3_aded1981:
 
     # "소녀도 이를 알고 있었는지, 고개를 돌려 나의 눈길을 피했다."
-    "少女もこれを知っていたのか、頭を回して俺の視線を避けた。"
+    "少女もそれをわかっていたのか、顔をそむけて俺の視線を避けた。"
 
-# game/chapter3.rpy:2088
+# game/chapter3.rpy:2089
 translate japanese chapter3_1bcefe5e:
 
     # "하지만 이내 소녀의 시선은 한 바퀴를 돌아, 원래의 자리로 돌아온다."
-    "でもすぐに少女の目線は一周回って、元の場所に戻る。"
+    "しかしすぐに少女の視線はぐるりとひと回りして、元の場所に戻ってくる。"
 
-# game/chapter3.rpy:2089
+# game/chapter3.rpy:2090
 translate japanese chapter3_4c17c67a:
 
     # "소녀가 바라보고 있던 건 각양각색의 인형이 들어있는 인형 뽑기 기계였다."
-    "少女が見ていたのは色とりどりの人形が入っている人形つかみ機だった。"
+    "少女が見つめていたのは、色とりどりのぬいぐるみが入ったクレーンゲームだった。"
 
-# game/chapter3.rpy:2092
+# game/chapter3.rpy:2093
 translate japanese chapter3_14127ed2:
 
     # "여러모로 중학생 답지 않은 면모를 보이는 소녀였지만, 어쩌면 그런 부분 하나하나를 모아 평균을 내어 본다면 정확히 중학생 정도로 맞아 떨어질지도 모르겠다는 생각이 들었다."
-    "いろいろと中学生らしくない面を見せる少女だったが、もしかしたらそんな部分を一つ一つ集めて平均を出してみたらちょうど中学生くらいに合ってしまうのかもしれないと思った。"
+    "何かと中学生らしくない一面を見せる少女だったが、もしかしたらそういうひとつひとつを集めて平均を取ってみれば、ぴったり中学生くらいに当てはまるのかもしれないと思った。"
 
-# game/chapter3.rpy:2100
+# game/chapter3.rpy:2101
 translate japanese ecg4_label_a919978b:
 
     # 나 "“우리, 조금만 더 시간을 낭비하는 건 어때?”"
-    나 "「僕たち、もう少し時間を無駄にするのはどうだ？」"
+    나 "「もうちょっとだけ時間を潰そうぜ？」"
 
-# game/chapter3.rpy:2104
+# game/chapter3.rpy:2105
 translate japanese ecg4_label_cd932e82:
 
     # voice "voices/gc91.ogg"
     # 소녀 "“그래도 괜찮겠어요?”"
     voice "voices/gc91.ogg"
-    소녀 "「それでも大丈夫ですか？」"
+    소녀 "「いいんですか？」"
 
-# game/chapter3.rpy:2106
+# game/chapter3.rpy:2107
 translate japanese ecg4_label_8afa37c5:
 
     # voice ""
     # 나 "“어차피 어둑어둑해지기 전까지 이런 외부인 티 나는 차림으로 학교에 들어가면 경비 아저씨한테 곧장 의심받을 테고.”"
     voice ""
-    나 "「どうせ暗くなる前にこんな外部人気がする格好で学校に入ったら警備おじさんにすぐに疑われるだろうし」"
+    나 "「どうせ薄暗くなる前にこんな部外者丸出しの格好で学校に入ったら、警備のおじさんにすぐ怪しまれるだろうし。」"
 
-# game/chapter3.rpy:2109
+# game/chapter3.rpy:2110
 translate japanese ecg4_label_7fda96e8:
 
     # voice "voices/gc92.ogg"
     # 소녀 "“그렇다면…… 어쩔 수 없죠.”"
     voice "voices/gc92.ogg"
-    소녀 "「それなら……仕方ないですね」"
+    소녀 "「それなら……仕方ないですね。」"
 
-# game/chapter3.rpy:2115
+# game/chapter3.rpy:2116
 translate japanese ecg4_label_03d1ad87:
 
     # voice ""
     # "나는 소녀를 이끌고 인형 뽑기 기계 앞으로 향했다."
     voice ""
-    "俺は少女を引っ張って人形つかみ機の前に向かった。"
+    "俺は少女を連れてクレーンゲームの前に向かった。"
 
-# game/chapter3.rpy:2117
+# game/chapter3.rpy:2118
 translate japanese ecg4_label_f9f17873:
 
     # "정말 어쩔 수 없어서 그러는 거라며, 소녀는 순순히 나의 뒤를 따랐다."
-    "仕方なくそうしているんだと言わんばかりに、少女は素直に俺の後をついてきた。"
+    "本当に仕方ないからと言いながら、少女は素直に俺のあとについてきた。"
 
-# game/chapter3.rpy:2118
+# game/chapter3.rpy:2119
 translate japanese ecg4_label_24a7bf6f:
 
     # "사람은 그리 많지 않았다."
-    "人はあまり多くなかった。"
+    "人はそれほど多くなかった。"
 
-# game/chapter3.rpy:2119
+# game/chapter3.rpy:2120
 translate japanese ecg4_label_36395667:
 
     # "오히려 한적하다는 편이 더 정확하겠지."
-    "むしろひっそりしている方がもっと正確だろう。"
+    "むしろ閑散としていると言った方が正確だろう。"
 
-# game/chapter3.rpy:2121
+# game/chapter3.rpy:2122
 translate japanese ecg4_label_fe5fc6c5:
 
     # "인형 뽑기 기계 앞에 선 나는 소녀에게 꽤나 자신만만한 목소리로 말했다."
-    "人形つかみ機の前に立った俺は少女にかなり自信満々な声で言った。"
+    "クレーンゲームの前に立った俺は、少女にかなり自信ありげな声で言った。"
 
-# game/chapter3.rpy:2124
+# game/chapter3.rpy:2125
 translate japanese ecg4_label_767bb672:
 
     # 나 "“뭘로 뽑아줄까?”"
-    나 "「何をつかんでやろうか？」"
+    나 "「何を取ってほしい？」"
 
-# game/chapter3.rpy:2125
+# game/chapter3.rpy:2126
 translate japanese ecg4_label_82e431b9:
 
     # voice "voices/gc93.ogg"
     # 소녀 "“…… 저기, 아래쪽에 보이는 곰인형으로 부탁해요.”"
     voice "voices/gc93.ogg"
-    소녀 "「……あの、下の方に見えるクマの人形をお願いします」"
+    소녀 "「……あの、下の方に見えるくまのぬいぐるみでお願いします。」"
 
-# game/chapter3.rpy:2127
+# game/chapter3.rpy:2128
 translate japanese ecg4_label_8556873c:
 
     # voice ""
     # "소녀가 가리킨 건 인형 뽑기 기계 아래편에 놓여있는 흰색 곰인형이었다."
     voice ""
-    "少女が指したのは人形つかみ機の下に置かれている白いクマの人形だった。"
+    "少女が指差したのは、クレーンゲームの下の方に置かれた白いくまのぬいぐるみだった。"
 
-# game/chapter3.rpy:2141
+# game/chapter3.rpy:2142
 translate japanese ecg4_label_65d196bb:
 
     # 나 "“우왓, 아까워.”"
-    나 "「うわぁ、もったいない」"
+    나 "「うわっ、惜しい。」"
 
-# game/chapter3.rpy:2148
+# game/chapter3.rpy:2149
 translate japanese ecg4_label_fa2ef543:
 
     # 소녀 "“…….”"
-    소녀 "「……」"
+    소녀 "「……。」"
 
-# game/chapter3.rpy:2154
+# game/chapter3.rpy:2155
 translate japanese ecg4_label_10195403:
 
     # 나 "“아아아…… 뭐 저기서 떨어져버리냐.”"
-    나 "「あああ……なんでそこで落ちちゃうんだよ」"
+    나 "「ああ……なんであそこで落ちるんだよ。」"
 
-# game/chapter3.rpy:2155
+# game/chapter3.rpy:2156
 translate japanese ecg4_label_30a6a72b:
 
     # 소녀 "“………….”"
-    소녀 "“…………。”"
+    소녀 "「………………。」"
 
-# game/chapter3.rpy:2157
+# game/chapter3.rpy:2158
 translate japanese ecg4_label_70044eef:
 
     # "금방 뽑아낼 수 있을 줄 알았던 곰인형은 번번이 집게손 끝에서 아슬아슬하게 떨어져버렸다."
-    "すぐにつかみ出せると思っていたクマの人形は何度もクローの先端からギリギリで落ちてしまった。"
+    "すぐに取れると思っていたくまのぬいぐるみは、そのたびにクレーンの爪先から惜しくも落ちてしまった。"
 
-# game/chapter3.rpy:2158
+# game/chapter3.rpy:2159
 translate japanese ecg4_label_a8d02254:
 
     # "처음엔 단순히 시간을 때우기 위해 인형 뽑기 기계로 코인을 넣었던 거였지만, 이젠 자존심 문제에 가까웠다."
-    "最初は単に時間を潰すために人形つかみ機にコインを入れたのだが、今では自尊心の問題に近かった。"
+    "最初は単に時間つぶしのためにクレーンゲームにコインを入れただけだったが、もはやプライドの問題に近かった。"
 
-# game/chapter3.rpy:2159
+# game/chapter3.rpy:2160
 translate japanese ecg4_label_ac6d29a5:
 
     # "나의 옆에 선 소녀는 인형이 집게손에서 떨어질 때마다 안타까운 반응을 보여주고 있었다."
-    "俺の隣に立っている少女は人形がクローから落ちるたびに残念そうな反応を見せていた。"
+    "俺の隣に立つ少女は、ぬいぐるみがクレーンから落ちるたびに悔しそうなリアクションを見せてくれていた。"
 
-# game/chapter3.rpy:2160
+# game/chapter3.rpy:2161
 translate japanese ecg4_label_274df1b6:
 
     # "물론 얼마 정도 시간이 지나고 나자 안타까움이 묻어나야 할 반응에서는 안쓰러움이 그 자리를 대신했지만 말이다."
-    "もちろん少しの時間が経ってからは残念さが出るべき反応からは哀れさがその場を代わったけどね。"
+    "もっとも、しばらく経つとその悔しさが滲むべきリアクションからは、気の毒さがその座を奪っていたが。"
 
-# game/chapter3.rpy:2162
+# game/chapter3.rpy:2163
 translate japanese ecg4_label_fb24318b:
 
     # "결국 학교에 도착한 건 어슴푸레한 어둠이 발끝을 감싸기 시작했을 무렵이었다."
-    "結局学校に着いたのはかすかな暗闇が足元を包み始めたころだった。"
+    "結局、学校に着いたのは薄暗い闇が足下を包み始めた頃だった。"
 
-# game/chapter3.rpy:2170
+# game/chapter3.rpy:2171
 translate japanese ecg4_label_768ec48a:
 
     # voice "voices/gc94.ogg"
     # 소녀 "“인형 하나 뽑는다고 얼마나 쓴 거예요?”"
     voice "voices/gc94.ogg"
-    소녀 "「人形一つつかむのにどれくらい使ったんですか？」"
+    소녀 "「ぬいぐるみひとつ取るのにいくら使ったんですか？」"
 
-# game/chapter3.rpy:2175
+# game/chapter3.rpy:2176
 translate japanese ecg4_label_dca54884:
 
     # voice ""
     # 나 "“걱정 마. 그리 많이는 안 썼으니까.”"
     voice ""
-    나 "「心配するな。そんなに多くは使ってないから」"
+    나 "「心配するな。そんなに使ってないから。」"
 
-# game/chapter3.rpy:2184
+# game/chapter3.rpy:2185
 translate japanese ecg4_label_f7aacce7:
 
     # "소녀의 손에는 그녀가 원했던 새하얀 곰인형이 쥐어져 있었지만, 상처뿐인 영광이라는 말이 딱 어울려 보였다."
-    "少女の手には彼女が欲しかった真っ白なクマの人形が握られていたが、傷だらけの栄光という言葉がぴったり似合って見えた。"
+    "少女の手には彼女が望んだ真っ白なくまのぬいぐるみが握られていたが、傷だらけの栄光という言葉がまさにふさわしく見えた。"
 
-# game/chapter3.rpy:2185
+# game/chapter3.rpy:2186
 translate japanese ecg4_label_7ba48171:
 
     # "철없는 동생을 나무라는 듯한 소녀의 말투에 나는 머쓱한 웃음으로 일관하며 교문 근처를 서성였다."
-    "子供っぽい弟を叱るような少女の口調に俺は気まずい笑みで一貫して学校の門の近くをうろついた。"
+    "分別のない弟を叱るような少女の口調に、俺はばつの悪い笑いを浮かべたまま校門の近くをうろついた。"
 
-# game/chapter3.rpy:2190
+# game/chapter3.rpy:2191
 translate japanese ecg4_label_c62f1b92:
 
     # "최대한 경비의 감시를 받지 않으며 교내로 들어갈 수 있는 최적의 장소가 어디일까."
-    "できるだけ警備の監視を受けずに校内に入れる最適な場所はどこだろうか。"
+    "できるだけ警備の目を避けて校内に入れる最適な場所はどこだろう。"
 
-# game/chapter3.rpy:2191
+# game/chapter3.rpy:2192
 translate japanese ecg4_label_735c34a6:
 
     # "해답은 의외로 금세 찾을 수 있었다."
     "答えは意外とすぐに見つかった。"
 
-# game/chapter3.rpy:2194
+# game/chapter3.rpy:2195
 translate japanese ecg4_label_6f0bd62c:
 
     # 나 "“여기, 넘어갈 수 있겠어?”"
-    나 "「ここ、飛び越えられるか？」"
+    나 "「ここ、越えられそうか？」"
 
-# game/chapter3.rpy:2196
+# game/chapter3.rpy:2197
 translate japanese ecg4_label_3ecc6765:
 
     # "주차장과 연결된 학교 건물 뒤편의 담자락을 시범 삼아 넘어 보이며, 나는 소녀에게 물었다."
-    "駐車場と繋がった学校の建物裏側の塀を見本に飛び越えて見せて、俺は少女に聞いた。"
+    "駐車場とつながった校舎裏手のブロック塀を試しに越えて見せながら、俺は少女に聞いた。"
 
-# game/chapter3.rpy:2203
+# game/chapter3.rpy:2204
 translate japanese ecg4_label_d650549d:
 
     # voice "voices/gc95.ogg"
     # 소녀 "“불량학생이네요. 담 넘는 거, 엄청 능숙해 보이는걸요.”"
     voice "voices/gc95.ogg"
-    소녀 "「不良生徒ですね。塀を越えるの、すごく慣れて見えますよ」"
+    소녀 "「不良ですね。塀を越えるの、すごく慣れてるように見えますよ。」"
 
-# game/chapter3.rpy:2205
+# game/chapter3.rpy:2206
 translate japanese ecg4_label_c32ef28d:
 
     # voice ""
     # 나 "“그러는 너도, 능숙해 보이는데?”"
     voice ""
-    나 "「そう言う君も、慣れて見えるけど？」"
+    나 "「そう言うお前も、手慣れた感じだけど？」"
 
-# game/chapter3.rpy:2208
+# game/chapter3.rpy:2209
 translate japanese ecg4_label_dafe37f6:
 
     # voice "voices/gc96.ogg"
     # 소녀 "“기분 탓일 뿐이에요.”"
     voice "voices/gc96.ogg"
-    소녀 "「気のせいですよ」"
+    소녀 "「気のせいですよ。」"
 
-# game/chapter3.rpy:2214
+# game/chapter3.rpy:2215
 translate japanese ecg4_label_c314ef8f:
 
     # voice ""
     # "그런 이야기를 하며, 소녀는 자신의 눈높이 정도 되는 담장에서 폴짝 뛰어내렸다."
     voice ""
-    "そんな話をしながら、少女は自分の目の高さくらいになる塀からぴょんと飛び降りた。"
+    "そう言いながら、少女は自分の目の高さほどある塀からぴょんと飛び降りた。"
 
-# game/chapter3.rpy:2216
+# game/chapter3.rpy:2217
 translate japanese ecg4_label_e35c0dec:
 
     # voice "voices/gc97.ogg"
@@ -5372,409 +5372,409 @@ translate japanese ecg4_label_e35c0dec:
     voice "voices/gc97.ogg"
     소녀 "「これからどこに行けばいいですか？」"
 
-# game/chapter3.rpy:2218
+# game/chapter3.rpy:2219
 translate japanese ecg4_label_1654a8b0:
 
     # voice ""
     # 나 "“옥상 쪽으로 갈 거야.”"
     voice ""
-    나 "「屋上の方に行くんだ」"
+    나 "「屋上の方に行くつもりだ。」"
 
-# game/chapter3.rpy:2221
+# game/chapter3.rpy:2222
 translate japanese ecg4_label_1def844a:
 
     # voice "voices/gc98.ogg"
     # 소녀 "“아 맞다. 학교 옥상에서 뛰어내렸다고 했죠.”"
     voice "voices/gc98.ogg"
-    소녀 "「あ、そうだった。学校の屋上から飛び降りたんだって」"
+    소녀 "「ああ、そうでした. 学校の屋上から飛び降りたって言ってましたね。」"
 
-# game/chapter3.rpy:2224
+# game/chapter3.rpy:2225
 translate japanese ecg4_label_c90f1eb4:
 
     # voice ""
     # "낮의 학교에서 들려오던 시끌벅적함은 어디로 가고, 밤을 맞이하는 학교에 남아있는 건 오직 고요함뿐이었다."
     voice ""
-    "昼間の学校から聞こえてきたざわめきはどこに行ってしまったのか、夜を迎える学校に残っているのはただ静けさだけだった。"
+    "昼間の喧騒はどこへやら、夜を迎える学校に残されているのは静寂だけだった。"
 
-# game/chapter3.rpy:2228
+# game/chapter3.rpy:2229
 translate japanese ecg4_label_2e1980f0:
 
     # "나는 발걸음 소리를 최대한 죽여가며 소녀와 함께 학교 옥상으로 향했다."
-    "俺は足音をできるだけ消しながら少女と一緒に学校の屋上に向かった。"
+    "俺は足音をできるだけ殺しながら、少女と一緒に学校の屋上を目指した。"
 
-# game/chapter3.rpy:2229
+# game/chapter3.rpy:2230
 translate japanese ecg4_label_b4173ba2:
 
     # "어둠이 슬슬 깔리기 시작하는 복도의 분위기는 마치 게임 속으로 들어온 듯한 느낌이기도 했다."
-    "暗くなり始める廊下の雰囲気はまるでゲームの中に入ったような感じでもあった。"
+    "暗闇が忍び寄り始めた廊下の雰囲気は、まるでゲームの中に入り込んだかのようだった。"
 
-# game/chapter3.rpy:2231
+# game/chapter3.rpy:2232
 translate japanese ecg4_label_67125da6:
 
     # "계단을 걸어 올라가며 주변을 슬쩍 기웃거려 보았지만, 학교 건물 안에 있는 사람은 오직 나밖에 없는 모양이었다."
-    "階段を歩いて上がりながら周りをちらりと見回してみたが、学校の建物の中にいる人は俺しかいないようだった。"
+    "階段を上りながら周りをそっと窺ったが、校舎の中にいるのは俺だけのようだった。"
 
-# game/chapter3.rpy:2233
+# game/chapter3.rpy:2234
 translate japanese ecg4_label_34fc98ae:
 
     # "다들 이미 퇴근을 한 뒤인지, 교무실에서도 아무런 인기척이 느껴지지 않았으니 말이다."
-    "みんなもう退勤した後なのか、教務室からも何の気配も感じられなかったからだ。"
+    "みんなすでに帰ったあとなのか、職員室からも人の気配はまったく感じられなかったから。"
 
-# game/chapter3.rpy:2240
+# game/chapter3.rpy:2241
 translate japanese ecg4_label_5d953538:
 
     # "계단을 오르는 발걸음 소리가 옥상으로 향하는 마지막 길목 앞에서 끊어졌다."
-    "階段を上る足音が屋上へ向かう最後の曲がり角の前で途切れた。"
+    "階段を上る足音が、屋上への最後の通路の手前で途切れた。"
 
-# game/chapter3.rpy:2241
+# game/chapter3.rpy:2242
 translate japanese ecg4_label_a1731941:
 
     # "옥상으로 이어지는 문 앞에 선 나는, 당혹스러운 기색을 내비치는 수밖에 없었다."
-    "屋上へ続く扉の前に立った俺は、困惑した表情を隠せなかった。"
+    "屋上へ続くドアの前に立った俺は、困惑を隠せなかった。"
 
-# game/chapter3.rpy:2247
+# game/chapter3.rpy:2248
 translate japanese ecg4_label_2c671f5a:
 
     # 나 "“닫혀있네.”"
-    나 "「閉まってるね」"
+    나 "「閉まってるな。」"
 
-# game/chapter3.rpy:2249
+# game/chapter3.rpy:2250
 translate japanese ecg4_label_173d865a:
 
     # voice "voices/gc99.ogg"
     # 소녀 "“그런 일도 있었으니, 닫혀있을 만도 하지 않을까요?”"
     voice "voices/gc99.ogg"
-    소녀 "「あんなこともあったし、閉まってるのも仕方ないでしょう？」"
+    소녀 "「あんなことがあったんですから、閉められていてもおかしくないんじゃないですか？」"
 
-# game/chapter3.rpy:2259
+# game/chapter3.rpy:2260
 translate japanese ecg4_label_767667b8:
 
     # voice ""
     # 나 "“하긴, 그렇겠다.”"
     voice ""
-    나 "「そうだね」"
+    나 "「まあ、そうだろうな。」"
 
-# game/chapter3.rpy:2261
+# game/chapter3.rpy:2262
 translate japanese ecg4_label_397030c0:
 
     # "문은 굳게 잠겨 있었다."
-    "扉はしっかりと施錠されていた。"
+    "ドアは固く施錠されていた。"
 
-# game/chapter3.rpy:2267
+# game/chapter3.rpy:2268
 translate japanese ecg4_label_cf5904e8:
 
     # "손잡이에 손을 갖다 대자 묻어있던 먼지 조각이 만져졌다."
-    "取っ手に手を触れると、付着していた埃の欠片が感じられた。"
+    "取っ手に手を当てると、こびりついた埃の粒が指に触れた。"
 
-# game/chapter3.rpy:2268
+# game/chapter3.rpy:2269
 translate japanese ecg4_label_4ba47ac1:
 
     # "그런 일이 있고 난 뒤로부터 이 정도의 시간이 흘렀다는 걸 알려주는 흔적이었다."
-    "あんなことがあってからこのくらいの時間が経ったということを教えてくれる痕跡だった。"
+    "例の出来事から、それだけの時間が経ったことを物語る痕跡だった。"
 
-# game/chapter3.rpy:2274
+# game/chapter3.rpy:2275
 translate japanese ecg4_label_370a17d6:
 
     # voice "voices/gc100.ogg"
     # 소녀 "“그럼 이제 어떡하죠?”"
     voice "voices/gc100.ogg"
-    소녀 "「じゃあ、今どうするんですか？」"
+    소녀 "「それで、どうしますか？」"
 
-# game/chapter3.rpy:2281
+# game/chapter3.rpy:2282
 translate japanese ecg4_label_de91b5a2:
 
     # voice ""
     # "‘어쩔 수 없네요’라고 말하는 듯한 소녀의 눈길이 내게 닿는다."
     voice ""
-    "'仕方ないね'と言っているような少女の視線が私に触れる。"
+    "「仕方ないですね」と言いたげな少女の視線が俺に向けられる。"
 
-# game/chapter3.rpy:2286
+# game/chapter3.rpy:2287
 translate japanese ecg4_label_96269440:
 
     # "어쩔 수 없네. 돌아가야겠다."
-    "仕方ないね。引き返そう。"
+    "仕方ないな。帰るか。"
 
-# game/chapter3.rpy:2287
+# game/chapter3.rpy:2288
 translate japanese ecg4_label_14e2faf9:
 
     # "라고 대답하며 발걸음을 돌리는 것이 일반적인 나의 반응이었겠지만."
-    "と答えて足を引き返すのが普段の俺の反応だったろうが。"
+    "と答えて踵を返すのが、普通の俺の反応だっただろうが。"
 
-# game/chapter3.rpy:2292
+# game/chapter3.rpy:2293
 translate japanese ecg4_label_d54e81d8:
 
     # 나 "“교무실에 열쇠함이 있지 않을까?”"
-    나 "「教務室に鍵箱があるんじゃないか？」"
+    나 "「職員室に鍵があるんじゃないか？」"
 
-# game/chapter3.rpy:2294
+# game/chapter3.rpy:2295
 translate japanese ecg4_label_c986ce25:
 
     # voice "voices/gc101.ogg"
     # 소녀 "“…… 나쁜 짓은 안 한다지 않았나요?”"
     voice "voices/gc101.ogg"
-    소녀 "「……悪いことはしないって言わなかった？」"
+    소녀 "「……悪いことはしないって言ってませんでしたか？」"
 
-# game/chapter3.rpy:2296
+# game/chapter3.rpy:2297
 translate japanese ecg4_label_a11c0ab5:
 
     # voice ""
     # 나 "“으음…… 내가 그랬었나.”"
     voice ""
-    나 "「うーん……俺がそう言ったかな」"
+    나 "「うーん……俺そんなこと言ったっけ。」"
 
-# game/chapter3.rpy:2301
+# game/chapter3.rpy:2302
 translate japanese ecg4_label_ff7996c1:
 
     # "가끔, 그런 날이 있다."
-    "時々、そんな日がある。"
+    "たまに、こういう日がある。"
 
-# game/chapter3.rpy:2302
+# game/chapter3.rpy:2303
 translate japanese ecg4_label_b8392046:
 
     # "이렇게 평소와는 엇나가고 싶은 날이."
-    "こうして普段とは違ってみたいな日が。"
+    "こうして、いつもと違う方向に外れてみたくなる日が。"
 
-# game/chapter3.rpy:2306
+# game/chapter3.rpy:2307
 translate japanese ecg4_label_12afdcae:
 
     # 나 "“그래서 말인데. 옥상 열쇠, 네가 찾아와 줄 수 있겠어?”"
-    나 "「だから言うんだけど。屋上の鍵、君が探してきてくれないか？」"
+    나 "「そんなわけで。屋上の鍵、お前探してきてくれないか？」"
 
-# game/chapter3.rpy:2307
+# game/chapter3.rpy:2308
 translate japanese ecg4_label_260a75d9:
 
     # voice "voices/gc102.ogg"
     # 소녀 "“알겠어요.”"
     voice "voices/gc102.ogg"
-    소녀 "「わかりました」"
+    소녀 "「わかりました。」"
 
-# game/chapter3.rpy:2309
+# game/chapter3.rpy:2310
 translate japanese ecg4_label_1e82e49e:
 
     # voice ""
     # "소녀는 난간 아래쪽으로 고개를 내밀어 주변을 살피더니, 이내 교무실로 향했다."
     voice ""
-    "少女は欄干の下側に顔を出して周囲を見回した後、すぐに教務室へ向かった。"
+    "少女は手すりの下から首を突き出して周りを確かめてから、職員室に向かった。"
 
-# game/chapter3.rpy:2314
+# game/chapter3.rpy:2315
 translate japanese ecg4_label_fdb0f92c:
 
     # "소녀가 아래층으로 내려가 열쇠를 찾는 동안, 나는 쥐 죽은 듯 조용히 시간을 보내는 것밖에는 달리 할 일이 없었다."
-    "少女が下の階に降りて鍵を探す間、俺はネズミが死んだように静かに時間を過ごすしかなかった。"
+    "少女が下の階に降りて鍵を探している間、俺は息を潜めてじっと時間を過ごす以外にやることがなかった。"
 
-# game/chapter3.rpy:2316
+# game/chapter3.rpy:2317
 translate japanese ecg4_label_ca08c5d5:
 
     # "조용했다."
     "静かだった。"
 
-# game/chapter3.rpy:2317
+# game/chapter3.rpy:2318
 translate japanese ecg4_label_4b530797:
 
     # "내뱉는 숨소리, 침 삼키는 소리, 그리고 내 안의 누군가가 나를 부르는 소리가 또렷이 들려오기 시작했다."
-    "吐き出す息音、唾を飲み込む音、そして私の中の誰かが私を呼ぶ音がはっきりと聞こえてきた。"
+    "吐く息の音、唾を飲む音、そして俺の中の誰かが俺を呼ぶ声が、はっきりと聞こえ始めた。"
 
-# game/chapter3.rpy:2324
+# game/chapter3.rpy:2325
 translate japanese ecg4_label_aad84167:
 
     # "오랜만이었다."
     "久しぶりだった。"
 
-# game/chapter3.rpy:2325
+# game/chapter3.rpy:2326
 translate japanese ecg4_label_d33d3df0:
 
     # "밤의 학교에서 이런 소리를 듣는 것은."
     "夜の学校でこんな音を聞くのは。"
 
-# game/chapter3.rpy:2331
+# game/chapter3.rpy:2332
 translate japanese ecg4_label_25ff12c6:
 
     # "문 앞에 서서는 아무것도 하지 않은 채 몇 분 정도를 흘려 보냈던 걸까."
-    "扉の前に立って何もしないまま数分ほどを過ごしたのだろうか。"
+    "ドアの前に立ったまま何もせず、何分ほど過ごしただろうか。"
 
-# game/chapter3.rpy:2333
+# game/chapter3.rpy:2334
 translate japanese ecg4_label_0d6bdb1c:
 
     # "들려오는 소리에 가만히 귀를 기울이던 중, 아래층에서 이질감이 느껴지는 발걸음 소리가 들려왔다."
-    "聞こえてくる音にじっと耳を傾けていると、下の階から違和感を感じる足音が聞こえてきた。"
+    "聞こえてくる音にじっと耳を傾けていると、下の階から違和感のある足音が聞こえてきた。"
 
-# game/chapter3.rpy:2335
+# game/chapter3.rpy:2336
 translate japanese ecg4_label_e8ecc148:
 
     # "난간 아래로 고개를 내밀자 그대로 위쪽을 바라보며 계단을 걸어 올라오던 소녀와 눈이 마주친다."
-    "欄干の下に顔を出すと、そのまま上を見上げながら階段を歩いてくる少女と目が合った。"
+    "手すりの下から首を突き出すと、こちらを見上げながら階段を上ってくる少女と目が合った。"
 
-# game/chapter3.rpy:2337
+# game/chapter3.rpy:2338
 translate japanese ecg4_label_3fa94f1d:
 
     # "소녀는 내게 열쇠를 건넸다."
-    "少女は私に鍵を渡した。"
+    "少女は俺に鍵を差し出した。"
 
-# game/chapter3.rpy:2342
+# game/chapter3.rpy:2343
 translate japanese ecg4_label_672f539f:
 
     # "소녀가 건넨 열쇠에는 그녀에게서 느껴지던 한기가 그대로 묻어 있었다."
-    "少女が渡した鍵には、彼女から感じられた寒さがそのまま付着していた。"
+    "少女が渡した鍵には、彼女から感じられた冷気がそのまま残っていた。"
 
-# game/chapter3.rpy:2346
+# game/chapter3.rpy:2347
 translate japanese ecg4_label_1624b708:
 
     # "문이 열리며 삐걱대는 소리가 순식간에 사방으로 흩어졌다."
-    "扉が開くと、きしむ音が一瞬にして四方に散らばった。"
+    "ドアが開いて軋む音が、一瞬にして四方に散った。"
 
-# game/chapter3.rpy:2347
+# game/chapter3.rpy:2348
 translate japanese ecg4_label_a34fcda5:
 
     # "혹시나 하는 생각에 주변을 살폈지만, 다행히 인기척은 전혀 느껴지지 않았다."
-    "もしかしたらと思って周囲を見回したが、幸い人気は全く感じられなかった。"
+    "念のため周りを窺ったが、幸い人の気配はまったくなかった。"
 
-# game/chapter3.rpy:2360
+# game/chapter3.rpy:2361
 translate japanese ecg4_label_cbba197d:
 
     # "문틈으로는 밤하늘과 맞닿은 시멘트 재질의 공간이 펼쳐져 있었다."
-    "扉の隙間からは、夜空と接するセメント製の空間が広がっていた。"
+    "ドアの隙間からは、夜空と接するコンクリートの空間が広がっていた。"
 
-# game/chapter3.rpy:2362
+# game/chapter3.rpy:2363
 translate japanese ecg4_label_baad7212:
 
     # "미적지근한 여름의 바람이 불어오는 곳으로, 나와 소녀는 발걸음을 내딛었다."
-    "微かに吹く夏の風が吹き込む場所へ、俺と少女は足を踏み出した。"
+    "生ぬるい夏の風が吹きつける場所へ、俺と少女は足を踏み入れた。"
 
-# game/chapter3.rpy:2364
+# game/chapter3.rpy:2365
 translate japanese ecg4_label_977949e0:
 
     # "익숙한 바람이라는 생각이 들었다."
-    "慣れた風だと思った。"
+    "馴染みのある風だと思った。"
 
-# game/chapter3.rpy:2376
+# game/chapter3.rpy:2377
 translate japanese ecg5_label_f136db5c:
 
     # voice "voices/gc103.ogg"
     # 소녀 "“아무것도 없네요.”"
     voice "voices/gc103.ogg"
-    소녀 "「何もないですね」"
+    소녀 "「何もないですね。」"
 
-# game/chapter3.rpy:2379
+# game/chapter3.rpy:2380
 translate japanese ecg5_label_82f31643:
 
     # voice ""
     # 나 "“그야, 옥상일 뿐이니까.”"
     voice ""
-    나 "「まあ、屋上だからね」"
+    나 "「そりゃ、屋上だからな。」"
 
-# game/chapter3.rpy:2381
+# game/chapter3.rpy:2382
 translate japanese ecg5_label_69ff8cb7:
 
     # "텅 빈 옥상을 바라본 소녀의 감상이 전해진다."
     "がらんとした屋上を見た少女の感想が伝わってくる。"
 
-# game/chapter3.rpy:2386
+# game/chapter3.rpy:2387
 translate japanese ecg5_label_b4802214:
 
     # "나는 소녀와 함께 난간 쪽으로 터벅터벅 걸어갔다."
-    "俺は少女と一緒に欄干の方へと歩いていった。"
+    "俺は少女と一緒にフェンスの方へとぼとぼと歩いた。"
 
-# game/chapter3.rpy:2387
+# game/chapter3.rpy:2388
 translate japanese ecg5_label_708c58d5:
 
     # "차가운 철제 난간대에 팔을 얹으며 익숙하다는 감각을 느꼈다."
-    "冷たい鉄製の欄干に腕を乗せて、慣れた感覚を感じた。"
+    "冷たい鉄製の手すりに腕を載せ、馴染み深いという感覚を覚えた。"
 
-# game/chapter3.rpy:2393
+# game/chapter3.rpy:2394
 translate japanese ecg5_label_f1a9f928:
 
     # "시선 아래로 펼쳐지는 적당한 배율의 풍경부터 마치 소리 없는 아우성처럼 산들산들 불어오는 바람까지."
-    "目の下に広がる適度な倍率の風景から、まるで音のない咆哮のようにふわりふわりと吹き込む風まで。"
+    "視界の下に広がるほどよい倍率の景色から、まるで声なき叫びのようにそよそよと吹く風まで。"
 
-# game/chapter3.rpy:2395
+# game/chapter3.rpy:2396
 translate japanese ecg5_label_4f49b5d5:
 
     # "익숙하디 익숙한 감각에, 오늘따라 나답지 않은 선택을 연발한 이유도 어렴풋이 알 것 같다는 생각이 들었다."
-    "慣れすぎた感覚に、今日は俺らしくない選択を連発した理由もなんとなくわかるような気がした。"
+    "馴染みきった感覚に、今日に限って自分らしくない選択を連発した理由も、おぼろげにわかる気がした。"
 
-# game/chapter3.rpy:2396
+# game/chapter3.rpy:2397
 translate japanese ecg5_label_5f41656d:
 
     # "가만히 불어오는 바람을 느끼며, 나는 소녀와 함께 가만히 그 순간을 흘려 보내고 있었다."
-    "静かに吹く風を感じながら、俺は少女と一緒にその瞬間を流していた。"
+    "静かに吹いてくる風を感じながら、俺は少女と一緒にただその瞬間を流していた。"
 
-# game/chapter3.rpy:2398
+# game/chapter3.rpy:2399
 translate japanese ecg5_label_7527717f:
 
     # "무엇을 위해 이곳으로 온 건지도 잠시 잊은 채 말이다."
-    "何のためにここへ来たのかもしばらく忘れてしまったくらいだ。"
+    "何のためにここに来たのかも、しばし忘れたまま。"
 
-# game/chapter3.rpy:2405
+# game/chapter3.rpy:2406
 translate japanese ecg5_label_fe0ff98c:
 
     # voice "voices/gc104.ogg"
     # 소녀 "“{color=#00ccff}누군가가 당신에게 ‘죽고 싶다’라고 이야기한다면, 그땐 어쩔 건가요?{/color}”"
     voice "voices/gc104.ogg"
-    소녀 "「{color=#00ccff}誰かがあなたに「死にたい」と話したら、そのときはどうするんですか？{/color}」"
+    소녀 "「{color=#00ccff}もし誰かがあなたに『死にたい』と言ったら、どうしますか？{/color}」"
 
-# game/chapter3.rpy:2407
+# game/chapter3.rpy:2408
 translate japanese ecg5_label_640c5736:
 
     # voice ""
     # "나의 옆에서 밤하늘을 멍하니 바라보고 있던 소녀가, 대뜸 엉뚱한 이야기를 꺼냈다. "
     voice ""
-    "私の横で夜空をぼんやりと見つめていた少女が、いきなり変な話を持ち出した。"
+    "俺の隣で夜空をぼんやり見つめていた少女が、唐突にとんでもない話を切り出した。"
 
-# game/chapter3.rpy:2409
+# game/chapter3.rpy:2410
 translate japanese ecg5_label_66513ae5:
 
     # "엉뚱한 이야기였을 것이다. "
-    "変な話だったはずだ。"
+    "とんでもない話だったはずだ。"
 
-# game/chapter3.rpy:2410
+# game/chapter3.rpy:2411
 translate japanese ecg5_label_57473f5d:
 
     # "대뜸 그런 이야기를 꺼내면 누구라도 엉뚱한 이야기라 생각할 테니 말이다. "
-    "いきなりそんな話を出されたら誰でも変な話だと思うだろうから。"
+    "いきなりそんなことを言えば、誰だってとんでもない話だと思うだろうから。"
 
-# game/chapter3.rpy:2411
+# game/chapter3.rpy:2412
 translate japanese ecg5_label_2b39ac75:
 
     # "하지만 어째서인지, 심장에서부터 무언가가 쿵쿵 울려 퍼지고 있었다."
-    "でもどういうわけか、心臓から何かがドキドキと響いていた。"
+    "だがなぜか、心臓の奥から何かがどくどくと響いていた。"
 
-# game/chapter3.rpy:2413
+# game/chapter3.rpy:2414
 translate japanese ecg5_label_fbb7d75c:
 
     # 나 "“글쎄.”"
-    나 "「さあ」"
+    나 "「さあな。」"
 
-# game/chapter3.rpy:2415
+# game/chapter3.rpy:2416
 translate japanese ecg5_label_4e95ae89:
 
     # voice "voices/gc105.ogg"
     # 소녀 "“하긴, 이런 이야기 저랑 해봤자 아무런 의미도 없겠죠.”"
     voice "voices/gc105.ogg"
-    소녀 "「まあ、こんな話私としても意味がないでしょうね」"
+    소녀 "「まあ、こんな話を私としたところで何の意味もないですよね。」"
 
-# game/chapter3.rpy:2417
+# game/chapter3.rpy:2418
 translate japanese ecg5_label_1fbf0303:
 
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……」"
+    나 "「……。」"
 
-# game/chapter3.rpy:2420
+# game/chapter3.rpy:2421
 translate japanese ecg5_label_4d96a76a:
 
     # "자조하는 듯한 목소리로, 소녀가 허무한 표정을 지었다."
-    "自嘲するような声で、少女は虚しい表情をした。"
+    "自嘲するような声で、少女が虚ろな表情を浮かべた。"
 
-# game/chapter3.rpy:2422
+# game/chapter3.rpy:2423
 translate japanese ecg5_label_6978d54f:
 
     # voice "voices/gc106.ogg"
     # 소녀 "“이곳에서 떨어진 여학생은 죽기 전까지도 그 이야기를 되새겼나 봐요.”"
     voice "voices/gc106.ogg"
-    소녀 "「ここから落ちた女子生徒は死ぬまでにもその話を繰り返したみたいですよ」"
+    소녀 "「ここから落ちた女子生徒は、死ぬ最後まであの言葉を反芻していたみたいです。」"
 
-# game/chapter3.rpy:2425
+# game/chapter3.rpy:2426
 translate japanese ecg5_label_784526b0:
 
     # voice ""
@@ -5782,343 +5782,343 @@ translate japanese ecg5_label_784526b0:
     voice ""
     "そうだったのか。"
 
-# game/chapter3.rpy:2428
+# game/chapter3.rpy:2429
 translate japanese ecg5_label_7dd26382:
 
     # "밤하늘을 보고 있는 줄로만 알았던 소녀의 눈동자에는, 달빛 대신 죽음의 색이 새겨졌던 모양이었다."
-    "夜空を見ていると思っていた少女の瞳には、月光ではなく死の色が刻まれていたようだった。"
+    "夜空を見ているとばかり思っていた少女の瞳には、月明かりの代わりに死の色が刻まれていたようだった。"
 
-# game/chapter3.rpy:2429
+# game/chapter3.rpy:2430
 translate japanese ecg5_label_fde04d3d:
 
     # "소녀는 아무렇지도 않은 척, 이야기를 계속 이어갔다."
-    "少女は何事もないふりをして、話を続けた。"
+    "少女は何でもない風を装い、話を続けた。"
 
-# game/chapter3.rpy:2432
+# game/chapter3.rpy:2433
 translate japanese ecg5_label_1f04eaa8:
 
     # voice "voices/gc107.ogg"
     # 소녀 "“자기가 누군가에게 건넨 '죽고 싶다'라는 말에 대한 대답을요.”"
     voice "voices/gc107.ogg"
-    소녀 "「自分が誰かに渡した「死にたい」という言葉に対する答えを」"
+    소녀 "「自分が誰かに言った『死にたい』という言葉に対する答えを。」"
 
-# game/chapter3.rpy:2435
+# game/chapter3.rpy:2436
 translate japanese ecg5_label_4c24461b:
 
     # voice ""
     # 나 "“어떤 대답을 들었길래?”"
     voice ""
-    나 "「どんな答えを聞いてしまったんだ？」"
+    나 "「どんな答えをもらったんだ？」"
 
-# game/chapter3.rpy:2440
+# game/chapter3.rpy:2441
 translate japanese ecg5_label_e7680f10:
 
     # voice "voices/gc108.ogg"
     # 소녀 "“글쎄요. 저도 잘 모르겠어요. 하지만 그 여학생이 내린 결론은, 아무래도 '나는 죽어도 괜찮다'였던가 봐요.”"
     voice "voices/gc108.ogg"
-    소녀 "「さあ。私もよくわかりません。でもその女子生徒が下した結論は、どうやら「私は死んでもいい」だったみたいですよ」"
+    소녀 "「さあ。私にもよくわかりません。でもその女子生徒が出した結論は、どうやら『自分は死んでも構わない』だったみたいです。」"
 
-# game/chapter3.rpy:2442
+# game/chapter3.rpy:2443
 translate japanese ecg5_label_58a114ae:
 
     # voice ""
     # 나 "“으응…….”"
     voice ""
-    나 "「うん……」"
+    나 "「うん……。」"
 
-# game/chapter3.rpy:2446
+# game/chapter3.rpy:2447
 translate japanese ecg5_label_641c43c9:
 
     # voice "voices/gc109.ogg"
     # 소녀 "“잘 모르겠어요. 정말 아무것도 아닌 것 같은 기분이에요.”"
     voice "voices/gc109.ogg"
-    소녀 "「わからないです。本当に何でもないような気分です」"
+    소녀 "「よくわかりません。本当に何でもないような気分です。」"
 
-# game/chapter3.rpy:2448
+# game/chapter3.rpy:2449
 translate japanese ecg5_label_862b0b44:
 
     # voice ""
     # 나 "“그렇구나.”"
     voice ""
-    나 "「そうなんだ」"
+    나 "「そっか。」"
 
-# game/chapter3.rpy:2450
+# game/chapter3.rpy:2451
 translate japanese ecg5_label_b627ab27:
 
     # voice "voices/gc110.ogg"
     # 소녀 "“…… 조금만 더 시간을 낭비하다 갈까요?”"
     voice "voices/gc110.ogg"
-    소녀 "「……もう少し時間を無駄にしてから行きましょうか？」"
+    소녀 "「……もう少しだけ時間を潰してから帰りませんか？」"
 
-# game/chapter3.rpy:2455
+# game/chapter3.rpy:2456
 translate japanese ecg5_label_5f5dad13:
 
     # voice ""
     # "의도치 않게 소녀의 팔이 나의 팔꿈치에 닿는다."
     voice ""
-    "思わず少女の腕が俺の肘に触れる。"
+    "意図せず少女の腕が俺の肘に触れる。"
 
-# game/chapter3.rpy:2460
+# game/chapter3.rpy:2461
 translate japanese ecg5_label_1d2a6c07:
 
     # "심장은 지치지도 않고 무언의 아우성을 질러대고 있었다."
-    "心臓は疲れもせずに何かの咆哮を叫び続けていた。"
+    "心臓は疲れも知らず、無言の叫びをあげ続けていた。"
 
-# game/chapter3.rpy:2461
+# game/chapter3.rpy:2462
 translate japanese ecg5_label_3d3a4d5d:
 
     # "익숙한 기분이 들었다. "
-    "慣れた感覚がした。"
+    "馴染みのある気分だった。"
 
-# game/chapter3.rpy:2462
+# game/chapter3.rpy:2463
 translate japanese ecg5_label_2e8abe50:
 
     # "매번, 이렇게 옥상에 앉아있으면 외계인이 내게 교신을 보내듯 누군가의 목소리가 들렸으니까."
-    "いつも、こうして屋上に座っていると、宇宙人が私に交信を送ってくるように誰かの声が聞こえてきたから。"
+    "毎回、こうして屋上に座っていると、宇宙人が交信を送ってくるかのように誰かの声が聞こえたから。"
 
-# game/chapter3.rpy:2467
+# game/chapter3.rpy:2468
 translate japanese ecg5_label_b7743371:
 
     # "그날의 일처럼, 내게서 익숙한 선이 그려졌다."
-    "あの日のことのように、私から慣れた線が描かれた。"
+    "あの日のことのように、俺の中から馴染みのある線が引かれた。"
 
-# game/chapter3.rpy:2468
+# game/chapter3.rpy:2469
 translate japanese ecg5_label_660d9dce:
 
     # "다만, 한 가지 다른 점이 있었다."
-    "ただ、一つ違う点があった。"
+    "ただ、ひとつだけ違うことがあった。"
 
-# game/chapter3.rpy:2470
+# game/chapter3.rpy:2471
 translate japanese ecg5_label_0456cc5e:
 
     # "언제나 방향을 잃고 뭉개지던 목소리가 이번엔 주파수를 올바르게 잡은 라디오의 음성처럼 차분히 들려왔다."
-    "いつも方向を失ってぼやけていた声が今回は周波数を正しく合わせたラジオの音声のように落ち着いて聞こえてきた。"
+    "いつも方向を見失ってぼやけていた声が、今回は正しく周波数を捉えたラジオの音声のように静かに聞こえてきた。"
 
-# game/chapter3.rpy:2471
+# game/chapter3.rpy:2472
 translate japanese ecg5_label_40ced738:
 
     # "천천히 선이 이어지기 시작했다."
-    "ゆっくりと線が繋がり始めた。"
+    "ゆっくりと線がつながり始めた。"
 
-# game/chapter3.rpy:2473
+# game/chapter3.rpy:2474
 translate japanese ecg5_label_5b001578:
 
     # "그 선의 도착지점은 다름 아닌, 나의 옆에 앉아있던 소녀였다."
-    "その線の到着点は他ならぬ、私の隣に座っていた少女だった。"
+    "その線の行き先は、他でもない、俺の隣に座っていた少女だった。"
 
-# game/chapter3.rpy:2478
+# game/chapter3.rpy:2479
 translate japanese ecg5_label_bafd3e32:
 
     # "알 수 없었다."
     "わからなかった。"
 
-# game/chapter3.rpy:2479
+# game/chapter3.rpy:2480
 translate japanese ecg5_label_2b765b45:
 
     # "이 이어짐이 의미하는 바가 무엇이었는지. "
-    "この繋がりが意味するものが何だったのか。"
+    "このつながりが意味するものが何なのか。"
 
-# game/chapter3.rpy:2482
+# game/chapter3.rpy:2483
 translate japanese ecg5_label_ce915d4e:
 
     # "낮과 밤이 이어지듯, 소녀와의 이어짐에서 떠올린 기억은 또다시 그때의 일이었다."
-    "昼と夜が繋がるように、少女との繋がりから思い浮かんだ記憶はまたあの時のことだった。"
+    "昼と夜が巡るように、少女との繋がりから呼び覚まされたのは、やはりあの時の記憶だった。"
 
-# game/chapter3.rpy:2483
+# game/chapter3.rpy:2484
 translate japanese ecg5_label_b8800f68:
 
     # "한여름 밤의 바람을 맞으며 떠올린 기억은, 또다시 그때의 추억이었다."
-    "真夏の夜の風を受けながら思い出した記憶は、またあの時の追憶だった。"
+    "真夏の夜風に吹かれながら思い出すのは、またしてもあの頃の思い出。"
 
-# game/chapter3.rpy:2484
+# game/chapter3.rpy:2485
 translate japanese ecg5_label_60adc061:
 
     # "지금은 막연해져 버린 꿈이라는 것이 또렷했을 그 무렵의 이야기."
-    "今は曖昧になってしまった夢というものがはっきりとしたあの頃の話。"
+    "今はもうおぼろげになってしまった夢というものが、鮮明だったあの頃の話。"
 
-# game/chapter3.rpy:2486
+# game/chapter3.rpy:2487
 translate japanese ecg5_label_be0f6e05:
 
     # who "“들었어? 우리 학교 야구부가 처음으로 전국대회에 진출했다는 거?”"
-    who "「聞いた？うちの学校の野球部が初めて全国大会に出場したってさ？」"
+    who "「聞いた？ うちの学校の野球部が初めて全国大会に進出したらしいよ？」"
 
-# game/chapter3.rpy:2487
+# game/chapter3.rpy:2488
 translate japanese ecg5_label_504b0136:
 
     # who "“어제 최종 예선전 구경했는데, 선발로 나온 3학년 선배 말이야. 완전 멋져보인 거 있지?!”"
-    who "「昨日の最終予選見に行ったんだけど、先発で出た3年生の先輩のことさ。すごくかっこよかったんだよね？！」"
+    who "「昨日の最終予選見たんだけどさ、先発で出た三年の先輩がいるじゃん。めっちゃカッコよかったんだけど！？」"
 
-# game/chapter3.rpy:2491
+# game/chapter3.rpy:2492
 translate japanese ecg5_label_64eccd32:
 
     # "중학교 3학년생이었던 과거의 나는, 전국대회에서 우승하겠다는 일념만으로 마운드에서 공을 던진 모양이었다."
-    "中学校3年生だった過去の俺は、全国大会で優勝するという一念だけでマウンドからボールを投げていたようだった。"
+    "中学三年生だった過去の俺は、全国大会で優勝するという一心でマウンドからボールを投げていたようだった。"
 
-# game/chapter3.rpy:2495
+# game/chapter3.rpy:2496
 translate japanese ecg5_label_1ddbab7f:
 
     # "그해 여름은, 꼭 나를 중심으로 돌아가고 있는 것만 같았다."
-    "その年の夏は、まるで私を中心に回っているかのようだった。"
+    "あの年の夏は、まるで俺を中心に回っているかのようだった。"
 
-# game/chapter3.rpy:2496
+# game/chapter3.rpy:2497
 translate japanese ecg5_label_72adf405:
 
     # "유미에게서 느껴졌던 그 기분 좋은 두근거림이, 과거의 내게서도 느껴지고 있었다."
-    "ユミから感じられたあの気持ちいいドキドキ感が、過去の私からも感じられていた。"
+    "ユミから感じていたあの心地よい高揚感が、過去の俺からも感じられていた。"
 
-# game/chapter3.rpy:2497
+# game/chapter3.rpy:2498
 translate japanese ecg5_label_ed0d0462:
 
     # "무언가를 위해."
     "何かのために。"
 
-# game/chapter3.rpy:2501
+# game/chapter3.rpy:2502
 translate japanese ecg5_label_a604741e:
 
     # "그리고 누군가를 위해."
     "そして誰かのために。"
 
-# game/chapter3.rpy:2502
+# game/chapter3.rpy:2503
 translate japanese ecg5_label_e03ed132:
 
     # "…… 분명 기억하기론, 결승까지 올라갔던 것 같은데."
-    "……確か記憶では、決勝まで上がったはずなんだけど。"
+    "……確か記憶では、決勝まで上がったはずなのに。"
 
-# game/chapter3.rpy:2505
+# game/chapter3.rpy:2506
 translate japanese ecg5_label_64ea6830:
 
     # "귓가에 맴도는 응원 소리가 익숙하게 느껴졌다."
-    "耳に響く応援声が慣れ親しんだように感じられた。"
+    "耳元を巡る応援の声が、懐かしく感じられた。"
 
-# game/chapter3.rpy:2507
+# game/chapter3.rpy:2508
 translate japanese ecg5_label_396673fa:
 
     # 나 "“…….”"
-    나 "「……」"
+    나 "「……。」"
 
-# game/chapter3.rpy:2511
+# game/chapter3.rpy:2512
 translate japanese ecg5_label_b0074bbd:
 
     # "익숙한 시선과 음성."
-    "慣れた視線と音声。"
+    "馴染みのある視線と声。"
 
-# game/chapter3.rpy:2512
+# game/chapter3.rpy:2513
 translate japanese ecg5_label_289086c5:
 
     # "따뜻한 목소리와 시선이 흐릿한 기억에 뒤섞여 사라져간다."
-    "温かい声と視線がぼやけた記憶に混ざって消えていく。"
+    "温かい声と眼差しが、ぼんやりとした記憶に混ざって消えていく。"
 
-# game/chapter3.rpy:2513
+# game/chapter3.rpy:2514
 translate japanese ecg5_label_4b624fd5:
 
     # "그 목소리가 나의 귓가를 맴돌았지만, 라디오를 막 켰을 때 흘러나오는 항상 듣던 채널의 주파수인 것처럼 익숙한 목소리라는 느낌만이 애매하게 들 뿐이었다."
-    "その声が私の耳元を巡ったが、ラジオをつけたときに流れるいつも聞いていたチャンネルの周波数のように慣れた声だという感じしか曖昧に感じなかった。"
+    "その声が俺の耳元をまとわりついていたが、ラジオをつけた瞬間に流れてくるいつものチャンネルの周波数のように、馴染みのある声だという感覚だけが曖昧に残るばかりだった。"
 
-# game/chapter3.rpy:2518
+# game/chapter3.rpy:2519
 translate japanese ecg5_label_64021e1d:
 
     # "소녀와 나는 그로부터 몇 분 정도를 더 말없이 난간대에 기대어 시간을 보냈다."
-    "少女と私はそれから数分ほどを無言で欄干にもたれて時間を過ごした。"
+    "少女と俺はそこから数分ほど、何も言わずに手すりにもたれかかって時間を過ごした。"
 
-# game/chapter3.rpy:2519
+# game/chapter3.rpy:2520
 translate japanese ecg5_label_ab3d8e08:
 
     # "조금만 더, 조금만 더 이대로 있고 싶다는 생각이 나로부터 뻗어가던 직선처럼 이어졌지만, 먼저 난간대에서 손을 뗀 건 소녀 쪽이었다."
-    "もう少し、もう少しこのままでいたいと思ったが、欄干から手を離したのは少女の方だった。"
+    "もう少しだけ、もう少しだけこのままでいたいという思いが俺から伸びていく直線のように続いたが、先に手すりから手を離したのは少女の方だった。"
 
-# game/chapter3.rpy:2520
+# game/chapter3.rpy:2521
 translate japanese ecg5_label_ff8a306f:
 
     # "소녀가 난간대에서 손을 떼자, 서로를 종이컵 무전기처럼 이어주던 실도 그대로 툭 끊어져 버렸다."
-    "少女が欄干から手を離すと、お互いを紙コップ無線のように繋いでいた糸もそのままぽきっと切れてしまった。"
+    "少女が手すりから手を離すと、互いを糸電話のようにつないでいた糸も、そのままぷつりと切れてしまった。"
 
-# game/chapter3.rpy:2523
+# game/chapter3.rpy:2524
 translate japanese ecg5_label_f483caca:
 
     # "난간대에서 손을 떼고 계단을 내려오기 시작할 무렵, 소녀가 넌지시 이야기를 꺼냈다."
-    "欄干から手を離して階段を降り始める頃、少女がさりげなく話を切り出した。"
+    "手すりから手を離して階段を下り始めた頃、少女がそれとなく話を切り出した。"
 
-# game/chapter3.rpy:2525
+# game/chapter3.rpy:2526
 translate japanese ecg5_label_8771fcc5:
 
     # voice "voices/gc111.ogg"
     # 소녀 "“저, 기억나는 사람이 있어요.”"
     voice "voices/gc111.ogg"
-    소녀 "「私、覚えている人がいます」"
+    소녀 "「私、覚えている人がいるんです。」"
 
-# game/chapter3.rpy:2527
+# game/chapter3.rpy:2528
 translate japanese ecg5_label_a444a887:
 
     # voice ""
     # 나 "“정말? 그게 누군데?”"
     voice ""
-    나 "「本当？それは誰なんだ？」"
+    나 "「本当に？ それって誰なんだ？」"
 
-# game/chapter3.rpy:2536
+# game/chapter3.rpy:2537
 translate japanese ecg5_label_319bdc1a:
 
     # voice "voices/gc112.ogg"
     # 소녀 "“말 그대로예요. 기억나는 사람이 있다. 그뿐이에요.”"
     voice "voices/gc112.ogg"
-    소녀 "「そのまんまです。覚えている人がいます。それだけです」"
+    소녀 "「文字通りです。覚えている人がいる。それだけです。」"
 
-# game/chapter3.rpy:2539
+# game/chapter3.rpy:2540
 translate japanese ecg5_label_ff0e613d:
 
     # voice ""
     # "그렇게 이야기하고는, 소녀는 나의 손을 슬며시 붙잡았다."
     voice ""
-    "そう言って、少女は私の手をそっと握った。"
+    "そう言って、少女は俺の手をそっと握った。"
 
-# game/chapter3.rpy:2544
+# game/chapter3.rpy:2545
 translate japanese ecg5_label_bb0dad41:
 
     # "그녀의 한기가 손을 타고 느껴졌다."
-    "彼女の冷気が手に伝わった。"
+    "彼女の冷気が手を伝って感じられた。"
 
-# game/chapter3.rpy:2546
+# game/chapter3.rpy:2547
 translate japanese ecg5_label_a7c65786:
 
     # "손끝에 느껴지는 감촉과 어울리는 침묵이 역에 도착할 때까지 우리의 주변을 맴돌았다."
-    "指先に感じる感触と似合う沈黙が駅に着くまで私たちの周りを巡っていた。"
+    "指先に感じる感触に似合いの沈黙が、駅に着くまで俺たちの周りを漂った。"
 
-# game/chapter3.rpy:2560
+# game/chapter3.rpy:2561
 translate japanese ecg5_label_868af227:
 
     # "소녀가 다시 입을 연 건, 열차에서 내려 A구역 터미널 의자에 앉아 집 근처까지 가는 호버크라프트를 기다리고 있던 때였다."
-    "少女が再び口を開いたのは、電車から降りてA区画のターミナルの椅子に座って家の近くまで行くホバークラフトを待っていたときだった。"
+    "少女が再び口を開いたのは、電車を降りてA地区のターミナルの椅子に座り、家の近くまで向かうホバークラフトを待っていた時だった。"
 
-# game/chapter3.rpy:2563
+# game/chapter3.rpy:2564
 translate japanese ecg5_label_1ca92a0e:
 
     # voice "voices/gc113.ogg"
     # 소녀 "“저 있죠, 이름도, 생김새도, 무엇하나 제대로 기억나는 건 없어도 '있었다'라는 것만큼은 또렷이 기억나는 누군가가 있어요.”"
     voice "voices/gc113.ogg"
-    소녀 "「私にはいますよ、名前も、容姿も、何もかもちゃんと覚えていなくても「いた」ということだけははっきりと覚えている誰かがいますよ」"
+    소녀 "「あの、名前も、顔も、何ひとつちゃんと覚えていなくても、『いた』ということだけははっきり覚えている誰かがいるんです。」"
 
-# game/chapter3.rpy:2565
+# game/chapter3.rpy:2566
 translate japanese ecg5_label_0d2bbe3a:
 
     # voice ""
     # "나는 소녀의 말을 두 번 정도 곱씹고 나서야 의미를 제대로 파악할 수 있었다."
     voice ""
-    "私は少女の言葉を二度ほどかみしめてからやっと意味を正しく把握できた。"
+    "俺は少女の言葉を二度ほど反芻してから、ようやく意味を正しく捉えることができた。"
 
-# game/chapter3.rpy:2570
+# game/chapter3.rpy:2571
 translate japanese ecg5_label_d2a39a52:
 
     # 나 "“즉, 네가 기억하는 건 그 사람의 존재뿐이라는 거네.”"
-    나 "「つまり、お前が覚えているのはその人の存在だけだということだな」"
+    나 "「つまり、お前が覚えてるのはその人の存在だけってことか。」"
 
-# game/chapter3.rpy:2574
+# game/chapter3.rpy:2575
 translate japanese ecg5_label_ca4a1fce:
 
     # voice "voices/gc114.ogg"
     # 소녀 "“정확히는, 온기지만요.”"
     voice "voices/gc114.ogg"
-    소녀 "「正確には、温もりですけどね」"
+    소녀 "「正確には、温もりですけど。」"
 
-# game/chapter3.rpy:2576
+# game/chapter3.rpy:2577
 translate japanese ecg5_label_52c145b0:
 
     # voice ""
@@ -6126,495 +6126,495 @@ translate japanese ecg5_label_52c145b0:
     voice ""
     나 "「温もり？」"
 
-# game/chapter3.rpy:2579
+# game/chapter3.rpy:2580
 translate japanese ecg5_label_15d44a30:
 
     # voice "voices/gc115.ogg"
     # 소녀 "“네. 따뜻함이라고나 할까. 난간대에서 느껴지던 것과는 정반대의 감각 말이에요.”"
     voice "voices/gc115.ogg"
-    소녀 "「はい。暖かさとでも言いましょうか。欄干で感じられたのとは正反対の感覚ですよ」"
+    소녀 "「はい。温かさ、とでも言いましょうか。手すりから感じたものとは正反対の感覚のことです。」"
 
-# game/chapter3.rpy:2581
+# game/chapter3.rpy:2582
 translate japanese ecg5_label_85cfdf6d:
 
     # 나 "“무슨 느낌인지 알 것 같아.”"
-    나 "「どんな感じかわかるような気がする」"
+    나 "「なんとなくわかる気がする。」"
 
-# game/chapter3.rpy:2585
+# game/chapter3.rpy:2586
 translate japanese ecg5_label_357a1b82:
 
     # "모호한 대답과 함께 나는 고개를 끄덕였다."
-    "曖昧な答えと共に私は頷いた。"
+    "曖昧な返事とともに俺は頷いた。"
 
-# game/chapter3.rpy:2587
+# game/chapter3.rpy:2588
 translate japanese ecg5_label_5bf57ac3:
 
     # voice "voices/gc116.ogg"
     # 소녀 "“잘 기억나진 않지만, 저는 그 온기를 무척이나 좋아했던 것 같아요.”"
     voice "voices/gc116.ogg"
-    소녀 "「よく覚えていないけど、私はその温もりがとても好きだったみたいです」"
+    소녀 "「よく覚えてはいないんですけど、私はその温もりをとても好きだったみたいです。」"
 
-# game/chapter3.rpy:2589
+# game/chapter3.rpy:2590
 translate japanese ecg5_label_f715c793:
 
     # voice ""
     # 나 "“얼마나?”"
     voice ""
-    나 "「どれくらい？」"
+    나 "「どのくらい？」"
 
-# game/chapter3.rpy:2597
+# game/chapter3.rpy:2598
 translate japanese ecg5_label_f5ea5543:
 
     # voice "voices/gc117.ogg"
     # 소녀 "“살아있어서 다행이라고 느낄 정도로요.”"
     voice "voices/gc117.ogg"
-    소녀 "「生きていてよかったと感じるほどです」"
+    소녀 "「生きていてよかったと感じるくらいに。」"
 
-# game/chapter3.rpy:2599
+# game/chapter3.rpy:2600
 translate japanese ecg5_label_bdd9a630:
 
     # voice ""
     # 나 "“엄청 좋아했나 보네.”"
     voice ""
-    나 "「すごく好きだったんだな」"
+    나 "「よっぽど好きだったんだな。」"
 
-# game/chapter3.rpy:2604
+# game/chapter3.rpy:2605
 translate japanese ecg5_label_01520896:
 
     # voice "voices/gc118.ogg"
     # 소녀 "“그렇죠.”"
     voice "voices/gc118.ogg"
-    소녀 "「そうですね」"
+    소녀 "「そうですね。」"
 
-# game/chapter3.rpy:2609
+# game/chapter3.rpy:2610
 translate japanese ecg5_label_0a2dead7:
 
     # voice ""
     # "고개를 숙이고는 버릇처럼 다리를 위아래로 까닥이는 소녀."
     voice ""
-    "頭を下げては癖のように足を上下に動かす少女。"
+    "うつむいて、癖のように足を上下に揺らす少女。"
 
-# game/chapter3.rpy:2611
+# game/chapter3.rpy:2612
 translate japanese ecg5_label_89245a9c:
 
     # "소녀가 나의 손을 계속 붙잡으려던 것도 그런 이유에서였을까."
-    "少女が私の手をずっと握ろうとしていたのもそんな理由からだったのだろうか。"
+    "少女がずっと俺の手を握ろうとしていたのも、そういう理由からだったのだろうか。"
 
-# game/chapter3.rpy:2615
+# game/chapter3.rpy:2616
 translate japanese ecg5_label_c0072674:
 
     # voice "voices/gc119.ogg"
     # 소녀 "“앗.”"
     voice "voices/gc119.ogg"
-    소녀 "「あっ」"
+    소녀 "「あっ。」"
 
-# game/chapter3.rpy:2618
+# game/chapter3.rpy:2619
 translate japanese ecg5_label_61f543ec:
 
     # voice ""
     # "다리를 까닥이다 말고 무언가를 발견한 소녀가 짤막한 소리를 내었다."
     voice ""
-    "足を動かすのをやめて何かを見つけた少女が小さな声を出した。"
+    "足を揺すっていた少女があるものに気づき、短い声を上げた。"
 
-# game/chapter3.rpy:2621
+# game/chapter3.rpy:2625
 translate japanese ecg5_label_2bd97e7e:
 
     # "소녀의 시선이 향한 쪽으로 고개를 돌리자, 그곳에서는 A구역 여기저기서 볼 수 있는 환경 미화 로봇이 소녀를 향해 다가오고 있었다."
-    "少女の視線が向いた方に頭を向けると、そこではA区画のあちこちで見られる環境美化ロボットが少女に向かって近づいていた。"
+    "少女の視線の先に顔を向けると、そこにはA地区のあちこちで見かける清掃ロボットが少女に向かって近づいてきていた。"
 
-# game/chapter3.rpy:2623
+# game/chapter3.rpy:2627
 translate japanese ecg5_label_ed387fe5:
 
     # "자신을 향해 다가오는 로봇을 바라보며, 소녀는 살짝 난감한 표정을 지어 보였다."
-    "自分に向かって来るロボットを見ながら、少女はちょっと困った表情を浮かべた。"
+    "自分に向かってくるロボットを見つめながら、少女は少し困った表情を浮かべた。"
 
-# game/chapter3.rpy:2624
+# game/chapter3.rpy:2628
 translate japanese ecg5_label_553aae43:
 
     # "소녀가 왜 그런 얼굴을 했는지는, 금세 알 수 있었다."
     "少女がなぜそんな顔をしたのかは、すぐにわかった。"
 
-# game/chapter3.rpy:2626
+# game/chapter3.rpy:2630
 translate japanese ecg5_label_3fed658c:
 
     # voice "voices/gc120.ogg"
     # 소녀 "“으음…….”"
     voice "voices/gc120.ogg"
-    소녀 "「うーん……」"
+    소녀 "「うーん……。」"
 
-# game/chapter3.rpy:2629
+# game/chapter3.rpy:2633
 translate japanese ecg5_label_cc176224:
 
     # voice ""
     # "소녀는 자신을 향해 다가오던 로봇에게 다리를 저으며 이리로 오지 말라는 신호를 보냈지만, 로봇의 시선에 그녀가 보일 리가 없었다."
     voice ""
-    "少女は自分に向かって来たロボットに足を出してこっちに来るなという合図を送ったが、ロボットの視線に彼女が映るはずもなかった。"
+    "少女は自分に向かってくるロボットに足をぱたぱたさせて来るなと合図を送ったが、ロボットの視界に彼女が映るはずもなかった。"
 
-# game/chapter3.rpy:2636
+# game/chapter3.rpy:2638
 translate japanese ecg5_label_55054291:
 
     # "로봇의 움직임이 멈춘 건 소녀와 로봇의 거리가 20cm 정도로 좁혀졌을 때쯤이었다."
-    "ロボットの動きが止まったのは少女とロボットの距離が20cmほどに縮まったときくらいだった。"
+    "ロボットの動きが止まったのは、少女とロボットの距離が二十センチほどに縮まった頃だった。"
 
-# game/chapter3.rpy:2637
+# game/chapter3.rpy:2639
 translate japanese ecg5_label_49cd6d9d:
 
     # "갑작스레 더듬이가 잘려나간 벌처럼 불규칙하게 움직이기 시작하는 로봇."
-    "突然触手が切れてしまったベルチャーのように不規則に動き始めるロボット。"
+    "突然、触角をもぎ取られた虫のように不規則に動き始めるロボット。"
 
-# game/chapter3.rpy:2640
+# game/chapter3.rpy:2642
 translate japanese ecg5_label_ce20189f:
 
     # "소녀와 처음 대면했던 그날 보았던 것과 똑같은 현상이었다."
-    "少女と初めて対面したあの日見たのとまったく同じ現象だった。"
+    "少女と初めて出会ったあの日に見たのと、まったく同じ現象だった。"
 
-# game/chapter3.rpy:2645
+# game/chapter3.rpy:2647
 translate japanese ecg5_label_eb1dd17e:
 
     # voice "voices/gc121.ogg"
     # 소녀 "“제 주변으로 다가오는 로봇들은 하나같이 저렇게 되어버리더라고요.”"
     voice "voices/gc121.ogg"
-    소녀 "「私の周りに近づくロボットたちはみんなああなってしまうんですよ」"
+    소녀 "「私のそばに近づくロボットは、みんなああなっちゃうんですよね。」"
 
-# game/chapter3.rpy:2647
+# game/chapter3.rpy:2649
 translate japanese ecg5_label_017e6bac:
 
     # voice ""
     # "소녀는 마치 이런 상황이 익숙하다는 듯한 반응이었다."
     voice ""
-    "少女はまるでこんな状況に慣れているような反応だった。"
+    "少女はまるでこういう状況に慣れているかのような反応だった。"
 
-# game/chapter3.rpy:2651
+# game/chapter3.rpy:2653
 translate japanese ecg5_label_917c89ef:
 
     # "이미 알고 있었구나."
-    "もう知っていたんだ。"
+    "すでに知っていたのか。"
 
-# game/chapter3.rpy:2653
+# game/chapter3.rpy:2655
 translate japanese ecg5_label_8e487e8b:
 
     # "자신의 곁에 로봇이 다가오면 이런 일이 일어난다는 걸."
-    "自分のそばにロボットが近づくとこんなことが起こるということを。"
+    "自分のそばにロボットが近づくと、こうなることを。"
 
-# game/chapter3.rpy:2655
+# game/chapter3.rpy:2657
 translate japanese ecg5_label_875c178f:
 
     # voice "voices/gc122.ogg"
     # 소녀 "“…… 꼭 살아있을 때 저를 피하던 길고양이 같아요.”"
     voice "voices/gc122.ogg"
-    소녀 "「……まるで生きているときに私を避けていた野良猫みたいです」"
+    소녀 "「……まるで生きていた頃の私を避けていた野良猫みたいですね。」"
 
-# game/chapter3.rpy:2657
+# game/chapter3.rpy:2659
 translate japanese ecg5_label_896bb9b1:
 
     # voice ""
     # 나 "“다른 건 기억 안 난다면서, 길고양이가 너를 피했다는 건 기억하는 거야?”"
     voice ""
-    나 "「他のことは覚えてないって言ってたのに、野良猫が君を避けてたって覚えてるのか？」"
+    나 "「他のことは覚えてないって言ってるのに、野良猫がお前を避けてたことは覚えてるのか？」"
 
-# game/chapter3.rpy:2667
+# game/chapter3.rpy:2669
 translate japanese ecg5_label_fde7e55c:
 
     # voice "voices/gc123.ogg"
     # 소녀 "“그러게요.”"
     voice "voices/gc123.ogg"
-    소녀 "「そうですね」"
+    소녀 "「そうですね。」"
 
-# game/chapter3.rpy:2669
+# game/chapter3.rpy:2671
 translate japanese ecg5_label_29fab332:
 
     # voice ""
     # "농담조로 던진 이야기였지만, 소녀는 듣고 보니 정말 그렇다며 무척이나 어이없다는 웃음을 흘렸다."
     voice ""
-    "冗談めかして投げかけた話だったが、少女は聞いてみると本当だと言ってとても驚いた笑いをこぼした。"
+    "冗談のつもりで投げた話だったが、少女は言われてみれば確かにそうだと、ひどく呆れたような笑みをこぼした。"
 
-# game/chapter3.rpy:2673
+# game/chapter3.rpy:2675
 translate japanese ecg5_label_fd280060:
 
     # voice "voices/gc124.ogg"
     # 소녀 "“고양이를 만지려고 할 때마다 정전기가 일었거든요. 지금 로봇들이 저렇게 되는 것도, 제 몸에서 정전기 같은 게 흐르기 때문일지도 몰라요.”"
     voice "voices/gc124.ogg"
-    소녀 "「猫に触ろうとするたびに静電気が起きたんですよ。今ロボットたちがああなってるのも、私の体から静電気みたいなものが流れるせいかもしれないです」"
+    소녀 "「猫を触ろうとするたびに静電気が起きたんです。今ロボットがああなるのも、私の体から静電気みたいなものが流れてるからかもしれません。」"
 
-# game/chapter3.rpy:2684
+# game/chapter3.rpy:2686
 translate japanese ecg5_label_b51fff55:
 
     # voice ""
     # "그 뒤로는 한가한 잡담이 이어졌다."
     voice ""
-    "その後は気ままな雑談が続いた。"
+    "そのあとは気ままな雑談が続いた。"
 
-# game/chapter3.rpy:2686
+# game/chapter3.rpy:2688
 translate japanese ecg5_label_6484638c:
 
     # "불규칙한 동선을 그리며 소녀로부터 멀어지던 환경 미화 로봇은 어느새 제기능을 되찾았는지, 바닥에 떨어져 있을 쓰레기를 찾아 나의 시야 밖으로 사라진 뒤였다."
-    "不規則な動線を描きながら少女から離れていった環境美化ロボットはいつの間にか元の機能を取り戻したのか、床に落ちているゴミを探して私の視界から消えていった。"
+    "不規則な軌道を描きながら少女から離れていった清掃ロボットは、いつの間にか正常に戻ったらしく、床に落ちているゴミを探して俺の視界の外に消えていた。"
 
-# game/chapter3.rpy:2692
+# game/chapter3.rpy:2694
 translate japanese ecg5_label_d357193b:
 
     # "신경 쓰이는 것이 하나 생겼다."
-    "気になることが一つあった。"
+    "気がかりなことがひとつできた。"
 
-# game/chapter3.rpy:2693
+# game/chapter3.rpy:2695
 translate japanese ecg5_label_236ea19a:
 
     # "소녀가 기억한다는 그 사람."
     "少女が覚えているというその人。"
 
-# game/chapter3.rpy:2695
+# game/chapter3.rpy:2697
 translate japanese ecg5_label_a15d8995:
 
     # "가족에 대해서조차 아무것도 기억하지 못하는 소녀가 기억할 만한 사람이라면, 분명 그녀에겐 무척이나 소중한 존재가 아니었을까."
-    "家族についてさえ何も覚えていない少女が覚えているだけの人というのは、きっと彼女にとってとても大切な存在ではなかっただろうか。"
+    "家族のことすら何も覚えていない少女が覚えている人物なら、きっと彼女にとってこの上なく大切な存在だったのではないだろうか。"
 
-# game/chapter3.rpy:2700
+# game/chapter3.rpy:2702
 translate japanese ecg5_label_3f2dc34b:
 
     # "너무 내멋대로 넘겨짚는 건 아닐까 하는 생각도 들었지만, 충분히 그럴 법한 추측이었다."
-    "あまり勝手に推測するのは良くないかという気もしたが、十分ありそうな推測だった。"
+    "あまりに独りよがりな推測だろうかとも思ったが、十分にありえる話だった。"
 
-# game/chapter3.rpy:2701
+# game/chapter3.rpy:2703
 translate japanese ecg5_label_7ad03e85:
 
     # "어쩌면 소녀가 이곳을 떠돌게 된 이유도, 그 사람과 관련된 일일 수도 있고."
-    "もしかしたら少女がこの場所をさまようようになった理由も、その人と関係したことかもしれないし。"
+    "もしかすると少女がこの場所をさまよう理由も、その人に関わることかもしれない。"
 
-# game/chapter3.rpy:2705
+# game/chapter3.rpy:2707
 translate japanese ecg5_label_e1e35273:
 
     # "그저 소녀의 소원을 이루어 줄 힌트일 뿐이라고 생각할 수도 있었겠지만, 어째서인지 나는 소녀가 한 말을 신경 쓰고 있었다."
-    "それはただ少女の願いを叶えるヒントに過ぎないと思うこともできたが、なぜか俺は少女の言ったことが気になっていた。"
+    "ただ少女の願いを叶えるためのヒントに過ぎないと思うこともできたが、なぜか俺は少女が言ったことが気になっていた。"
 
-# game/chapter3.rpy:2706
+# game/chapter3.rpy:2708
 translate japanese ecg5_label_0d61dcbd:
 
     # "자료를 찾아보는 도중에도 끊임없이 소녀가 이야기했던 존재에 대해 생각하고 있었으니까."
-    "資料を探している途中でも、絶えず少女が話していた存在について考えていたからだ。"
+    "資料を探している最中も、絶えずあの少女が話していた存在について考えていたのだから。"
 
-# game/chapter3.rpy:2722
+# game/chapter3.rpy:2725
 translate japanese ecg5_label_4ff63118:
 
     # 나 "“……?”"
     나 "「……？」"
 
-# game/chapter3.rpy:2724
+# game/chapter3.rpy:2727
 translate japanese ecg5_label_799b4c1e:
 
     # "자료를 찾는 도중 태블릿이 울렸다."
-    "資料を探している途中でタブレットが鳴った。"
+    "資料を探している最中にタブレットが鳴った。"
 
-# game/chapter3.rpy:2725
+# game/chapter3.rpy:2728
 translate japanese ecg5_label_359f5d25:
 
     # "의아한 눈치로 태블릿을 확인하려다 이내 내게 문자를 보낼 사람은 한 명밖에 없다는 것을 떠올린다."
-    "不思議そうにタブレットを確認しようとしたが、すぐに俺にメッセージを送る人は一人しかいないということを思い出した。"
+    "不思議そうにタブレットを確認しようとして、すぐに俺にメッセージを送ってくる人間は一人しかいないことを思い出す。"
 
-# game/chapter3.rpy:2726
+# game/chapter3.rpy:2729
 translate japanese ecg5_label_acdec395:
 
     # "예상했던 대로, 메신저함에는 현지의 문자가 언제 봐도 적응하기 힘든 이모티콘과 함께 도착해 있었다."
-    "予想通り、メッセンジャーにはヒョンジのメッセージがいつ見ても慣れない絵文字と一緒に届いていた。"
+    "予想通り、メッセンジャーにはヒョンジのメッセージが、いつ見ても慣れない顔文字とともに届いていた。"
 
-# game/chapter3.rpy:2732
+# game/chapter3.rpy:2735
 translate japanese ecg5_label_2c4362b6:
 
     # shnvl_hy "선배! 혹시 지금까지 알아낸 거 있어요? (　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}д{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})??"
-    shnvl_hy "先輩！もしかして今まで調べたことあるんですか？ (　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}д{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})??"
+    shnvl_hy "先輩！ もしかして何かわかったことがありますか？ (　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}д{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})??"
 
-# game/chapter3.rpy:2734
+# game/chapter3.rpy:2737
 translate japanese ecg5_label_6b4f572e:
 
     # "평소엔 이런 표정 짓지도 않으면서, 문면으로 드러나는 감정 변화만큼은 여느 여학생과 비교해도 뒤지지 않는단 말이지."
-    "普段はこんな表情しないのに、文章で現れる感情の変化だけは他の女子生徒と比べても劣らないというのだ。"
+    "普段はこんな表情をすることもないくせに、文面に表れる感情の変化だけは、どんな女子学生と比べても引けを取らないんだよな。"
 
-# game/chapter3.rpy:2735
+# game/chapter3.rpy:2738
 translate japanese ecg5_label_0685e382:
 
     # "발신자를 가리고 읽으면 꼭 유미가 썼을 법한 분위기의 문자 메시지인데, 오히려 평소 표정에서 감정 변화가 확연히 드러나는 유미는 문자 메시지에서만큼은 용건만을 전달하는 편이었다."
-    "送信者を隠して読めばまるでユミが書いたような雰囲気のメッセージなのに、かえって普段の表情から感情の変化がはっきりと現れるユミはメッセージでは用件だけを伝える方だった。"
+    "送信者を隠して読めば、まるでユミが書いたかのような雰囲気のメッセージなのだが、むしろ普段の表情に感情の変化がはっきり出るユミの方が、メッセージでは用件だけを伝えるタイプだった。"
 
-# game/chapter3.rpy:2736
+# game/chapter3.rpy:2739
 translate japanese ecg5_label_3da1f59c:
 
     # "태블릿을 만지작대며, 나는 현지에게 간략한 답장을 보냈다."
     "タブレットをいじりながら、俺はヒョンジに簡潔な返事を送った。"
 
-# game/chapter3.rpy:2740
+# game/chapter3.rpy:2743
 translate japanese ecg5_label_20d9c427:
 
     # "‘조금’이라는 답장을 보내기가 무섭게, 곧장 메신저함에 문자가 도착했다는 알림이 나타났다."
-    "'ちょっと'という返事を送るのが怖いくらい、すぐにメッセンジャーにメッセージが届いたという通知が表示された。"
+    "「少し」という返事を送るが早いか、すぐにメッセンジャーに新着メッセージの通知が表示された。"
 
-# game/chapter3.rpy:2741
+# game/chapter3.rpy:2744
 translate japanese ecg5_label_097366ae:
 
     # "무섭다는 말이 이보다 잘 어울릴 수 없는 속도였다."
-    "怖いという言葉がこれ以上ぴったり合う速さはなかった。"
+    "恐ろしいという言葉がこれ以上ないほどぴったりな速度だった。"
 
-# game/chapter3.rpy:2746
+# game/chapter3.rpy:2749
 translate japanese ecg5_label_ed88d559:
 
     # shnvl_hy "＼＼＼{font=fonts/MarkaziText-Regular.ttf}٩{/font}({font=fonts/Sarabun-Regular.ttf}๑{/font}`^´{font=fonts/Sarabun-Regular.ttf}๑{/font}){font=fonts/MarkaziText-Regular.ttf}۶{/font}//／／ \n알아낸 거 있으면 곧장 연락 준다고 했잖아요?!!"
-    shnvl_hy "＼＼＼{font=fonts/MarkaziText-Regular.ttf}٩{/font}({font=fonts/Sarabun-Regular.ttf}๑{/font}`^´{font=fonts/Sarabun-Regular.ttf}๑{/font}){font=fonts/MarkaziText-Regular.ttf}۶{/font}//／／ \n調べたことがあったらすぐに連絡するって言ったじゃないですか？！！"
+    shnvl_hy "＼＼＼{font=fonts/MarkaziText-Regular.ttf}٩{/font}({font=fonts/Sarabun-Regular.ttf}๑{/font}`^´{font=fonts/Sarabun-Regular.ttf}๑{/font}){font=fonts/MarkaziText-Regular.ttf}۶{/font}//／／ \nわかったことがあったらすぐ連絡するって言ったじゃないですか！？！"
 
-# game/chapter3.rpy:2754
+# game/chapter3.rpy:2757
 translate japanese ecg5_label_632f0b27:
 
     # "아, 맞다. 그랬었지."
-    "ああ、そうだった。そう言っていたな。"
+    "あ、そうだ。そうだったな。"
 
-# game/chapter3.rpy:2755
+# game/chapter3.rpy:2758
 translate japanese ecg5_label_5cf0c361:
 
     # "화면에는 잔뜩 토라진 듯한 표정의 이모티콘이 줄을 가득 메우고 있었다."
-    "画面にはひどく怒っているような表情の絵文字が行いっぱいに並んでいた。"
+    "画面には思いっきりすねたような表情の顔文字がずらりと並んでいた。"
 
-# game/chapter3.rpy:2756
+# game/chapter3.rpy:2759
 translate japanese ecg5_label_03c59b3c:
 
     # "그나저나, 현지가 저런 표정을 짓는다면 어떤 느낌일까?"
-    "ところで、ヒョンジがあんな表情をするとしたらどんな感じだろうか？"
+    "それにしても、ヒョンジがあんな表情をしたらどんな感じだろう。"
 
-# game/chapter3.rpy:2757
+# game/chapter3.rpy:2760
 translate japanese ecg5_label_e00424d7:
 
     # "잠시 그런 생각을 하고 있는데, 또다시 태블릿이 울렸다."
-    "しばらくそんなことを考えていると、またタブレットが鳴った。"
+    "ふとそんなことを考えていると、再びタブレットが鳴った。"
 
-# game/chapter3.rpy:2767
+# game/chapter3.rpy:2770
 translate japanese ecg5_label_a0274b18:
 
     # "이번엔 문자가 아닌 전화였다."
     "今度はメッセージではなく電話だった。"
 
-# game/chapter3.rpy:2772
+# game/chapter3.rpy:2775
 translate japanese ecg5_label_4fc3d3c7:
 
     # voice "voices/hc1.ogg"
     # 현지 "“뭔가 알아낸 게 있으면 곧장 연락 준다고 했잖아요.”"
     voice "voices/hc1.ogg"
-    현지 "「何か調べたことがあったらすぐに連絡するって言ったじゃないですか」"
+    현지 "「何かわかったことがあればすぐ連絡するって言ったじゃないですか。」"
 
-# game/chapter3.rpy:2774
+# game/chapter3.rpy:2777
 translate japanese ecg5_label_b9c872ae:
 
     # voice ""
     # "전화를 받자마자 들려오는 현지의 목소리는 역시나 평소처럼 차분한 톤이었다."
     voice ""
-    "電話に出るとすぐに聞こえてくるヒョンジの声は相変わらず落ち着いたトーンだった。"
+    "電話に出た途端に聞こえてくるヒョンジの声は、やはりいつものように落ち着いたトーンだった。"
 
-# game/chapter3.rpy:2776
+# game/chapter3.rpy:2779
 translate japanese ecg5_label_48695bec:
 
     # "물론 어딘가 날카로운 음색이 배어있는 것이, 나를 추궁하는 것처럼 들리기도 했지만 말이다."
-    "もちろんどこか鋭い音色が混じっているのが、俺を追及しているように聞こえてもいたが。"
+    "もっとも、どこか鋭い音色が滲んでいて、俺を問い詰めるように聞こえなくもなかったが。"
 
-# game/chapter3.rpy:2777
+# game/chapter3.rpy:2780
 translate japanese ecg5_label_25a41d38:
 
     # "혹시 현지는 방금 보냈던 이모티콘과 같은 표정을 짓고 있는 게 아닐까."
-    "もしかしてヒョンジはさっき送ってきた絵文字と同じ表情をしているのではないだろうか。"
+    "もしかしてヒョンジは、さっき送ってきた顔文字と同じ表情をしているんじゃないだろうか。"
 
-# game/chapter3.rpy:2778
+# game/chapter3.rpy:2781
 translate japanese ecg5_label_5e180608:
 
     # "당장 수화기 너머에 있는 현지의 얼굴을 확인할 수 없는 게 조금 아쉽게 느껴졌다."
-    "今すぐ受話器の向こうにいるヒョンジの顔を確認できないのが少し残念に感じた。"
+    "すぐに受話器の向こうにいるヒョンジの顔を確かめられないのが、少し惜しく感じられた。"
 
-# game/chapter3.rpy:2780
+# game/chapter3.rpy:2783
 translate japanese ecg5_label_718b6af0:
 
     # 나 "“으음, 그게…….”"
-    나 "「うーん、それが……」"
+    나 "「うーん、それが……。」"
 
-# game/chapter3.rpy:2782
+# game/chapter3.rpy:2785
 translate japanese ecg5_label_9b3e9361:
 
     # "내가 뭐라 변명을 꺼낼 새도 없이 현지는 말을 이어갔다."
-    "俺が何か言い訳をしようとする間もなくヒョンジは話を続けた。"
+    "俺が何か言い訳を口にする間もなく、ヒョンジは話を続けた。"
 
-# game/chapter3.rpy:2787
+# game/chapter3.rpy:2790
 translate japanese ecg5_label_4af6a412:
 
     # voice "voices/hc2.ogg"
     # 현지 "“어쨌거나, 선배. 내일 시간 돼요?”"
     voice "voices/hc2.ogg"
-    현지 "「とにかく、先輩。明日時間ありますか？」"
+    현지 "「とにかく、先輩。明日、時間ありますか？」"
 
-# game/chapter3.rpy:2789
+# game/chapter3.rpy:2792
 translate japanese ecg5_label_25c509ea:
 
     # voice ""
     # 나 "“내일? 시간은 많은데. 그건 갑자기 왜?”"
     voice ""
-    나 "「明日？時間はたくさんあるけど。それは急にどうして？」"
+    나 "「明日？　時間はたっぷりあるけど。それ急にどうしたんだ？」"
 
-# game/chapter3.rpy:2795
+# game/chapter3.rpy:2798
 translate japanese ecg5_label_808d921d:
 
     # voice "voices/hc3.ogg"
     # 현지 "“왜긴요. 만나서 이야기할 게 있으니까 그렇죠.”"
     voice "voices/hc3.ogg"
-    현지 "「どうしてって。会って話すことがあるからそうでしょう」"
+    현지 "「どうしたもこうしたも。会って話したいことがあるからですよ。」"
 
-# game/chapter3.rpy:2797
+# game/chapter3.rpy:2800
 translate japanese ecg5_label_7618b8eb:
 
     # voice ""
     # 나 "“알겠어. 언제 만나는 걸로 할까?”"
     voice ""
-    나 "「わかった。いつ会うことにする？」"
+    나 "「わかった。いつ会う？」"
 
-# game/chapter3.rpy:2799
+# game/chapter3.rpy:2802
 translate japanese ecg5_label_b5675f59:
 
     # voice "voices/hc4.ogg"
     # 현지 "“음…… 내일 한 시에 학교 옥상에서 만나는 걸로 해요.”"
     voice "voices/hc4.ogg"
-    현지 "「ええと……明日の一時に学校の屋上で会うことにしましょう」"
+    현지 "「うーん……明日の一時に学校の屋上で会いましょう。」"
 
-# game/chapter3.rpy:2801
+# game/chapter3.rpy:2804
 translate japanese ecg5_label_6e341f25:
 
     # voice ""
     # 나 "“어…….”"
     voice ""
-    나 "「え……」"
+    나 "「え……。」"
 
-# game/chapter3.rpy:2806
+# game/chapter3.rpy:2809
 translate japanese ecg5_label_b1b58f87:
 
     # "갑자기 뇌 정지가 왔다."
-    "突然脳停止が起きた。"
+    "突然、頭が真っ白になった。"
 
-# game/chapter3.rpy:2807
+# game/chapter3.rpy:2810
 translate japanese ecg5_label_4d47ae5c:
 
     # "학교 옥상?"
     "学校の屋上？"
 
-# game/chapter3.rpy:2808
+# game/chapter3.rpy:2811
 translate japanese ecg5_label_c337ff99:
 
     # "왜 굳이 학교 옥상인 거지?"
-    "なぜわざわざ学校の屋上なんだろう？"
+    "なんでわざわざ学校の屋上なんだ？"
 
-# game/chapter3.rpy:2812
+# game/chapter3.rpy:2815
 translate japanese ecg5_label_20d80c53:
 
     # 나 "“야, 잠깐만. 꼭 학교 옥상에서 만나야 해?”"
-    나 "「おい、ちょっと待って。どうして学校の屋上で会わなきゃいけないの？」"
+    나 "「おい、ちょっと待て。学校の屋上じゃなきゃダメなのか？」"
 
-# game/chapter3.rpy:2813
+# game/chapter3.rpy:2816
 translate japanese ecg5_label_d78cdab1:
 
     # voice "voices/hc5.ogg"
     # 현지 "“어라, 장소가 신경 쓰이는 거예요?”"
     voice "voices/hc5.ogg"
-    현지 "「あら、場所が気になるんですか？」"
+    현지 "「おや、場所が気になるんですか？」"
 
-# game/chapter3.rpy:2817
+# game/chapter3.rpy:2820
 translate japanese ecg5_label_2061a436:
 
     # voice ""
@@ -6622,481 +6622,481 @@ translate japanese ecg5_label_2061a436:
     voice ""
     "受話器の向こうから軽い笑い声が聞こえてきた。"
 
-# game/chapter3.rpy:2819
+# game/chapter3.rpy:2822
 translate japanese ecg5_label_d02c8b19:
 
     # "나는 전화로 전해지지 않을 정도의 크기로 한숨을 내쉬고는, 아무렇지도 않은 척 대답했다."
-    "俺は電話では伝わらないくらいの大きさでため息をついて、何でもないように答えた。"
+    "俺は電話では伝わらないくらいの大きさでため息をつくと、何でもないふりをして答えた。"
 
-# game/chapter3.rpy:2821
+# game/chapter3.rpy:2824
 translate japanese ecg5_label_4f7a2a17:
 
     # 나 "“아냐. 괜찮아. 그럼 내일 오후 한 시에 학교 옥상에서 만나는 걸로.”"
-    나 "「いや。大丈夫だ。じゃあ明日の午後一時に学校の屋上で会うことにしよう」"
+    나 "「いや、大丈夫だ。じゃあ明日の午後一時に学校の屋上で。」"
 
-# game/chapter3.rpy:2822
+# game/chapter3.rpy:2825
 translate japanese ecg5_label_974fcd91:
 
     # voice "voices/hc6.ogg"
     # 현지 "“네~ 그럼 그때 봐요, 선배.”"
     voice "voices/hc6.ogg"
-    현지 "「はい～じゃあその時に会いましょう、先輩」"
+    현지 "「はい〜　それじゃあその時に、先輩。」"
 
-# game/chapter3.rpy:2825
+# game/chapter3.rpy:2828
 translate japanese ecg5_label_37cd20e7:
 
     # voice ""
     # "신경이 안 쓰인다면 그건 거짓말이겠지."
     voice ""
-    "気にならないと言ったら嘘になるだろう。"
+    "気にならないと言えば嘘になるだろう。"
 
-# game/chapter3.rpy:2827
+# game/chapter3.rpy:2830
 translate japanese ecg5_label_b2d09a93:
 
     # "전화를 끊으려다 말고, 나는 깜빡한 게 있다며 급히 이야기를 덧붙였다."
-    "電話を切ろうとしたが、思い出したことがあって急いで話を付け加えた。"
+    "電話を切ろうとしたところで、俺は忘れていたことがあると急いで話を付け加えた。"
 
-# game/chapter3.rpy:2829
+# game/chapter3.rpy:2832
 translate japanese ecg5_label_afb535bd:
 
     # 나 "“아, 그리고 네가 그날 이야기했던 거 있잖아.”"
-    나 "「あ、それと君があの日話していたことがあるだろう」"
+    나 "「あ、それとお前があの日話してたことあるだろ。」"
 
-# game/chapter3.rpy:2830
+# game/chapter3.rpy:2833
 translate japanese ecg5_label_e443d7b9:
 
     # voice "voices/hc7.ogg"
     # 현지 "“이야기했던 거요?”"
     voice "voices/hc7.ogg"
-    현지 "「話していたことですか？」"
+    현지 "「話してたことですか？」"
 
-# game/chapter3.rpy:2832
+# game/chapter3.rpy:2835
 translate japanese ecg5_label_8f582b69:
 
     # voice ""
     # 나 "“으응, 방학식 날 집에 가는 길에 이야기했던 거. 그 로봇 말인데…….”"
     voice ""
-    나 "「うーん、休暇式の日に家に帰る途中で話したこと。あのロボットのことなんだけど……」"
+    나 "「うん、終業式の日に家に帰る途中で話してたやつ。あのロボットのことなんだけど……。」"
 
-# game/chapter3.rpy:2834
+# game/chapter3.rpy:2837
 translate japanese ecg5_label_c398e4dd:
 
     # voice "voices/hc8.ogg"
     # 현지 "“유령 근처에서 로봇들이 오작동하는 게 맞다고 이야기하려는 거죠?”"
     voice "voices/hc8.ogg"
-    현지 "「幽霊の近くでロボットたちが誤作動するのが本当だと話そうとするんですね？」"
+    현지 "「幽霊の近くでロボットが誤作動するのは本当だって言おうとしてるんですよね？」"
 
-# game/chapter3.rpy:2836
+# game/chapter3.rpy:2839
 translate japanese ecg5_label_797f4f58:
 
     # voice ""
     # 나 "“어, 맞아. 어떻게 알았어?”"
     voice ""
-    나 "「あ、そうだ。どうやって知ったの？」"
+    나 "「ああ、そうだ。どうしてわかったんだ？」"
 
-# game/chapter3.rpy:2838
+# game/chapter3.rpy:2841
 translate japanese ecg5_label_61299f00:
 
     # voice "voices/hc9.ogg"
     # 현지 "“다 아는 수가 있죠~”"
     voice "voices/hc9.ogg"
-    현지 "「知ってることは全部ですよ～」"
+    현지 "「すべてお見通しですよ〜」"
 
-# game/chapter3.rpy:2841
+# game/chapter3.rpy:2844
 translate japanese ecg5_label_81916d36:
 
     # voice ""
     # "차분하면서도 절제된 웃음소리가 귀를 간지럽힌다."
     voice ""
-    "落ち着いていながらも抑えた笑い声が耳をくすぐった。"
+    "落ち着きのある笑い声が耳をくすぐる。"
 
-# game/chapter3.rpy:2843
+# game/chapter3.rpy:2846
 translate japanese ecg5_label_bdc3d8fe:
 
     # "자신이 소리 내어 표현할 수 있는 감정은 정확히 여기까지라는 느낌의 웃음소리였다."
-    "自分が声に出して表現できる感情はまさにここまでだという感じの笑い声だった。"
+    "自分が声に出して表現できる感情はここまでだと言わんばかりの笑い声だった。"
 
-# game/chapter3.rpy:2844
+# game/chapter3.rpy:2847
 translate japanese ecg5_label_76963c08:
 
     # "‘자세한 이야기는 직접 만난 뒤에’라고 이야기하는 듯하기도 했다."
-    "「詳しい話は直接会ってから」と言っているようでもあった。"
+    "「詳しい話は直接会ってから」と言っているようにも聞こえた。"
 
-# game/chapter3.rpy:2846
+# game/chapter3.rpy:2849
 translate japanese ecg5_label_0e0dc6f5:
 
     # 나 "“…… 알겠어. 그럼 내일 봐.”"
-    나 "「……わかった。じゃあ明日会おう」"
+    나 "「……わかった。じゃあ明日な。」"
 
-# game/chapter3.rpy:2853
+# game/chapter3.rpy:2856
 translate japanese ecg5_label_71fb293a:
 
     # "전화를 끊고 기지개를 켜려는데, 어느새 슬그머니 다가와 있던 소녀와 눈이 마주쳤다."
-    "電話を切って伸びをしようとしたら、気づかないうちにそっと近づいていた少女と目が合った。"
+    "電話を切って伸びをしようとしたら、いつの間にかそっと近づいていた少女と目が合った。"
 
-# game/chapter3.rpy:2854
+# game/chapter3.rpy:2857
 translate japanese ecg5_label_404768b1:
 
     # "이럴 때 보면 소녀가 유령이라는 게 실감 난단 말이지."
-    "こういう時に見ると少女が幽霊だというのが実感できるというものだ。"
+    "こういう時に見ると少女が幽霊だということを実感するよな。"
 
-# game/chapter3.rpy:2864
+# game/chapter3.rpy:2867
 translate japanese ecg5_label_4ace4d41:
 
     # voice "voices/gc125.ogg"
     # 소녀 "“누군가요?”"
     voice "voices/gc125.ogg"
-    소녀 "「誰なの？」"
+    소녀 "「誰ですか？」"
 
-# game/chapter3.rpy:2866
+# game/chapter3.rpy:2869
 translate japanese ecg5_label_ccaeb9fa:
 
     # voice ""
     # 나 "“전에 봤던 오컬트부 후배. 내일은 나 혼자 나가 봐야 할 것 같아.”"
     voice ""
-    나 "「前に会ったオカルト部の後輩。明日は俺一人で行ってみないといけないみたいだ」"
+    나 "「前に会ったオカルト部の後輩だよ。明日は俺一人で出かけてこなきゃいけないみたいだ。」"
 
-# game/chapter3.rpy:2869
+# game/chapter3.rpy:2872
 translate japanese ecg5_label_7c467d00:
 
     # "소녀는 고개를 끄덕였다."
     "少女は頷いた。"
 
-# game/chapter3.rpy:2874
+# game/chapter3.rpy:2877
 translate japanese ecg5_label_fad068b4:
 
     # "그러고는 다시금 유령처럼 스르륵 침대 위로 쓰러져 눈을 깜빡였다."
-    "そしてまた幽霊のようにすうっとベッドの上に倒れて目を瞬いた。"
+    "そしてまた幽霊のようにするりとベッドの上に倒れ込み、目をぱちくりさせた。"
 
-# game/chapter3.rpy:2883
+# game/chapter3.rpy:2886
 translate japanese ecg5_label_3d7250ce:
 
     # "다음 날, 약속 장소에 먼저 도착한 쪽은 나였다."
-    "翌日、約束の場所に先に着いた方は俺だった。"
+    "翌日、待ち合わせ場所に先に着いたのは俺の方だった。"
 
-# game/chapter3.rpy:2884
+# game/chapter3.rpy:2887
 translate japanese ecg5_label_7a763b53:
 
     # "약속했던 시간보다는 10분 정도 이른 시각."
-    "約束した時間よりも10分ほど早い時間だ。"
+    "約束の時間より十分ほど早い時刻。"
 
-# game/chapter3.rpy:2885
+# game/chapter3.rpy:2888
 translate japanese ecg5_label_8f38ad1a:
 
     # "나는 버릇처럼 난간대 쪽에 팔을 얹고선 현지가 나타나기만을 기다렸다."
-    "俺は癖になってしまったように欄干の方に腕を乗せてヒョンジが現れるのを待っていた。"
+    "俺は癖のように手すりに腕を乗せて、ヒョンジが現れるのをただ待っていた。"
 
-# game/chapter3.rpy:2886
+# game/chapter3.rpy:2889
 translate japanese ecg5_label_4c85a871:
 
     # "여러모로 익숙한 장소다."
-    "色々と慣れた場所だ。"
+    "いろいろな意味で馴染みのある場所だ。"
 
-# game/chapter3.rpy:2887
+# game/chapter3.rpy:2890
 translate japanese ecg5_label_b87aff6d:
 
     # "이제 곧 옥상에 홀로 있는 나를 현지가 발견하겠지."
-    "もうすぐ屋上に一人いる俺をヒョンジが見つけるだろう。"
+    "もうすぐ屋上に一人でいる俺をヒョンジが見つけるだろう。"
 
-# game/chapter3.rpy:2888
+# game/chapter3.rpy:2891
 translate japanese ecg5_label_3c602021:
 
     # "몇 달 전에 있었던 오늘과 같은 일이, 지금의 상황과 오버랩되어 또렷이 떠오른다."
-    "数ヶ月前にあった今日と同じことが、今の状況と重なってはっきりと思い出される。"
+    "数ヶ月前にあった今日と同じ出来事が、今の状況と重なって鮮明に蘇る。"
 
-# game/chapter3.rpy:2892
+# game/chapter3.rpy:2895
 translate japanese ecg5_label_86770aab:
 
     # "한 가지 다른 점이라면, 그때의 나는 난간대에 팔을 얹고 있었던 것이 아니라 온몸을 떠맡기고 있었다는 것 정도겠지."
-    "一つ違う点があるとすれば、その時の俺は欄干に腕を乗せていたのではなく、全身を預けていたということくらいだろう。"
+    "一つ違う点があるとすれば、あの時の俺は手すりに腕を乗せていたのではなく、全身を預けていたということくらいだろうか。"
 
-# game/chapter3.rpy:2896
+# game/chapter3.rpy:2899
 translate japanese ecg5_label_309ed732:
 
     # 나 "“신경 쓰지 마.”"
-    나 "「気にしないで」"
+    나 "「気にするな。」"
 
-# game/chapter3.rpy:2898
+# game/chapter3.rpy:2901
 translate japanese ecg5_label_24988b4b:
 
     # "그날, 난간대에 걸터앉아있던 나를 발견한 현지에게 내가 가장 먼저 건넨 한 마디였다."
-    "その日、欄干にぶら下がっていた俺を見つけたヒョンジに俺が最初にかけた一言だった。"
+    "あの日、手すりに腰掛けていた俺を見つけたヒョンジに、俺が最初にかけた一言だった。"
 
-# game/chapter3.rpy:2902
+# game/chapter3.rpy:2905
 translate japanese ecg5_label_fd4f3c7b:
 
     # voice "voices/hc10.ogg"
     # 현지 "“저어…… 선배, 지금 혹시…….”"
     voice "voices/hc10.ogg"
-    현지 "「あの……先輩、今もしかして……」"
+    현지 "「あの……先輩、今もしかして……。」"
 
-# game/chapter3.rpy:2904
+# game/chapter3.rpy:2907
 translate japanese ecg5_label_0c3cc14a:
 
     # voice ""
     # 나 "“안 떨어져. 그냥 이러고 있는 거야.”"
     voice ""
-    나 "「落ちないよ。ただこうしているだけだ」"
+    나 "「落ちないよ。ただこうしてるだけだ。」"
 
-# game/chapter3.rpy:2907
+# game/chapter3.rpy:2910
 translate japanese ecg5_label_bb2e6aff:
 
     # "뒤를 돌아보자, 쉽사리 발걸음을 떼지 못하고는 옥상 출입구 앞에 얼어붙은 채로 서 있는 현지의 모습이 보였다."
-    "後ろを振り返ると、なかなか足を踏み出せずに屋上の出入り口の前に凍りついているヒョンジの姿が見えた。"
+    "振り返ると、おいそれと足を踏み出せずに屋上の出入り口の前で凍りついたまま立っているヒョンジの姿が見えた。"
 
-# game/chapter3.rpy:2908
+# game/chapter3.rpy:2911
 translate japanese ecg5_label_18847953:
 
     # "사실이었다. 떨어지고 싶은 건 아니었으니까."
-    "本当だった。落ちたいんじゃなかったから。"
+    "本当のことだった。落ちたいわけじゃなかったから。"
 
-# game/chapter3.rpy:2909
+# game/chapter3.rpy:2912
 translate japanese ecg5_label_e254e4fc:
 
     # "그렇다고 떨어지고 싶지 않았던 것도 아니긴 하다."
-    "とはいえ、落ちたくなかったわけでもなかった。"
+    "かといって、落ちたくないわけでもなかったけれど。"
 
-# game/chapter3.rpy:2910
+# game/chapter3.rpy:2913
 translate japanese ecg5_label_bfb8bf45:
 
     # "아무런 생각이 없었다."
-    "何の考えもなかった。"
+    "何も考えていなかった。"
 
-# game/chapter3.rpy:2914
+# game/chapter3.rpy:2917
 translate japanese ecg5_label_e1b50817:
 
     # "그저 들려오는 무질서한 목소리를 듣고 있을 뿐."
-    "ただ聞こえてくる無秩序な声を聞いているだけだった。"
+    "ただ聞こえてくる無秩序な声を聴いているだけ。"
 
-# game/chapter3.rpy:2915
+# game/chapter3.rpy:2918
 translate japanese ecg5_label_f6b41987:
 
     # "설령 내가 이 난간대에서 균형을 잃고 건물 아래로 떨어진다 해도."
-    "仮に俺がこの欄干からバランスを失って建物の下に落ちてしまっても。"
+    "たとえ俺がこの手すりの上でバランスを崩して建物の下に落ちたとしても。"
 
-# game/chapter3.rpy:2916
+# game/chapter3.rpy:2919
 translate japanese ecg5_label_fc584b53:
 
     # "그건 그것대로 괜찮을 거라 생각하고 있던 나였다."
     "それはそれで構わないと思っていた俺だった。"
 
-# game/chapter3.rpy:2920
+# game/chapter3.rpy:2923
 translate japanese ecg5_label_da5f651b:
 
     # voice "voices/hc11.ogg"
     # 현지 "“그, 그렇지만 위험하잖아요.”"
     voice "voices/hc11.ogg"
-    현지 "「でも、でも危ないじゃないですか」"
+    현지 "「で、でも危ないじゃないですか。」"
 
-# game/chapter3.rpy:2922
+# game/chapter3.rpy:2925
 translate japanese ecg5_label_27478f49:
 
     # voice ""
     # 나 "“괜찮아. 이러고 있어야 잘 들리는 것 같아서.”"
     voice ""
-    나 "「大丈夫だ。こうしているとよく聞こえるみたいだから」"
+    나 "「大丈夫だよ。こうしてた方がよく聞こえる気がしてさ。」"
 
-# game/chapter3.rpy:2924
+# game/chapter3.rpy:2927
 translate japanese ecg5_label_4e702175:
 
     # voice "voices/hc12.ogg"
     # 현지 "“뭐가 들린다는 거예요?”"
     voice "voices/hc12.ogg"
-    현지 "「何が聞こえるんですか？」"
+    현지 "「何が聞こえるっていうんですか？」"
 
-# game/chapter3.rpy:2926
+# game/chapter3.rpy:2929
 translate japanese ecg5_label_6c94c754:
 
     # voice ""
     # 나 "“…… 글쎄, 외계인이 부르기라도 하는 건가.”"
     voice ""
-    나 "「……さあ、宇宙人が呼んでいるのかな」"
+    나 "「……さあ、宇宙人にでも呼ばれてるのかな。」"
 
-# game/chapter3.rpy:2931
+# game/chapter3.rpy:2934
 translate japanese ecg5_label_f998b909:
 
     # "생각하기 귀찮다는 것을 티 내기라도 하려는 듯, 나는 더없이 가벼운 목소리로 중얼거렸다."
-    "考えるのが面倒だというのをわざとらしく見せようとでもするように、俺はとても軽い声でつぶやいた。"
+    "考えるのが面倒だと言わんばかりに、俺はこれ以上ないほど軽い声で呟いた。"
 
-# game/chapter3.rpy:2932
+# game/chapter3.rpy:2935
 translate japanese ecg5_label_a71cd087:
 
     # "그날도 마음속에서 들려오는 무언의 아우성이 터져버린 날이었다."
-    "その日も心の中で聞こえてくる何かの咆哮が爆発した日だった。"
+    "あの日も、心の中から聞こえてくる無言の叫びが爆発した日だった。"
 
-# game/chapter3.rpy:2933
+# game/chapter3.rpy:2936
 translate japanese ecg5_label_68da895f:
 
     # "과거로 돌아가야만 한다는 무언의 아우성."
-    "過去に戻らなければならないという何かの咆哮。"
+    "過去に戻らなければならないという無言の叫び。"
 
-# game/chapter3.rpy:2934
+# game/chapter3.rpy:2937
 translate japanese ecg5_label_0b8363d5:
 
     # "2학년으로 올라온 뒤로는 그런 무의식의 외침이 크게 들려오는 날이 확실히 줄긴 했지만, 그래도 가끔 이런 기분이 들 때가 있었다."
-    "2年生になってからはそんな無意識の叫びが大きく聞こえてくる日が確かに減ったが、それでもたまにこんな気分になる時があった。"
+    "二年に上がってからは、そうした無意識の叫びが大きく聞こえてくる日は確かに減ったが、それでもたまにこういう気分になることがあった。"
 
-# game/chapter3.rpy:2936
+# game/chapter3.rpy:2939
 translate japanese ecg5_label_b8d23e8f:
 
     # "자꾸만 주마등처럼 모호한 과거의 감각들이 온몸을 스쳐 지나갔다."
-    "ずっと馬車馬のように曖昧な過去の感覚たちが全身をかすめて通り過ぎていった。"
+    "しきりに走馬灯のように曖昧な過去の感覚が全身をかすめていった。"
 
-# game/chapter3.rpy:2938
+# game/chapter3.rpy:2941
 translate japanese ecg5_label_e2ad6cd7:
 
     # "감각 하나하나가 나를 스쳐 지나갈 때마다 느껴지는 답답함에 숨이 막혀왔다."
-    "感覚一つ一つが俺をかすめて通り過ぎるたびに感じる窮屈さに息が詰まってきた。"
+    "一つ一つの感覚が俺をかすめるたびに感じる息苦しさに、呼吸が詰まりそうになった。"
 
-# game/chapter3.rpy:2939
+# game/chapter3.rpy:2942
 translate japanese ecg5_label_516dfff4:
 
     # "현지는 내 쪽을 향해 조심조심 발걸음을 떼고 있었다."
-    "ヒョンジは俺の方に向かって慎重に足を踏み出していた。"
+    "ヒョンジは俺の方に向かって、そろりそろりと足を踏み出していた。"
 
-# game/chapter3.rpy:2943
+# game/chapter3.rpy:2946
 translate japanese ecg5_label_b2a8fada:
 
     # "소리를 지르고 싶었지만, 입술을 깨물었다."
-    "声を上げたかったが、唇を噛んだ。"
+    "叫びたかったが、唇を噛んだ。"
 
-# game/chapter3.rpy:2944
+# game/chapter3.rpy:2947
 translate japanese ecg5_label_e7e30c92:
 
     # "분명 내일이 되어 무언의 아우성이 가라앉으면 내가 했던 행동 하나하나를 후회하게 될 테니까."
-    "きっと明日になれば何かの咆哮が収まって、俺がした行動一つ一つを後悔することになるだろう。"
+    "きっと明日になって無言の叫びが収まれば、自分のした行動の一つ一つを後悔することになるだろうから。"
 
-# game/chapter3.rpy:2948
+# game/chapter3.rpy:2951
 translate japanese ecg5_label_6e105c20:
 
     # 나 "“나, 감정 기복이 좀 심해. 오락가락한다고나 할까. 내일이면 괜찮아질 테니까 걱정하지 마.”"
-    나 "「俺、感情の起伏がちょっと激しいんだ。浮き沈みするっていうか。明日になれば大丈夫になるから心配しないで」"
+    나 "「俺、感情の起伏が結構激しいんだ。行ったり来たりするっていうか。明日になれば大丈夫になるから、心配するな。」"
 
-# game/chapter3.rpy:2949
+# game/chapter3.rpy:2952
 translate japanese ecg5_label_915b44b2:
 
     # voice "voices/hc13.ogg"
     # 현지 "“저…… 그래도 난간에서는 내려오는 게…….”"
     voice "voices/hc13.ogg"
-    현지 "「私……でも欄干からは降りてくるほうが……」"
+    현지 "「あの……それでも手すりからは降りた方が……。」"
 
-# game/chapter3.rpy:2951
+# game/chapter3.rpy:2954
 translate japanese ecg5_label_1fbf0303_1:
 
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……」"
+    나 "「……。」"
 
-# game/chapter3.rpy:2954
+# game/chapter3.rpy:2957
 translate japanese ecg5_label_913ebd84:
 
     # "난간에서 내려오기 위해 자세를 바꾸려는 순간이었다."
-    "欄干から降りるために姿勢を変えようとした瞬間だった。"
+    "手すりから降りるために体勢を変えようとした瞬間だった。"
 
-# game/chapter3.rpy:2955
+# game/chapter3.rpy:2958
 translate japanese ecg5_label_f9fb1767:
 
     # "겨울바람인지, 봄바람인지 모를 어중간한 바람이 옥상을 덮쳤다."
-    "冬風なのか、春風なのか分からない中途半端な風が屋上を覆った。"
+    "冬の風なのか春の風なのかわからない中途半端な風が、屋上を襲った。"
 
-# game/chapter3.rpy:2959
+# game/chapter3.rpy:2962
 translate japanese ecg5_label_378647b9:
 
     # 나 "“어어…….”"
-    나 "「ああ……」"
+    나 "「うわ……。」"
 
-# game/chapter3.rpy:2961
+# game/chapter3.rpy:2964
 translate japanese ecg5_label_7362f7da:
 
     # "몸이 균형을 잃고 쓰러지려는 찰나, 뒤에서 “안 돼요!”라는 목소리가 들려왔다."
-    "体がバランスを失って倒れようとする刹那、後ろから「ダメです！」という声が聞こえた。"
+    "体がバランスを崩して倒れそうになった刹那、後ろから「ダメです！」という声が聞こえた。"
 
-# game/chapter3.rpy:2962
+# game/chapter3.rpy:2965
 translate japanese ecg5_label_d69cd8e9:
 
     # "어느새 허겁지겁 내 앞까지 달려온 현지가 나를 향해 손을 뻗으려는 그때."
-    "いつの間にか慌てて俺の前まで走ってきたヒョンジが俺に向かって手を伸ばそうとするその時。"
+    "いつの間にか慌てて俺の前まで駆けつけたヒョンジが、俺に向かって手を伸ばそうとしたその時。"
 
-# game/chapter3.rpy:2964
+# game/chapter3.rpy:2967
 translate japanese ecg5_label_0c445297:
 
     # "나의 몸은 균형을 완전히 잃고 아래로 떨어졌다."
-    "俺の体はバランスを完全に失って下に落ちた。"
+    "俺の体は完全にバランスを失い、下へと落ちた。"
 
-# game/chapter3.rpy:2969
+# game/chapter3.rpy:2972
 translate japanese ecg5_label_72de2bc9:
 
     # "추락은 순식간에 끝이 났다."
-    "墜落は一瞬で終わった。"
+    "落下は一瞬で終わった。"
 
-# game/chapter3.rpy:2970
+# game/chapter3.rpy:2973
 translate japanese ecg5_label_b64d9859:
 
     # voice "voices/hc14.ogg"
     # 현지 "“아야야…….”"
     voice "voices/hc14.ogg"
-    현지 "「あいたた……」"
+    현지 "「痛たたた……。」"
 
-# game/chapter3.rpy:2972
+# game/chapter3.rpy:2975
 translate japanese ecg5_label_069a831e:
 
     # voice ""
     # "나의 아래에서 현지의 목소리가 새어 나왔다."
     voice ""
-    "俺の下からヒョンジの声が漏れてきた。"
+    "俺の下からヒョンジの声が漏れ聞こえた。"
 
-# game/chapter3.rpy:2974
+# game/chapter3.rpy:2977
 translate japanese ecg5_label_04f54ddc:
 
     # "내가 떨어진 곳이 저 건물 아래가 아닌 현지 바로 위라는 것을 깨닫는 데까지 그리 오랜 시간이 걸리지는 않았다."
-    "俺が落ちたところがあの建物の下ではなく、ヒョンジのすぐ上だということに気づくのにそれほど長い時間はかからなかった。"
+    "自分が落ちた先があの建物の下ではなくヒョンジの真上だと気づくまで、そう長い時間はかからなかった。"
 
-# game/chapter3.rpy:2975
+# game/chapter3.rpy:2978
 translate japanese ecg5_label_2aa2429e:
 
     # "나는 얼른 몸을 일으켜서는 현지에게 말을 건넸다."
-    "俺はすぐに体を起こしてヒョンジに声をかけた。"
+    "俺は急いで体を起こし、ヒョンジに声をかけた。"
 
-# game/chapter3.rpy:2977
+# game/chapter3.rpy:2980
 translate japanese ecg5_label_8cac0c97:
 
     # 나 "“…… 미안. 괜찮아?”"
-    나 "「……ごめん。大丈夫？」"
+    나 "「……悪い。大丈夫か？」"
 
-# game/chapter3.rpy:2979
+# game/chapter3.rpy:2982
 translate japanese ecg5_label_d95b7633:
 
     # "현지도 다리를 털고 일어나려 했지만, 그대로 풀썩 주저앉아 버렸다."
-    "ヒョンジも足を払って立ち上がろうとしたが、そのままふっと座り込んでしまった。"
+    "ヒョンジも足を払って立ち上がろうとしたが、そのまま力なくへたり込んでしまった。"
 
-# game/chapter3.rpy:2980
+# game/chapter3.rpy:2983
 translate japanese ecg5_label_7cbd0354:
 
     # "그녀는 내 말에 대답하지 않고 있었다."
-    "彼女は俺の言葉に答えていなかった。"
+    "彼女は俺の言葉に答えなかった。"
 
-# game/chapter3.rpy:2981
+# game/chapter3.rpy:2984
 translate japanese ecg5_label_779e959a:
 
     # "많이 다치기라도 한 걸까."
-    "かなり怪我でもしたのだろうか。"
+    "ひどく怪我でもしたのだろうか。"
 
-# game/chapter3.rpy:2982
+# game/chapter3.rpy:2985
 translate japanese ecg5_label_52102785:
 
     # "몸을 쪼그려 현지의 상태를 확인해보려는데, 뒤늦게 현지의 목소리가 들려왔다."
-    "体を丸めてヒョンジの様子を確認しようとしたら、遅れてヒョンジの声が聞こえてきた。"
+    "身をかがめてヒョンジの様子を確認しようとしたところに、遅れてヒョンジの声が聞こえてきた。"
 
-# game/chapter3.rpy:2983
+# game/chapter3.rpy:2986
 translate japanese ecg5_label_ed4c5795:
 
     # voice "voices/hc15.ogg"
     # 현지 "“위, 위험했잖아요……. 하마터면 큰일 날 뻔…….”"
     voice "voices/hc15.ogg"
-    현지 "「危、危なかったじゃないですか……。もう少しで大変なことになるところ……」"
+    현지 "「あ、危なかったじゃないですか……。もう少しで大変なことに……。」"
 
-# game/chapter3.rpy:2985
+# game/chapter3.rpy:2988
 translate japanese ecg5_label_6389ca0e:
 
     # voice ""
@@ -7104,505 +7104,505 @@ translate japanese ecg5_label_6389ca0e:
     voice ""
     "ヒョンジの声が震えていた。"
 
-# game/chapter3.rpy:2988
+# game/chapter3.rpy:2991
 translate japanese ecg5_label_4d407965:
 
     # 나 "“…… 미안. 부딪혔을 때 많이 다쳤어?”"
-    나 "「……ごめん。ぶつかった時に怪我した？」"
+    나 "「……悪い。ぶつかった時、ひどく怪我したか？」"
 
-# game/chapter3.rpy:2989
+# game/chapter3.rpy:2992
 translate japanese ecg5_label_fa4fe3f0:
 
     # voice "voices/hc16.ogg"
     # 현지 "“아, 아녜요. 그냥 살짝 부딪힌 것뿐이니까요. 이건 다리에 힘이 풀려서…….”"
     voice "voices/hc16.ogg"
-    현지 "「あ、いいえ。ただちょっとぶつかっただけですから。これは足に力が抜けて……」"
+    현지 "「い、いえ。ちょっとぶつかっただけですから。これは足の力が抜けちゃって……。」"
 
-# game/chapter3.rpy:2992
+# game/chapter3.rpy:2995
 translate japanese ecg5_label_216ded73:
 
     # voice ""
     # "고개를 슬쩍 들어 보인 현지가, 헤실헤실 웃었다."
     voice ""
-    "顔をそっと上げて見せたヒョンジが、へらへら笑った。"
+    "顔をちらりと上げたヒョンジが、へにゃりと笑った。"
 
-# game/chapter3.rpy:2995
+# game/chapter3.rpy:2998
 translate japanese ecg5_label_0b9fe922:
 
     # "몸에 충격이 가해져서였을까."
-    "体に衝撃が加わったせいだろうか。"
+    "体に衝撃が加わったからだろうか。"
 
-# game/chapter3.rpy:2996
+# game/chapter3.rpy:2999
 translate japanese ecg5_label_56748338:
 
     # "들려오던 무의식의 외침이 조금씩 가라앉고 있었다."
-    "聞こえてきた無意識の叫びが少しずつ収まっていた。"
+    "聞こえていた無意識の叫びが、少しずつ静まっていた。"
 
-# game/chapter3.rpy:2997
+# game/chapter3.rpy:3000
 translate japanese ecg5_label_df919115:
 
     # "몇 분 정도가 지나고, 현지는 나의 손을 붙잡고선 몸을 일으킬 수 있었다."
-    "数分が経って、ヒョンジは俺の手を握って体を起こすことができた。"
+    "数分ほどが経ち、ヒョンジは俺の手を掴んで体を起こすことができた。"
 
-# game/chapter3.rpy:3003
+# game/chapter3.rpy:3006
 translate japanese ecg5_label_cac60e35:
 
     # 나 "“옥상엔 어쩌다 올라온 거야?”"
-    나 "「屋上にはどうして上がってきたんだ？」"
+    나 "「なんで屋上に上がってきたんだ？」"
 
-# game/chapter3.rpy:3004
+# game/chapter3.rpy:3007
 translate japanese ecg5_label_17d7686c:
 
     # voice "voices/hc17.ogg"
     # 현지 "“그건 제가 묻고 싶은 거라고요.”"
     voice "voices/hc17.ogg"
-    현지 "「それは私が聞きたいことですよ」"
+    현지 "「それは私が聞きたいことなんですけど。」"
 
-# game/chapter3.rpy:3006
+# game/chapter3.rpy:3009
 translate japanese ecg5_label_1631c7e3:
 
     # voice ""
     # 나 "“…… 그런가.”"
     voice ""
-    나 "「……そうか」"
+    나 "「……そうか。」"
 
-# game/chapter3.rpy:3009
+# game/chapter3.rpy:3012
 translate japanese ecg5_label_531a326a:
 
     # "특별히 궁금한 건 아니었으니까."
-    "特に気になることはなかったから。"
+    "特に気になったわけでもなかったから。"
 
-# game/chapter3.rpy:3011
+# game/chapter3.rpy:3014
 translate japanese ecg5_label_b021b7af:
 
     # "나는 질문을 철회하고선, 출입문 쪽으로 발걸음을 돌렸다."
-    "俺は質問を撤回して出入り口の方に足を向けた。"
+    "俺は質問を撤回し、出入り口の方へ足を向けた。"
 
-# game/chapter3.rpy:3012
+# game/chapter3.rpy:3015
 translate japanese ecg5_label_2762c320:
 
     # "현지와 스쳐 지나가며, 나는 그녀에게 부탁의 말을 건넸다."
-    "ヒョンジとすれ違いながら、俺は彼女に頼みの言葉をかけた。"
+    "ヒョンジとすれ違いざまに、俺は彼女に頼み事をした。"
 
-# game/chapter3.rpy:3014
+# game/chapter3.rpy:3017
 translate japanese ecg5_label_00460be5:
 
     # 나 "“아, 그리고 방금 있었던 일은 유미한테는 비밀로 해줘. 부탁할게.”"
-    나 "「あ、それとさっきあったことはユミには秘密にしてくれ。頼むよ」"
+    나 "「あ、それとさっきのことはユミには内緒にしてくれ。頼むよ。」"
 
-# game/chapter3.rpy:3017
+# game/chapter3.rpy:3020
 translate japanese ecg5_label_1b62faf5:
 
     # "그런 이야기를 남긴 채, 옥상 아래로 내려가려는 셈이었다."
-    "そんな話を残して、屋上から降りようとしたのだった。"
+    "そう言い残して、屋上から降りるつもりだった。"
 
-# game/chapter3.rpy:3020
+# game/chapter3.rpy:3023
 translate japanese ecg5_label_97f1697a:
 
     # voice "voices/hc18.ogg"
     # 현지 "“싫어요.”"
     voice "voices/hc18.ogg"
-    현지 "「嫌です」"
+    현지 "「嫌です。」"
 
-# game/chapter3.rpy:3024
+# game/chapter3.rpy:3027
 translate japanese ecg5_label_91f85157:
 
     # voice ""
     # "또박또박 들려온 현지의 목소리에, 나는 그만 걸음을 멈춰 세워야만 했다."
     voice ""
-    "はっきりと聞こえてきたヒョンジの声に、俺はやむなく足を止めて立ち止まらなければならなかった。"
+    "はっきりと聞こえてきたヒョンジの声に、俺は思わず足を止めざるを得なかった。"
 
-# game/chapter3.rpy:3032
+# game/chapter3.rpy:3035
 translate japanese ecg5_label_9345071c:
 
     # "뒤를 돌아보았다."
-    "後ろを振り返った。"
+    "振り返った。"
 
-# game/chapter3.rpy:3033
+# game/chapter3.rpy:3036
 translate japanese ecg5_label_50f9d8bc:
 
     # "현지는 나를 빤히 바라보고 있었다."
     "ヒョンジは俺をじっと見つめていた。"
 
-# game/chapter3.rpy:3034
+# game/chapter3.rpy:3037
 translate japanese ecg5_label_c72154c4:
 
     # "시선을 돌릴 생각 같은 건 없어 보였다."
-    "目をそらすつもりなんてなさそうだった。"
+    "視線をそらすつもりなど、まるでなさそうだった。"
 
-# game/chapter3.rpy:3035
+# game/chapter3.rpy:3038
 translate japanese ecg5_label_14bc3999:
 
     # voice "voices/hc19.ogg"
     # 현지 "“그럼 제 부탁도 들어줘요.”"
     voice "voices/hc19.ogg"
-    현지 "「じゃあ私の頼みも聞いてください」"
+    현지 "「なら、私のお願いも聞いてください。」"
 
-# game/chapter3.rpy:3037
+# game/chapter3.rpy:3040
 translate japanese ecg5_label_86604f21:
 
     # voice ""
     # 나 "“…… 무슨 부탁?”"
     voice ""
-    나 "「……どんな頼み？」"
+    나 "「……何の頼みだ？」"
 
-# game/chapter3.rpy:3039
+# game/chapter3.rpy:3042
 translate japanese ecg5_label_3d5c9c6f:
 
     # voice "voices/hc20.ogg"
     # 현지 "“왜 난간에 걸터앉아 있었던 건지 이야기해주세요.”"
     voice "voices/hc20.ogg"
-    현지 "「どうして欄干にぶら下がっていたのか話してください」"
+    현지 "「なぜ手すりに腰掛けていたのか、話してください。」"
 
-# game/chapter3.rpy:3041
+# game/chapter3.rpy:3044
 translate japanese ecg5_label_8c1a71af:
 
     # voice ""
     # 나 "“으음…….”"
     voice ""
-    나 "「うーん……」"
+    나 "「うーん……。」"
 
-# game/chapter3.rpy:3044
+# game/chapter3.rpy:3047
 translate japanese ecg5_label_bd1683c7:
 
     # "난감한 듯 고개를 돌리려다 말고, 현지의 눈동자를 읽었다."
-    "困ったように頭を振ろうとしてやめて、ヒョンジの瞳を読んだ。"
+    "困ったように顔をそむけかけて、ヒョンジの瞳を読み取った。"
 
-# game/chapter3.rpy:3045
+# game/chapter3.rpy:3048
 translate japanese ecg5_label_126dd072:
 
     # "질문을 철회할 생각 같은 건 일절 없어 보이는 단호한 눈빛이 현지의 얼굴에서 또렷이 읽혔다."
-    "質問を撤回するつもりなんて全くなさそうな断固とした眼差しがヒョンジの顔からはっきりと読み取れた。"
+    "質問を撤回するつもりなど一切なさそうな断固とした眼差しが、ヒョンジの顔にくっきりと浮かんでいた。"
 
-# game/chapter3.rpy:3047
+# game/chapter3.rpy:3050
 translate japanese ecg5_label_f20222bb:
 
     # "어쩔 수 없나."
     "仕方ないか。"
 
-# game/chapter3.rpy:3048
+# game/chapter3.rpy:3051
 translate japanese ecg5_label_8d1aaffb:
 
     # "발걸음의 방향이 바뀌었다."
     "足の向きが変わった。"
 
-# game/chapter3.rpy:3049
+# game/chapter3.rpy:3052
 translate japanese ecg5_label_9c7ae7fd:
 
     # "나는 다시금 난간 쪽으로 향하고 있었다."
-    "俺は再び欄干の方に向かっていた。"
+    "俺は再び手すりの方へ向かっていた。"
 
-# game/chapter3.rpy:3053
+# game/chapter3.rpy:3056
 translate japanese ecg5_label_943fef85:
 
     # voice "voices/hc21.ogg"
     # 현지 "“잠깐만요. 뭐 하려는 거예요?”"
     voice "voices/hc21.ogg"
-    현지 "「ちょっと待って。何しようとしてるんですか？」"
+    현지 "「ちょっと待ってください。何をするつもりですか？」"
 
-# game/chapter3.rpy:3055
+# game/chapter3.rpy:3058
 translate japanese ecg5_label_bbf5eeb9:
 
     # voice ""
     # "그런 나를 향해, 현지의 당혹스러운 외침이 들려왔다."
     voice ""
-    "そんな俺に向かって、ヒョンジの戸惑った叫びが聞こえてきた。"
+    "そんな俺に向かって、ヒョンジの戸惑った声が飛んできた。"
 
-# game/chapter3.rpy:3057
+# game/chapter3.rpy:3060
 translate japanese ecg5_label_3dd6e6a0:
 
     # "하지만 나는 아랑곳하지 않고선 그대로 몸을 난간에 기대었다."
-    "でも俺は気にもせずそのまま体を欄干に寄せた。"
+    "しかし俺は構わず、そのまま体を手すりにもたれかけた。"
 
-# game/chapter3.rpy:3058
+# game/chapter3.rpy:3061
 translate japanese ecg5_label_3c6264bf:
 
     # "별일 아니라는 것처럼."
-    "別に何でもないように。"
+    "何でもないことのように。"
 
-# game/chapter3.rpy:3060
+# game/chapter3.rpy:3063
 translate japanese ecg5_label_af8936fb:
 
     # 나 "“그냥, 이렇게 해야 이야기가 잘 나올 것 같아서.”"
-    나 "「だって、こうしてると話がよく出てくるみたいだから」"
+    나 "「いや、こうしてた方が話しやすい気がしてさ。」"
 
-# game/chapter3.rpy:3065
+# game/chapter3.rpy:3068
 translate japanese ecg5_label_d38fdd7c:
 
     # "철제 난간의 차가운 감촉이 등에 닿는다."
-    "鉄製の欄干の冷たい感触が背中に触れる。"
+    "鉄の手すりの冷たい感触が背中に触れる。"
 
-# game/chapter3.rpy:3066
+# game/chapter3.rpy:3069
 translate japanese ecg5_label_4847cbc2:
 
     # "차가운 경계선에 맞닿아 있는 나는, 그 경계선 바깥의 것들과 최대한 가까워진 상태이다."
-    "冷たい境界線に触れている俺は、その境界線の外のものとできるだけ近づいた状態だ。"
+    "冷たい境界線に触れている俺は、その境界線の向こう側にあるものたちと最大限に近づいた状態だ。"
 
-# game/chapter3.rpy:3067
+# game/chapter3.rpy:3070
 translate japanese ecg5_label_481b184f:
 
     # "난간에 몸을 기댄 채, 나는 현지에게 여태껏 있었던 일들을 설명해주었다."
-    "欄干に体を寄せたまま、俺はヒョンジに今まであったことを説明してやった。"
+    "手すりに体をもたれかけたまま、俺はヒョンジにこれまであったことを説明した。"
 
-# game/chapter3.rpy:3069
+# game/chapter3.rpy:3072
 translate japanese ecg5_label_9815ce6b:
 
     # "과거에서 현재로 오게 된 일부터, 이때까지 과거로 돌아갈 방법을 찾아보기도 했다는 이야기."
-    "過去から現在に来たことから始めて、この間ずっと過去に戻る方法を探してみたという話。"
+    "過去から現在に来たことから、これまで過去に戻る方法を探してもみたという話。"
 
-# game/chapter3.rpy:3070
+# game/chapter3.rpy:3073
 translate japanese ecg5_label_32de4316:
 
     # "그리고 이러한 노력에도 불구하고 그다지 진전이 없다는 것까지."
-    "そしてそんな努力にもかかわらずあまり進展がないということまで。"
+    "そしてこうした努力にもかかわらず、あまり進展がないということまで。"
 
-# game/chapter3.rpy:3072
+# game/chapter3.rpy:3075
 translate japanese ecg5_label_9a45b114:
 
     # "이야기를 끝내고 현지를 바라보았을 땐, 가볍게 고개를 끄덕이고 있는 현지의 모습이 보였다."
-    "話を終えてヒョンジを見たとき、軽く頷いているヒョンジの姿が見えた。"
+    "話し終えてヒョンジを見ると、軽く頷いているヒョンジの姿が見えた。"
 
-# game/chapter3.rpy:3073
+# game/chapter3.rpy:3076
 translate japanese ecg5_label_472af8c0:
 
     # "그러던 현지가 옆으로 고개를 홱 돌렸다."
-    "そうしているヒョンジが横に頭をぱっと向けた。"
+    "そうしていたヒョンジが、ふいに横を向いた。"
 
-# game/chapter3.rpy:3074
+# game/chapter3.rpy:3077
 translate japanese ecg5_label_90c5bbe7:
 
     # "시선이 마주치고, 시선을 교차했다."
-    "視線が合って、視線が交差した。"
+    "視線が合い、視線が交差した。"
 
-# game/chapter3.rpy:3076
+# game/chapter3.rpy:3079
 translate japanese ecg5_label_0f3af42e:
 
     # "나는 난간대에 기대어 있던 몸을 일으켰다."
-    "俺は欄干に寄りかかっていた体を起こした。"
+    "俺は手すりにもたれていた体を起こした。"
 
-# game/chapter3.rpy:3078
+# game/chapter3.rpy:3081
 translate japanese ecg5_label_d4c5a89d:
 
     # 나 "“그럼 됐지? 유미에겐 정말 비밀로 부탁해.”"
-    나 "「じゃあいいか？ユミには本当に秘密に頼むよ」"
+    나 "「これでいいだろ？　ユミには本当に内緒にしてくれよ。」"
 
-# game/chapter3.rpy:3085
+# game/chapter3.rpy:3088
 translate japanese ecg5_label_9a2cf6af:
 
     # voice "voices/hc22.ogg"
     # 현지 "“안 돼요.”"
     voice "voices/hc22.ogg"
-    현지 "「ダメです」"
+    현지 "「ダメです。」"
 
-# game/chapter3.rpy:3087
+# game/chapter3.rpy:3090
 translate japanese ecg5_label_1fbf0303_2:
 
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……」"
+    나 "「……。」"
 
-# game/chapter3.rpy:3090
+# game/chapter3.rpy:3093
 translate japanese ecg5_label_f9930fc0:
 
     # "전혀 예상치 못한 반응이었다."
-    "全く予想しなかった反応だった。"
+    "まったく予想していなかった反応だった。"
 
-# game/chapter3.rpy:3091
+# game/chapter3.rpy:3094
 translate japanese ecg5_label_3c28d808:
 
     # "앞으로 나아가려던 나는, 여전히 난간대 앞에 멀뚱히 선 채였다."
-    "前に進もうとした俺は、相変わらず欄干の前にぼんやりと立っていた。"
+    "前に進もうとしていた俺は、相変わらず手すりの前にぽかんと立ったままだった。"
 
-# game/chapter3.rpy:3095
+# game/chapter3.rpy:3098
 translate japanese ecg5_label_e51f9bb4:
 
     # 나 "“이야기 다 해줬는데. 이러면 약속이랑 다르잖아.”"
-    나 "「話は全部してやったんだ。これじゃ約束と違うだろ」"
+    나 "「全部話しただろ。これじゃ約束と違うじゃないか。」"
 
-# game/chapter3.rpy:3096
+# game/chapter3.rpy:3099
 translate japanese ecg5_label_6183dd23:
 
     # voice "voices/hc23.ogg"
     # 현지 "“하나만 부탁한다고는 안 했는걸요?”"
     voice "voices/hc23.ogg"
-    현지 "「一つだけお願いするとは言ってないでしょ？」"
+    현지 "「一つだけお願いするとは言ってませんよ？」"
 
-# game/chapter3.rpy:3098
+# game/chapter3.rpy:3101
 translate japanese ecg5_label_389095a6:
 
     # voice ""
     # "그랬었나."
     voice ""
-    "そうだったのか。"
+    "そうだったか。"
 
-# game/chapter3.rpy:3100
+# game/chapter3.rpy:3103
 translate japanese ecg5_label_c6f0bae7:
 
     # "하지만 어느 쪽이었던지 간에, 속았다는 느낌이 드는 건 당연하다."
-    "でもどちらにしろ、騙された感じがするのは当然だ。"
+    "しかしどちらにしても、騙されたという感覚を覚えるのは当然だ。"
 
-# game/chapter3.rpy:3101
+# game/chapter3.rpy:3104
 translate japanese ecg5_label_8065f3d9:
 
     # voice "voices/hc24.ogg"
     # 현지 "“딱 하나만 더 들어주면 정말 이야기 안 할게요.”"
     voice "voices/hc24.ogg"
-    현지 "「ちょっとだけもう一つ聞いてくれたら本当に話しません」"
+    현지 "「あと一つだけ聞いてくれたら、本当に言いませんから。」"
 
-# game/chapter3.rpy:3103
+# game/chapter3.rpy:3106
 translate japanese ecg5_label_8c1a71af_1:
 
     # voice ""
     # 나 "“으음…….”"
     voice ""
-    나 "「うーん……」"
+    나 "「うーん……。」"
 
-# game/chapter3.rpy:3106
+# game/chapter3.rpy:3109
 translate japanese ecg5_label_bf748d29:
 
     # "부탁 같은 말이었지만, 사실 내게 달리 방법이 있는 것도 아니었다."
-    "頼みのような言葉だったが、実際に俺に他に方法があるわけでもなかった。"
+    "お願いのような言葉だったが、実際のところ俺に他の選択肢があるわけでもなかった。"
 
-# game/chapter3.rpy:3107
+# game/chapter3.rpy:3110
 translate japanese ecg5_label_21d9ad1b:
 
     # "선택지가 하나뿐인 게임이라."
-    "選択肢が一つしかないゲームだから。"
+    "選択肢が一つしかないゲームだ。"
 
-# game/chapter3.rpy:3108
+# game/chapter3.rpy:3111
 translate japanese ecg5_label_ef579c49:
 
     # "이런 게임은 별로 안 좋아하는데 말이다."
-    "こんなゲームはあまり好きじゃないんだけどな。"
+    "こういうゲームはあまり好きじゃないんだけどな。"
 
-# game/chapter3.rpy:3110
+# game/chapter3.rpy:3113
 translate japanese ecg5_label_baf086c5:
 
     # 나 "“그래. 무슨 부탁인데.”"
-    나 "「そうだ。何の頼みなんだ」"
+    나 "「わかった。何の頼みだ。」"
 
-# game/chapter3.rpy:3112
+# game/chapter3.rpy:3115
 translate japanese ecg5_label_6d45eeca:
 
     # "선심 쓰듯 이야기를 꺼낸 나였지만, 대화를 리드하는 쪽은 현지임에 틀림 없었다."
-    "善意を見せるように話を出した俺だったが、会話をリードする方はヒョンジに間違いなかった。"
+    "偉そうに話を切り出した俺だったが、会話をリードしているのはヒョンジに違いなかった。"
 
-# game/chapter3.rpy:3113
+# game/chapter3.rpy:3116
 translate japanese ecg5_label_d8b6111f:
 
     # "그렇다고 해도, 직후 현지가 꺼낸 이야기는 내 예상과 완벽히 틀어진 방향을 향하고 있었다."
-    "それでも、直後にヒョンジが出した話は俺の予想と完全に違う方向を向いていた。"
+    "それでも、直後にヒョンジが切り出した話は、俺の予想とは完全に違う方向を向いていた。"
 
-# game/chapter3.rpy:3115
+# game/chapter3.rpy:3118
 translate japanese ecg5_label_e6b84d37:
 
     # voice "voices/hc25.ogg"
     # 현지 "“앞으로는 ‘신경 쓰지 마’라는 말, 하기 없기예요.”"
     voice "voices/hc25.ogg"
-    현지 "「これからは「気にしないで」という言葉、言わないでください」"
+    현지 "「これからは『気にするな』って言うの、禁止ですよ。」"
 
-# game/chapter3.rpy:3117
+# game/chapter3.rpy:3120
 translate japanese ecg5_label_2a1ca89e:
 
     # voice ""
     # "여태껏 맺힌 게 많았다고 이야기하는 듯한 현지의 눈빛이 내게 날아와 꽂혔다."
     voice ""
-    "今まで溜まっていたものが多かったと話すようなヒョンジの眼差しが俺に飛んできて刺さった。"
+    "今まで溜め込んできたものが沢山あると言わんばかりのヒョンジの眼差しが、俺に向かって飛んできて突き刺さった。"
 
-# game/chapter3.rpy:3120
+# game/chapter3.rpy:3123
 translate japanese ecg5_label_785eb295:
 
     # voice "voices/hc26.ogg"
     # 현지 "“매번 제가 말 걸려고 할 때마다 신경 쓰지 말라고 했었잖아요.”"
     voice "voices/hc26.ogg"
-    현지 "「私が話しかけようとするたびに気にしないでって言ってたじゃないですか」"
+    현지 "「毎回私が話しかけようとするたびに、気にするなって言ってたじゃないですか。」"
 
-# game/chapter3.rpy:3123
+# game/chapter3.rpy:3126
 translate japanese ecg5_label_bb497157:
 
     # voice "voices/hc27.ogg"
     # 현지 "“같은 동아리 부원인데, 너무한 거 아니에요?”"
     voice "voices/hc27.ogg"
-    현지 "「同じサークルの仲間なのに、ひどくないですか？」"
+    현지 "「同じ部活の部員なのに、ひどくないですか？」"
 
-# game/chapter3.rpy:3125
+# game/chapter3.rpy:3128
 translate japanese ecg5_label_0bc89780:
 
     # voice ""
     # 나 "“아, 으응…… 그렇지만…….”"
     voice ""
-    나 "「あ、ええ……そうだけど……」"
+    나 "「あ、うん……だけど……。」"
 
-# game/chapter3.rpy:3127
+# game/chapter3.rpy:3130
 translate japanese ecg5_label_2bf591b2:
 
     # voice "voices/hc28.ogg"
     # 현지 "“왜 그랬는지는 이제 알았으니까, 앞으로는 제가 신경 써도 받아 줘야 해요?”"
     voice "voices/hc28.ogg"
-    현지 "「どうしてそうしたのかは今わかったから、これからは私が気にしても受け入れてくれなきゃダメですよ？」"
+    현지 "「なぜそうしていたのかはもうわかったから、これからは私が気にかけても受け入れてくれなきゃダメですよ？」"
 
-# game/chapter3.rpy:3129
+# game/chapter3.rpy:3132
 translate japanese ecg5_label_8fc53323:
 
     # voice ""
     # 나 "“…… 알겠어.”"
     voice ""
-    나 "“……わかった。”"
+    나 "「……わかったよ。」"
 
-# game/chapter3.rpy:3132
+# game/chapter3.rpy:3135
 translate japanese ecg5_label_313eed97:
 
     # "묘하게 흘러가는 기류 속에서, 나는 고개를 끄덕일 수밖에 없었다."
-    "妙に流れていく空気の中で、俺は頷くしかなかった。"
+    "妙な空気の流れの中で、俺は頷くしかなかった。"
 
-# game/chapter3.rpy:3133
+# game/chapter3.rpy:3136
 translate japanese ecg5_label_64eae842:
 
     # "그 뒤로 몇 마디 이야기를 더 나누긴 했지만, 정확히 기억나는 내용은 머릿속에 얼마 남아 있지 않았다."
-    "その後に何か話をもう少ししたが、はっきりと覚えている内容は頭にあまり残っていなかった。"
+    "その後、もう少し言葉を交わしたりはしたが、正確に覚えている内容はあまり頭に残っていなかった。"
 
-# game/chapter3.rpy:3134
+# game/chapter3.rpy:3137
 translate japanese ecg5_label_4ce5561c:
 
     # "계단을 내려오며 교문을 나설 때쯤이었나."
-    "階段を降りて校門を出るころだったか。"
+    "階段を降りて校門を出る頃だったか。"
 
-# game/chapter3.rpy:3135
+# game/chapter3.rpy:3138
 translate japanese ecg5_label_c410fadf:
 
     # "집으로 가는 방향이 같다며 나를 따라오던 현지가, 이런 이야기를 했었다."
-    "家に帰る方向が同じだと言って俺についてきたヒョンジが、こんな話をしてきた。"
+    "帰る方向が同じだと俺についてきたヒョンジが、こんな話をしていた。"
 
-# game/chapter3.rpy:3136
+# game/chapter3.rpy:3139
 translate japanese ecg5_label_4f452c86:
 
     # voice "voices/hc29.ogg"
     # 현지 "“그리고 과거로 돌아가고 싶다고 했죠?”"
     voice "voices/hc29.ogg"
-    현지 "「それで過去に戻りたいと言ってましたよね？」"
+    현지 "「それと、過去に戻りたいって言ってましたよね？」"
 
-# game/chapter3.rpy:3138
+# game/chapter3.rpy:3141
 translate japanese ecg5_label_50843019:
 
     # voice ""
     # 나 "“응.”"
     voice ""
-    나 "「うん」"
+    나 "「うん。」"
 
-# game/chapter3.rpy:3143
+# game/chapter3.rpy:3146
 translate japanese ecg5_label_68e5f0a2:
 
     # voice "voices/hc30.ogg"
     # 현지 "“{color=#00ccff}저, 그 일 도와줄 수 있어요.{/color}”"
     voice "voices/hc30.ogg"
-    현지 "「{color=#00ccff}私、そのこと手伝えますよ。{/color}」"
+    현지 "「{color=#00ccff}私、それ手伝えますよ。{/color}」"
 
-# game/chapter3.rpy:3146
+# game/chapter3.rpy:3149
 translate japanese ecg5_label_139d94d6:
 
     # voice ""
     # "회상이 끝자락에 도달했을 때쯤, 옥상 문이 열리는 소리가 들려왔다."
     voice ""
-    "回想が終わりに近づいたころ、屋上のドアが開く音が聞こえてきた。"
+    "回想が終わりに差しかかった頃、屋上のドアが開く音が聞こえてきた。"
 

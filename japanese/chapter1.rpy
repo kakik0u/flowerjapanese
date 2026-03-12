@@ -290,7 +290,7 @@ translate japanese chapter1_4599686c:
     # voice "voices/ya8.ogg"
     # 유미 "“지, 지금 네 취향 물어본 게 아니잖아?!”"
     voice "voices/ya8.ogg"
-    유미 "「い、今あんたの好みなんて聞いてないでしょ？！」"
+    유미 "「い、今あんたの好みなんて聞いてないでしょ！？」"
 
 # game/chapter1.rpy:236
 translate japanese chapter1_a3363289:
@@ -574,7 +574,7 @@ translate japanese chapter1_1669d1e6:
     # voice "voices/ya19.ogg"
     # 유미 "“하긴, 그렇지?!”"
     voice "voices/ya19.ogg"
-    유미 "「ふふ、そうでしょ？！」"
+    유미 "「ふふ、そうでしょ！？」"
 
 # game/chapter1.rpy:403
 translate japanese chapter1_0a2065a4:
@@ -624,7 +624,7 @@ translate japanese chapter1_4a5570ac:
     # voice "voices/ya21.ogg"
     # 유미 "“캬캬, 그렇지? 그렇지?!”"
     voice "voices/ya21.ogg"
-    유미 "「キャハハ、でしょ？でしょ？！」"
+    유미 "「キャハハ、でしょ？でしょ！？」"
 
 # game/chapter1.rpy:434
 translate japanese chapter1_344ee484:
@@ -1110,7 +1110,7 @@ translate japanese ecg1_label_5c625bda:
     # voice "voices/ya36.ogg"
     # 유미 "“여기서 뭐해?! 이러다 신호 바뀌겠어.”"
     voice "voices/ya36.ogg"
-    유미 "「何してんの？！信号変わっちゃうよ。」"
+    유미 "「何してんの！？信号変わっちゃうよ。」"
 
 # game/chapter1.rpy:695
 translate japanese ecg1_label_b9405802:
@@ -1186,7 +1186,7 @@ translate japanese ecg1_label_465d4e56:
     # voice "voices/ya39.ogg"
     # 유미 "“혹시 지나가는 길에 네 이상형이라도 본 거야?”"
     voice "voices/ya39.ogg"
-    유미 "「もしかして、通りすがりにタイプの女の子でも見かけた？」"
+    유미 "「もしかして、通りすがりにタイプな女の子でも見かけた？」"
 
 # game/chapter1.rpy:729
 translate japanese ecg1_label_d36dbecc:
@@ -2352,7 +2352,7 @@ translate japanese ecg2_label_2530fee9:
     # voice "voices/ya65.ogg"
     # 유미 "“안녕, 또 만났네?!”"
     voice "voices/ya65.ogg"
-    유미 "「やっほー、また会ったね？！」"
+    유미 "「やっほー、また会ったね！？」"
 
 # game/chapter1.rpy:1186
 translate japanese ecg2_label_31d98d55:
@@ -2396,7 +2396,7 @@ translate japanese ecg2_label_d476a779:
     # voice "voices/ya67.ogg"
     # 유미 "“뭘 그렇게 보고 있는 거야?! 재밌는 거라도 있어?”"
     voice "voices/ya67.ogg"
-    유미 "「何をそんなに見てるの？！ 面白いものでもある？」"
+    유미 "「何をそんなに見てるの！？ 面白いものでもある？」"
 
 # game/chapter1.rpy:1198
 translate japanese ecg2_label_8032ed61:
@@ -2696,7 +2696,7 @@ translate japanese ecg2_label_b7d4c0d0:
     # voice "voices/ya73.ogg"
     # 유미 "“뭐야? 그 반응은?!”"
     voice "voices/ya73.ogg"
-    유미 "「何？ その反応は？！」"
+    유미 "「何？ その反応は！？」"
 
 # game/chapter1.rpy:1314
 translate japanese ecg2_label_b0e9db24:
@@ -3394,7 +3394,7 @@ translate japanese chapter1_2_152d93aa:
     # voice "voices/ya81.ogg"
     # 유미 "“아, 아니거든? 그냥 우연히 마주친 거거든?!”"
     voice "voices/ya81.ogg"
-    유미 "「ち、違うし？ ただ偶然会っただけだし？！」"
+    유미 "「ち、違うし？ ただ偶然会っただけだし！？」"
 
 # game/chapter1.rpy:1588
 translate japanese chapter1_2_441aaafe:
@@ -3490,7 +3490,7 @@ translate japanese chapter1_2_f1175588:
     # voice "voices/ya84.ogg"
     # 유미 "“그, 그러는 너는?! 집에 간대놓고 어디로 가고 있었던 거야?”"
     voice "voices/ya84.ogg"
-    유미 "「そ、そういうあんたは？！ 家に帰るって言っておいてどこに行こうとしてたの？」"
+    유미 "「そ、そういうあんたは！？ 家に帰るって言っておいてどこに行こうとしてたの？」"
 
 # game/chapter1.rpy:1616
 translate japanese chapter1_2_1fbf0303:
@@ -5058,7 +5058,7 @@ translate japanese chapter1_2_fc7e53e4:
     # voice "voices/ga31.ogg"
     # 소녀 "“뭐, 뭔가요? 갑자기……?!”"
     voice "voices/ga31.ogg"
-    소녀 "「な、何ですか？ いきなり……？！」"
+    소녀 "「な、何ですか？ いきなり……！？」"
 
 # game/chapter1.rpy:2303
 translate japanese chapter1_2_66890cfb:
