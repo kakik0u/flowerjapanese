@@ -42,43 +42,43 @@ init -3:
             'alt_style': {'pos': (640, 675), 'anchor': (0.5, 1.0), 'bg': (10, 5), 'text_style': 'lastwish_text_alt_style', "text_font": 'language_font', 'enabled': True}
         },
         'subtitles': (
-            {'text': '“どうしたの？”', 'time': (2.7, 5.767), 'fade': (0.867, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '“どういうことだ？”', 'time': (2.7, 5.767), 'fade': (0.867, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '“見ての通り、花火だよ。”', 'time': (5.767, 8.733), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '“火薬はどっから持ってきたの？”', 'time': (8.733, 11.933), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '“花火はどっから持ってきたんだよ？”', 'time': (8.733, 11.933), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '“さあ～？どこで手に入れたんだろうね？”', 'time': (11.933, 15.5), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '“……文化祭の時に使おうとしてた火薬だよな？”', 'time': (15.5, 18.633), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '“……文化祭の時に使おうとしてた花火だろ？”', 'time': (15.5, 18.633), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '“うん、そうだよ。何個か持ってたんだ。”', 'time': (18.633, 22.2), 'fade': (0.2, 0.367), 'warper': ('linear', 'ease')},
             {'text': '“何個か、とかいうレベルじゃないけど……”', 'time': (22.333, 25.433), 'fade': (0.367, 0.2), 'warper': ('ease', 'easeout')},
-            {'text': '大声で満足そうに笑うユウミ。', 'time': (25.433, 28.867), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': 'ユウミは、いつになく誇らしげな顔で夜空の花火を眺めていた。', 'time': (28.867, 34.133), 'fade': (0.2, 0.333), 'warper': ('linear', 'ease')},
-            {'text': '“幸せになってほしいな。”', 'time': (34.133, 37.0), 'fade': (0.2, 0.2), 'warper': ('ease', 'easeout')},
+            {'text': '大声で満足そうに笑うユミ。', 'time': (25.433, 28.867), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': 'ユミは、いつになく誇らしげな顔で夜空の花火を眺めていた。', 'time': (28.867, 34.133), 'fade': (0.2, 0.333), 'warper': ('linear', 'ease')},
+            {'text': '“どうか、幸せになってくれ。”', 'time': (34.133, 37.0), 'fade': (0.2, 0.2), 'warper': ('ease', 'easeout')},
             {'text': '“うん、なるよ。”', 'time': (37.0, 40.467), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '何気なくぼやいたひとりごとにも、ユウミは元気な声で応えた。', 'time': (40.467, 45.233), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '何気なくぼやいたひとりごとにも、ユミは元気な声で応えた。', 'time': (40.467, 45.233), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '“今まで逃したものまで全部、これからは掴めるように。”', 'time': (45.233, 50.933), 'fade': (0.2, 0.367), 'warper': ('linear', 'ease')},
-            {'text': '目の前に放たれた花火は、思ったよりも大きく、そして輝いていた。', 'time': (51.4, 56.233), 'fade': (0.367, 0.3), 'warper': ('ease', 'easeout')},
-            {'text': '少女も、僕も，', 'time': (56.367, 58.267), 'fade': (0.2, 0.167), 'warper': ('linear', 'linear')},
-            {'text': 'そしてユウミも、ヒョンジも。，', 'time': (58.1, 60.267), 'fade': (0.167, 0.367), 'warper': ('linear', 'easeout')},
+            {'text': '目の前に打ち上げられた花火は、思ったよりも大きく、そして輝いていた。', 'time': (51.4, 56.233), 'fade': (0.367, 0.3), 'warper': ('ease', 'easeout')},
+            {'text': '少女も、俺も，', 'time': (56.367, 58.267), 'fade': (0.2, 0.167), 'warper': ('linear', 'linear')},
+            {'text': 'そしてユミも、ヒョンジも。，', 'time': (58.1, 60.267), 'fade': (0.167, 0.367), 'warper': ('linear', 'easeout')},
             {'text': 'みんな、夜空に広がる色とりどりの花火を、ただ、ぼんやりと見上げていた。', 'time': (60.467, 63.667), 'fade': (0.367, 0.2), 'warper': ('ease', 'easeout')},
-            {'text': '私はただ、この瞬間のすべてを記憶しておきたくて、五感を研ぎ澄ました。', 'time': (63.667, 68.967), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '空に広がる予測できない広がり方、鮮やかな色のちりばめられた花火、', 'time': (68.967, 74.9), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '俺はただ、この瞬間のすべてを記憶しておきたくて、五感を研ぎ澄ました。', 'time': (63.667, 68.967), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '空一面に広がる計り知れない花火の大きさ、鮮やかな色彩の散りゆく光、', 'time': (68.967, 74.9), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '耳に轟く轟音、香ってくる火薬の匂い、', 'time': (74.9, 80.833), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': 'そして、それを見守るみんなの表情。', 'time': (80.833, 84.7), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': 'すべてが醸し出すその美しさを、ただただ覚えていたかった。', 'time': (84.7, 90.267), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': 'その全てが織りなす美しさを、ただただ覚えていたかった。', 'time': (84.7, 90.267), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '“きれい。”', 'time': (90.9, 92.7), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '弾ける音の中、かすかに聞こえてくる少女の声まで。', 'time': (92.7, 96.0), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': 'その美しい光景を、最後の瞬間にみんなと一緒に眺めることができたことに、俺はただ感謝した。', 'time': (96.0, 104.0), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '“結局、最後に願いが叶ったね。”', 'time': (104.0, 107.3), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '“そうですね。こんなに美しい光景を、好きな人と一緒に見ることが出きたんですから。”', 'time': (107.3, 115.3), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '気づけば少女がこっちに寄ってきて、私の左手をそっと掴んでいた。', 'time': (115.3, 119.533), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': 'その美しい光景を、最期の瞬間にみんなと一緒に眺めることができたことに、俺はただ感謝した。', 'time': (96.0, 104.0), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '“結局、最後に願いが叶ったな。”', 'time': (104.0, 107.3), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '“そうですね。こんなに美しい光景を、好きな人と一緒に見ることができたんですから。”', 'time': (107.3, 115.3), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '気づけば少女がこっちに寄ってきて、俺の左手をそっと掴んでいた。', 'time': (115.3, 119.533), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '“実は、絶対叶わない願いだと思っていたんです。”', 'time': (119.533, 124.467), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '{size=*0.8}“だって、こんなにも美しいものが見えるだなんて、ましてや私を好きになってくれる人がいるなんて思ってもみなかった。”{/size}', 'time': (124.467, 135.467), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '“でも、どっちも叶った。”', 'time': (135.467, 138.067), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': '“そうだね。”', 'time': (138.067, 139.933), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '“でも、両方叶っただろ”', 'time': (135.467, 138.067), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
+            {'text': '“そうですね。”', 'time': (138.067, 139.933), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': 'いよいよ花火はクライマックスに入っていた。', 'time': (140.0, 144.733), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': '夏の終わりに咲く、数十発の花々。', 'time': (144.733, 149.2), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': 'ただ、一瞬のうちに咲いては散る無数の花びらたち。', 'time': (149.2, 155.4), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
             {'text': 'その花びらが夏の終わりを、そして僕たちの終わりを慰めるように、咲いては散り、咲いては散ってゆく。', 'time': (155.4, 162.233), 'fade': (0.2, 0.2), 'warper': ('linear', 'easeout')},
-            {'text': 'まるで、僕らの短く儚い出会いと別れ、その美しさを象徴するかのように。', 'time': (162.233, 169.833), 'fade': (0.2, 0.733), 'warper': ('linear', 'easeout')}
+            {'text': 'まるで、僕たちの短く儚い出会いと別れ、その美しさを象徴するかのように。', 'time': (162.233, 169.833), 'fade': (0.2, 0.733), 'warper': ('linear', 'easeout')}
         )
     }
 
@@ -197,7 +197,7 @@ init -3:
 
     $ typ_1_subtitle_list.append({
         'settings': extrasubtitle_typ_default_style['japanese'],
-        'subtitles': ({'text': '全部、すべて集めて、今の感覚に取り込んでいる。', 'time': (0.0, 6.0), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': 'すべて、すべてかき集めて、今この感覚に刻み込む。', 'time': (0.0, 6.0), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},)
     })
 
     $ typ_2_subtitle_list.append({
@@ -242,7 +242,7 @@ init -3:
 
 
     # register last wish / ed
-    
+
     $ lastwish_subtitle_list.append(lastwish_lyrics_japanese_subtitles)
     $ lastwish_subtitle_list.append(lastwish_japanese_subtitles)
     $ edmovie_subtitle_list.append(edmovie_japanese_subtitles)

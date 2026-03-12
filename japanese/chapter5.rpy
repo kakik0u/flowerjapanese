@@ -2994,7 +2994,7 @@ translate japanese chapter5_33738e13:
 translate japanese chapter5_ff6b6b98:
 
     # "대화의 주제는 개학하고 있을 학예제에 대한 것. "
-    "話題は新学期に控えた学芸祭のこと。"
+    "話題は新学期に控えた文化祭のこと。"
 
 # game/chapter5.rpy:1247
 translate japanese chapter5_6ddf7247:
@@ -3896,7 +3896,7 @@ translate japanese chapter5_358fd344:
     # voice "voices/ge78_1.ogg"
     # 소녀 "“그 여학생은 불길 속에서 죽어가는 순간에, 지금 죽을 수 있어서 다행이라고 생각했어요.”"
     voice "voices/ge78_1.ogg"
-    소녀 "「あの女子は炎の中で死にゆく瞬間、今死ねてよかったと思っていました」"
+    소녀 "「あの女の子は炎の中で死にゆく瞬間、今死ねてよかったと思っていました」"
 
 # game/chapter5.rpy:1646
 translate japanese chapter5_688fb3e4:
@@ -7252,7 +7252,7 @@ translate japanese ecg11_label_291d623c:
     # voice "voices/ye35.ogg"
     # 유미 "“으응. 오늘 멘토링도 있고, 학예제 건으로 학생회 회의도 있는 날이라서.”"
     voice "voices/ye35.ogg"
-    유미 "「うん。今日はメンタリングもあるし、学芸祭のことで生徒会の会議もある日だから」"
+    유미 "「うん。今日はメンタリングもあるし、文化祭のことで生徒会の会議もある日だから」"
 
 # game/chapter5.rpy:3199
 translate japanese ecg11_label_d6389cd2:
@@ -8224,7 +8224,7 @@ translate japanese ecg11_label_21063daa:
 translate japanese ecg11_label_72c238bc:
 
     # "아직 개학까지는 열흘 정도가 남았을 학교를 찾아온 건, 개학하고 있을 학예제 준비를 마무리할 겸 텔레이도스코프를 확인하기 위해서였다. "
-    "まだ始業まで十日ほどあるはずの学校を訪れたのは、始業式にある学芸祭の準備を仕上げるついでにテレイドスコープを確認するためだった。"
+    "まだ始業まで十日ほどあるはずの学校を訪れたのは、始業式にある文化祭の準備を仕上げるついでにテレイドスコープを確認するためだった。"
 
 # game/chapter5.rpy:3546
 translate japanese ecg11_label_f21a7e91:
@@ -8242,7 +8242,7 @@ translate japanese ecg11_label_cf09be93:
 translate japanese ecg11_label_7e900421:
 
     # "내가 병원에 있는 동안 부실은 학예제를 위한 단장을 어느 정도 끝마치고 마무리 단계만을 남겨 둔 것으로 보였다. "
-    "俺が入院している間に部室は学芸祭のための飾り付けをある程度終え、仕上げの段階だけを残しているようだった。"
+    "俺が入院している間に部室は文化祭のための飾り付けをある程度終え、仕上げの段階だけを残しているようだった。"
 
 # game/chapter5.rpy:3551
 translate japanese ecg11_label_6415eda7:
@@ -8830,7 +8830,7 @@ translate japanese ecg11_label_b638a115:
     # voice ""
     # 나 "“됐어. 학예제 끝나면 내가 저녁이나 살 테니까.”"
     voice ""
-    나 "「いいよ。学芸祭が終わったら俺が夕飯でも奢るから」"
+    나 "「いいよ。文化祭が終わったら俺が夕飯でも奢るから」"
 
 # game/chapter5.rpy:3748
 translate japanese ecg11_label_d7f926c5:

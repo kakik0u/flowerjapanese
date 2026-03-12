@@ -1324,7 +1324,7 @@ translate japanese ecg2_label_d5e4be41:
 translate japanese ecg2_label_4926c3f8:
 
     # "희미하게 들려오는 목소리에 고개를 들어보니, 그곳에는 나에게 손을 내미는 한 여학생이 서 있었다."
-    "微かに聞こえてくる声に顔を上げると、そこには俺に手を差し伸べる一人の女子が立っていた。"
+    "微かに聞こえてくる声に顔を上げると、そこには俺に手を差し伸べる一人の女の子が立っていた。"
 
 # game/chapter1.rpy:787
 translate japanese ecg2_label_1b8e953e:
@@ -1472,7 +1472,7 @@ translate japanese ecg2_label_e875d1d9:
     # voice ""
     # "왜 그런 당연한 걸 묻느냐는 듯 나를 바라보는 여학생."
     voice ""
-    "なぜそんな当たり前のことを聞くのかというように、俺を見つめる女子。"
+    "なぜそんな当たり前のことを聞くのかというように、俺を見つめる女の子。"
 
 # game/chapter1.rpy:843
 translate japanese ecg2_label_05c62ba9:
@@ -1692,7 +1692,7 @@ translate japanese ecg2_label_3a26dd3b:
 translate japanese ecg2_label_74c8a089:
 
     # "이 여학생은 갑자기 무슨 말을 하는 거지."
-    "この女子は急に何を言ってるんだ。"
+    "この女の子は急に何を言ってるんだ。"
 
 # game/chapter1.rpy:932
 translate japanese ecg2_label_187b973e:
@@ -1808,7 +1808,7 @@ translate japanese ecg2_label_3adebcc0:
     # voice ""
     # "유미라는 이름의 여학생은 다시 한번 내게 손을 내밀었다."
     voice ""
-    "ユミという名前の女子は、もう一度俺に手を差し出した。"
+    "ユミという名前の女の子は、もう一度俺に手を差し出した。"
 
 # game/chapter1.rpy:979
 translate japanese ecg2_label_d05fd037:
@@ -1976,7 +1976,7 @@ translate japanese ecg2_label_87d7687c:
 translate japanese ecg2_label_7c39bb9e:
 
     # "불어오는 쌀쌀한 바람과 유미라는 여학생이 말한 입학식이라는 단어가 새로운 사실 하나를 내게 알려준다."
-    "吹いてくる肌寒い風と、ユミという女子が言った入学式という単語が、新しい事実を一つ俺に教えてくれる。"
+    "吹いてくる肌寒い風と、ユミという女の子が言った入学式という単語が、新しい事実を一つ俺に教えてくれる。"
 
 # game/chapter1.rpy:1040
 translate japanese ecg2_label_15e63bd3:
@@ -2366,7 +2366,7 @@ translate japanese ecg2_label_31d98d55:
 translate japanese ecg2_label_d27ea355:
 
     # "나의 곁에 다가온 갈색 머리 여학생은 당연하다는 듯 내 옆자리에 가방을 내려놓았다."
-    "俺のそばに近づいてきた茶髪の女子は、当然のように俺の隣の席に鞄を下ろした。"
+    "俺のそばに近づいてきた茶髪の女の子は、当然のように俺の隣の席に鞄を下ろした。"
 
 # game/chapter1.rpy:1189
 translate japanese ecg2_label_053a65f3:
@@ -3982,7 +3982,7 @@ translate japanese chapter1_2_6b80fa63:
 translate japanese chapter1_2_6fb166df:
 
     # "소란의 틈에서 고개를 푹 숙인 채 길을 걷고 있던 한 여학생을 발견하기 전까지는."
-    "騒ぎの隙間で、うつむいたまま道を歩いている一人の女子を見つけるまでは。"
+    "騒ぎの隙間で、うつむいたまま道を歩いている一人の女の子を見つけるまでは。"
 
 # game/chapter1.rpy:1814
 translate japanese chapter1_2_9f790243:
@@ -5936,7 +5936,7 @@ translate japanese chapter1_2_102b309f:
 translate japanese chapter1_2_2a952390:
 
     # "소녀가 자신의 나이를 기억하지 못한다 해도, 최근 1년간 있었던 여중생 사망 사고를 찾아보면 되겠지. "
-    "少女が自分の年齢を覚えていないとしても、ここ1年間にあった女子中学生の死亡事故を探してみればいいだろう。"
+    "少女が自分の年齢を覚えていないとしても、ここ1年間にあった女の子中学生の死亡事故を探してみればいいだろう。"
 
 # game/chapter1.rpy:2635
 translate japanese chapter1_2_f63484cb:
