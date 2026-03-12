@@ -5,8 +5,6 @@ Flowers Blooming at the End of Summerの日本語翻訳パッチです。
 
 UI、映像など現在翻訳可能なほぼすべてを網羅したつもりです。
 
-現在は一部機械翻訳のままですが、これから段階的に翻訳を改善していきます。
-
 ![Menu](https://github.com/kakik0u/flowerjapanese/blob/main/menu.png?raw=true)
 
 ![Extra](https://github.com/kakik0u/flowerjapanese/blob/main/extra.png?raw=true)
@@ -38,11 +36,4 @@ Ver2.0: Chapter1を完全に人力の翻訳に置き換えました。褒めて.
 
 Ver3.0: Chapter2も人力翻訳に書き換えました。うう...
 
-## 謝辞
-[flowernovelzhHans](https://github.com/codeforker654/flowernovelzhHans) さんの機械翻訳を使用させていただきました。ありがとうございます。
-
-
-
-
-
-
+Ver4.0: 全Chapterの人力翻訳が完了しました。(リリースまでしばらくお待ちください。)
