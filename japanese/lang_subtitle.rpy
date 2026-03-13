@@ -104,7 +104,7 @@ init -3:
 
     $ yef1_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“やっぱりここにいたのね。ごめんね、今日は補習で試合を見にこれなかったんだ。”', 'time': (0.0, 4.05), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“やっぱりここにいた。ごめん、今日は補習があって試合を見にいけなかったの。”', 'time': (0.0, 4.05), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef2_subtitle_list.append({
@@ -114,7 +114,7 @@ init -3:
 
     $ yef3_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“傘は私が持つよ~肩が痛くなったら困るでしょ？”', 'time': (0.0, 2.4), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“傘は私が持つよ~肩を痛めたら困るもん。”', 'time': (0.0, 2.4), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef4_subtitle_list.append({
@@ -124,12 +124,12 @@ init -3:
 
     $ yef5_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“じゃあ、明日は一緒にいられるね。”', 'time': (0.0, 2.4), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“じゃあ、明日は久しぶりに一緒に居られそうだね。”', 'time': (0.0, 2.4), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef6_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-       'subtitles': ({'text': '“久しぶりだな、こんな時間に一緒に晩御飯を食べるのも。”', 'time': (0.0, 2.55), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+       'subtitles': ({'text': '“久しぶりだね、こんな時間に一緒に晩ごはんを食べるのも。”', 'time': (0.0, 2.55), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef7_subtitle_list.append({
@@ -139,37 +139,37 @@ init -3:
 
     $ yef8_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“ね、ねえ。明日暇なら一緒に映画館にでも行かない？”', 'time': (0.0, 3), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“ね、ねえ。明日暇なら一緒に映画見に行かない？”', 'time': (0.0, 3), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef9_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“いや、別に疲れてるんなら家で休んでもいいし...ただね、こんなに時間が空いたのは久しぶりな気がして...”', 'time': (0.0, 5.4), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“別に疲れてるんなら家で休んでてもいいけど...暇ができたのって久しぶりな気がして...”', 'time': (0.0, 5.4), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef10_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“あ、映画で思い出したけど、「レインマン」って映画知ってる？”', 'time': (0.0, 3.15), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“映画で思い出したんだけど、「レインマン」って映画知ってる？”', 'time': (0.0, 3.15), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef11_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“あの日のこと覚えてる？あなたと初めて話した日、私はリビングでひとり、映画を見てたでしょ？”', 'time': (0.0, 4.5), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“覚えてる？あなたと初めて話した日、私はリビングでひとり、映画を見てたでしょ？”', 'time': (0.0, 4.5), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef12_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“好きな映画って言ってたけど、実はこの映画のことだったの。”', 'time': (0.0, 3.3), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“好きな映画って言ってたけど、実はこれのことだったの。”', 'time': (0.0, 3.3), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef13_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“今みたいに、レインマンという単語から、本当にぱっと思い出すことってあるじゃん。(祖師ヶ谷大蔵から水口のように)”', 'time': (0.0, 6.0), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“今みたいに、レインマンっていう想像だけの暖かい存在が本当に『じゃじゃ〜ん』と現れることってあるよね？”', 'time': (0.0, 6.0), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef14_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“それも初めて見る人じゃなくてずっと知っていただけの人……”', 'time': (0.0, 3.45), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“それも初めて見る人じゃなくてずっと知っていた人……”', 'time': (0.0, 3.45), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef15_subtitle_list.append({
@@ -179,12 +179,12 @@ init -3:
 
     $ yef16_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“だから、僕もそんな人が想像の中にしかいないと思っていたけど。本当にすぐ目の前にいたんだよ。”', 'time': (0.0, 5.1), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“だからさ、私もそんな人は空想上の存在だと思ってたんだけど。本当に、すぐ目の前にいたんだよ。”', 'time': (0.0, 5.1), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef17_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“雨だからこそいい。”', 'time': (0.0, 1.9), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“雨が降ってて本当に心地良いな。”', 'time': (0.0, 1.9), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
 
@@ -217,7 +217,7 @@ init -3:
 
     $ yef20_subtitle_list.append({
         'settings': extrasubtitle_default_style['japanese'],
-        'subtitles': ({'text': '“学校が終わってすぐ走れば試合が見れるかな？それまでに終わらないよね？”', 'time': (0.0, 4.05), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
+        'subtitles': ({'text': '“学校が終わってすぐ走れば試合に間に合う？それまでに終わらないよね？”', 'time': (0.0, 4.05), 'fade': (0.1, 0.1), 'warper': ('linear', 'linear')},)
     })
 
     $ yef21_subtitle_list.append({
