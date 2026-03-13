@@ -87,16 +87,16 @@ init -3:
             'id': 'edmovie', 'language': 'japanese', 'style': None, 'alt_style': {'pos': (640, 600), 'anchor': (0.5, 1.5), 'bg': (13, 7), 'text_style': 'edmovie_text_style', "text_font": 'language_font', 'enabled': True}
         },
         'subtitles': (
-            {'text': '消えゆく光に向かって、別れを告げた。', 'time': (1.0, 7.0), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
-            {'text': '消えゆく世界に、祈りを捧げた。', 'time': (7.133, 13.133), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
-            {'text': 'いつか、いつかじゃなくても、そのいつかの次の日。', 'time': (13.2, 19.2), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
-            {'text': '僕たちはもう一度、こう言って別れたい。', 'time': (19.2, 25.3), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
-            {'text': 'また今度！と。', 'time': (25.3, 31.4), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
-            {'text': 'ゆっくりと消えていく息づかいに向かって、僕は約束をした。', 'time': (31.4, 38.367), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
-            {'text': '次は、もう少し幸せな終わり方の物語で一緒に会おう。', 'time': (38.367, 45.4), 'fade': (1.566, 0.5), 'warper': ('ease', 'ease')},
-            {'text': '次は、もう少し長く一緒にお話ししよう。', 'time': (45.433, 52.8), 'fade': (1.567, 0.833), 'warper': ('ease', 'ease')},
+            {'text': '消えゆく光に、お別れをした。', 'time': (1.0, 7.0), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
+            {'text': '明滅する世界に、祈りを捧げた。', 'time': (7.133, 13.133), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
+            {'text': 'いつか、いつかじゃなくても、いつかの次の日。', 'time': (13.2, 19.2), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
+            {'text': '僕たちはお互いにもう一度', 'time': (19.2, 25.3), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
+            {'text': 'またね！と挨拶を交わせますように。', 'time': (25.3, 31.4), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
+            {'text': '散りゆく息づかいに向かって、消えることのない約束をした。', 'time': (31.4, 38.367), 'fade': (1.567, 0.5), 'warper': ('ease', 'ease')},
+            {'text': '次は、もう少し幸せな結末の物語で一緒に会おう。', 'time': (38.367, 45.4), 'fade': (1.566, 0.5), 'warper': ('ease', 'ease')},
+            {'text': '次は、もう少し長く本心でお話ししよう。', 'time': (45.433, 52.8), 'fade': (1.567, 0.833), 'warper': ('ease', 'ease')},
             {'text': '次は、もう少し長く一緒にキスをしよう。', 'time': (52.8, 58.8), 'fade': (1.233, 0.3), 'warper': ('ease', 'ease')},
-            {'text': '{size=*1.4}いつまでも、いつまでだって、あなたを待っているから。{/size}', 'time': (58.833, 62.2), 'fade': (1.167, 0.533), 'warper': ('ease', 'ease')}
+            {'text': '{size=*1.4}いつまでも、いつまでだって、待っているから。{/size}', 'time': (58.833, 62.2), 'fade': (1.167, 0.533), 'warper': ('ease', 'ease')}
         )
     }
 

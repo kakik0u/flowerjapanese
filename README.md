@@ -1,9 +1,10 @@
 ## FlowerJapanese
+![Logo](https://github.com/kakik0u/flowerjapanese/blob/main/logogit.png?raw=true)
 [한국어](https://github.com/kakik0u/flowerjapanese/blob/main/READMEKR.md) (韓国語はこちら)
 
 Flowers Blooming at the End of Summerの日本語翻訳パッチです。
 
-UI、映像など現在翻訳可能なほぼすべてを網羅したつもりです。
+UI、映像など翻訳可能なすべてを網羅したつもりです。
 
 ![Menu](https://github.com/kakik0u/flowerjapanese/blob/main/menu.png?raw=true)
 
@@ -37,3 +38,11 @@ Ver2.0: Chapter1を完全に人力の翻訳に置き換えました。褒めて.
 Ver3.0: Chapter2も人力翻訳に書き換えました。うう...
 
 Ver4.0Beta: 全Chapterの人力翻訳が完了。映像データのローカライズが完了していないため、Beta指定。
+
+V4.0:ロゴの追加、映像の全更新
+
+## ライセンス
+全てのソースコードおよび映像データの権利はMidnightWorksに帰属します。
+
+## 謝辞
+MidnightWorks様のご協力で映像データなども提供いただきました。ありがとうございます。
