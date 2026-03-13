@@ -16,22 +16,22 @@ init -3:
             'alt_style': {'pos': (640, 45), 'anchor': (0.5, 0.0), 'bg': (10, 5), 'text_style': 'lastwish_lyrics_text_alt_style', "text_font": 'language_font', 'enabled': True}
         },
         'subtitles': (
-            {'text': '別れを惜しむのは一旦やめて', 'time': (23.195, 29.374), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '今はただ僕を見つめていてほしい', 'time': (29.374, 35.737), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': '別れの言葉は少し横に置いて', 'time': (23.195, 29.374), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': 'ただ私を見つめて', 'time': (29.374, 35.737), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
             {'text': '美しさを抱いたまま', 'time': (35.737, 41.992), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
             {'text': '目を閉じたいから', 'time': (41.992, 48.335), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '僕らの終わりは花火のように', 'time': (48.335, 54.468), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '予測することはできなかったけど', 'time': (54.468, 61.018), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': 'せめて君の心を満たしたかった', 'time': (61.018, 67.259), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '言えなかった最後の言葉で', 'time': (67.259, 73.139), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': 'お互いが約束した出会いの中で', 'time': (73.139, 79.876), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '消えゆく姿を見ながら', 'time': (79.876, 86.303), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '隠していたことを話してもいい？', 'time': (86.303, 92.508), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '素直になっていい？', 'time': (92.508, 98.477), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '静かに君の手を取り、こう言いたい', 'time': (98.477, 105.256), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': '夜空を彩る花火のように', 'time': (48.335, 54.468), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': '二人の終わりを覆い隠せなくとも', 'time': (54.468, 61.018), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': 'あなたの心は覆い隠せるだろうか', 'time': (61.018, 67.259), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': 'ずっと言えなかった「最後」の言葉', 'time': (67.259, 73.139), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': '約束していた再会の中で', 'time': (73.139, 79.876), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': 'あなたが消えゆく姿を見ながら', 'time': (79.876, 86.303), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': '隠してきた本当の自分を', 'time': (86.303, 92.508), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': 'あなたに打ち明けてもいいかな', 'time': (92.508, 98.477), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': 'そっとその手をとり、こう言いたい', 'time': (98.477, 105.256), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
             {'text': '幸せな夢だったよ、と。', 'time': (105.256, 111.568), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': '忘れないで欲しいな', 'time': (111.568, 117.887), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
-            {'text': 'そうすれば君の中に生き続けられるから。', 'time': (117.887, 128.419), 'fade': (0.3, 5.1), 'warper': ('linear', 'linear')}
+            {'text': 'ずっと忘れないでいて', 'time': (111.568, 117.887), 'fade': (0.3, 0.3), 'warper': ('linear', 'linear')},
+            {'text': 'そうすれば君の中で生き続けられるから。', 'time': (117.887, 128.419), 'fade': (0.3, 5.1), 'warper': ('linear', 'linear')}
         )
     }
 
