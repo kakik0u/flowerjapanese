@@ -84,7 +84,7 @@ translate japanese chapter1_2bc5057f:
     # voice ""
     # "나에게 긍정을 강요하는 듯한 단정적인 목소리. "
     voice ""
-    "私に同意を強要するような強い声。"
+    "俺に同意を強要するような強い声。"
 
 # game/chapter1.rpy:100
 translate japanese chapter1_06eb322d:

@@ -1,11 +1,11 @@
 # GUI - DEFAULT
 
 translate japanese style default: #sans-serif
-    font "tl/japanese/fonts/LightNovelPOPv2.otf"
+    font "tl/japanese/fonts/MPLUS1-Medium.ttf"
     language "japanese-normal"
 
 translate japanese style default_bold is default: #sans-serif bold
-    font "tl/japanese/fonts/LightNovelPOPv2.otf"
+    font "tl/japanese/fonts/MPLUS1-Bold.ttf"
 
 
 # GUI - LICENSE
@@ -27,7 +27,7 @@ translate japanese style license_description_2 is default: #sans-serif
 # GUI - HISTORY
 
 translate japanese style history_text: #rounded sans-serif
-    font "tl/japanese/fonts/LightNovelPOPv2.otf"
+    font "tl/japanese/fonts/MPLUSRounded1c-Regular.ttf"
     language "japanese-loose"
 
 translate japanese style history_name_text: #serif
@@ -45,7 +45,7 @@ translate japanese style navi_music_name_text is default_bold: #bold sans-serif
 # DIALOGUE - SCRIPT
 
 translate japanese style dialogue_text_base:
-    font "tl/japanese/fonts/LightNovelPOPv2.otf"
+    font "tl/japanese/fonts/MPLUSRounded1c-Regular.ttf"
     size 24
     color "#ffffff"
     language "japanese-loose"
