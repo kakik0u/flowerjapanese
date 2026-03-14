@@ -1,0 +1,8 @@
+Flowers blooming at the end of summer 非公式日本語化パッチ v4.2
+By Team45nero
+翻訳:Kakikou
+監査:Sasakamaboko
+
+このファイルはこのパッチのバージョン把握用に同梱されています。
+最新バージョンがあるかどうかは:https://github.com/kakik0u/flowerjapanese で確認して下さい。
+自動更新スクリプトとかは多分作れるけど外部通信とか怖いし作ってないです。

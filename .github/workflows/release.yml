@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Ensure zip is installed
-        run: sudo apt-get update && sudo apt-get install -y zip
+        run: sudo apt-get install -y zip
 
       - name: Create japanese.zip
         run: |
