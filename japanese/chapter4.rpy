@@ -2432,7 +2432,7 @@ translate japanese chapter4_4_e0d3828c:
     # voice ""
     # 나 "“정답, 5차원.”"
     voice ""
-    나 "「正解、5次元」"
+    나 "「答えは、5次元」"
 
 # game/chapter4.rpy:1118
 translate japanese chapter4_4_44c95186:
