@@ -2792,7 +2792,7 @@ translate japanese chapter3_e76bedc2:
 translate japanese chapter3_06f6ff8a:
 
     # 나 "“생각해보니 냉장고에 남아있는 게 아무것도 없어서. 마트 금방 갔다 올게.”"
-    나 "「考えてみたら冷蔵庫に何も残ってなくて。ちょっとスーパーに行ってくるわ。」"
+    나 "「気づいたら冷蔵庫に何も残ってなかった。ちょっとスーパーに行ってくる。」"
 
 # game/chapter3.rpy:994
 translate japanese chapter3_9a64440e:
