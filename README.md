@@ -50,6 +50,8 @@ V4.1:フォントをM plusファミリーに変更
 
 V4.2:名前のサイズ調整
 
+V4.3:Chapter1の校閲、翻訳の変更、表記揺れの統一
+
 ## クレジット
 <img alt="Logo" src="https://github.com/kakik0u/flowerjapanese/blob/main/japanese/lang_developer/japanese.png?raw=true" width="50%">
 

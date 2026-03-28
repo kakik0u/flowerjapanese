@@ -1630,7 +1630,7 @@ translate japanese ecg2_label_8c5ce252:
 translate japanese ecg2_label_c9735c1a:
 
     # "이성적 사고의 끈이 끊어지는 소리였을까."
-    "理性的思考の糸が切れる音だったのだろうか。"
+    "理性の糸が切れる音だったのだろうか。"
 
 # game/chapter1.rpy:909
 translate japanese ecg2_label_ed7fbff2:
@@ -1642,7 +1642,7 @@ translate japanese ecg2_label_ed7fbff2:
 translate japanese ecg2_label_c1a28815:
 
     # "말 그대로 뇌 정지 상태. 나는 그만 생각을 멈추었다."
-    "言葉通り思考停止状態。俺は考えるのをやめた。"
+    "文字通り思考停止状態。俺は考えるのをやめた。"
 
 # game/chapter1.rpy:914
 translate japanese ecg2_label_aa989f24:
@@ -1838,7 +1838,7 @@ translate japanese ecg2_label_d0a50c7e:
 translate japanese ecg2_label_b17357e6:
 
     # "얼떨결에 잘 부탁한다는 말을 건네긴 했지만, 진심이 담긴 건 아니었다."
-    "とっさによろしくと言葉を返したが、本心がこもっているわけではなかった。"
+    "とっさによろしくと言葉を返したが、本心からそう思ってるわけではなかった。"
 
 # game/chapter1.rpy:987
 translate japanese ecg2_label_98edb241:
@@ -1964,7 +1964,7 @@ translate japanese ecg2_label_3a0db903:
 translate japanese ecg2_label_9517cc6f:
 
     # "주변에는 여전히 겨울의 입김을 떨쳐내지 못한 듯 쌀쌀한 바람이 불어오고 있었다."
-    "周囲には依然として冬の気配を払拭できないような、肌寒い風が吹いていた。"
+    "周囲にはいまだ冬の名残を感じさせる、肌寒い風が吹いていた。"
 
 # game/chapter1.rpy:1038
 translate japanese ecg2_label_87d7687c:
@@ -2138,13 +2138,13 @@ translate japanese ecg2_label_5a60db17:
 translate japanese ecg2_label_8e39497f:
 
     # "내가 알지 못하는 대규모의 몰래카메라가 아니라면, 나는 분명 시간여행을 한 것이겠지."
-    "俺の知らない大規模なドッキリでなければ、俺は間違いなくタイムトラベルをしたのだろう。"
+    "俺の知らない大掛かりなドッキリでなければ、俺は間違いなくタイムトラベルをしたのだろう。"
 
 # game/chapter1.rpy:1101
 translate japanese ecg2_label_0ca8b75a:
 
     # "시간여행과 유체이탈을 동시에 경험하는 것과 대규모의 몰래카메라 사이에서 일어날 확률이 더 높은 걸 고르라고 한다면 단연코 후자겠지만……."
-    "タイムトラベルと幽体離脱を同時に経験することと、大規模なドッキリの間で、どちらが起こる確率が高いか選べと言われれば、断然後者だろうが……。"
+    "タイムトラベルと幽体離脱を同時に経験することと、大掛かりなドッキリの、どちらが起こる確率が高いか選べと言われれば、断然後者だろうが……。"
 
 # game/chapter1.rpy:1102
 translate japanese ecg2_label_1792da65:
@@ -2254,13 +2254,13 @@ translate japanese ecg2_label_2a73540b:
 translate japanese ecg2_label_7716b0f3:
 
     # "차라리 3000이나 4000 정도의 숫자가 적혀 있었다면 대규모의 몰래카메라라고 생각할 수는 있지 않았을까."
-    "いっそ3000や4000くらいの数字が書かれていたなら、大規模なドッキリだと思うこともできたんじゃないか。"
+    "いっそ3000や4000くらいの数字が書かれていたなら、大掛かりなドッキリだと思うこともできたんじゃないか。"
 
 # game/chapter1.rpy:1142
 translate japanese ecg2_label_d9cbc321:
 
     # "그래도 이건 정도가 지나친 것 같은데……?"
-    "それにしても、これは度が過ぎているような……？"
+    "にしたって、これはやりすぎているんじゃないか……？"
 
 # game/chapter1.rpy:1144
 translate japanese ecg2_label_6e44280e:
@@ -2380,7 +2380,7 @@ translate japanese ecg2_label_2f9f7ae7:
     # voice "voices/ya66.ogg"
     # 유미 "“네가 반 배정 잘 되게 해달라고 한 게 효과가 있었나 봐.”"
     voice "voices/ya66.ogg"
-    유미 "「あんたが良いクラスになれるようにって言ってくれたのが、効果あったみたい」"
+    유미 "「あんたが良いクラスになれるようにって願ってくれたのが、効果あったみたい」"
 
 # game/chapter1.rpy:1193
 translate japanese ecg2_label_b463a64e:
@@ -2502,7 +2502,7 @@ translate japanese ecg2_label_36f37dda:
 translate japanese ecg2_label_bef21bb6:
 
     # "처음엔 부담스럽기도 했고, 다시 원래의 내가 있던 곳으로 돌아가야 한다는 생각에 유미와 거리를 두려 했지만, 오히려 그럴 때마다 나와 유미 사이의 거리는 점점 좁혀져만 갔다."
-    "最初は負担でもあったし、また元の俺がいた場所に戻らなければならないという思いからユミと距離を置こうとしたが、むしろそうするたびに俺とユミの距離はますます縮まっていった。"
+    "最初は重荷だったし、本来自分がいるべき場所に戻らなければという思いからユミと距離を置こうとしたが、むしろそうするたびに俺とユミの距離はますます縮まっていった。"
 
 # game/chapter1.rpy:1241
 translate japanese ecg2_label_dd173100:
@@ -2616,7 +2616,7 @@ translate japanese ecg2_label_d273f64f:
 translate japanese ecg2_label_d4658a5a:
 
     # 나 "“이제와서 묻는 건데 말이야.”"
-    나 "「今さら聞くことなんだけどさ」"
+    나 "「今さら聞くのもなんだけどさ。」"
 
 # game/chapter1.rpy:1283
 translate japanese ecg2_label_a262bccc:
@@ -2846,7 +2846,7 @@ translate japanese ecg2_label_d0669c9a:
 translate japanese ecg2_label_a4c301c6:
 
     # "메신저함에는 이메일이 한 통 와 있었다."
-    "メッセンジャーにはメールが一通届いていた。"
+    "受信箱にはメールが一通届いていた。"
 
 # game/chapter1.rpy:1365
 translate japanese ecg2_label_a34e99e2:
@@ -2864,7 +2864,7 @@ translate japanese ecg2_label_04ad3de8:
 translate japanese ecg2_label_8d8ba424:
 
     # "발신인을 확인하지는 않았지만, 나는 어렵지 않게 누가 이 이메일을 보냈는지 알 수 있었다."
-    "送信人を確認したわけではないが、誰がこのメールを送ったのかは容易に想像がついた。"
+    "差出人を確認したわけではないが、誰がこのメールを送ったのかは容易に想像がついた。"
 
 # game/chapter1.rpy:1375
 translate japanese ecg2_label_a84c0c67:
@@ -2876,7 +2876,7 @@ translate japanese ecg2_label_a84c0c67:
 translate japanese ecg2_label_61e4b641:
 
     # "사실 메신저 기능을 사용할 일이 극히 제한적이라 그런 것도 있겠지만."
-    "実のところ、メッセンジャー機能を使うこと自体が極めて稀だということもあるが。"
+    "実のところ、メール機能を使うこと自体が極めて稀だということもあるが。"
 
 # game/chapter1.rpy:1378
 translate japanese ecg2_label_40f50bf2:
@@ -2936,7 +2936,7 @@ translate japanese ecg2_label_d22e9239:
 translate japanese ecg2_label_4231da44:
 
     # "어떻게 저런 이모티콘을 일일이 넣으면서도 저렇게 빨리 답장을 보낼 수 있는 거지."
-    "どうやってあんな顔文字をいちいち入れながら、あんなに早く返信できるんだ。"
+    "どうやっていちいちあんな顔文字を入れながら、あんなに早く返信できるんだ。"
 
 # game/chapter1.rpy:1398
 translate japanese ecg2_label_656fa829:
@@ -3394,7 +3394,7 @@ translate japanese chapter1_2_152d93aa:
     # voice "voices/ya81.ogg"
     # 유미 "“아, 아니거든? 그냥 우연히 마주친 거거든?!”"
     voice "voices/ya81.ogg"
-    유미 "「ち、違うし？ ただ偶然会っただけだし！？」"
+    유미 "「ち、違うし？ たまたま偶然会っただけだし！？」"
 
 # game/chapter1.rpy:1588
 translate japanese chapter1_2_441aaafe:
@@ -3676,7 +3676,7 @@ translate japanese chapter1_2_84bfa287:
     # voice "voices/ha4.ogg"
     # 현지 "“이야기는 이미 다 했어요. 다음 동아리 시간에 봐요, 선배~”"
     voice "voices/ha4.ogg"
-    현지 "「話はもう終わりましたよ。次の部活の時間に会いましょう、先輩～」"
+    현지 "「話はもう終わりましたよ。次の部活のときに会いましょう、先輩～」"
 
 # game/chapter1.rpy:1683
 translate japanese chapter1_2_e16cbb63:
@@ -3778,7 +3778,7 @@ translate japanese chapter1_2_d36fbbeb:
     # voice "voices/ya89.ogg"
     # 유미 "“먼저 가. 많이 늦을 것 같아.”"
     voice "voices/ya89.ogg"
-    유미 "「先に行ってて。だいぶ遅くなりそうだから」"
+    유미 "「先に帰ってて。だいぶ遅くなりそうだから」"
 
 # game/chapter1.rpy:1735
 translate japanese chapter1_2_a532ae6b:
@@ -3850,7 +3850,7 @@ translate japanese chapter1_2_ebab1d4d:
 translate japanese chapter1_2_dd0a3042:
 
     # "생각해야 할 것들은 산더미처럼 쌓여 있었지만, 무더위에 잠식된 인간은 정상적인 사고와는 거리가 멀어지는 법이다."
-    "考えるべきことは山積みだったが、猛暑に侵された人間は正常な思考とは程遠くなるものだ。"
+    "考えるべきことは山積みだったが、猛暑に侵された人間は正常な思考なんか到底できない。"
 
 # game/chapter1.rpy:1773
 translate japanese chapter1_2_ce55e193:
@@ -3868,7 +3868,7 @@ translate japanese chapter1_2_3c39171d:
 translate japanese chapter1_2_c8dce058:
 
     # 나 "‘무슨 일이지?’"
-    나 "『何事だ？』"
+    나 "(何事だ？)"
 
 # game/chapter1.rpy:1780
 translate japanese chapter1_2_601fe3d6:
@@ -3988,7 +3988,7 @@ translate japanese chapter1_2_6fb166df:
 translate japanese chapter1_2_9f790243:
 
     # 나 "‘어제 그 여자애……?’"
-    나 "『昨日のあの子……？』"
+    나 "(昨日のあの子……？)"
 
 # game/chapter1.rpy:1816
 translate japanese chapter1_2_9e9f4513:
@@ -4042,7 +4042,7 @@ translate japanese chapter1_2_f85e486c:
 translate japanese chapter1_2_046979bf:
 
     # who "“그러게, 잠시 관제센터에 문제가 있었나 봐."
-    who "「そうだな、一時的に管制センターに問題があったみたいだ」"
+    who "「そうだな、一時的に管制センターに不具合があっただけかも」"
 
 # game/chapter1.rpy:1842
 translate japanese chapter1_2_e0edd008:
@@ -4162,7 +4162,7 @@ translate japanese chapter1_2_43999f5e:
 translate japanese chapter1_2_080bface:
 
     # 나 "“아야야야야…….”"
-    나 "「つつつつ……」"
+    나 "「いっつつつつ……」"
 
 # game/chapter1.rpy:1902
 translate japanese chapter1_2_ba012780:
@@ -4578,7 +4578,7 @@ translate japanese chapter1_2_b8eda256:
     # voice ""
     # "소녀는 건널목에서 신호를 기다리고 있던 한 중년 남자의 눈앞에 손을 흔들어 보였다."
     voice ""
-    "少女は横断歩道で信号を待っていたある中年男性の目の前で手を振ってみせた。"
+    "少女は横断歩道で信号を待っていた中年男性の目の前でひらひらと手を振ってみせた。"
 
 # game/chapter1.rpy:2084
 translate japanese chapter1_2_84cde233:
@@ -4616,7 +4616,7 @@ translate japanese chapter1_2_462702a1:
     # voice "voices/ga16.ogg"
     # 소녀 "“저 사람은 병으로 죽나 봐요. 다행히 평범한 장면이네요. 허무하리만치 새하얀 색이에요.”"
     voice "voices/ga16.ogg"
-    소녀 "「あの人は病気で死ぬみたいです。幸い、平凡な場面ですね。虚しいほど真っ白な色です」"
+    소녀 "「あの人は病気で死ぬみたいです。幸い、平凡な場面ですね。虚しいほど真っ白です」"
 
 # game/chapter1.rpy:2114
 translate japanese chapter1_2_1e24c9d5:
@@ -4786,7 +4786,7 @@ translate japanese chapter1_2_e49b4fb8:
     # voice ""
     # 나 "“옆에 있던 그 여자애를 봤겠네.”"
     voice ""
-    나 "「隣にいたあの子を見たんだな」"
+    나 "「隣にいた女の子を見たんだな」"
 
 # game/chapter1.rpy:2188
 translate japanese chapter1_2_7ddc38a9:
@@ -4858,7 +4858,7 @@ translate japanese chapter1_2_ab219bbf:
 translate japanese chapter1_2_2bcc8047:
 
     # "분명 소녀는 지푸라기라도 잡는다는 심정으로 내게 무언의 요청을 하고 있는 것이리라."
-    "きっと少女は藁にもすがる思いで、俺に無言の要請をしているのだろう。"
+    "きっと少女は藁にもすがる思いで、俺へ無言の助けを求めているのだろう。"
 
 # game/chapter1.rpy:2215
 translate japanese chapter1_2_8614a2d6:
@@ -5250,7 +5250,7 @@ translate japanese chapter1_2_6f5b0d03:
     # voice ""
     # "무덤덤하게 들린 이야기였지만, 분명 소녀의 목소리에는 어린애같은 면모가 묻어있었다."
     voice ""
-    "淡々と聞こえる話だったが、確かに少女の声には子供っぽい一面が滲んでいた。"
+    "淡々とした語り口ではあったが、確かに少女の声には子供っぽさが滲んでいた。"
 
 # game/chapter1.rpy:2376
 translate japanese chapter1_2_10ed92d0:
@@ -5360,7 +5360,7 @@ translate japanese chapter1_2_00c779e8:
 translate japanese chapter1_2_9d2430f1:
 
     # 나 "“그랬을 것 같아 보이긴 해.”"
-    나 "「そうだったように見えるけどな」"
+    나 "「そんなふうに見えるかもな。」"
 
 # game/chapter1.rpy:2408
 translate japanese chapter1_2_bf463618:
@@ -5612,7 +5612,7 @@ translate japanese chapter1_2_6ca913d9:
     # voice "voices/ga50.ogg"
     # 소녀 "“알아요. 꺼림칙하게 들릴 수도 있다는 거.”"
     voice "voices/ga50.ogg"
-    소녀 "「わかってます。忌まわしく聞こえるかもしれないってこと」"
+    소녀 "「わかってます。気味悪く聞こえるかもしれないってこと」"
 
 # game/chapter1.rpy:2509
 translate japanese chapter1_2_e4fa93f1:
@@ -5848,7 +5848,7 @@ translate japanese chapter1_2_4a478c71:
 translate japanese chapter1_2_fdd2f17b:
 
     # 나 "“아냐. 그래도 명색이 오컬트부 부장인데, 한 번 해봐야지. 1년 정도라고 했지? 네가 이곳을 떠돌게 된 지가.”"
-    나 "「いや。それでも名ばかりとはいえオカルト部の部長なんだ、一度やってみないと。1年くらいって言ったよな？ 君がここを彷徨うようになってから」"
+    나 "「いや。名ばかりとはいえオカルト部の部長なんだ、一度やってみないと。1年くらいって言ったよな？ 君がここを彷徨うようになってから」"
 
 # game/chapter1.rpy:2605
 translate japanese chapter1_2_231f9823:
@@ -6062,7 +6062,7 @@ translate japanese chapter1_2_c1b4a0d5:
 translate japanese chapter1_2_7d5ee4dd:
 
     # 나 "“그럼 잠시 핏자국 좀 씻고 올게. 잠깐만 기다려.”"
-    나 "「じゃあちょっと血を洗ってくるよ。少し待ってて」"
+    나 "「じゃあちょっと血を流してくるよ。少し待ってて」"
 
 # game/chapter1.rpy:2687
 translate japanese chapter1_2_ffd6f332:
@@ -6092,7 +6092,7 @@ translate japanese chapter1_2_632bca07:
 translate japanese chapter1_2_90172f75:
 
     # 나 "“네가 지금 여긴 웬일이야?”"
-    나 "「お前が今ここになんの用だ？」"
+    나 "「なんで今ここにいるの？」"
 
 # game/chapter1.rpy:2699
 translate japanese chapter1_2_62172ebe:
@@ -6506,7 +6506,7 @@ translate japanese chapter1_2_fb487aca:
 translate japanese chapter1_2_28c23534:
 
     # 나 "“커피 한 잔이면 돼?”"
-    나 "「コーヒー一杯でいいか？」"
+    나 "「コーヒー 一杯でいいか？」"
 
 # game/chapter1.rpy:2867
 translate japanese chapter1_2_8f38947b:
@@ -6544,7 +6544,7 @@ translate japanese chapter1_2_a3454642:
     # voice ""
     # "테이블에는 애초에 이야기했던 카라멜 마끼아또 말고도 쇼트케이크 한 조각이 접시에 담긴 채 놓여 있었다."
     voice ""
-    "テーブルには最初に話していたキャラメルマキアート以外にも、ショートケーキが一切れ皿に盛られたまま置かれていた。"
+    "テーブルには最初に約束したキャラメルマキアート以外にも、ショートケーキが一切れ皿に盛られたまま置かれていた。"
 
 # game/chapter1.rpy:2897
 translate japanese chapter1_2_f41926a6:
@@ -6726,7 +6726,7 @@ translate japanese chapter1_2_505dab35:
     # voice ""
     # 나 "“으응, 보통은 집으로 곧장 돌아가는 편이잖아?”"
     voice ""
-    나 "「うん、普通は家にまっすぐ帰る方だろ？」"
+    나 "「うん、いつもは家にまっすぐ帰る方だろ？」"
 
 # game/chapter1.rpy:2981
 translate japanese chapter1_2_74480d99:
@@ -7018,7 +7018,7 @@ translate japanese chapter1_2_b39e9639:
     # voice ""
     # "연관성이라……."
     voice ""
-    "関連性か……。"
+    "関連か……。"
 
 # game/chapter1.rpy:3118
 translate japanese chapter1_2_0ebc3352:
@@ -7052,7 +7052,7 @@ translate japanese chapter1_2_685485e7:
 translate japanese chapter1_2_92dd0169:
 
     # "우연과 필연, 둘 중 하나겠지만 둘 다 어색한 설명이라는 생각이 들었다."
-    "偶然と必然、どちらかだろうが、どちらもぎこちない説明だという気がした。"
+    "偶然と必然、どちらかだろうが、どちらの説明もしっくりこない気がした。"
 
 # game/chapter1.rpy:3127
 translate japanese chapter1_2_bfb04238:
@@ -7070,7 +7070,7 @@ translate japanese chapter1_2_c288d86c:
 translate japanese chapter1_2_3cd1e42b:
 
     # 나 "“먼저 들어가. 난 부실에 들렀다가 그 유령 여자애랑 같이 갈 테니까.”"
-    나 "「先に帰っててくれ。俺は部室に寄ってからその幽霊の女の子と一緒に行くから」"
+    나 "「先に帰っててくれ。俺は部室に寄ってからその幽霊の女の子と一緒に帰るから」"
 
 # game/chapter1.rpy:3137
 translate japanese chapter1_2_cc7c87c6:
@@ -7214,7 +7214,7 @@ translate japanese chapter1_2_5d45807f:
     # voice "voices/ha47.ogg"
     # 현지 "“하긴, 선배가 다른 친구가 없는 이유도 그런 거겠죠. 유미 언니만 빼면요.”"
     voice "voices/ha47.ogg"
-    현지 "「まあ、先輩に他の友達がいない理由もそういうことなんでしょうね。ミお姉さんだけは別として。」"
+    현지 "「まあ、先輩に他の友達がいない理由もそういうことなんでしょうね。ユミ姉さんだけは別として。」"
 
 # game/chapter1.rpy:3187
 translate japanese chapter1_2_92ca9a64:
@@ -7278,7 +7278,7 @@ translate japanese chapter1_2_e68cc7ef:
 translate japanese chapter1_2_82b94fb0:
 
     # 나 "‘피곤했나 보네…….’"
-    나 "『疲れてたみたいだな……』"
+    나 "(疲れてたみたいだな……)"
 
 # game/chapter1.rpy:3223
 translate japanese chapter1_2_64527319:
