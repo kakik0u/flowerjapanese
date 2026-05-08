@@ -18,7 +18,7 @@ translate japanese chapter2_430c915e:
 translate japanese chapter2_eb8ef205:
 
     # "그나저나, 아까는 미처 느끼지 못했던 낯간지러움이 누군가와 손을 맞잡고 나란히 길을 걷고 있다고 생각하니 자꾸만 내 얼굴을 간질였다."
-    "それにしても、誰かと手を繋いで並んで歩いているという事実を認識したことで、さっきは感じなかった気恥ずかしさがしきりに俺の顔をくすぐった。"
+    "それにしても、誰かと手を繋いで並んで歩いているという事実を認識したことで、さっきまでは感じなかった気恥ずかしさがしきりに俺の顔をくすぐった。"
 
 # game/chapter2.rpy:38
 translate japanese chapter2_daaa217a:
@@ -58,7 +58,7 @@ translate japanese chapter2_7998e970:
 translate japanese chapter2_88525ad4:
 
     # "소녀 역시 충동적으로 손을 잡아달라 부탁했던 것이 꽤나 낯간지럽게 느껴졌는지, 테루테루인형만을 빤히 바라보고 있었다."
-    "少女も衝動的に手を繋いでほしいと頼んだことがかなり気恥ずかしく感じられたのか、てるてる坊主だけをじっと見つめていた。"
+    "少女も衝動的に手を繋いでほしいと頼んだことが気恥ずかしく感じられたのか、てるてる坊主だけをじっと見つめていた。"
 
 # game/chapter2.rpy:54
 translate japanese chapter2_1977c372:
@@ -76,7 +76,7 @@ translate japanese chapter2_e071d238:
 translate japanese chapter2_8782036f:
 
     # "준비라고 해봤자, 냉장고에 남아있는 것들을 데워내는 것 정도겠지만 말이다."
-    "支度と言っても、冷蔵庫に残っているものを温める程度だろうけど。"
+    "準備と言っても、冷蔵庫に残っているものを温める程度だろうけど。"
 
 # game/chapter2.rpy:64
 translate japanese chapter2_3d9a58f4:
@@ -244,7 +244,7 @@ translate japanese chapter2_59c6f8bc:
 translate japanese chapter2_28572c44:
 
     # "그렇다."
-    "そうだ。"
+    "そうとも。"
 
 # game/chapter2.rpy:140
 translate japanese chapter2_b855e621:
@@ -268,7 +268,7 @@ translate japanese chapter2_56cc5e21:
 translate japanese chapter2_d9f3d40b:
 
     # 나 "“미안. 냉장고에 남아있는 게 이런 것밖에 없네.”"
-    나 "「悪い。冷蔵庫に残ってるのがこれしかなかった」"
+    나 "「悪い。冷凍庫に残ってるのがこれしかなかった」"
 
 # game/chapter2.rpy:155
 translate japanese chapter2_40b74f9e:
@@ -302,7 +302,7 @@ translate japanese chapter2_5da59e9a:
 translate japanese chapter2_5323926b:
 
     # "재깍재깍, 젓가락질하는 소리만이 공부방 겸 침실을 메운다."
-    "カチカチと、箸を使う音だけが勉強部屋兼寝室を満たす。"
+    "{cmt=japanese_2D}カチカチ{/cmt}と、箸を使う音だけが勉強部屋兼寝室を満たす。"
 
 # game/chapter2.rpy:176
 translate japanese chapter2_7bd68d39:
@@ -332,7 +332,7 @@ translate japanese chapter2_0e499845:
 translate japanese chapter2_6727588b:
 
     # 나 "“그러고 보니, 평소에 식사는 어떻게 해결했어?”"
-    나 "「そういえば、普段食事はどうしてたんだ？」"
+    나 "「そういえば、今まで食事はどうしてたんだ？」"
 
 # game/chapter2.rpy:190
 translate japanese chapter2_cbea8e04:
@@ -348,7 +348,7 @@ translate japanese chapter2_f13a2245:
     # voice ""
     # "자세한 이야기를 하고 싶지는 않다는 듯, 소녀는 젓가락을 입에 가져댔다."
     voice ""
-    "詳しい話はしたくないというように、少女は箸を口に運んだ。"
+    "詳しくは話したくないというように、少女は箸を口に運んだ。"
 
 # game/chapter2.rpy:198
 translate japanese chapter2_dcc8c606:
@@ -398,7 +398,7 @@ translate japanese chapter2_f048b5e4:
     # voice ""
     # 나 "“아, 아냐. 손님이잖아. 피곤하기도 했을 거고. 침대에서 쉬고 있는 게…….”"
     voice ""
-    나 "「あ、いや。客なんだし。疲れてるだろうから。ベッドで休んでて……」"
+    나 "「え、いや。客なんだし。疲れてるだろうから。ベッドで休んでて……」"
 
 # game/chapter2.rpy:215
 translate japanese chapter2_97d84e53:
@@ -468,7 +468,7 @@ translate japanese chapter2_61e4096b:
     # voice "voices/gb14.ogg"
     # 소녀 "“할 일 하세요. 앞으로 이런 일은 제가 할 테니까.”"
     voice "voices/gb14.ogg"
-    소녀 "「あなたはやるべきことをやってください。これからこういうことは私がやりますから」"
+    소녀 "「あなたはやるべきことをやってください。今日からこういうことは私がやりますから」"
 
 # game/chapter2.rpy:241
 translate japanese chapter2_e6ebcc0a:
@@ -574,7 +574,7 @@ translate japanese chapter2_607976ec:
 translate japanese chapter2_2f0aadbe:
 
     # "내가 알지 못한 사이 백석시의 외곽지역에서는 제법 빈번하게 이런 사고가 일어나는 모양이었다. "
-    "俺が知らない間に、白石市の郊外地域ではかなり頻繁に死亡者が出ているようだった。"
+    "知らなかったが、白石市の郊外地域ではかなり頻繁に死亡者が出ているようだった。"
 
 # game/chapter2.rpy:286
 translate japanese chapter2_4dc19a58:
@@ -666,7 +666,7 @@ translate japanese chapter2_5ac19bff:
 translate japanese chapter2_2cb09193:
 
     # "그렇다고는 해도, 처음부터 이렇게 무거운 생각에 얽매이기는 싫은데 말이다."
-    "だとしても、最初からこんな重い考えに囚われるのは嫌だけど。"
+    "だとしても、最初からこんな重い仮説に囚われるのは嫌だけど。"
 
 # game/chapter2.rpy:327
 translate japanese chapter2_396673fa:
@@ -724,13 +724,13 @@ translate japanese chapter2_30106811:
 translate japanese chapter2_6892853b:
 
     # "소녀가 이 사건과 전혀 관계가 없어서 기억하지 못하는 건지, 이 자료만으로는 잃어버린 기억을 떠올리게 하는 것이 역부족인 건지는 확실하지 않았으니까. "
-    "少女がこの事件と全く関係がなくて覚えていないのか、この資料だけでは失われた記憶を思い出させるのに力不足なのかは定かではなかった。"
+    "少女がこの事件と全く関係がなくて覚えていないのか、資料だけでは失われた記憶を思い出すに足りないのかは定かではなかった。"
 
 # game/chapter2.rpy:354
 translate japanese chapter2_500b693f:
 
     # "어떻게 이를 받아들이면 좋은 걸까. "
-    "どう受け止めればいいんだろうか。"
+    "どう解釈すればいいんだろうか。"
 
 # game/chapter2.rpy:355
 translate japanese chapter2_26994049:
@@ -764,7 +764,7 @@ translate japanese chapter2_62cd8698:
 translate japanese chapter2_4afd024a:
 
     # "가져온 자료에 저장되어 있던 데이터 중에는 가상현실과 커넥팅할 수 있는 것들이 있었다. "
-    "持ってきた資料に保存されていたデータの中には、仮想現実と接続できるものがあった。"
+    "持ってきた資料に保存されていたデータの中には、VRと接続できるものがあった。"
 
 # game/chapter2.rpy:370
 translate japanese chapter2_e5ee1b08:
@@ -1016,19 +1016,19 @@ translate japanese chapter2_d03e3e61:
 translate japanese chapter2_ede15ff1:
 
     # "나는 백석시 외곽지역의 지도를 확인하며, 우리가 가봐야 할 장소들을 정리해보았다. "
-    "俺は白石市の郊外地域の地図を確認しながら、俺たちが行くべき場所を整理してみた。"
+    "俺は白石市郊外地域の地図を確認しながら、俺たちが行くべき場所を整理してみた。"
 
 # game/chapter2.rpy:480
 translate japanese chapter2_c2e5e9a5:
 
     # "그나저나, 아직까지 복구가 덜 된 백석시의 외곽지역은 치안이나 건물 상태 같은 것들이 영 좋지 않다고 알려져 있긴 한데. "
-    "それにしても、未だ開発が進んでいない白石市の郊外地域は、治安や建物の状態があまり良くないと言われているが。"
+    "そういえば、未だ開発が進んでいない白石市の郊外地域は、治安や建物の状態があまり良くないと言われている。"
 
 # game/chapter2.rpy:481
 translate japanese chapter2_eea5f999:
 
     # "그래서 대부분의 안타까운 사고들이 그 지역에서 일어난 것이기도 하고 말이다. "
-    "だからこそ、痛ましい事故のほとんどがその地域で起きているわけだし。"
+    "だからこそ、痛ましい事件のほとんどがその地域で起きているわけだし。"
 
 # game/chapter2.rpy:485
 translate japanese chapter2_9fdd0bba:
@@ -1058,7 +1058,7 @@ translate japanese chapter2_6e9c2608:
 translate japanese chapter2_c8b6ce58:
 
     # "살인 사건이든, 교통사고든, 아니, 이 중에서 끔찍하지 않은 죽음이 어디 있겠느냐마는. "
-    "殺人事件であれ、交通事故であれ、いや、この中に酷くない死なんてないが。"
+    "いや、殺人事件であれ、交通事故であれ、酷くない死なんてないが。"
 
 # game/chapter2.rpy:493
 translate japanese chapter2_ac02d759:
@@ -1100,7 +1100,7 @@ translate japanese chapter2_e97184a9:
 translate japanese chapter2_f0067942:
 
     # 나 "“왜 그렇게 놀랐던 거야?”"
-    나 "「なんであんなに驚いたんだ？」"
+    나 "「なんであんなに怖がってたんだ？」"
 
 # game/chapter2.rpy:511
 translate japanese chapter2_0859650f:

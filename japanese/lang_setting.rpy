@@ -7,6 +7,7 @@ init python:
     TooltipComment("japanese_2A", "初心者が経験や知識がないにもかかわらず、偶然の幸運で良い結果を出す現象")
     TooltipComment("japanese_2B","韓国語発音はアジッカジヌン")
     TooltipComment("japanese_2C","いわゆる\"含み\"")
+    TooltipComment("japanese_2D","Tips:韓国の箸は一般的に金属製")
     TooltipComment("japanese_3A","切断されてもそれぞれが再生・生存する性質を持つ生物。")
     TooltipComment("japanese_3B","韓国版のカロリーメイトみたいな商品。")
     TooltipComment("japanese_3C","栗という意味。")
