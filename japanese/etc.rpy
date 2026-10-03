@@ -1,1 +1,4 @@
-translate japanese strings:    old "이 대사의 장면으로 돌아갈까요?"    new "このシーンに戻りますか？"
+translate japanese strings:
+
+    old "이 대사의 장면으로 돌아갈까요?"
+    new "このシーンに戻りますか？"
