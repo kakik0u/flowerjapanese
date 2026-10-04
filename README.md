@@ -52,6 +52,10 @@ V4.2:名前のサイズ調整
 
 V4.3:Chapter1の校閲、翻訳の変更、表記揺れの統一
 
+v4.4:微調整
+
+v4.4-fix:改行コードの統一(Ren'Py 8.4.0以前に対応)
+
 ## クレジット
 <img alt="Logo" src="https://github.com/kakik0u/flowerjapanese/blob/main/japanese/lang_developer/japanese.png?raw=true" width="50%">
 
